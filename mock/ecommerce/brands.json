@@ -1,0 +1,92 @@
+{
+  "brands": [
+    {
+      "id": "brand-nova",
+      "name": "Nova",
+      "slug": "nova",
+      "tagline": "Phones and wearables that stay out of the way.",
+      "logo": "https://picsum.photos/seed/brand-nova-logo/200/200",
+      "banner": "https://picsum.photos/seed/brand-nova-banner/1200/400",
+      "country": "US",
+      "featured": true,
+      "productCount": 4
+    },
+    {
+      "id": "brand-apex",
+      "name": "Apex",
+      "slug": "apex",
+      "tagline": "Laptops and merino basics for long days.",
+      "logo": "https://picsum.photos/seed/brand-apex-logo/200/200",
+      "banner": "https://picsum.photos/seed/brand-apex-banner/1200/400",
+      "country": "TW",
+      "featured": true,
+      "productCount": 4
+    },
+    {
+      "id": "brand-lumen",
+      "name": "Lumen Audio",
+      "slug": "lumen-audio",
+      "tagline": "Quiet rooms, loud details.",
+      "logo": "https://picsum.photos/seed/brand-lumen-logo/200/200",
+      "banner": "https://picsum.photos/seed/brand-lumen-banner/1200/400",
+      "country": "DK",
+      "featured": true,
+      "productCount": 2
+    },
+    {
+      "id": "brand-aura",
+      "name": "Aura Beauty",
+      "slug": "aura-beauty",
+      "tagline": "Skin-first formulas, no filler list.",
+      "logo": "https://picsum.photos/seed/brand-aura-logo/200/200",
+      "banner": "https://picsum.photos/seed/brand-aura-banner/1200/400",
+      "country": "KR",
+      "featured": true,
+      "productCount": 4
+    },
+    {
+      "id": "brand-stride",
+      "name": "Stride Co",
+      "slug": "stride-co",
+      "tagline": "City miles and early runs.",
+      "logo": "https://picsum.photos/seed/brand-stride-logo/200/200",
+      "banner": "https://picsum.photos/seed/brand-stride-banner/1200/400",
+      "country": "US",
+      "featured": false,
+      "productCount": 2
+    },
+    {
+      "id": "brand-flora",
+      "name": "Flora Home",
+      "slug": "flora-home",
+      "tagline": "Warm wood and weekend cooking.",
+      "logo": "https://picsum.photos/seed/brand-flora-logo/200/200",
+      "banner": "https://picsum.photos/seed/brand-flora-banner/1200/400",
+      "country": "IT",
+      "featured": true,
+      "productCount": 4
+    },
+    {
+      "id": "brand-peak",
+      "name": "Peak Outdoor",
+      "slug": "peak-outdoor",
+      "tagline": "Pack light, stay out longer.",
+      "logo": "https://picsum.photos/seed/brand-peak-logo/200/200",
+      "banner": "https://picsum.photos/seed/brand-peak-banner/1200/400",
+      "country": "CA",
+      "featured": false,
+      "productCount": 2
+    },
+    {
+      "id": "brand-orbit",
+      "name": "Orbit Press",
+      "slug": "orbit-press",
+      "tagline": "Short books you actually finish.",
+      "logo": "https://picsum.photos/seed/brand-orbit-logo/200/200",
+      "banner": "https://picsum.photos/seed/brand-orbit-banner/1200/400",
+      "country": "GB",
+      "featured": false,
+      "productCount": 2
+    }
+  ]
+}

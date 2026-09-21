@@ -1,0 +1,79 @@
+{
+  "banners": [
+    {
+      "id": "ban-001",
+      "placement": "hero",
+      "title": "Fall drop is live",
+      "subtitle": "Stride Runner 7, Aura silk, and 10% off with FALL10.",
+      "ctaLabel": "Shop new arrivals",
+      "ctaHref": "/collections/new",
+      "image": "https://picsum.photos/seed/banner-hero-fall/1600/700",
+      "mobileImage": "https://picsum.photos/seed/banner-hero-fall-m/800/1000",
+      "theme": "dark",
+      "sortOrder": 1,
+      "active": true,
+      "startsAt": "2026-09-01T00:00:00.000Z",
+      "endsAt": "2026-09-30T23:59:59.000Z"
+    },
+    {
+      "id": "ban-002",
+      "placement": "hero",
+      "title": "ApexBook 16 Pro",
+      "subtitle": "Mini-LED, 32GB, and $100 off with LAPTOP100 through Sep 25.",
+      "ctaLabel": "See specs",
+      "ctaHref": "/products/apexbook-16-pro",
+      "image": "https://picsum.photos/seed/banner-hero-laptop/1600/700",
+      "mobileImage": "https://picsum.photos/seed/banner-hero-laptop-m/800/1000",
+      "theme": "dark",
+      "sortOrder": 2,
+      "active": true,
+      "startsAt": "2026-09-15T00:00:00.000Z",
+      "endsAt": "2026-09-25T23:59:59.000Z"
+    },
+    {
+      "id": "ban-003",
+      "placement": "mid-home",
+      "title": "Home that does not shout",
+      "subtitle": "Flora oak and linen, freight quoted at checkout.",
+      "ctaLabel": "Shop Home & Living",
+      "ctaHref": "/categories/home-living",
+      "image": "https://picsum.photos/seed/banner-home/1200/500",
+      "mobileImage": "https://picsum.photos/seed/banner-home-m/800/600",
+      "theme": "light",
+      "sortOrder": 1,
+      "active": true,
+      "startsAt": "2026-08-01T00:00:00.000Z",
+      "endsAt": "2026-12-31T23:59:59.000Z"
+    },
+    {
+      "id": "ban-004",
+      "placement": "strip",
+      "title": "Free standard shipping over $35",
+      "subtitle": "Excludes furniture freight.",
+      "ctaLabel": "Details",
+      "ctaHref": "/shipping",
+      "image": null,
+      "mobileImage": null,
+      "theme": "brand",
+      "sortOrder": 1,
+      "active": true,
+      "startsAt": "2026-01-01T00:00:00.000Z",
+      "endsAt": "2026-12-31T23:59:59.000Z"
+    },
+    {
+      "id": "ban-005",
+      "placement": "category-electronics",
+      "title": "Wearables week",
+      "subtitle": "Pulse Watch and Band Fit, both with extra charger in the box.",
+      "ctaLabel": "Shop wearables",
+      "ctaHref": "/categories/wearables",
+      "image": "https://picsum.photos/seed/banner-wearables/1200/400",
+      "mobileImage": "https://picsum.photos/seed/banner-wearables-m/800/500",
+      "theme": "dark",
+      "sortOrder": 1,
+      "active": true,
+      "startsAt": "2026-09-18T00:00:00.000Z",
+      "endsAt": "2026-09-27T23:59:59.000Z"
+    }
+  ]
+}

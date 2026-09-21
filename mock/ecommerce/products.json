@@ -1,0 +1,968 @@
+{
+  "products": [
+    {
+      "id": "prod-001",
+      "sku": "MM-PHN-001",
+      "name": "Nova X Pro 5G",
+      "slug": "nova-x-pro-5g",
+      "shortDescription": "Flagship 5G phone with a 6.7\" OLED and all-day battery.",
+      "description": "Nova X Pro 5G is built for people who shoot in low light and stay on video calls all afternoon. The 6.7-inch OLED stays readable outdoors, the 50MP main camera stacks frames for night shots, and the 5000mAh battery typically lasts into the next morning.",
+      "categoryId": "cat-smartphones",
+      "brandId": "brand-nova",
+      "sellerId": "seller-001",
+      "price": 799.0,
+      "compareAtPrice": 899.0,
+      "currency": "USD",
+      "discountPercent": 11,
+      "inStock": true,
+      "stock": 42,
+      "rating": 4.6,
+      "reviewCount": 128,
+      "thumbnail": "https://picsum.photos/seed/prod-001/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-001-a/1200/1200",
+        "https://picsum.photos/seed/prod-001-b/1200/1200",
+        "https://picsum.photos/seed/prod-001-c/1200/1200"
+      ],
+      "tags": ["5g", "flagship", "oled", "bestseller"],
+      "featured": true,
+      "newArrival": true,
+      "bestSeller": true,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-001-graphite", "name": "Graphite 256GB", "color": "Graphite", "storage": "256GB", "price": 799.0, "stock": 18, "sku": "MM-PHN-001-G256" },
+        { "id": "var-001-mist", "name": "Mist Blue 256GB", "color": "Mist Blue", "storage": "256GB", "price": 799.0, "stock": 14, "sku": "MM-PHN-001-B256" },
+        { "id": "var-001-graphite-512", "name": "Graphite 512GB", "color": "Graphite", "storage": "512GB", "price": 899.0, "stock": 10, "sku": "MM-PHN-001-G512" }
+      ],
+      "specs": {
+        "display": "6.7\" OLED 120Hz",
+        "processor": "Nova N3",
+        "ram": "12GB",
+        "battery": "5000mAh",
+        "weight": "189g"
+      },
+      "createdAt": "2026-08-12T10:00:00.000Z"
+    },
+    {
+      "id": "prod-002",
+      "sku": "MM-PHN-002",
+      "name": "Nova Lite 5G",
+      "slug": "nova-lite-5g",
+      "shortDescription": "Light 5G phone with a clean camera and a 90Hz screen.",
+      "description": "Nova Lite 5G keeps the X Pro camera look on a smaller budget. It weighs 171g, charges to 50% in about 20 minutes, and ships with a case in the box.",
+      "categoryId": "cat-smartphones",
+      "brandId": "brand-nova",
+      "sellerId": "seller-002",
+      "price": 399.0,
+      "compareAtPrice": 449.0,
+      "currency": "USD",
+      "discountPercent": 11,
+      "inStock": true,
+      "stock": 76,
+      "rating": 4.3,
+      "reviewCount": 86,
+      "thumbnail": "https://picsum.photos/seed/prod-002/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-002-a/1200/1200",
+        "https://picsum.photos/seed/prod-002-b/1200/1200"
+      ],
+      "tags": ["5g", "budget", "lightweight"],
+      "featured": false,
+      "newArrival": false,
+      "bestSeller": true,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-002-black-128", "name": "Black 128GB", "color": "Black", "storage": "128GB", "price": 399.0, "stock": 40, "sku": "MM-PHN-002-K128" },
+        { "id": "var-002-sage-128", "name": "Sage 128GB", "color": "Sage", "storage": "128GB", "price": 399.0, "stock": 36, "sku": "MM-PHN-002-S128" }
+      ],
+      "specs": {
+        "display": "6.4\" LCD 90Hz",
+        "processor": "Nova N2",
+        "ram": "8GB",
+        "battery": "4500mAh",
+        "weight": "171g"
+      },
+      "createdAt": "2026-06-02T10:00:00.000Z"
+    },
+    {
+      "id": "prod-003",
+      "sku": "MM-LAP-001",
+      "name": "ApexBook 14 Air",
+      "slug": "apexbook-14-air",
+      "shortDescription": "1.2kg laptop with 18-hour video playback and a quiet keyboard.",
+      "description": "ApexBook 14 Air is the everyday notebook for people who work from cafes and red-eyes. The 14-inch 2.2K panel is matte, the fans stay off during docs and calls, and the 65Wh pack is rated for 18 hours of local video.",
+      "categoryId": "cat-laptops",
+      "brandId": "brand-apex",
+      "sellerId": "seller-001",
+      "price": 1299.0,
+      "compareAtPrice": 1399.0,
+      "currency": "USD",
+      "discountPercent": 7,
+      "inStock": true,
+      "stock": 19,
+      "rating": 4.7,
+      "reviewCount": 64,
+      "thumbnail": "https://picsum.photos/seed/prod-003/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-003-a/1200/1200",
+        "https://picsum.photos/seed/prod-003-b/1200/1200",
+        "https://picsum.photos/seed/prod-003-c/1200/1200"
+      ],
+      "tags": ["laptop", "ultrabook", "student"],
+      "featured": true,
+      "newArrival": false,
+      "bestSeller": true,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-003-silver-16-512", "name": "Silver 16/512", "color": "Silver", "ram": "16GB", "storage": "512GB", "price": 1299.0, "stock": 11, "sku": "MM-LAP-001-S16512" },
+        { "id": "var-003-silver-32-1tb", "name": "Silver 32/1TB", "color": "Silver", "ram": "32GB", "storage": "1TB", "price": 1599.0, "stock": 8, "sku": "MM-LAP-001-S321TB" }
+      ],
+      "specs": {
+        "display": "14\" 2.2K IPS",
+        "processor": "Apex A14",
+        "ram": "16GB",
+        "battery": "65Wh",
+        "weight": "1.2kg"
+      },
+      "createdAt": "2026-05-18T10:00:00.000Z"
+    },
+    {
+      "id": "prod-004",
+      "sku": "MM-LAP-002",
+      "name": "ApexBook 16 Pro",
+      "slug": "apexbook-16-pro",
+      "shortDescription": "16-inch creator laptop with a mini-LED panel and 140W charging.",
+      "description": "ApexBook 16 Pro is for timelines, not tabs. Mini-LED hits 1000 nits, the vapor chamber stays quiet under export, and the HDMI 2.1 port drives a 4K reference display without a dongle pile.",
+      "categoryId": "cat-laptops",
+      "brandId": "brand-apex",
+      "sellerId": "seller-001",
+      "price": 1899.0,
+      "compareAtPrice": 2099.0,
+      "currency": "USD",
+      "discountPercent": 10,
+      "inStock": true,
+      "stock": 8,
+      "rating": 4.8,
+      "reviewCount": 41,
+      "thumbnail": "https://picsum.photos/seed/prod-004/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-004-a/1200/1200",
+        "https://picsum.photos/seed/prod-004-b/1200/1200"
+      ],
+      "tags": ["laptop", "creator", "mini-led"],
+      "featured": true,
+      "newArrival": true,
+      "bestSeller": false,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-004-space-32-1tb", "name": "Space Gray 32/1TB", "color": "Space Gray", "ram": "32GB", "storage": "1TB", "price": 1899.0, "stock": 5, "sku": "MM-LAP-002-G321TB" },
+        { "id": "var-004-space-64-2tb", "name": "Space Gray 64/2TB", "color": "Space Gray", "ram": "64GB", "storage": "2TB", "price": 2399.0, "stock": 3, "sku": "MM-LAP-002-G642TB" }
+      ],
+      "specs": {
+        "display": "16\" mini-LED 120Hz",
+        "processor": "Apex A16",
+        "ram": "32GB",
+        "battery": "90Wh",
+        "weight": "1.9kg"
+      },
+      "createdAt": "2026-09-01T10:00:00.000Z"
+    },
+    {
+      "id": "prod-005",
+      "sku": "MM-AUD-001",
+      "name": "Lumen Pods ANC",
+      "slug": "lumen-pods-anc",
+      "shortDescription": "In-ear buds with adaptive ANC and 8 hours per charge.",
+      "description": "Lumen Pods ANC sit flush, seal well on commutes, and keep a voice mic that does not collapse in wind. The case is USB-C and wireless, and a 10-minute top-up covers a short flight.",
+      "categoryId": "cat-audio",
+      "brandId": "brand-lumen",
+      "sellerId": "seller-002",
+      "price": 179.0,
+      "compareAtPrice": 199.0,
+      "currency": "USD",
+      "discountPercent": 10,
+      "inStock": true,
+      "stock": 120,
+      "rating": 4.5,
+      "reviewCount": 210,
+      "thumbnail": "https://picsum.photos/seed/prod-005/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-005-a/1200/1200",
+        "https://picsum.photos/seed/prod-005-b/1200/1200"
+      ],
+      "tags": ["earbuds", "anc", "wireless"],
+      "featured": true,
+      "newArrival": false,
+      "bestSeller": true,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-005-white", "name": "Chalk White", "color": "Chalk White", "price": 179.0, "stock": 62, "sku": "MM-AUD-001-W" },
+        { "id": "var-005-black", "name": "Ink Black", "color": "Ink Black", "price": 179.0, "stock": 58, "sku": "MM-AUD-001-K" }
+      ],
+      "specs": {
+        "type": "In-ear",
+        "anc": true,
+        "batteryHours": 8,
+        "caseHours": 24,
+        "connectivity": "Bluetooth 5.3"
+      },
+      "createdAt": "2026-04-09T10:00:00.000Z"
+    },
+    {
+      "id": "prod-006",
+      "sku": "MM-AUD-002",
+      "name": "Lumen Studio Headphones",
+      "slug": "lumen-studio-headphones",
+      "shortDescription": "Over-ear cans with a folding hinge and a 40-hour mix.",
+      "description": "Lumen Studio Headphones are for long edits. The pads are protein leather, the hinge folds into a sling bag, and wired mode stays on when the battery hits zero.",
+      "categoryId": "cat-audio",
+      "brandId": "brand-lumen",
+      "sellerId": "seller-001",
+      "price": 249.0,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "discountPercent": 0,
+      "inStock": true,
+      "stock": 34,
+      "rating": 4.6,
+      "reviewCount": 73,
+      "thumbnail": "https://picsum.photos/seed/prod-006/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-006-a/1200/1200",
+        "https://picsum.photos/seed/prod-006-b/1200/1200"
+      ],
+      "tags": ["headphones", "over-ear", "studio"],
+      "featured": false,
+      "newArrival": true,
+      "bestSeller": false,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-006-walnut", "name": "Walnut", "color": "Walnut", "price": 249.0, "stock": 16, "sku": "MM-AUD-002-W" },
+        { "id": "var-006-slate", "name": "Slate", "color": "Slate", "price": 249.0, "stock": 18, "sku": "MM-AUD-002-S" }
+      ],
+      "specs": {
+        "type": "Over-ear",
+        "anc": true,
+        "batteryHours": 40,
+        "driver": "40mm",
+        "connectivity": "Bluetooth 5.3 / 3.5mm"
+      },
+      "createdAt": "2026-08-28T10:00:00.000Z"
+    },
+    {
+      "id": "prod-007",
+      "sku": "MM-WEA-001",
+      "name": "Nova Pulse Watch",
+      "slug": "nova-pulse-watch",
+      "shortDescription": "GPS watch with ECG, sleep staging, and a 7-day mixed-use battery.",
+      "description": "Nova Pulse Watch tracks runs without a phone, flags irregular rhythm when you opt in, and last about a week with always-on off. The 45mm case takes standard 22mm straps.",
+      "categoryId": "cat-wearables",
+      "brandId": "brand-nova",
+      "sellerId": "seller-001",
+      "price": 329.0,
+      "compareAtPrice": 379.0,
+      "currency": "USD",
+      "discountPercent": 13,
+      "inStock": true,
+      "stock": 27,
+      "rating": 4.4,
+      "reviewCount": 95,
+      "thumbnail": "https://picsum.photos/seed/prod-007/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-007-a/1200/1200",
+        "https://picsum.photos/seed/prod-007-b/1200/1200"
+      ],
+      "tags": ["smartwatch", "gps", "health"],
+      "featured": true,
+      "newArrival": false,
+      "bestSeller": false,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-007-black-45", "name": "Black 45mm", "color": "Black", "size": "45mm", "price": 329.0, "stock": 15, "sku": "MM-WEA-001-K45" },
+        { "id": "var-007-silver-41", "name": "Silver 41mm", "color": "Silver", "size": "41mm", "price": 329.0, "stock": 12, "sku": "MM-WEA-001-S41" }
+      ],
+      "specs": {
+        "case": "Aluminum",
+        "gps": true,
+        "waterResistance": "5ATM",
+        "batteryDays": 7,
+        "strap": "22mm"
+      },
+      "createdAt": "2026-03-22T10:00:00.000Z"
+    },
+    {
+      "id": "prod-008",
+      "sku": "MM-WEA-002",
+      "name": "Nova Band Fit",
+      "slug": "nova-band-fit",
+      "shortDescription": "Slim fitness band with 14-day battery and swim tracking.",
+      "description": "Nova Band Fit is the watch you forget you are wearing. It logs sleep and swims, buzzes for inactivity, and charges from empty in about 40 minutes.",
+      "categoryId": "cat-wearables",
+      "brandId": "brand-nova",
+      "sellerId": "seller-002",
+      "price": 89.0,
+      "compareAtPrice": 99.0,
+      "currency": "USD",
+      "discountPercent": 10,
+      "inStock": true,
+      "stock": 210,
+      "rating": 4.2,
+      "reviewCount": 154,
+      "thumbnail": "https://picsum.photos/seed/prod-008/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-008-a/1200/1200"
+      ],
+      "tags": ["fitness", "band", "swim"],
+      "featured": false,
+      "newArrival": false,
+      "bestSeller": true,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-008-midnight", "name": "Midnight", "color": "Midnight", "price": 89.0, "stock": 110, "sku": "MM-WEA-002-M" },
+        { "id": "var-008-coral", "name": "Coral", "color": "Coral", "price": 89.0, "stock": 100, "sku": "MM-WEA-002-C" }
+      ],
+      "specs": {
+        "display": "1.1\" AMOLED",
+        "waterResistance": "5ATM",
+        "batteryDays": 14,
+        "weight": "18g"
+      },
+      "createdAt": "2026-02-11T10:00:00.000Z"
+    },
+    {
+      "id": "prod-009",
+      "sku": "MM-MEN-001",
+      "name": "Apex Merino Crew",
+      "slug": "apex-merino-crew",
+      "shortDescription": "Lightweight merino crew that layers under jackets and stays odor-free.",
+      "description": "The Apex Merino Crew is 17.5 micron wool with a clean neckline. Wear it three travel days before it needs a wash, and it still looks like a t-shirt, not base layer gear.",
+      "categoryId": "cat-men",
+      "brandId": "brand-apex",
+      "sellerId": "seller-003",
+      "price": 68.0,
+      "compareAtPrice": 78.0,
+      "currency": "USD",
+      "discountPercent": 13,
+      "inStock": true,
+      "stock": 64,
+      "rating": 4.5,
+      "reviewCount": 47,
+      "thumbnail": "https://picsum.photos/seed/prod-009/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-009-a/1200/1200",
+        "https://picsum.photos/seed/prod-009-b/1200/1200"
+      ],
+      "tags": ["merino", "crew", "travel"],
+      "featured": false,
+      "newArrival": false,
+      "bestSeller": false,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-009-navy-m", "name": "Navy / M", "color": "Navy", "size": "M", "price": 68.0, "stock": 18, "sku": "MM-MEN-001-N-M" },
+        { "id": "var-009-navy-l", "name": "Navy / L", "color": "Navy", "size": "L", "price": 68.0, "stock": 22, "sku": "MM-MEN-001-N-L" },
+        { "id": "var-009-heather-m", "name": "Heather / M", "color": "Heather", "size": "M", "price": 68.0, "stock": 24, "sku": "MM-MEN-001-H-M" }
+      ],
+      "specs": {
+        "material": "100% merino wool",
+        "weight": "160gsm",
+        "fit": "Regular",
+        "care": "Machine wash cold"
+      },
+      "createdAt": "2026-01-20T10:00:00.000Z"
+    },
+    {
+      "id": "prod-010",
+      "sku": "MM-MEN-002",
+      "name": "Apex Stretch Chinos",
+      "slug": "apex-stretch-chinos",
+      "shortDescription": "Office-to-weekend chinos with 2% elastane and a tapered leg.",
+      "description": "Apex Stretch Chinos hold a crease through a commute and still bend at the knee on a bike. Pockets are deep enough for a phone without printing.",
+      "categoryId": "cat-men",
+      "brandId": "brand-apex",
+      "sellerId": "seller-003",
+      "price": 79.0,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "discountPercent": 0,
+      "inStock": true,
+      "stock": 51,
+      "rating": 4.3,
+      "reviewCount": 33,
+      "thumbnail": "https://picsum.photos/seed/prod-010/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-010-a/1200/1200"
+      ],
+      "tags": ["chinos", "stretch", "workwear"],
+      "featured": false,
+      "newArrival": true,
+      "bestSeller": false,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-010-khaki-32", "name": "Khaki / 32", "color": "Khaki", "size": "32", "price": 79.0, "stock": 20, "sku": "MM-MEN-002-K-32" },
+        { "id": "var-010-olive-32", "name": "Olive / 32", "color": "Olive", "size": "32", "price": 79.0, "stock": 16, "sku": "MM-MEN-002-O-32" },
+        { "id": "var-010-khaki-34", "name": "Khaki / 34", "color": "Khaki", "size": "34", "price": 79.0, "stock": 15, "sku": "MM-MEN-002-K-34" }
+      ],
+      "specs": {
+        "material": "98% cotton / 2% elastane",
+        "fit": "Tapered",
+        "rise": "Mid",
+        "care": "Machine wash cold"
+      },
+      "createdAt": "2026-08-04T10:00:00.000Z"
+    },
+    {
+      "id": "prod-011",
+      "sku": "MM-WMN-001",
+      "name": "Aura Silk Blouse",
+      "slug": "aura-silk-blouse",
+      "shortDescription": "Washable silk blouse with a hidden button placket.",
+      "description": "The Aura Silk Blouse is 19 momme silk that can go in a mesh bag on cold. The placket stays invisible under a blazer, and the cut is slightly cropped so it tucks without bulk.",
+      "categoryId": "cat-women",
+      "brandId": "brand-aura",
+      "sellerId": "seller-003",
+      "price": 92.0,
+      "compareAtPrice": 110.0,
+      "currency": "USD",
+      "discountPercent": 16,
+      "inStock": true,
+      "stock": 28,
+      "rating": 4.7,
+      "reviewCount": 29,
+      "thumbnail": "https://picsum.photos/seed/prod-011/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-011-a/1200/1200",
+        "https://picsum.photos/seed/prod-011-b/1200/1200"
+      ],
+      "tags": ["silk", "blouse", "work"],
+      "featured": true,
+      "newArrival": true,
+      "bestSeller": false,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-011-ivory-s", "name": "Ivory / S", "color": "Ivory", "size": "S", "price": 92.0, "stock": 9, "sku": "MM-WMN-001-I-S" },
+        { "id": "var-011-ivory-m", "name": "Ivory / M", "color": "Ivory", "size": "M", "price": 92.0, "stock": 11, "sku": "MM-WMN-001-I-M" },
+        { "id": "var-011-ink-m", "name": "Ink / M", "color": "Ink", "size": "M", "price": 92.0, "stock": 8, "sku": "MM-WMN-001-K-M" }
+      ],
+      "specs": {
+        "material": "100% silk",
+        "momme": 19,
+        "fit": "Slight crop",
+        "care": "Cold wash, hang dry"
+      },
+      "createdAt": "2026-09-05T10:00:00.000Z"
+    },
+    {
+      "id": "prod-012",
+      "sku": "MM-WMN-002",
+      "name": "Aura Wrap Dress",
+      "slug": "aura-wrap-dress",
+      "shortDescription": "Midi wrap dress in washed viscose with side pockets.",
+      "description": "Aura Wrap Dress ties at the waist, hits mid-calf on 5'6\", and has real pockets. The viscose is washed so it does not cling after an hour in humidity.",
+      "categoryId": "cat-women",
+      "brandId": "brand-aura",
+      "sellerId": "seller-003",
+      "price": 128.0,
+      "compareAtPrice": 148.0,
+      "currency": "USD",
+      "discountPercent": 14,
+      "inStock": true,
+      "stock": 22,
+      "rating": 4.6,
+      "reviewCount": 38,
+      "thumbnail": "https://picsum.photos/seed/prod-012/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-012-a/1200/1200",
+        "https://picsum.photos/seed/prod-012-b/1200/1200"
+      ],
+      "tags": ["dress", "wrap", "midi"],
+      "featured": true,
+      "newArrival": false,
+      "bestSeller": true,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-012-terracotta-s", "name": "Terracotta / S", "color": "Terracotta", "size": "S", "price": 128.0, "stock": 7, "sku": "MM-WMN-002-T-S" },
+        { "id": "var-012-terracotta-m", "name": "Terracotta / M", "color": "Terracotta", "size": "M", "price": 128.0, "stock": 8, "sku": "MM-WMN-002-T-M" },
+        { "id": "var-012-olive-m", "name": "Olive / M", "color": "Olive", "size": "M", "price": 128.0, "stock": 7, "sku": "MM-WMN-002-O-M" }
+      ],
+      "specs": {
+        "material": "100% viscose",
+        "length": "Midi",
+        "pockets": true,
+        "care": "Hand wash"
+      },
+      "createdAt": "2026-04-30T10:00:00.000Z"
+    },
+    {
+      "id": "prod-013",
+      "sku": "MM-FTW-001",
+      "name": "Stride Runner 7",
+      "slug": "stride-runner-7",
+      "shortDescription": "Daily trainer with 8mm drop and a wider toe box.",
+      "description": "Stride Runner 7 is the shoe for 20–40 mile weeks. The foam is PEBA-blend, the upper is engineered mesh, and the last is roomier than the Runner 6 if you size true.",
+      "categoryId": "cat-footwear",
+      "brandId": "brand-stride",
+      "sellerId": "seller-001",
+      "price": 145.0,
+      "compareAtPrice": 160.0,
+      "currency": "USD",
+      "discountPercent": 9,
+      "inStock": true,
+      "stock": 48,
+      "rating": 4.6,
+      "reviewCount": 112,
+      "thumbnail": "https://picsum.photos/seed/prod-013/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-013-a/1200/1200",
+        "https://picsum.photos/seed/prod-013-b/1200/1200"
+      ],
+      "tags": ["running", "trainer", "wide-toe"],
+      "featured": true,
+      "newArrival": true,
+      "bestSeller": true,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-013-white-9", "name": "Cloud White / 9", "color": "Cloud White", "size": "9", "price": 145.0, "stock": 16, "sku": "MM-FTW-001-W-9" },
+        { "id": "var-013-white-10", "name": "Cloud White / 10", "color": "Cloud White", "size": "10", "price": 145.0, "stock": 18, "sku": "MM-FTW-001-W-10" },
+        { "id": "var-013-volt-10", "name": "Volt / 10", "color": "Volt", "size": "10", "price": 145.0, "stock": 14, "sku": "MM-FTW-001-V-10" }
+      ],
+      "specs": {
+        "drop": "8mm",
+        "weight": "248g (men's 9)",
+        "stack": "36mm heel",
+        "use": "Daily trainer"
+      },
+      "createdAt": "2026-07-16T10:00:00.000Z"
+    },
+    {
+      "id": "prod-014",
+      "sku": "MM-FTW-002",
+      "name": "Stride City Loafer",
+      "slug": "stride-city-loafer",
+      "shortDescription": "Leather loafer with a rubber cupsole you can walk all day.",
+      "description": "Stride City Loafer looks like a desk shoe and wears like a sneaker. The leather is vegetable-tanned, the insole is removable, and the sole is quiet on office floors.",
+      "categoryId": "cat-footwear",
+      "brandId": "brand-stride",
+      "sellerId": "seller-003",
+      "price": 120.0,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "discountPercent": 0,
+      "inStock": true,
+      "stock": 31,
+      "rating": 4.4,
+      "reviewCount": 26,
+      "thumbnail": "https://picsum.photos/seed/prod-014/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-014-a/1200/1200"
+      ],
+      "tags": ["loafer", "leather", "office"],
+      "featured": false,
+      "newArrival": false,
+      "bestSeller": false,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-014-tan-9", "name": "Tan / 9", "color": "Tan", "size": "9", "price": 120.0, "stock": 12, "sku": "MM-FTW-002-T-9" },
+        { "id": "var-014-black-10", "name": "Black / 10", "color": "Black", "size": "10", "price": 120.0, "stock": 19, "sku": "MM-FTW-002-K-10" }
+      ],
+      "specs": {
+        "upper": "Vegetable-tanned leather",
+        "sole": "Rubber cupsole",
+        "origin": "Portugal"
+      },
+      "createdAt": "2026-03-03T10:00:00.000Z"
+    },
+    {
+      "id": "prod-015",
+      "sku": "MM-FUR-001",
+      "name": "Flora Oak Dining Table",
+      "slug": "flora-oak-dining-table",
+      "shortDescription": "Solid oak table for six, 72\" long, with a natural oil finish.",
+      "description": "Flora Oak Dining Table seats six without leaf drama. The top is solid white oak, the legs knock down for a stairwell, and the oil finish darkens slightly in the first month of use.",
+      "categoryId": "cat-furniture",
+      "brandId": "brand-flora",
+      "sellerId": "seller-004",
+      "price": 649.0,
+      "compareAtPrice": 729.0,
+      "currency": "USD",
+      "discountPercent": 11,
+      "inStock": true,
+      "stock": 6,
+      "rating": 4.8,
+      "reviewCount": 19,
+      "thumbnail": "https://picsum.photos/seed/prod-015/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-015-a/1200/1200",
+        "https://picsum.photos/seed/prod-015-b/1200/1200"
+      ],
+      "tags": ["dining", "oak", "furniture"],
+      "featured": true,
+      "newArrival": false,
+      "bestSeller": false,
+      "freeShipping": false,
+      "variants": [
+        { "id": "var-015-natural-72", "name": "Natural / 72\"", "finish": "Natural oak", "size": "72x36", "price": 649.0, "stock": 4, "sku": "MM-FUR-001-N72" },
+        { "id": "var-015-smoked-72", "name": "Smoked / 72\"", "finish": "Smoked oak", "size": "72x36", "price": 679.0, "stock": 2, "sku": "MM-FUR-001-S72" }
+      ],
+      "specs": {
+        "material": "Solid white oak",
+        "seats": 6,
+        "dimensions": "72 x 36 x 30 in",
+        "assembly": "Legs only"
+      },
+      "createdAt": "2026-05-01T10:00:00.000Z"
+    },
+    {
+      "id": "prod-016",
+      "sku": "MM-FUR-002",
+      "name": "Flora Cloud Sofa",
+      "slug": "flora-cloud-sofa",
+      "shortDescription": "Deep 88\" sofa with removable linen covers and a kiln-dried frame.",
+      "description": "Flora Cloud Sofa is the nap sofa. Seat depth is 24 inches, covers unzip for a cold wash, and the frame is guaranteed for 10 years against warp.",
+      "categoryId": "cat-furniture",
+      "brandId": "brand-flora",
+      "sellerId": "seller-004",
+      "price": 1199.0,
+      "compareAtPrice": 1399.0,
+      "currency": "USD",
+      "discountPercent": 14,
+      "inStock": true,
+      "stock": 4,
+      "rating": 4.7,
+      "reviewCount": 22,
+      "thumbnail": "https://picsum.photos/seed/prod-016/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-016-a/1200/1200",
+        "https://picsum.photos/seed/prod-016-b/1200/1200",
+        "https://picsum.photos/seed/prod-016-c/1200/1200"
+      ],
+      "tags": ["sofa", "linen", "living-room"],
+      "featured": true,
+      "newArrival": true,
+      "bestSeller": false,
+      "freeShipping": false,
+      "variants": [
+        { "id": "var-016-sand", "name": "Sand linen", "color": "Sand", "price": 1199.0, "stock": 2, "sku": "MM-FUR-002-S" },
+        { "id": "var-016-stone", "name": "Stone linen", "color": "Stone", "price": 1199.0, "stock": 2, "sku": "MM-FUR-002-T" }
+      ],
+      "specs": {
+        "width": "88 in",
+        "depth": "38 in",
+        "seatDepth": "24 in",
+        "cover": "Removable linen"
+      },
+      "createdAt": "2026-08-19T10:00:00.000Z"
+    },
+    {
+      "id": "prod-017",
+      "sku": "MM-KIT-001",
+      "name": "Flora Cast Iron Skillet",
+      "slug": "flora-cast-iron-skillet",
+      "shortDescription": "Pre-seasoned 12\" skillet that goes from burner to oven.",
+      "description": "Flora Cast Iron Skillet ships with a flax-oil season already on it. The handle stays cooler than bare iron, and the helper handle makes a full pan less of a wrist event.",
+      "categoryId": "cat-kitchen",
+      "brandId": "brand-flora",
+      "sellerId": "seller-001",
+      "price": 79.0,
+      "compareAtPrice": 89.0,
+      "currency": "USD",
+      "discountPercent": 11,
+      "inStock": true,
+      "stock": 90,
+      "rating": 4.8,
+      "reviewCount": 201,
+      "thumbnail": "https://picsum.photos/seed/prod-017/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-017-a/1200/1200"
+      ],
+      "tags": ["cast-iron", "skillet", "cookware"],
+      "featured": false,
+      "newArrival": false,
+      "bestSeller": true,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-017-12", "name": "12 inch", "size": "12\"", "price": 79.0, "stock": 70, "sku": "MM-KIT-001-12" },
+        { "id": "var-017-10", "name": "10 inch", "size": "10\"", "price": 64.0, "stock": 20, "sku": "MM-KIT-001-10" }
+      ],
+      "specs": {
+        "material": "Cast iron",
+        "ovenSafe": "500F",
+        "preSeasoned": true,
+        "origin": "USA"
+      },
+      "createdAt": "2025-11-12T10:00:00.000Z"
+    },
+    {
+      "id": "prod-018",
+      "sku": "MM-KIT-002",
+      "name": "Flora Ceramic Pour-Over",
+      "slug": "flora-ceramic-pour-over",
+      "shortDescription": "V60-style dripper in matte ceramic with a matching stand.",
+      "description": "Flora Ceramic Pour-Over is a 02-size dripper with spiral ribs that keep the bed from stalling. The stand lifts it off the carafe so you can watch the drawdown.",
+      "categoryId": "cat-kitchen",
+      "brandId": "brand-flora",
+      "sellerId": "seller-004",
+      "price": 42.0,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "discountPercent": 0,
+      "inStock": true,
+      "stock": 55,
+      "rating": 4.5,
+      "reviewCount": 44,
+      "thumbnail": "https://picsum.photos/seed/prod-018/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-018-a/1200/1200"
+      ],
+      "tags": ["coffee", "pour-over", "ceramic"],
+      "featured": false,
+      "newArrival": false,
+      "bestSeller": false,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-018-cream", "name": "Cream", "color": "Cream", "price": 42.0, "stock": 28, "sku": "MM-KIT-002-C" },
+        { "id": "var-018-charcoal", "name": "Charcoal", "color": "Charcoal", "price": 42.0, "stock": 27, "sku": "MM-KIT-002-K" }
+      ],
+      "specs": {
+        "size": "02",
+        "material": "Ceramic",
+        "includes": "Dripper and stand",
+        "filters": "Standard 02 paper"
+      },
+      "createdAt": "2026-01-08T10:00:00.000Z"
+    },
+    {
+      "id": "prod-019",
+      "sku": "MM-OUT-001",
+      "name": "Peak Trail Pack 28L",
+      "slug": "peak-trail-pack-28l",
+      "shortDescription": "28L daypack with a rolled top and a hidden hydration sleeve.",
+      "description": "Peak Trail Pack 28L carries a laptop on weekdays and a shell on Saturdays. The roll-top expands, the back panel is foam-vented, and the hip belt stows when you are on the train.",
+      "categoryId": "cat-sports",
+      "brandId": "brand-peak",
+      "sellerId": "seller-001",
+      "price": 118.0,
+      "compareAtPrice": 138.0,
+      "currency": "USD",
+      "discountPercent": 14,
+      "inStock": true,
+      "stock": 37,
+      "rating": 4.6,
+      "reviewCount": 58,
+      "thumbnail": "https://picsum.photos/seed/prod-019/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-019-a/1200/1200",
+        "https://picsum.photos/seed/prod-019-b/1200/1200"
+      ],
+      "tags": ["backpack", "trail", "28l"],
+      "featured": true,
+      "newArrival": false,
+      "bestSeller": false,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-019-forest", "name": "Forest", "color": "Forest", "price": 118.0, "stock": 20, "sku": "MM-OUT-001-F" },
+        { "id": "var-019-slate", "name": "Slate", "color": "Slate", "price": 118.0, "stock": 17, "sku": "MM-OUT-001-S" }
+      ],
+      "specs": {
+        "volume": "28L",
+        "weight": "890g",
+        "laptopSleeve": "16 in",
+        "waterproof": "Roll-top, 70D nylon"
+      },
+      "createdAt": "2026-04-14T10:00:00.000Z"
+    },
+    {
+      "id": "prod-020",
+      "sku": "MM-OUT-002",
+      "name": "Peak Carbon Water Bottle",
+      "slug": "peak-carbon-water-bottle",
+      "shortDescription": "24oz insulated bottle that stays cold about 24 hours.",
+      "description": "Peak Carbon Water Bottle is double-wall steel with a chug cap that does not leak in a pack side pocket. The powder coat hides dents better than gloss.",
+      "categoryId": "cat-sports",
+      "brandId": "brand-peak",
+      "sellerId": "seller-001",
+      "price": 34.0,
+      "compareAtPrice": 38.0,
+      "currency": "USD",
+      "discountPercent": 11,
+      "inStock": true,
+      "stock": 140,
+      "rating": 4.4,
+      "reviewCount": 77,
+      "thumbnail": "https://picsum.photos/seed/prod-020/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-020-a/1200/1200"
+      ],
+      "tags": ["bottle", "insulated", "24oz"],
+      "featured": false,
+      "newArrival": false,
+      "bestSeller": true,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-020-black", "name": "Matte Black 24oz", "color": "Matte Black", "size": "24oz", "price": 34.0, "stock": 80, "sku": "MM-OUT-002-K24" },
+        { "id": "var-020-sage", "name": "Sage 24oz", "color": "Sage", "size": "24oz", "price": 34.0, "stock": 60, "sku": "MM-OUT-002-S24" }
+      ],
+      "specs": {
+        "capacity": "24oz",
+        "insulation": "Double-wall steel",
+        "lid": "Chug cap",
+        "dishwasher": "Lid only"
+      },
+      "createdAt": "2026-02-02T10:00:00.000Z"
+    },
+    {
+      "id": "prod-021",
+      "sku": "MM-BEA-001",
+      "name": "Aura Glow Serum",
+      "slug": "aura-glow-serum",
+      "shortDescription": "10% vitamin C serum in a 30ml airless pump.",
+      "description": "Aura Glow Serum is 10% ethylated ascorbic acid with ferulic acid. It layers under SPF, stays stable in the airless pump, and is unscented.",
+      "categoryId": "cat-beauty",
+      "brandId": "brand-aura",
+      "sellerId": "seller-001",
+      "price": 48.0,
+      "compareAtPrice": 54.0,
+      "currency": "USD",
+      "discountPercent": 11,
+      "inStock": true,
+      "stock": 83,
+      "rating": 4.5,
+      "reviewCount": 132,
+      "thumbnail": "https://picsum.photos/seed/prod-021/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-021-a/1200/1200",
+        "https://picsum.photos/seed/prod-021-b/1200/1200"
+      ],
+      "tags": ["serum", "vitamin-c", "skincare"],
+      "featured": true,
+      "newArrival": false,
+      "bestSeller": true,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-021-30", "name": "30ml", "size": "30ml", "price": 48.0, "stock": 83, "sku": "MM-BEA-001-30" }
+      ],
+      "specs": {
+        "volume": "30ml",
+        "keyIngredient": "10% vitamin C",
+        "skinType": "Most skin types",
+        "fragrance": "None"
+      },
+      "createdAt": "2026-01-15T10:00:00.000Z"
+    },
+    {
+      "id": "prod-022",
+      "sku": "MM-BEA-002",
+      "name": "Aura Mineral SPF 50",
+      "slug": "aura-mineral-spf-50",
+      "shortDescription": "Sheer zinc SPF 50 that does not leave a chalk cast on deeper skin.",
+      "description": "Aura Mineral SPF 50 is 20% non-nano zinc in a tinted base. It is reef-conscious, sits under makeup, and a 50ml tube lasts about six weeks of daily face use.",
+      "categoryId": "cat-beauty",
+      "brandId": "brand-aura",
+      "sellerId": "seller-001",
+      "price": 32.0,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "discountPercent": 0,
+      "inStock": true,
+      "stock": 97,
+      "rating": 4.3,
+      "reviewCount": 68,
+      "thumbnail": "https://picsum.photos/seed/prod-022/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-022-a/1200/1200"
+      ],
+      "tags": ["spf", "mineral", "zinc"],
+      "featured": false,
+      "newArrival": true,
+      "bestSeller": false,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-022-fair", "name": "Fair-Light", "shade": "Fair-Light", "price": 32.0, "stock": 40, "sku": "MM-BEA-002-FL" },
+        { "id": "var-022-medium", "name": "Medium-Deep", "shade": "Medium-Deep", "price": 32.0, "stock": 57, "sku": "MM-BEA-002-MD" }
+      ],
+      "specs": {
+        "spf": 50,
+        "filter": "20% non-nano zinc",
+        "volume": "50ml",
+        "waterResistant": "40 min"
+      },
+      "createdAt": "2026-08-08T10:00:00.000Z"
+    },
+    {
+      "id": "prod-023",
+      "sku": "MM-BOK-001",
+      "name": "The Quiet Algorithm",
+      "slug": "the-quiet-algorithm",
+      "shortDescription": "A 240-page paperback on building software that people can ignore.",
+      "description": "The Quiet Algorithm is Maya Ellison's argument that the best tools disappear. It walks through product cases from 2012–2025 without the usual keynote tone.",
+      "categoryId": "cat-books",
+      "brandId": "brand-orbit",
+      "sellerId": "seller-001",
+      "price": 18.99,
+      "compareAtPrice": 22.0,
+      "currency": "USD",
+      "discountPercent": 14,
+      "inStock": true,
+      "stock": 200,
+      "rating": 4.7,
+      "reviewCount": 89,
+      "thumbnail": "https://picsum.photos/seed/prod-023/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-023-a/1200/1200"
+      ],
+      "tags": ["paperback", "product", "nonfiction"],
+      "featured": false,
+      "newArrival": false,
+      "bestSeller": true,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-023-paperback", "name": "Paperback", "format": "Paperback", "price": 18.99, "stock": 160, "sku": "MM-BOK-001-P" },
+        { "id": "var-023-ebook", "name": "Ebook", "format": "Ebook", "price": 9.99, "stock": 999, "sku": "MM-BOK-001-E" }
+      ],
+      "specs": {
+        "author": "Maya Ellison",
+        "pages": 240,
+        "isbn": "978-1-4028-9462-6",
+        "published": "2025-09-02"
+      },
+      "createdAt": "2025-09-02T10:00:00.000Z"
+    },
+    {
+      "id": "prod-024",
+      "sku": "MM-BOK-002",
+      "name": "Kitchen Myths",
+      "slug": "kitchen-myths",
+      "shortDescription": "A hardcover that tests 40 cooking rules you were told as a kid.",
+      "description": "Kitchen Myths is chef Rowan Hale in a test kitchen, not a TED stage. Each chapter is one rule, one experiment, and whether you should keep doing it.",
+      "categoryId": "cat-books",
+      "brandId": "brand-orbit",
+      "sellerId": "seller-001",
+      "price": 24.99,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "discountPercent": 0,
+      "inStock": false,
+      "stock": 0,
+      "rating": 4.4,
+      "reviewCount": 31,
+      "thumbnail": "https://picsum.photos/seed/prod-024/800/800",
+      "images": [
+        "https://picsum.photos/seed/prod-024-a/1200/1200"
+      ],
+      "tags": ["hardcover", "cooking", "preorder"],
+      "featured": false,
+      "newArrival": true,
+      "bestSeller": false,
+      "freeShipping": true,
+      "variants": [
+        { "id": "var-024-hardcover", "name": "Hardcover", "format": "Hardcover", "price": 24.99, "stock": 0, "sku": "MM-BOK-002-H" }
+      ],
+      "specs": {
+        "author": "Rowan Hale",
+        "pages": 312,
+        "isbn": "978-0-596-52068-7",
+        "published": "2026-10-06"
+      },
+      "createdAt": "2026-09-10T10:00:00.000Z"
+    }
+  ]
+}
