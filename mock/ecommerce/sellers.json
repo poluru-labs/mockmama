@@ -1,0 +1,56 @@
+{
+  "sellers": [
+    {
+      "id": "seller-001",
+      "name": "MockMama Official",
+      "slug": "mockmama-official",
+      "type": "first-party",
+      "rating": 4.9,
+      "reviewCount": 1842,
+      "fulfillment": "fulfilled-by-mockmama",
+      "location": "Austin, TX",
+      "joinedAt": "2023-01-12T00:00:00.000Z",
+      "returnWindowDays": 30,
+      "verified": true
+    },
+    {
+      "id": "seller-002",
+      "name": "TechNest",
+      "slug": "technest",
+      "type": "marketplace",
+      "rating": 4.7,
+      "reviewCount": 612,
+      "fulfillment": "seller-fulfilled",
+      "location": "Shenzhen, CN",
+      "joinedAt": "2024-03-08T00:00:00.000Z",
+      "returnWindowDays": 15,
+      "verified": true
+    },
+    {
+      "id": "seller-003",
+      "name": "Urban Thread",
+      "slug": "urban-thread",
+      "type": "marketplace",
+      "rating": 4.6,
+      "reviewCount": 388,
+      "fulfillment": "fulfilled-by-mockmama",
+      "location": "Los Angeles, CA",
+      "joinedAt": "2024-06-21T00:00:00.000Z",
+      "returnWindowDays": 30,
+      "verified": true
+    },
+    {
+      "id": "seller-004",
+      "name": "HomeNest",
+      "slug": "homenest",
+      "type": "marketplace",
+      "rating": 4.8,
+      "reviewCount": 254,
+      "fulfillment": "seller-fulfilled",
+      "location": "Portland, OR",
+      "joinedAt": "2025-02-14T00:00:00.000Z",
+      "returnWindowDays": 45,
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "notifications": [
+    {
+      "id": "ntf-001",
+      "userId": "usr-001",
+      "type": "order",
+      "title": "MM-10088 is on the way",
+      "body": "USPS picked up your skillet and bottle. ETA Sep 22.",
+      "href": "/orders/ord-10088",
+      "read": false,
+      "createdAt": "2026-09-18T13:12:00.000Z"
+    },
+    {
+      "id": "ntf-002",
+      "userId": "usr-001",
+      "type": "price-drop",
+      "title": "Nova X Pro dropped $20",
+      "body": "Graphite 256GB is now $799. Your watchlist target is $749.",
+      "href": "/products/nova-x-pro-5g",
+      "read": false,
+      "createdAt": "2026-09-19T06:00:00.000Z"
+    },
+    {
+      "id": "ntf-003",
+      "userId": "usr-001",
+      "type": "promo",
+      "title": "GLOW10 is in your cart",
+      "body": "Aura Glow Serum qualifies for $10 off Beauty.",
+      "href": "/cart",
+      "read": true,
+      "createdAt": "2026-09-20T17:40:00.000Z"
+    },
+    {
+      "id": "ntf-004",
+      "userId": "usr-002",
+      "type": "order",
+      "title": "We are packing MM-10092",
+      "body": "ApexBook 16 Pro is in processing. Express ships today if it clears QC by 3pm CT.",
+      "href": "/orders/ord-10092",
+      "read": false,
+      "createdAt": "2026-09-20T08:00:00.000Z"
+    },
+    {
+      "id": "ntf-005",
+      "userId": "usr-003",
+      "type": "refund",
+      "title": "Refund for MM-10061 posted",
+      "body": "$101.38 was returned to Visa •••• 1111.",
+      "href": "/orders/ord-10061",
+      "read": true,
+      "createdAt": "2026-08-28T10:16:00.000Z"
+    },
+    {
+      "id": "ntf-006",
+      "userId": "usr-004",
+      "type": "order",
+      "title": "Out for delivery",
+      "body": "Your Apex Merino Crew should arrive today in Denver.",
+      "href": "/orders/ord-10097",
+      "read": false,
+      "createdAt": "2026-09-20T08:10:00.000Z"
+    },
+    {
+      "id": "ntf-007",
+      "userId": "usr-005",
+      "type": "back-in-stock",
+      "title": "Kitchen Myths is still waiting",
+      "body": "Hardcover is listed for Oct 6. We will email the day it allocates.",
+      "href": "/products/kitchen-myths",
+      "read": false,
+      "createdAt": "2026-09-19T18:06:00.000Z"
+    },
+    {
+      "id": "ntf-008",
+      "userId": "usr-004",
+      "type": "promo",
+      "title": "FALL10 at checkout",
+      "body": "10% off sitewide through Sep 30. Furniture freight still applies.",
+      "href": "/cart",
+      "read": true,
+      "createdAt": "2026-09-14T12:00:00.000Z"
+    }
+  ]
+}

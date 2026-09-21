@@ -1,0 +1,52 @@
+{
+  "shippingMethods": [
+    {
+      "id": "ship-standard",
+      "name": "Standard",
+      "carrier": "USPS / UPS",
+      "description": "5–7 business days. Free over $35 except furniture freight.",
+      "minDays": 5,
+      "maxDays": 7,
+      "price": 5.99,
+      "freeOver": 35,
+      "excludedCategoryIds": ["cat-furniture"],
+      "active": true
+    },
+    {
+      "id": "ship-express",
+      "name": "Express",
+      "carrier": "UPS 2nd Day",
+      "description": "2 business days. Not available for furniture.",
+      "minDays": 2,
+      "maxDays": 2,
+      "price": 14.99,
+      "freeOver": null,
+      "excludedCategoryIds": ["cat-furniture"],
+      "active": true
+    },
+    {
+      "id": "ship-overnight",
+      "name": "Overnight",
+      "carrier": "UPS Next Day Air",
+      "description": "Next business day if ordered before 1pm CT.",
+      "minDays": 1,
+      "maxDays": 1,
+      "price": 28.99,
+      "freeOver": null,
+      "excludedCategoryIds": ["cat-furniture"],
+      "active": true
+    },
+    {
+      "id": "ship-freight",
+      "name": "White-glove freight",
+      "carrier": "MockMama Freight",
+      "description": "Scheduled delivery for sofas and tables. Room of choice, packaging removed.",
+      "minDays": 7,
+      "maxDays": 14,
+      "price": 89.0,
+      "freeOver": null,
+      "excludedCategoryIds": [],
+      "active": true
+    }
+  ]
+}

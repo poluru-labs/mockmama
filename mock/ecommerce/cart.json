@@ -1,0 +1,107 @@
+{
+  "cart": [
+    {
+      "id": "cart-001",
+      "userId": "usr-001",
+      "status": "active",
+      "currency": "USD",
+      "couponCode": "GLOW10",
+      "itemCount": 3,
+      "subtotal": 275.0,
+      "discount": 9.6,
+      "shippingEstimate": 0,
+      "taxEstimate": 21.23,
+      "total": 286.63,
+      "updatedAt": "2026-09-20T17:40:00.000Z",
+      "items": [
+        {
+          "id": "ci-001",
+          "productId": "prod-005",
+          "variantId": "var-005-black",
+          "name": "Lumen Pods ANC",
+          "variantName": "Ink Black",
+          "thumbnail": "https://picsum.photos/seed/prod-005/200/200",
+          "unitPrice": 179.0,
+          "quantity": 1,
+          "lineTotal": 179.0
+        },
+        {
+          "id": "ci-002",
+          "productId": "prod-021",
+          "variantId": "var-021-30",
+          "name": "Aura Glow Serum",
+          "variantName": "30ml",
+          "thumbnail": "https://picsum.photos/seed/prod-021/200/200",
+          "unitPrice": 48.0,
+          "quantity": 2,
+          "lineTotal": 96.0
+        }
+      ]
+    },
+    {
+      "id": "cart-002",
+      "userId": "usr-004",
+      "status": "active",
+      "currency": "USD",
+      "couponCode": null,
+      "itemCount": 2,
+      "subtotal": 263.0,
+      "discount": 0,
+      "shippingEstimate": 0,
+      "taxEstimate": 21.04,
+      "total": 284.04,
+      "updatedAt": "2026-09-20T11:12:00.000Z",
+      "items": [
+        {
+          "id": "ci-003",
+          "productId": "prod-013",
+          "variantId": "var-013-white-10",
+          "name": "Stride Runner 7",
+          "variantName": "Cloud White / 10",
+          "thumbnail": "https://picsum.photos/seed/prod-013/200/200",
+          "unitPrice": 145.0,
+          "quantity": 1,
+          "lineTotal": 145.0
+        },
+        {
+          "id": "ci-004",
+          "productId": "prod-019",
+          "variantId": "var-019-forest",
+          "name": "Peak Trail Pack 28L",
+          "variantName": "Forest",
+          "thumbnail": "https://picsum.photos/seed/prod-019/200/200",
+          "unitPrice": 118.0,
+          "quantity": 1,
+          "lineTotal": 118.0
+        }
+      ]
+    },
+    {
+      "id": "cart-003",
+      "userId": "usr-003",
+      "status": "active",
+      "currency": "USD",
+      "couponCode": null,
+      "itemCount": 1,
+      "subtotal": 92.0,
+      "discount": 0,
+      "shippingEstimate": 0,
+      "taxEstimate": 9.38,
+      "total": 101.38,
+      "updatedAt": "2026-09-18T08:20:00.000Z",
+      "items": [
+        {
+          "id": "ci-005",
+          "productId": "prod-011",
+          "variantId": "var-011-ivory-m",
+          "name": "Aura Silk Blouse",
+          "variantName": "Ivory / M",
+          "thumbnail": "https://picsum.photos/seed/prod-011/200/200",
+          "unitPrice": 92.0,
+          "quantity": 1,
+          "lineTotal": 92.0
+        }
+      ]
+    }
+  ]
+}

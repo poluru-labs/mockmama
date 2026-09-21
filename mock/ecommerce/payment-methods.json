@@ -1,0 +1,64 @@
+{
+  "paymentMethods": [
+    {
+      "id": "pay-001",
+      "userId": "usr-001",
+      "brand": "visa",
+      "last4": "4242",
+      "expMonth": 8,
+      "expYear": 2028,
+      "holderName": "Alice Chen",
+      "isDefault": true
+    },
+    {
+      "id": "pay-001b",
+      "userId": "usr-001",
+      "brand": "amex",
+      "last4": "1008",
+      "expMonth": 1,
+      "expYear": 2027,
+      "holderName": "Alice Chen",
+      "isDefault": false
+    },
+    {
+      "id": "pay-002",
+      "userId": "usr-002",
+      "brand": "mastercard",
+      "last4": "5444",
+      "expMonth": 11,
+      "expYear": 2029,
+      "holderName": "Ben Okonkwo",
+      "isDefault": true
+    },
+    {
+      "id": "pay-003",
+      "userId": "usr-003",
+      "brand": "visa",
+      "last4": "1111",
+      "expMonth": 4,
+      "expYear": 2027,
+      "holderName": "Priya Sharma",
+      "isDefault": true
+    },
+    {
+      "id": "pay-004",
+      "userId": "usr-004",
+      "brand": "visa",
+      "last4": "1881",
+      "expMonth": 6,
+      "expYear": 2028,
+      "holderName": "Marcus Hale",
+      "isDefault": true
+    },
+    {
+      "id": "pay-005",
+      "userId": "usr-005",
+      "brand": "amex",
+      "last4": "3003",
+      "expMonth": 12,
+      "expYear": 2028,
+      "holderName": "Sofia Alvarez",
+      "isDefault": true
+    }
+  ]
+}
