@@ -1,0 +1,9 @@
+{
+  "login": {
+    "accessToken": "mock-access-token-not-valid",
+    "refreshToken": "mock-refresh-token-not-valid",
+    "tokenType": "Bearer",
+    "expiresIn": 3600,
+    "userId": "user-001"
+  }
+}
