@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "user-001",
+      "name": "Alex Morgan",
+      "email": "alex@example.com",
+      "role": "admin",
+      "emailVerified": true,
+      "status": "active"
+    },
+    {
+      "id": "user-002",
+      "name": "Sam Rivera",
+      "email": "sam@example.com",
+      "role": "member",
+      "emailVerified": true,
+      "status": "active"
+    },
+    {
+      "id": "user-003",
+      "name": "Taylor Kim",
+      "email": "taylor@example.com",
+      "role": "member",
+      "emailVerified": false,
+      "status": "pending"
+    }
+  ]
+}
