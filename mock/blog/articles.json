@@ -1,0 +1,48 @@
+{
+  "articles": [
+    {
+      "id": "article-001",
+      "authorId": "author-001",
+      "categoryId": "category-001",
+      "title": "Designing useful empty states",
+      "slug": "designing-useful-empty-states",
+      "excerpt": "Help people take the next step.",
+      "body": "Explain why a list is empty and offer a clear next action.",
+      "status": "published",
+      "publishedAt": "2026-09-18T12:00:00Z",
+      "tags": [
+        "ux",
+        "design"
+      ]
+    },
+    {
+      "id": "article-002",
+      "authorId": "author-002",
+      "categoryId": "category-002",
+      "title": "Getting started with mock data",
+      "slug": "getting-started-with-mock-data",
+      "excerpt": "Build interfaces before your backend is ready.",
+      "body": "Keep sample records consistent and include realistic variations.",
+      "status": "published",
+      "publishedAt": "2026-09-20T12:00:00Z",
+      "tags": [
+        "api",
+        "frontend"
+      ]
+    },
+    {
+      "id": "article-003",
+      "authorId": "author-003",
+      "categoryId": "category-003",
+      "title": "A daily sketch habit",
+      "slug": "a-daily-sketch-habit",
+      "excerpt": "Make space for small creative experiments.",
+      "body": "Start with five minutes and one simple subject.",
+      "status": "draft",
+      "publishedAt": null,
+      "tags": [
+        "habits"
+      ]
+    }
+  ]
+}
