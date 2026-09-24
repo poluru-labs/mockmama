@@ -1,0 +1,22 @@
+{
+  "authors": [
+    {
+      "id": "author-001",
+      "name": "Maya Brooks",
+      "slug": "maya-brooks",
+      "bio": "Writes about practical design."
+    },
+    {
+      "id": "author-002",
+      "name": "Noah Patel",
+      "slug": "noah-patel",
+      "bio": "Explores web development."
+    },
+    {
+      "id": "author-003",
+      "name": "Leah Park",
+      "slug": "leah-park",
+      "bio": "Shares creative habits."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": "category-001",
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "id": "category-002",
+      "name": "Development",
+      "slug": "development"
+    },
+    {
+      "id": "category-003",
+      "name": "Creativity",
+      "slug": "creativity"
+    }
+  ]
+}
