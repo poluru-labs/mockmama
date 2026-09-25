@@ -1,0 +1,37 @@
+{
+  "tickets": [
+    {
+      "id": "ticket-001",
+      "eventId": "event-001",
+      "attendeeName": "Morgan Ellis",
+      "quantity": 2,
+      "unitPrice": 45,
+      "total": 90,
+      "currency": "USD",
+      "status": "confirmed",
+      "purchasedAt": "2026-09-21T10:00:00Z"
+    },
+    {
+      "id": "ticket-002",
+      "eventId": "event-002",
+      "attendeeName": "Riley Chen",
+      "quantity": 1,
+      "unitPrice": 65,
+      "total": 65,
+      "currency": "USD",
+      "status": "pending",
+      "purchasedAt": "2026-09-22T11:00:00Z"
+    },
+    {
+      "id": "ticket-003",
+      "eventId": "event-003",
+      "attendeeName": "Jamie Cruz",
+      "quantity": 1,
+      "unitPrice": 0,
+      "total": 0,
+      "currency": "USD",
+      "status": "checked_in",
+      "purchasedAt": "2026-09-17T09:00:00Z"
+    }
+  ]
+}
