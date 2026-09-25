@@ -1,0 +1,34 @@
+{
+  "venues": [
+    {
+      "id": "venue-001",
+      "name": "Cedar Hall",
+      "city": "Austin",
+      "capacity": 250,
+      "amenities": [
+        "wifi",
+        "accessible_entrance"
+      ]
+    },
+    {
+      "id": "venue-002",
+      "name": "Harbor Amphitheater",
+      "city": "Chicago",
+      "capacity": 1200,
+      "amenities": [
+        "parking",
+        "accessible_seating"
+      ]
+    },
+    {
+      "id": "venue-003",
+      "name": "Maple Workshop Space",
+      "city": "Seattle",
+      "capacity": 40,
+      "amenities": [
+        "wifi",
+        "projector"
+      ]
+    }
+  ]
+}
