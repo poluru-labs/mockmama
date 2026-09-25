@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "id": "company-001",
+      "name": "Pineworks",
+      "industry": "Manufacturing",
+      "website": "https://pineworks.example.com",
+      "size": 120
+    },
+    {
+      "id": "company-002",
+      "name": "Clearwater Studio",
+      "industry": "Design",
+      "website": "https://clearwater.example.com",
+      "size": 18
+    },
+    {
+      "id": "company-003",
+      "name": "Northstar Services",
+      "industry": "Consulting",
+      "website": "https://northstar.example.com",
+      "size": 65
+    }
+  ]
+}
