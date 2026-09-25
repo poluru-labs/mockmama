@@ -1,0 +1,37 @@
+{
+  "deals": [
+    {
+      "id": "deal-001",
+      "companyId": "company-001",
+      "contactId": "contact-001",
+      "title": "Annual workspace subscription",
+      "value": 18000,
+      "currency": "USD",
+      "stage": "negotiation",
+      "probabilityPercent": 75,
+      "expectedCloseDate": "2026-10-15"
+    },
+    {
+      "id": "deal-002",
+      "companyId": "company-002",
+      "contactId": "contact-002",
+      "title": "Studio pilot",
+      "value": 2400,
+      "currency": "USD",
+      "stage": "qualified",
+      "probabilityPercent": 40,
+      "expectedCloseDate": "2026-11-01"
+    },
+    {
+      "id": "deal-003",
+      "companyId": "company-003",
+      "contactId": "contact-003",
+      "title": "Team rollout",
+      "value": 9600,
+      "currency": "USD",
+      "stage": "lost",
+      "probabilityPercent": 0,
+      "expectedCloseDate": "2026-09-18"
+    }
+  ]
+}
