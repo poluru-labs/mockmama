@@ -1,0 +1,37 @@
+{
+  "events": [
+    {
+      "id": "event-001",
+      "venueId": "venue-001",
+      "title": "Frontend Community Day",
+      "category": "conference",
+      "startsAt": "2026-10-10T14:00:00Z",
+      "endsAt": "2026-10-10T22:00:00Z",
+      "ticketPrice": 45,
+      "currency": "USD",
+      "status": "scheduled"
+    },
+    {
+      "id": "event-002",
+      "venueId": "venue-002",
+      "title": "Autumn Sounds",
+      "category": "concert",
+      "startsAt": "2026-10-17T23:00:00Z",
+      "endsAt": "2026-10-18T02:00:00Z",
+      "ticketPrice": 65,
+      "currency": "USD",
+      "status": "scheduled"
+    },
+    {
+      "id": "event-003",
+      "venueId": "venue-003",
+      "title": "Sketchbook Saturday",
+      "category": "workshop",
+      "startsAt": "2026-09-19T17:00:00Z",
+      "endsAt": "2026-09-19T19:00:00Z",
+      "ticketPrice": 0,
+      "currency": "USD",
+      "status": "completed"
+    }
+  ]
+}
