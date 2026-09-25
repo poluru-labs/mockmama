@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": "contact-001",
+      "companyId": "company-001",
+      "name": "Avery Lane",
+      "email": "avery@pineworks.example.com",
+      "title": "Operations Director",
+      "status": "active"
+    },
+    {
+      "id": "contact-002",
+      "companyId": "company-002",
+      "name": "Jordan Reed",
+      "email": "jordan@clearwater.example.com",
+      "title": "Founder",
+      "status": "active"
+    },
+    {
+      "id": "contact-003",
+      "companyId": "company-003",
+      "name": "Casey Quinn",
+      "email": "casey@northstar.example.com",
+      "title": "Procurement Lead",
+      "status": "inactive"
+    }
+  ]
+}
