@@ -1,0 +1,108 @@
+{
+  "tasks": [
+    {
+      "id": "task-001",
+      "title": "Send revised workspace quote",
+      "description": "Include 30-day overlap and finance-seat split for Pineworks.",
+      "ownerId": "owner-001",
+      "companyId": "company-001",
+      "contactId": "contact-001",
+      "dealId": "deal-001",
+      "priority": "high",
+      "status": "open",
+      "dueAt": "2026-09-29T17:00:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": "task-002",
+      "title": "Book studio pilot kickoff",
+      "description": "Hold 45 minutes with Jordan after they review the quote.",
+      "ownerId": "owner-002",
+      "companyId": "company-002",
+      "contactId": "contact-002",
+      "dealId": "deal-002",
+      "priority": "medium",
+      "status": "open",
+      "dueAt": "2026-10-02T16:00:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": "task-003",
+      "title": "Close Harborline proposal",
+      "description": "Attach yard map mock and SSO add-on line.",
+      "ownerId": "owner-001",
+      "companyId": "company-004",
+      "contactId": "contact-005",
+      "dealId": "deal-004",
+      "priority": "high",
+      "status": "in-progress",
+      "dueAt": "2026-09-28T15:00:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": "task-004",
+      "title": "Schedule Lumen onboarding",
+      "description": "Second week of October, Boston clinic.",
+      "ownerId": "owner-004",
+      "companyId": "company-005",
+      "contactId": "contact-006",
+      "dealId": "deal-005",
+      "priority": "medium",
+      "status": "done",
+      "dueAt": "2026-09-12T17:00:00.000Z",
+      "completedAt": "2026-09-11T13:20:00.000Z"
+    },
+    {
+      "id": "task-005",
+      "title": "Follow up Tess voicemail",
+      "description": "Retry mid-morning Chicago time.",
+      "ownerId": "owner-002",
+      "companyId": "company-006",
+      "contactId": "contact-007",
+      "dealId": "deal-006",
+      "priority": "low",
+      "status": "open",
+      "dueAt": "2026-09-27T15:30:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": "task-006",
+      "title": "Legal review Atlas DPA",
+      "description": "Waiting on redlines from Drew.",
+      "ownerId": "owner-004",
+      "companyId": "company-007",
+      "contactId": "contact-008",
+      "dealId": "deal-007",
+      "priority": "high",
+      "status": "blocked",
+      "dueAt": "2026-10-01T18:00:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": "task-007",
+      "title": "Qualify Riverbend HIPAA ask",
+      "description": "Confirm BAA before booking a demo.",
+      "ownerId": "owner-002",
+      "companyId": null,
+      "contactId": null,
+      "dealId": null,
+      "priority": "medium",
+      "status": "open",
+      "dueAt": "2026-09-27T20:00:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": "task-008",
+      "title": "Draft Northstar re-engagement offer",
+      "description": "Harper asked for a smaller 2027 package after the lost rollout.",
+      "ownerId": "owner-005",
+      "companyId": "company-003",
+      "contactId": "contact-010",
+      "dealId": "deal-010",
+      "priority": "medium",
+      "status": "open",
+      "dueAt": "2026-10-06T17:00:00.000Z",
+      "completedAt": null
+    }
+  ]
+}

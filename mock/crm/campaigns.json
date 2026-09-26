@@ -1,0 +1,60 @@
+{
+  "campaigns": [
+    {
+      "id": "campaign-001",
+      "name": "Fall inbound content",
+      "type": "content",
+      "status": "active",
+      "channel": "website",
+      "budget": 8000,
+      "currency": "USD",
+      "startsAt": "2026-09-01T00:00:00.000Z",
+      "endsAt": "2026-11-30T23:59:59.000Z",
+      "ownerId": "owner-002",
+      "leads": 3,
+      "influencedDealIds": ["deal-002", "deal-008"]
+    },
+    {
+      "id": "campaign-002",
+      "name": "Retail ads sprint",
+      "type": "paid",
+      "status": "active",
+      "channel": "ads",
+      "budget": 4500,
+      "currency": "USD",
+      "startsAt": "2026-09-08T00:00:00.000Z",
+      "endsAt": "2026-10-08T23:59:59.000Z",
+      "ownerId": "owner-002",
+      "leads": 1,
+      "influencedDealIds": ["deal-006"]
+    },
+    {
+      "id": "campaign-003",
+      "name": "Logistics summit",
+      "type": "event",
+      "status": "completed",
+      "channel": "event",
+      "budget": 12000,
+      "currency": "USD",
+      "startsAt": "2026-08-18T00:00:00.000Z",
+      "endsAt": "2026-08-20T23:59:59.000Z",
+      "ownerId": "owner-001",
+      "leads": 2,
+      "influencedDealIds": ["deal-004"]
+    },
+    {
+      "id": "campaign-004",
+      "name": "Customer newsletter",
+      "type": "email",
+      "status": "active",
+      "channel": "email",
+      "budget": 600,
+      "currency": "USD",
+      "startsAt": "2026-01-01T00:00:00.000Z",
+      "endsAt": "2026-12-31T23:59:59.000Z",
+      "ownerId": "owner-003",
+      "leads": 0,
+      "influencedDealIds": ["deal-005", "deal-009"]
+    }
+  ]
+}

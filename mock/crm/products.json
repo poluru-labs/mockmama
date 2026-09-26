@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": "product-001",
+      "name": "Workspace Annual",
+      "sku": "CRM-WS-ANNUAL",
+      "category": "subscription",
+      "listPrice": 18000,
+      "currency": "USD",
+      "billing": "annual",
+      "active": true
+    },
+    {
+      "id": "product-002",
+      "name": "Studio Pilot",
+      "sku": "CRM-STUDIO-PILOT",
+      "category": "subscription",
+      "listPrice": 2400,
+      "currency": "USD",
+      "billing": "quarterly",
+      "active": true
+    },
+    {
+      "id": "product-003",
+      "name": "Team Rollout",
+      "sku": "CRM-TEAM-ROLL",
+      "category": "subscription",
+      "listPrice": 9600,
+      "currency": "USD",
+      "billing": "annual",
+      "active": true
+    },
+    {
+      "id": "product-004",
+      "name": "Enterprise SSO",
+      "sku": "CRM-ENT-SSO",
+      "category": "add-on",
+      "listPrice": 21000,
+      "currency": "USD",
+      "billing": "annual",
+      "active": true
+    },
+    {
+      "id": "product-005",
+      "name": "Onsite onboarding",
+      "sku": "CRM-ONBOARD",
+      "category": "service",
+      "listPrice": 3500,
+      "currency": "USD",
+      "billing": "one-time",
+      "active": true
+    }
+  ]
+}
