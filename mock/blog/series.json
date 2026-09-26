@@ -1,0 +1,34 @@
+{
+  "series": [
+    {
+      "id": "series-001",
+      "title": "Interface copy that works",
+      "slug": "interface-copy-that-works",
+      "description": "Empty states, errors, and tables that stay readable.",
+      "authorId": "author-001",
+      "articleIds": ["article-001", "article-004", "article-011"],
+      "status": "active",
+      "coverImage": "https://picsum.photos/seed/series-001/1600/700"
+    },
+    {
+      "id": "series-002",
+      "title": "Mocks before backends",
+      "slug": "mocks-before-backends",
+      "description": "Fixtures, IDs, and honest loading states.",
+      "authorId": "author-002",
+      "articleIds": ["article-002", "article-005", "article-010"],
+      "status": "active",
+      "coverImage": "https://picsum.photos/seed/series-002/1600/700"
+    },
+    {
+      "id": "series-003",
+      "title": "Small creative habits",
+      "slug": "small-creative-habits",
+      "description": "Five-minute sketches and repeating one subject.",
+      "authorId": "author-003",
+      "articleIds": ["article-003", "article-007"],
+      "status": "active",
+      "coverImage": "https://picsum.photos/seed/series-003/1600/700"
+    }
+  ]
+}

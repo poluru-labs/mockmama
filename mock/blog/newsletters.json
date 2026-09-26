@@ -1,0 +1,52 @@
+{
+  "newsletters": [
+    {
+      "id": "digest-001",
+      "subject": "Empty states, mock data, and a quiet algorithm",
+      "previewText": "Three links from this month, one sentence each.",
+      "status": "sent",
+      "sentAt": "2026-09-19T14:00:00Z",
+      "authorId": "author-005",
+      "subscriberCount": 4,
+      "openRate": 0.62,
+      "clickRate": 0.21,
+      "articleIds": ["article-001", "article-002", "article-006"]
+    },
+    {
+      "id": "digest-002",
+      "subject": "Error copy and honest loading",
+      "previewText": "Name the rule that failed. Do not flash a fake $0.",
+      "status": "sent",
+      "sentAt": "2026-09-12T14:00:00Z",
+      "authorId": "author-005",
+      "subscriberCount": 3,
+      "openRate": 0.58,
+      "clickRate": 0.19,
+      "articleIds": ["article-004", "article-010"]
+    },
+    {
+      "id": "digest-003",
+      "subject": "How we edit the Friday list",
+      "previewText": "Cut first. Add one line of why.",
+      "status": "scheduled",
+      "sentAt": "2026-09-26T14:00:00Z",
+      "authorId": "author-005",
+      "subscriberCount": 5,
+      "openRate": null,
+      "clickRate": null,
+      "articleIds": ["article-009", "article-005"]
+    },
+    {
+      "id": "digest-004",
+      "subject": "Research notes, no slides",
+      "previewText": "Owen's interview recap lands next week.",
+      "status": "draft",
+      "sentAt": "2026-10-03T14:00:00Z",
+      "authorId": "author-005",
+      "subscriberCount": 5,
+      "openRate": null,
+      "clickRate": null,
+      "articleIds": ["article-008"]
+    }
+  ]
+}

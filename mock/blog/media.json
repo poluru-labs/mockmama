@@ -1,0 +1,74 @@
+{
+  "media": [
+    {
+      "id": "media-001",
+      "articleId": "article-001",
+      "type": "image",
+      "alt": "Empty inbox with a single compose button",
+      "url": "https://picsum.photos/seed/article-001/1600/900",
+      "width": 1600,
+      "height": 900,
+      "caption": "One action. No illustration required."
+    },
+    {
+      "id": "media-002",
+      "articleId": "article-002",
+      "type": "image",
+      "alt": "JSON files laid out as a catalog",
+      "url": "https://picsum.photos/seed/article-002/1600/900",
+      "width": 1600,
+      "height": 900,
+      "caption": "Shared IDs across files."
+    },
+    {
+      "id": "media-003",
+      "articleId": "article-004",
+      "type": "image",
+      "alt": "Form field with specific error text",
+      "url": "https://picsum.photos/seed/article-004/1600/900",
+      "width": 1600,
+      "height": 900,
+      "caption": "Keep the typed value."
+    },
+    {
+      "id": "media-004",
+      "articleId": "article-006",
+      "type": "image",
+      "alt": "A quiet settings panel",
+      "url": "https://picsum.photos/seed/article-006/1600/900",
+      "width": 1600,
+      "height": 900,
+      "caption": "No tour. The control is the tour."
+    },
+    {
+      "id": "media-005",
+      "articleId": "article-007",
+      "type": "image",
+      "alt": "Seven sketches of the same mug",
+      "url": "https://picsum.photos/seed/article-007/1600/900",
+      "width": 1600,
+      "height": 900,
+      "caption": "Thursday is when it gets honest."
+    },
+    {
+      "id": "media-006",
+      "articleId": "article-010",
+      "type": "image",
+      "alt": "Skeleton table versus a fake zero total",
+      "url": "https://picsum.photos/seed/article-010/1600/900",
+      "width": 1600,
+      "height": 900,
+      "caption": "Structure, not a made-up number."
+    },
+    {
+      "id": "media-007",
+      "articleId": null,
+      "type": "image",
+      "alt": "Author portrait of Maya Brooks",
+      "url": "https://picsum.photos/seed/blog-maya/200/200",
+      "width": 200,
+      "height": 200,
+      "caption": "Maya Brooks"
+    }
+  ]
+}

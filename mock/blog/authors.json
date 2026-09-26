@@ -4,19 +4,71 @@
       "id": "author-001",
       "name": "Maya Brooks",
       "slug": "maya-brooks",
-      "bio": "Writes about practical design."
+      "bio": "Writes about practical design.",
+      "role": "editor",
+      "email": "maya@mockmama.example.com",
+      "avatar": "https://picsum.photos/seed/blog-maya/200/200",
+      "location": "Austin, TX",
+      "website": "https://maya.brooks.example.com",
+      "twitter": "@mayabrooks",
+      "articleCount": 3,
+      "status": "active"
     },
     {
       "id": "author-002",
       "name": "Noah Patel",
       "slug": "noah-patel",
-      "bio": "Explores web development."
+      "bio": "Explores web development.",
+      "role": "writer",
+      "email": "noah@mockmama.example.com",
+      "avatar": "https://picsum.photos/seed/blog-noah/200/200",
+      "location": "Chicago, IL",
+      "website": "https://noah.patel.example.com",
+      "twitter": "@noahcodes",
+      "articleCount": 3,
+      "status": "active"
     },
     {
       "id": "author-003",
       "name": "Leah Park",
       "slug": "leah-park",
-      "bio": "Shares creative habits."
+      "bio": "Shares creative habits.",
+      "role": "writer",
+      "email": "leah@mockmama.example.com",
+      "avatar": "https://picsum.photos/seed/blog-leah/200/200",
+      "location": "Portland, OR",
+      "website": "https://leah.park.example.com",
+      "twitter": "@leahsketches",
+      "articleCount": 2,
+      "status": "active"
+    },
+    {
+      "id": "author-004",
+      "name": "Owen Hale",
+      "slug": "owen-hale",
+      "bio": "Product notes from shipping, not decks.",
+      "role": "writer",
+      "email": "owen@mockmama.example.com",
+      "avatar": "https://picsum.photos/seed/blog-owen/200/200",
+      "location": "Brooklyn, NY",
+      "website": "https://owen.hale.example.com",
+      "twitter": "@owenhale",
+      "articleCount": 2,
+      "status": "active"
+    },
+    {
+      "id": "author-005",
+      "name": "Iris Chen",
+      "slug": "iris-chen",
+      "bio": "Edits the weekly digest and keeps the style sheet honest.",
+      "role": "managing-editor",
+      "email": "iris@mockmama.example.com",
+      "avatar": "https://picsum.photos/seed/blog-iris/200/200",
+      "location": "Seattle, WA",
+      "website": "https://iris.chen.example.com",
+      "twitter": "@irisedits",
+      "articleCount": 1,
+      "status": "active"
     }
   ]
 }

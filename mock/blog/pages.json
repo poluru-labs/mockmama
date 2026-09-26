@@ -1,0 +1,40 @@
+{
+  "pages": [
+    {
+      "id": "page-001",
+      "title": "About",
+      "slug": "about",
+      "excerpt": "A small editorial site for design, code, and quiet product notes.",
+      "body": "MockMama Blog is sample content for prototypes. The authors are fictional. The advice is the kind of thing we repeat in critiques.",
+      "status": "published",
+      "updatedAt": "2026-09-01T12:00:00Z"
+    },
+    {
+      "id": "page-002",
+      "title": "Contact",
+      "slug": "contact",
+      "excerpt": "Pitches, corrections, and guest posts.",
+      "body": "Email iris@mockmama.example.com. Include a one-line why if you are pitching a link for the Friday digest.",
+      "status": "published",
+      "updatedAt": "2026-09-12T09:00:00Z"
+    },
+    {
+      "id": "page-003",
+      "title": "Newsletter",
+      "slug": "newsletter",
+      "excerpt": "One email on Friday. No recap of recaps.",
+      "body": "We send three links and one sentence of context each. Unsubscribe is one click.",
+      "status": "published",
+      "updatedAt": "2026-09-22T12:00:00Z"
+    },
+    {
+      "id": "page-004",
+      "title": "Colophon",
+      "slug": "colophon",
+      "excerpt": "How this mock site is put together.",
+      "body": "Type is system UI. Images are picsum seeds. JSON lives in mock/blog.",
+      "status": "draft",
+      "updatedAt": "2026-09-25T16:20:00Z"
+    }
+  ]
+}
