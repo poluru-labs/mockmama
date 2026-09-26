@@ -1,0 +1,56 @@
+{
+  "discounts": [
+    {
+      "id": "disc-001",
+      "code": "COMMUNITY10",
+      "description": "$10 off Frontend Community Day GA.",
+      "type": "fixed",
+      "value": 10,
+      "eventIds": ["event-001"],
+      "maxRedemptions": 50,
+      "redeemed": 18,
+      "startsAt": "2026-09-01T00:00:00Z",
+      "endsAt": "2026-10-09T23:59:59Z",
+      "active": true
+    },
+    {
+      "id": "disc-002",
+      "code": "HARBOREARLY",
+      "description": "15% off Autumn Sounds before Oct 1.",
+      "type": "percent",
+      "value": 15,
+      "eventIds": ["event-002"],
+      "maxRedemptions": 200,
+      "redeemed": 200,
+      "startsAt": "2026-08-01T00:00:00Z",
+      "endsAt": "2026-10-01T05:59:59Z",
+      "active": false
+    },
+    {
+      "id": "disc-003",
+      "code": "RETREATPAIR",
+      "description": "Second Quiet Code Retreat seat is $40 off.",
+      "type": "fixed",
+      "value": 40,
+      "eventIds": ["event-006"],
+      "maxRedemptions": 12,
+      "redeemed": 2,
+      "startsAt": "2026-09-15T00:00:00Z",
+      "endsAt": "2026-11-06T23:59:59Z",
+      "active": true
+    },
+    {
+      "id": "disc-004",
+      "code": "STAFF",
+      "description": "Comp code for organizers and volunteers.",
+      "type": "percent",
+      "value": 100,
+      "eventIds": ["event-001", "event-004", "event-006"],
+      "maxRedemptions": 20,
+      "redeemed": 6,
+      "startsAt": "2026-01-01T00:00:00Z",
+      "endsAt": "2026-12-31T23:59:59Z",
+      "active": true
+    }
+  ]
+}

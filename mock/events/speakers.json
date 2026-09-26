@@ -1,0 +1,58 @@
+{
+  "speakers": [
+    {
+      "id": "speaker-001",
+      "name": "Maya Brooks",
+      "title": "Design editor",
+      "bio": "Writes about empty states and error copy.",
+      "avatar": "https://picsum.photos/seed/blog-maya/200/200",
+      "company": "MockMama Blog",
+      "eventIds": ["event-001"]
+    },
+    {
+      "id": "speaker-002",
+      "name": "Noah Patel",
+      "title": "Frontend engineer",
+      "bio": "Talks about mock data and honest loading states.",
+      "avatar": "https://picsum.photos/seed/blog-noah/200/200",
+      "company": "Clearwater Studio",
+      "eventIds": ["event-001", "event-006"]
+    },
+    {
+      "id": "speaker-003",
+      "name": "Owen Hale",
+      "title": "Product",
+      "bio": "Ships quiet tools. Brings a link, not a deck.",
+      "avatar": "https://picsum.photos/seed/blog-owen/200/200",
+      "company": "Independent",
+      "eventIds": ["event-001", "event-004"]
+    },
+    {
+      "id": "speaker-004",
+      "name": "Leah Park",
+      "title": "Illustrator",
+      "bio": "Runs the still-life table at Sketchbook Saturday.",
+      "avatar": "https://picsum.photos/seed/blog-leah/200/200",
+      "company": "Maple Studio Hours",
+      "eventIds": ["event-003", "event-009"]
+    },
+    {
+      "id": "speaker-005",
+      "name": "Iris Chen",
+      "title": "Managing editor",
+      "bio": "Moderates critique night and the Friday digest.",
+      "avatar": "https://picsum.photos/seed/blog-iris/200/200",
+      "company": "MockMama Blog",
+      "eventIds": ["event-004"]
+    },
+    {
+      "id": "speaker-006",
+      "name": "The Harbor Quartet",
+      "title": "Ensemble",
+      "bio": "Late-set jazz. No openers.",
+      "avatar": "https://picsum.photos/seed/speaker-harbor/200/200",
+      "company": "Harbor Arts",
+      "eventIds": ["event-002", "event-007"]
+    }
+  ]
+}

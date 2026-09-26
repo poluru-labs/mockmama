@@ -1,0 +1,114 @@
+{
+  "ticketTypes": [
+    {
+      "id": "tt-001-ga",
+      "eventId": "event-001",
+      "name": "General admission",
+      "price": 45,
+      "currency": "USD",
+      "quantity": 220,
+      "sold": 184,
+      "status": "on_sale"
+    },
+    {
+      "id": "tt-001-speaker",
+      "eventId": "event-001",
+      "name": "Speaker",
+      "price": 0,
+      "currency": "USD",
+      "quantity": 12,
+      "sold": 8,
+      "status": "invite_only"
+    },
+    {
+      "id": "tt-002-ga",
+      "eventId": "event-002",
+      "name": "General admission",
+      "price": 65,
+      "currency": "USD",
+      "quantity": 1000,
+      "sold": 860,
+      "status": "on_sale"
+    },
+    {
+      "id": "tt-002-vip",
+      "eventId": "event-002",
+      "name": "Harbor rail",
+      "price": 120,
+      "currency": "USD",
+      "quantity": 80,
+      "sold": 80,
+      "status": "sold_out"
+    },
+    {
+      "id": "tt-003-free",
+      "eventId": "event-003",
+      "name": "Drop-in",
+      "price": 0,
+      "currency": "USD",
+      "quantity": 40,
+      "sold": 38,
+      "status": "ended"
+    },
+    {
+      "id": "tt-004-ga",
+      "eventId": "event-004",
+      "name": "General admission",
+      "price": 15,
+      "currency": "USD",
+      "quantity": 80,
+      "sold": 80,
+      "status": "sold_out"
+    },
+    {
+      "id": "tt-005-ga",
+      "eventId": "event-005",
+      "name": "Night market entry",
+      "price": 10,
+      "currency": "USD",
+      "quantity": 400,
+      "sold": 210,
+      "status": "on_sale"
+    },
+    {
+      "id": "tt-006-ga",
+      "eventId": "event-006",
+      "name": "Retreat seat",
+      "price": 85,
+      "currency": "USD",
+      "quantity": 24,
+      "sold": 11,
+      "status": "on_sale"
+    },
+    {
+      "id": "tt-007-ga",
+      "eventId": "event-007",
+      "name": "Seated floor",
+      "price": 40,
+      "currency": "USD",
+      "quantity": 600,
+      "sold": 572,
+      "status": "ended"
+    },
+    {
+      "id": "tt-008-ga",
+      "eventId": "event-008",
+      "name": "Fair entry",
+      "price": 12,
+      "currency": "USD",
+      "quantity": 250,
+      "sold": 64,
+      "status": "refunded"
+    },
+    {
+      "id": "tt-009-ga",
+      "eventId": "event-009",
+      "name": "Fair entry",
+      "price": 8,
+      "currency": "USD",
+      "quantity": 80,
+      "sold": 80,
+      "status": "sold_out"
+    }
+  ]
+}

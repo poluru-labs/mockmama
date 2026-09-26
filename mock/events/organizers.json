@@ -1,0 +1,44 @@
+{
+  "organizers": [
+    {
+      "id": "org-001",
+      "name": "MockMama Community",
+      "slug": "mockmama-community",
+      "email": "community@mockmama.example.com",
+      "website": "https://events.mockmama.example.com",
+      "city": "Austin",
+      "verified": true,
+      "eventCount": 3
+    },
+    {
+      "id": "org-002",
+      "name": "Harbor Arts",
+      "slug": "harbor-arts",
+      "email": "boxoffice@harborarts.example.com",
+      "website": "https://harborarts.example.com",
+      "city": "Chicago",
+      "verified": true,
+      "eventCount": 2
+    },
+    {
+      "id": "org-003",
+      "name": "Maple Studio Hours",
+      "slug": "maple-studio-hours",
+      "email": "hello@maplestudio.example.com",
+      "website": "https://maplestudio.example.com",
+      "city": "Seattle",
+      "verified": true,
+      "eventCount": 2
+    },
+    {
+      "id": "org-004",
+      "name": "Night Market Co",
+      "slug": "night-market-co",
+      "email": "stalls@nightmarket.example.com",
+      "website": "https://nightmarket.example.com",
+      "city": "Portland",
+      "verified": false,
+      "eventCount": 2
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "reviews": [
+    {
+      "id": "review-001",
+      "eventId": "event-003",
+      "attendeeId": "attendee-003",
+      "rating": 5,
+      "title": "Quiet room, good light",
+      "body": "Two hours and one mug. Nobody tried to turn it into a networking mixer.",
+      "createdAt": "2026-09-19T20:10:00Z"
+    },
+    {
+      "id": "review-002",
+      "eventId": "event-003",
+      "attendeeId": "attendee-006",
+      "rating": 4,
+      "title": "Bring a harder pencil",
+      "body": "Still life was set well. The folding tables wobble if you lean in.",
+      "createdAt": "2026-09-20T08:22:00Z"
+    },
+    {
+      "id": "review-003",
+      "eventId": "event-007",
+      "attendeeId": "attendee-007",
+      "rating": 5,
+      "title": "No openers, as promised",
+      "body": "Seated floor, one set, out by midnight. Harbor sound was clean on the rail.",
+      "createdAt": "2026-09-12T05:40:00Z"
+    },
+    {
+      "id": "review-004",
+      "eventId": "event-007",
+      "attendeeId": "attendee-002",
+      "rating": 3,
+      "title": "Late start",
+      "body": "Doors slipped 25 minutes. The set itself was worth staying.",
+      "createdAt": "2026-09-12T12:15:00Z"
+    },
+    {
+      "id": "review-005",
+      "eventId": "event-001",
+      "attendeeId": "attendee-001",
+      "rating": 4,
+      "title": "Pre-event note",
+      "body": "Last year's hallway track was the reason I bought two seats again.",
+      "createdAt": "2026-09-21T10:20:00Z"
+    }
+  ]
+}
