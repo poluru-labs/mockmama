@@ -1,0 +1,26 @@
+{
+  "organizations": [
+    {
+      "id": "org-001",
+      "name": "MockMama Labs",
+      "slug": "mockmama-labs",
+      "plan": "team",
+      "ownerId": "user-001",
+      "seatLimit": 10,
+      "seatsUsed": 5,
+      "status": "active",
+      "createdAt": "2024-11-03T15:22:00Z"
+    },
+    {
+      "id": "org-002",
+      "name": "Northstar Services",
+      "slug": "northstar-services",
+      "plan": "starter",
+      "ownerId": "user-005",
+      "seatLimit": 5,
+      "seatsUsed": 2,
+      "status": "past_due",
+      "createdAt": "2025-01-14T10:00:00Z"
+    }
+  ]
+}

@@ -3,26 +3,55 @@
     {
       "id": "admin",
       "name": "Administrator",
+      "description": "Full workspace access, including members and API keys.",
       "permissions": [
         "users:read",
         "users:write",
         "profile:read",
-        "profile:write"
+        "profile:write",
+        "org:read",
+        "org:write",
+        "sessions:revoke",
+        "api-keys:write",
+        "audit:read"
       ]
     },
     {
       "id": "member",
       "name": "Member",
+      "description": "Everyday access to their profile and workspace content.",
       "permissions": [
         "profile:read",
-        "profile:write"
+        "profile:write",
+        "org:read",
+        "sessions:revoke"
       ]
     },
     {
       "id": "viewer",
       "name": "Viewer",
+      "description": "Read-only profile and workspace.",
       "permissions": [
-        "profile:read"
+        "profile:read",
+        "org:read"
+      ]
+    },
+    {
+      "id": "owner",
+      "name": "Owner",
+      "description": "Billing and transfer of the workspace.",
+      "permissions": [
+        "users:read",
+        "users:write",
+        "profile:read",
+        "profile:write",
+        "org:read",
+        "org:write",
+        "org:transfer",
+        "billing:write",
+        "sessions:revoke",
+        "api-keys:write",
+        "audit:read"
       ]
     }
   ]

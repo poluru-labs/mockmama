@@ -1,0 +1,59 @@
+{
+  "sessions": [
+    {
+      "id": "session-001",
+      "userId": "user-001",
+      "deviceId": "device-001",
+      "ip": "203.0.113.12",
+      "location": "Austin, TX",
+      "userAgent": "Chrome 129 / macOS",
+      "current": true,
+      "createdAt": "2026-09-26T18:04:00Z",
+      "expiresAt": "2026-09-26T19:04:00Z"
+    },
+    {
+      "id": "session-002",
+      "userId": "user-001",
+      "deviceId": "device-002",
+      "ip": "198.51.100.40",
+      "location": "Austin, TX",
+      "userAgent": "Safari / iOS",
+      "current": false,
+      "createdAt": "2026-09-24T08:12:00Z",
+      "expiresAt": "2026-10-01T08:12:00Z"
+    },
+    {
+      "id": "session-003",
+      "userId": "user-002",
+      "deviceId": "device-003",
+      "ip": "198.51.100.88",
+      "location": "Chicago, IL",
+      "userAgent": "Firefox 131 / Windows",
+      "current": true,
+      "createdAt": "2026-09-25T21:40:00Z",
+      "expiresAt": "2026-09-26T21:40:00Z"
+    },
+    {
+      "id": "session-004",
+      "userId": "user-004",
+      "deviceId": "device-004",
+      "ip": "203.0.113.77",
+      "location": "Seattle, WA",
+      "userAgent": "Chrome 129 / macOS",
+      "current": false,
+      "createdAt": "2026-09-24T14:02:00Z",
+      "expiresAt": "2026-09-24T15:02:00Z"
+    },
+    {
+      "id": "session-005",
+      "userId": "user-006",
+      "deviceId": "device-005",
+      "ip": "192.0.2.44",
+      "location": "Houston, TX",
+      "userAgent": "Chrome 128 / Android",
+      "current": false,
+      "createdAt": "2026-09-23T09:05:00Z",
+      "expiresAt": "2026-09-23T09:20:00Z"
+    }
+  ]
+}

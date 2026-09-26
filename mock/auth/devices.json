@@ -1,0 +1,49 @@
+{
+  "devices": [
+    {
+      "id": "device-001",
+      "userId": "user-001",
+      "name": "Alex MacBook",
+      "type": "desktop",
+      "os": "macOS",
+      "trusted": true,
+      "lastSeenAt": "2026-09-26T18:04:00Z"
+    },
+    {
+      "id": "device-002",
+      "userId": "user-001",
+      "name": "Alex iPhone",
+      "type": "mobile",
+      "os": "iOS",
+      "trusted": true,
+      "lastSeenAt": "2026-09-24T08:12:00Z"
+    },
+    {
+      "id": "device-003",
+      "userId": "user-002",
+      "name": "Sam desktop",
+      "type": "desktop",
+      "os": "Windows",
+      "trusted": true,
+      "lastSeenAt": "2026-09-25T21:40:00Z"
+    },
+    {
+      "id": "device-004",
+      "userId": "user-004",
+      "name": "Mina MacBook",
+      "type": "desktop",
+      "os": "macOS",
+      "trusted": true,
+      "lastSeenAt": "2026-09-24T14:02:00Z"
+    },
+    {
+      "id": "device-005",
+      "userId": "user-006",
+      "name": "Unknown Android",
+      "type": "mobile",
+      "os": "Android",
+      "trusted": false,
+      "lastSeenAt": "2026-09-23T09:05:00Z"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "permissions": [
+    { "id": "users:read", "group": "users", "description": "List members" },
+    { "id": "users:write", "group": "users", "description": "Invite, role-change, or remove members" },
+    { "id": "profile:read", "group": "profile", "description": "View own profile" },
+    { "id": "profile:write", "group": "profile", "description": "Edit own profile" },
+    { "id": "org:read", "group": "org", "description": "View workspace settings" },
+    { "id": "org:write", "group": "org", "description": "Edit workspace settings" },
+    { "id": "org:transfer", "group": "org", "description": "Transfer workspace ownership" },
+    { "id": "billing:write", "group": "billing", "description": "Change plan and payment method" },
+    { "id": "sessions:revoke", "group": "security", "description": "Sign out other sessions" },
+    { "id": "api-keys:write", "group": "security", "description": "Create or revoke API keys" },
+    { "id": "audit:read", "group": "security", "description": "Read the audit log" }
+  ]
+}
