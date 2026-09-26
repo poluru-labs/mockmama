@@ -1,0 +1,37 @@
+{
+  "transactions": [
+    {
+      "id": "transaction-001",
+      "accountId": "account-001",
+      "description": "Weekly groceries",
+      "category": "groceries",
+      "type": "debit",
+      "amount": 75,
+      "currency": "USD",
+      "status": "posted",
+      "occurredAt": "2026-09-20T15:00:00Z"
+    },
+    {
+      "id": "transaction-002",
+      "accountId": "account-002",
+      "description": "Savings deposit",
+      "category": "savings",
+      "type": "credit",
+      "amount": 250,
+      "currency": "USD",
+      "status": "posted",
+      "occurredAt": "2026-09-21T09:00:00Z"
+    },
+    {
+      "id": "transaction-003",
+      "accountId": "account-003",
+      "description": "Hotel reservation",
+      "category": "travel",
+      "type": "debit",
+      "amount": 120,
+      "currency": "USD",
+      "status": "pending",
+      "occurredAt": "2026-09-22T10:00:00Z"
+    }
+  ]
+}

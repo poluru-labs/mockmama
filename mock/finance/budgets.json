@@ -1,0 +1,28 @@
+{
+  "budgets": [
+    {
+      "id": "budget-001",
+      "category": "groceries",
+      "month": "2026-09",
+      "limit": 400,
+      "spent": 75,
+      "currency": "USD"
+    },
+    {
+      "id": "budget-002",
+      "category": "travel",
+      "month": "2026-09",
+      "limit": 500,
+      "spent": 0,
+      "currency": "USD"
+    },
+    {
+      "id": "budget-003",
+      "category": "dining",
+      "month": "2026-09",
+      "limit": 200,
+      "spent": 0,
+      "currency": "USD"
+    }
+  ]
+}
