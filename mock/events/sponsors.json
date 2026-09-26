@@ -1,0 +1,36 @@
+{
+  "sponsors": [
+    {
+      "id": "sponsor-001",
+      "name": "Apex",
+      "tier": "presenting",
+      "logo": "https://picsum.photos/seed/brand-apex-logo/200/200",
+      "website": "https://apex.example.com",
+      "eventIds": ["event-001", "event-006"]
+    },
+    {
+      "id": "sponsor-002",
+      "name": "Lumen Audio",
+      "tier": "stage",
+      "logo": "https://picsum.photos/seed/brand-lumen-logo/200/200",
+      "website": "https://lumen.example.com",
+      "eventIds": ["event-002", "event-007"]
+    },
+    {
+      "id": "sponsor-003",
+      "name": "Flora Home",
+      "tier": "community",
+      "logo": "https://picsum.photos/seed/brand-flora-logo/200/200",
+      "website": "https://flora.example.com",
+      "eventIds": ["event-003", "event-005"]
+    },
+    {
+      "id": "sponsor-004",
+      "name": "Orbit Press",
+      "tier": "community",
+      "logo": "https://picsum.photos/seed/brand-orbit-logo/200/200",
+      "website": "https://orbit.example.com",
+      "eventIds": ["event-004", "event-009"]
+    }
+  ]
+}

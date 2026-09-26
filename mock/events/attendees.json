@@ -1,0 +1,60 @@
+{
+  "attendees": [
+    {
+      "id": "attendee-001",
+      "name": "Morgan Ellis",
+      "email": "morgan.ellis@example.com",
+      "city": "Austin",
+      "ticketIds": ["ticket-001", "ticket-009"]
+    },
+    {
+      "id": "attendee-002",
+      "name": "Riley Chen",
+      "email": "riley@harborline.example.com",
+      "city": "Houston",
+      "ticketIds": ["ticket-002"]
+    },
+    {
+      "id": "attendee-003",
+      "name": "Jamie Cruz",
+      "email": "jamie.cruz@example.com",
+      "city": "Seattle",
+      "ticketIds": ["ticket-003"]
+    },
+    {
+      "id": "attendee-004",
+      "name": "Noah Patel",
+      "email": "noah@mockmama.example.com",
+      "city": "Chicago",
+      "ticketIds": ["ticket-004", "ticket-010"]
+    },
+    {
+      "id": "attendee-005",
+      "name": "Priya Sharma",
+      "email": "priya.sharma@example.com",
+      "city": "Seattle",
+      "ticketIds": ["ticket-005"]
+    },
+    {
+      "id": "attendee-006",
+      "name": "Leah Park",
+      "email": "leah@mockmama.example.com",
+      "city": "Portland",
+      "ticketIds": ["ticket-006"]
+    },
+    {
+      "id": "attendee-007",
+      "name": "Sofia Alvarez",
+      "email": "sofia.alvarez@example.com",
+      "city": "Brooklyn",
+      "ticketIds": ["ticket-007"]
+    },
+    {
+      "id": "attendee-008",
+      "name": "Casey Quinn",
+      "email": "casey@northstar.example.com",
+      "city": "Seattle",
+      "ticketIds": ["ticket-008"]
+    }
+  ]
+}

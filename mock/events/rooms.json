@@ -1,0 +1,39 @@
+{
+  "rooms": [
+    {
+      "id": "room-001",
+      "venueId": "venue-001",
+      "name": "Main hall",
+      "capacity": 180,
+      "floor": 1
+    },
+    {
+      "id": "room-002",
+      "venueId": "venue-001",
+      "name": "Gallery",
+      "capacity": 70,
+      "floor": 1
+    },
+    {
+      "id": "room-003",
+      "venueId": "venue-003",
+      "name": "Studio A",
+      "capacity": 24,
+      "floor": 3
+    },
+    {
+      "id": "room-004",
+      "venueId": "venue-004",
+      "name": "Loft floor",
+      "capacity": 80,
+      "floor": 2
+    },
+    {
+      "id": "room-005",
+      "venueId": "venue-002",
+      "name": "Harbor stage",
+      "capacity": 1200,
+      "floor": 0
+    }
+  ]
+}

@@ -3,32 +3,77 @@
     {
       "id": "venue-001",
       "name": "Cedar Hall",
+      "slug": "cedar-hall",
       "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "address": "1402 Barton Springs Rd",
       "capacity": 250,
-      "amenities": [
-        "wifi",
-        "accessible_entrance"
-      ]
+      "timezone": "America/Chicago",
+      "amenities": ["wifi", "accessible_entrance"],
+      "image": "https://picsum.photos/seed/venue-001/1600/900",
+      "lat": 30.264,
+      "lng": -97.771
     },
     {
       "id": "venue-002",
       "name": "Harbor Amphitheater",
+      "slug": "harbor-amphitheater",
       "city": "Chicago",
+      "state": "IL",
+      "country": "US",
+      "address": "600 E Grand Ave",
       "capacity": 1200,
-      "amenities": [
-        "parking",
-        "accessible_seating"
-      ]
+      "timezone": "America/Chicago",
+      "amenities": ["parking", "accessible_seating"],
+      "image": "https://picsum.photos/seed/venue-002/1600/900",
+      "lat": 41.892,
+      "lng": -87.608
     },
     {
       "id": "venue-003",
       "name": "Maple Workshop Space",
+      "slug": "maple-workshop-space",
       "city": "Seattle",
+      "state": "WA",
+      "country": "US",
+      "address": "2100 3rd Ave",
       "capacity": 40,
-      "amenities": [
-        "wifi",
-        "projector"
-      ]
+      "timezone": "America/Los_Angeles",
+      "amenities": ["wifi", "projector"],
+      "image": "https://picsum.photos/seed/venue-003/1600/900",
+      "lat": 47.613,
+      "lng": -122.342
+    },
+    {
+      "id": "venue-004",
+      "name": "Brickline Loft",
+      "slug": "brickline-loft",
+      "city": "Brooklyn",
+      "state": "NY",
+      "country": "US",
+      "address": "27 N 6th St",
+      "capacity": 80,
+      "timezone": "America/New_York",
+      "amenities": ["wifi", "accessible_entrance", "bar"],
+      "image": "https://picsum.photos/seed/venue-004/1600/900",
+      "lat": 40.721,
+      "lng": -73.961
+    },
+    {
+      "id": "venue-005",
+      "name": "Riverbend Pavilion",
+      "slug": "riverbend-pavilion",
+      "city": "Portland",
+      "state": "OR",
+      "country": "US",
+      "address": "1000 SW Naito Pkwy",
+      "capacity": 400,
+      "timezone": "America/Los_Angeles",
+      "amenities": ["parking", "wifi", "accessible_seating"],
+      "image": "https://picsum.photos/seed/venue-005/1600/900",
+      "lat": 45.513,
+      "lng": -122.671
     }
   ]
 }

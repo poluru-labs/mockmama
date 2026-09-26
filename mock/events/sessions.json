@@ -1,0 +1,84 @@
+{
+  "sessions": [
+    {
+      "id": "session-001",
+      "eventId": "event-001",
+      "roomId": "room-001",
+      "speakerIds": ["speaker-001"],
+      "title": "Empty states that start the work",
+      "startsAt": "2026-10-10T15:00:00Z",
+      "endsAt": "2026-10-10T15:40:00Z",
+      "track": "design"
+    },
+    {
+      "id": "session-002",
+      "eventId": "event-001",
+      "roomId": "room-001",
+      "speakerIds": ["speaker-002"],
+      "title": "Mocks before backends",
+      "startsAt": "2026-10-10T16:00:00Z",
+      "endsAt": "2026-10-10T16:40:00Z",
+      "track": "engineering"
+    },
+    {
+      "id": "session-003",
+      "eventId": "event-001",
+      "roomId": "room-002",
+      "speakerIds": ["speaker-003"],
+      "title": "Shipping a quiet algorithm",
+      "startsAt": "2026-10-10T17:00:00Z",
+      "endsAt": "2026-10-10T17:40:00Z",
+      "track": "product"
+    },
+    {
+      "id": "session-004",
+      "eventId": "event-001",
+      "roomId": "room-002",
+      "speakerIds": ["speaker-001", "speaker-002"],
+      "title": "Hallway AMA",
+      "startsAt": "2026-10-10T19:00:00Z",
+      "endsAt": "2026-10-10T20:00:00Z",
+      "track": "hallway"
+    },
+    {
+      "id": "session-005",
+      "eventId": "event-003",
+      "roomId": "room-003",
+      "speakerIds": ["speaker-004"],
+      "title": "Still life: one mug",
+      "startsAt": "2026-09-19T17:10:00Z",
+      "endsAt": "2026-09-19T18:50:00Z",
+      "track": "workshop"
+    },
+    {
+      "id": "session-006",
+      "eventId": "event-004",
+      "roomId": "room-004",
+      "speakerIds": ["speaker-005", "speaker-003"],
+      "title": "Live critique block 1",
+      "startsAt": "2026-10-08T23:15:00Z",
+      "endsAt": "2026-10-09T00:00:00Z",
+      "track": "critique"
+    },
+    {
+      "id": "session-007",
+      "eventId": "event-002",
+      "roomId": "room-005",
+      "speakerIds": ["speaker-006"],
+      "title": "Main set",
+      "startsAt": "2026-10-18T00:00:00Z",
+      "endsAt": "2026-10-18T01:30:00Z",
+      "track": "music"
+    },
+    {
+      "id": "session-008",
+      "eventId": "event-006",
+      "roomId": "room-003",
+      "speakerIds": ["speaker-002"],
+      "title": "Morning pairing",
+      "startsAt": "2026-11-07T17:30:00Z",
+      "endsAt": "2026-11-07T20:00:00Z",
+      "track": "workshop"
+    }
+  ]
+}
