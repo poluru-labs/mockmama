@@ -1,0 +1,34 @@
+{
+  "transfers": [
+    {
+      "id": "transfer-001",
+      "fromAccountId": "account-001",
+      "toAccountId": "account-002",
+      "amount": 250,
+      "currency": "USD",
+      "status": "posted",
+      "memo": "Monthly rainy-day sweep",
+      "occurredAt": "2026-09-21T09:00:00Z"
+    },
+    {
+      "id": "transfer-002",
+      "fromAccountId": "account-001",
+      "toAccountId": "account-004",
+      "amount": 30,
+      "currency": "USD",
+      "status": "posted",
+      "memo": "Card payment",
+      "occurredAt": "2026-09-14T11:00:00Z"
+    },
+    {
+      "id": "transfer-003",
+      "fromAccountId": "account-001",
+      "toAccountId": "account-003",
+      "amount": 100,
+      "currency": "USD",
+      "status": "scheduled",
+      "memo": "Travel fund, first of month",
+      "occurredAt": "2026-10-01T13:00:00Z"
+    }
+  ]
+}

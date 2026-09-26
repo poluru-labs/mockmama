@@ -3,6 +3,7 @@
     {
       "id": "transaction-001",
       "accountId": "account-001",
+      "merchantId": "merchant-001",
       "description": "Weekly groceries",
       "category": "groceries",
       "type": "debit",
@@ -14,6 +15,7 @@
     {
       "id": "transaction-002",
       "accountId": "account-002",
+      "merchantId": null,
       "description": "Savings deposit",
       "category": "savings",
       "type": "credit",
@@ -25,6 +27,7 @@
     {
       "id": "transaction-003",
       "accountId": "account-003",
+      "merchantId": "merchant-002",
       "description": "Hotel reservation",
       "category": "travel",
       "type": "debit",
@@ -32,6 +35,150 @@
       "currency": "USD",
       "status": "pending",
       "occurredAt": "2026-09-22T10:00:00Z"
+    },
+    {
+      "id": "transaction-004",
+      "accountId": "account-001",
+      "merchantId": "merchant-003",
+      "description": "Paycheck",
+      "category": "income",
+      "type": "credit",
+      "amount": 2480,
+      "currency": "USD",
+      "status": "posted",
+      "occurredAt": "2026-09-15T13:00:00Z"
+    },
+    {
+      "id": "transaction-005",
+      "accountId": "account-001",
+      "merchantId": "merchant-004",
+      "description": "Rent",
+      "category": "housing",
+      "type": "debit",
+      "amount": 1650,
+      "currency": "USD",
+      "status": "posted",
+      "occurredAt": "2026-09-01T14:00:00Z"
+    },
+    {
+      "id": "transaction-006",
+      "accountId": "account-004",
+      "merchantId": "merchant-005",
+      "description": "Weeknight dinner",
+      "category": "dining",
+      "type": "debit",
+      "amount": 42.8,
+      "currency": "USD",
+      "status": "posted",
+      "occurredAt": "2026-09-18T00:40:00Z"
+    },
+    {
+      "id": "transaction-007",
+      "accountId": "account-004",
+      "merchantId": "merchant-006",
+      "description": "Transit pass",
+      "category": "transport",
+      "type": "debit",
+      "amount": 72,
+      "currency": "USD",
+      "status": "posted",
+      "occurredAt": "2026-09-03T12:10:00Z"
+    },
+    {
+      "id": "transaction-008",
+      "accountId": "account-004",
+      "merchantId": "merchant-007",
+      "description": "Pharmacy",
+      "category": "health",
+      "type": "debit",
+      "amount": 18.52,
+      "currency": "USD",
+      "status": "posted",
+      "occurredAt": "2026-09-11T19:05:00Z"
+    },
+    {
+      "id": "transaction-009",
+      "accountId": "account-004",
+      "merchantId": "merchant-008",
+      "description": "Streaming",
+      "category": "subscriptions",
+      "type": "debit",
+      "amount": 15.99,
+      "currency": "USD",
+      "status": "posted",
+      "occurredAt": "2026-09-08T07:00:00Z"
+    },
+    {
+      "id": "transaction-010",
+      "accountId": "account-004",
+      "merchantId": "merchant-001",
+      "description": "Corner market",
+      "category": "groceries",
+      "type": "debit",
+      "amount": 28.41,
+      "currency": "USD",
+      "status": "posted",
+      "occurredAt": "2026-09-24T22:18:00Z"
+    },
+    {
+      "id": "transaction-011",
+      "accountId": "account-001",
+      "merchantId": "merchant-009",
+      "description": "Electric bill",
+      "category": "utilities",
+      "type": "debit",
+      "amount": 86.2,
+      "currency": "USD",
+      "status": "posted",
+      "occurredAt": "2026-09-09T15:30:00Z"
+    },
+    {
+      "id": "transaction-012",
+      "accountId": "account-005",
+      "merchantId": null,
+      "description": "Dividend",
+      "category": "investments",
+      "type": "credit",
+      "amount": 84.5,
+      "currency": "USD",
+      "status": "posted",
+      "occurredAt": "2026-09-16T14:00:00Z"
+    },
+    {
+      "id": "transaction-013",
+      "accountId": "account-001",
+      "merchantId": null,
+      "description": "Transfer to Rainy Day",
+      "category": "transfer",
+      "type": "debit",
+      "amount": 250,
+      "currency": "USD",
+      "status": "posted",
+      "occurredAt": "2026-09-21T09:00:00Z"
+    },
+    {
+      "id": "transaction-014",
+      "accountId": "account-004",
+      "merchantId": "merchant-010",
+      "description": "Coffee",
+      "category": "dining",
+      "type": "debit",
+      "amount": 6.6,
+      "currency": "USD",
+      "status": "pending",
+      "occurredAt": "2026-09-26T13:12:00Z"
+    },
+    {
+      "id": "transaction-015",
+      "accountId": "account-004",
+      "merchantId": "merchant-005",
+      "description": "Card payment",
+      "category": "transfer",
+      "type": "credit",
+      "amount": 30,
+      "currency": "USD",
+      "status": "posted",
+      "occurredAt": "2026-09-14T11:00:00Z"
     }
   ]
 }

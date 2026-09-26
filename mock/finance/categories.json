@@ -1,0 +1,16 @@
+{
+  "categories": [
+    { "id": "cat-groceries", "name": "Groceries", "slug": "groceries", "group": "living", "color": "#059669" },
+    { "id": "cat-dining", "name": "Dining", "slug": "dining", "group": "living", "color": "#d97706" },
+    { "id": "cat-housing", "name": "Housing", "slug": "housing", "group": "living", "color": "#2563eb" },
+    { "id": "cat-utilities", "name": "Utilities", "slug": "utilities", "group": "living", "color": "#0284c7" },
+    { "id": "cat-transport", "name": "Transport", "slug": "transport", "group": "living", "color": "#7c3aed" },
+    { "id": "cat-health", "name": "Health", "slug": "health", "group": "living", "color": "#dc2626" },
+    { "id": "cat-travel", "name": "Travel", "slug": "travel", "group": "lifestyle", "color": "#0f766e" },
+    { "id": "cat-subscriptions", "name": "Subscriptions", "slug": "subscriptions", "group": "lifestyle", "color": "#9333ea" },
+    { "id": "cat-income", "name": "Income", "slug": "income", "group": "income", "color": "#16a34a" },
+    { "id": "cat-savings", "name": "Savings", "slug": "savings", "group": "transfer", "color": "#4f46e5" },
+    { "id": "cat-transfer", "name": "Transfer", "slug": "transfer", "group": "transfer", "color": "#64748b" },
+    { "id": "cat-investments", "name": "Investments", "slug": "investments", "group": "income", "color": "#0d9488" }
+  ]
+}

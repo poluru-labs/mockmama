@@ -1,0 +1,26 @@
+{
+  "investments": [
+    {
+      "id": "inv-001",
+      "accountId": "account-005",
+      "symbol": "VTI",
+      "name": "Total stock market ETF",
+      "shares": 4.2,
+      "price": 268.4,
+      "value": 1127.28,
+      "currency": "USD",
+      "updatedAt": "2026-09-26T20:00:00Z"
+    },
+    {
+      "id": "inv-002",
+      "accountId": "account-005",
+      "symbol": "CASH",
+      "name": "Settlement cash",
+      "shares": 157.22,
+      "price": 1,
+      "value": 157.22,
+      "currency": "USD",
+      "updatedAt": "2026-09-26T20:00:00Z"
+    }
+  ]
+}

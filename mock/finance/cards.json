@@ -1,0 +1,37 @@
+{
+  "cards": [
+    {
+      "id": "card-001",
+      "accountId": "account-001",
+      "institutionId": "inst-001",
+      "brand": "visa",
+      "last4": "4412",
+      "expMonth": 4,
+      "expYear": 2029,
+      "network": "debit",
+      "status": "active"
+    },
+    {
+      "id": "card-002",
+      "accountId": "account-004",
+      "institutionId": "inst-002",
+      "brand": "visa",
+      "last4": "4242",
+      "expMonth": 8,
+      "expYear": 2028,
+      "network": "credit",
+      "status": "active"
+    },
+    {
+      "id": "card-003",
+      "accountId": "account-004",
+      "institutionId": "inst-002",
+      "brand": "visa",
+      "last4": "1881",
+      "expMonth": 1,
+      "expYear": 2027,
+      "network": "credit",
+      "status": "frozen"
+    }
+  ]
+}

@@ -2,27 +2,64 @@
   "accounts": [
     {
       "id": "account-001",
+      "institutionId": "inst-001",
       "name": "Everyday Checking",
       "type": "checking",
+      "mask": "4412",
       "openingBalance": 1500,
       "balance": 1425,
-      "currency": "USD"
+      "available": 1425,
+      "currency": "USD",
+      "status": "open"
     },
     {
       "id": "account-002",
+      "institutionId": "inst-001",
       "name": "Rainy Day Savings",
       "type": "savings",
+      "mask": "8821",
       "openingBalance": 5000,
       "balance": 5250,
-      "currency": "USD"
+      "available": 5250,
+      "currency": "USD",
+      "status": "open"
     },
     {
       "id": "account-003",
+      "institutionId": "inst-001",
       "name": "Travel Fund",
       "type": "savings",
+      "mask": "1094",
       "openingBalance": 800,
       "balance": 800,
-      "currency": "USD"
+      "available": 680,
+      "currency": "USD",
+      "status": "open"
+    },
+    {
+      "id": "account-004",
+      "institutionId": "inst-002",
+      "name": "Everyday Rewards",
+      "type": "credit",
+      "mask": "4242",
+      "openingBalance": 0,
+      "balance": -214.32,
+      "available": 4785.68,
+      "creditLimit": 5000,
+      "currency": "USD",
+      "status": "open"
+    },
+    {
+      "id": "account-005",
+      "institutionId": "inst-003",
+      "name": "Brokerage Cash",
+      "type": "brokerage",
+      "mask": "3308",
+      "openingBalance": 1200,
+      "balance": 1284.5,
+      "available": 1284.5,
+      "currency": "USD",
+      "status": "open"
     }
   ]
 }

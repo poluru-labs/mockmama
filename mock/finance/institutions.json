@@ -1,0 +1,25 @@
+{
+  "institutions": [
+    {
+      "id": "inst-001",
+      "name": "Cedar Credit Union",
+      "type": "credit-union",
+      "logo": "https://picsum.photos/seed/inst-cedar/80/80",
+      "accountIds": ["account-001", "account-002", "account-003"]
+    },
+    {
+      "id": "inst-002",
+      "name": "Harbor Card",
+      "type": "card-issuer",
+      "logo": "https://picsum.photos/seed/inst-harbor/80/80",
+      "accountIds": ["account-004"]
+    },
+    {
+      "id": "inst-003",
+      "name": "Orbit Brokerage",
+      "type": "brokerage",
+      "logo": "https://picsum.photos/seed/inst-orbit/80/80",
+      "accountIds": ["account-005"]
+    }
+  ]
+}
