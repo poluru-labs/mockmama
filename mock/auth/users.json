@@ -5,24 +5,91 @@
       "name": "Alex Morgan",
       "email": "alex@example.com",
       "role": "admin",
+      "organizationId": "org-001",
       "emailVerified": true,
-      "status": "active"
+      "mfaEnabled": true,
+      "status": "active",
+      "avatar": "https://picsum.photos/seed/auth-alex/200/200",
+      "lastLoginAt": "2026-09-26T18:04:00Z",
+      "createdAt": "2024-11-03T15:22:00Z"
     },
     {
       "id": "user-002",
       "name": "Sam Rivera",
       "email": "sam@example.com",
       "role": "member",
+      "organizationId": "org-001",
       "emailVerified": true,
-      "status": "active"
+      "mfaEnabled": false,
+      "status": "active",
+      "avatar": "https://picsum.photos/seed/auth-sam/200/200",
+      "lastLoginAt": "2026-09-25T21:40:00Z",
+      "createdAt": "2025-02-18T09:10:00Z"
     },
     {
       "id": "user-003",
       "name": "Taylor Kim",
       "email": "taylor@example.com",
       "role": "member",
+      "organizationId": "org-001",
       "emailVerified": false,
-      "status": "pending"
+      "mfaEnabled": false,
+      "status": "pending",
+      "avatar": "https://picsum.photos/seed/auth-taylor/200/200",
+      "lastLoginAt": null,
+      "createdAt": "2026-09-20T12:00:00Z"
+    },
+    {
+      "id": "user-004",
+      "name": "Mina Park",
+      "email": "mina.park@example.com",
+      "role": "viewer",
+      "organizationId": "org-001",
+      "emailVerified": true,
+      "mfaEnabled": true,
+      "status": "active",
+      "avatar": "https://picsum.photos/seed/auth-mina/200/200",
+      "lastLoginAt": "2026-09-24T14:02:00Z",
+      "createdAt": "2025-08-22T16:45:00Z"
+    },
+    {
+      "id": "user-005",
+      "name": "Casey Quinn",
+      "email": "casey.quinn@example.com",
+      "role": "member",
+      "organizationId": "org-002",
+      "emailVerified": true,
+      "mfaEnabled": false,
+      "status": "suspended",
+      "avatar": "https://picsum.photos/seed/auth-casey/200/200",
+      "lastLoginAt": "2026-08-28T10:15:00Z",
+      "createdAt": "2024-11-18T09:30:00Z"
+    },
+    {
+      "id": "user-006",
+      "name": "Riley Chen",
+      "email": "riley.chen@example.com",
+      "role": "member",
+      "organizationId": "org-001",
+      "emailVerified": true,
+      "mfaEnabled": true,
+      "status": "locked",
+      "avatar": "https://picsum.photos/seed/auth-riley/200/200",
+      "lastLoginAt": "2026-09-23T09:05:00Z",
+      "createdAt": "2026-05-09T08:18:00Z"
+    },
+    {
+      "id": "user-007",
+      "name": "Harper Diaz",
+      "email": "harper.diaz@example.com",
+      "role": "viewer",
+      "organizationId": "org-002",
+      "emailVerified": false,
+      "mfaEnabled": false,
+      "status": "invited",
+      "avatar": "https://picsum.photos/seed/auth-harper/200/200",
+      "lastLoginAt": null,
+      "createdAt": "2026-09-25T18:30:00Z"
     }
   ]
 }

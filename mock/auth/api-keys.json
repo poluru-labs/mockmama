@@ -1,0 +1,40 @@
+{
+  "apiKeys": [
+    {
+      "id": "key-001",
+      "userId": "user-001",
+      "organizationId": "org-001",
+      "name": "Local prototype",
+      "prefix": "mm_live_",
+      "last4": "9k2a",
+      "scopes": ["read", "write"],
+      "status": "active",
+      "createdAt": "2026-08-12T10:00:00Z",
+      "lastUsedAt": "2026-09-26T17:40:00Z"
+    },
+    {
+      "id": "key-002",
+      "userId": "user-001",
+      "organizationId": "org-001",
+      "name": "CI preview",
+      "prefix": "mm_test_",
+      "last4": "b3nq",
+      "scopes": ["read"],
+      "status": "active",
+      "createdAt": "2026-09-02T08:15:00Z",
+      "lastUsedAt": "2026-09-26T06:02:00Z"
+    },
+    {
+      "id": "key-003",
+      "userId": "user-002",
+      "organizationId": "org-001",
+      "name": "Old staging",
+      "prefix": "mm_test_",
+      "last4": "x81p",
+      "scopes": ["read"],
+      "status": "revoked",
+      "createdAt": "2026-03-11T14:00:00Z",
+      "lastUsedAt": "2026-06-01T11:22:00Z"
+    }
+  ]
+}

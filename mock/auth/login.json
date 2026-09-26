@@ -5,5 +5,41 @@
     "tokenType": "Bearer",
     "expiresIn": 3600,
     "userId": "user-001"
-  }
+  },
+  "examples": [
+    {
+      "id": "login-success-admin",
+      "email": "alex@example.com",
+      "password": "demo123",
+      "requiresMfa": true,
+      "userId": "user-001",
+      "accessToken": "mock-access-token-not-valid",
+      "refreshToken": "mock-refresh-token-not-valid",
+      "tokenType": "Bearer",
+      "expiresIn": 3600
+    },
+    {
+      "id": "login-success-member",
+      "email": "sam@example.com",
+      "password": "demo123",
+      "requiresMfa": false,
+      "userId": "user-002",
+      "accessToken": "mock-access-token-member-not-valid",
+      "refreshToken": "mock-refresh-token-member-not-valid",
+      "tokenType": "Bearer",
+      "expiresIn": 3600
+    },
+    {
+      "id": "login-mfa-challenge",
+      "email": "mina.park@example.com",
+      "password": "demo123",
+      "requiresMfa": true,
+      "userId": "user-004",
+      "mfaChallengeId": "mfa-001",
+      "accessToken": null,
+      "refreshToken": null,
+      "tokenType": null,
+      "expiresIn": 0
+    }
+  ]
 }

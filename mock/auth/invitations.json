@@ -1,0 +1,48 @@
+{
+  "invitations": [
+    {
+      "id": "invite-001",
+      "email": "harper.diaz@example.com",
+      "role": "viewer",
+      "organizationId": "org-002",
+      "invitedBy": "user-005",
+      "status": "pending",
+      "token": "mock-invite-token-not-valid",
+      "createdAt": "2026-09-25T18:30:00Z",
+      "expiresAt": "2026-10-02T18:30:00Z"
+    },
+    {
+      "id": "invite-002",
+      "email": "taylor@example.com",
+      "role": "member",
+      "organizationId": "org-001",
+      "invitedBy": "user-001",
+      "status": "accepted",
+      "token": "mock-invite-used-not-valid",
+      "createdAt": "2026-09-20T11:50:00Z",
+      "expiresAt": "2026-09-27T11:50:00Z"
+    },
+    {
+      "id": "invite-003",
+      "email": "jordan.reed@example.com",
+      "role": "member",
+      "organizationId": "org-001",
+      "invitedBy": "user-002",
+      "status": "expired",
+      "token": "mock-invite-expired-not-valid",
+      "createdAt": "2026-09-01T09:00:00Z",
+      "expiresAt": "2026-09-08T09:00:00Z"
+    },
+    {
+      "id": "invite-004",
+      "email": "priya.sharma@example.com",
+      "role": "viewer",
+      "organizationId": "org-001",
+      "invitedBy": "user-001",
+      "status": "revoked",
+      "token": "mock-invite-revoked-not-valid",
+      "createdAt": "2026-09-18T16:00:00Z",
+      "expiresAt": "2026-09-25T16:00:00Z"
+    }
+  ]
+}

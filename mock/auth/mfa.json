@@ -1,0 +1,31 @@
+{
+  "mfa": [
+    {
+      "id": "mfa-001",
+      "userId": "user-004",
+      "method": "totp",
+      "status": "challenge",
+      "hint": "Authenticator app ending in 04",
+      "createdAt": "2026-09-24T14:02:10Z",
+      "expiresAt": "2026-09-24T14:07:10Z"
+    },
+    {
+      "id": "mfa-002",
+      "userId": "user-001",
+      "method": "totp",
+      "status": "enrolled",
+      "hint": "Authenticator app ending in 01",
+      "createdAt": "2025-01-12T10:00:00Z",
+      "expiresAt": null
+    },
+    {
+      "id": "mfa-003",
+      "userId": "user-006",
+      "method": "recovery",
+      "status": "locked",
+      "hint": "Account locked after failed codes",
+      "createdAt": "2026-09-23T09:06:00Z",
+      "expiresAt": "2026-09-23T09:21:00Z"
+    }
+  ]
+}

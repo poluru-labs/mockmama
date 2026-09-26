@@ -1,0 +1,34 @@
+{
+  "verifications": [
+    {
+      "id": "verify-001",
+      "userId": "user-003",
+      "email": "taylor@example.com",
+      "type": "email",
+      "status": "pending",
+      "token": "mock-verify-pending-not-valid",
+      "createdAt": "2026-09-20T12:00:00Z",
+      "expiresAt": "2026-09-27T12:00:00Z"
+    },
+    {
+      "id": "verify-002",
+      "userId": "user-002",
+      "email": "sam@example.com",
+      "type": "email",
+      "status": "confirmed",
+      "token": "mock-verify-used-not-valid",
+      "createdAt": "2025-02-18T09:10:00Z",
+      "expiresAt": "2025-02-25T09:10:00Z"
+    },
+    {
+      "id": "verify-003",
+      "userId": "user-007",
+      "email": "harper.diaz@example.com",
+      "type": "email",
+      "status": "pending",
+      "token": "mock-verify-invite-not-valid",
+      "createdAt": "2026-09-25T18:30:00Z",
+      "expiresAt": "2026-10-02T18:30:00Z"
+    }
+  ]
+}

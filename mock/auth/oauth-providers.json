@@ -1,0 +1,25 @@
+{
+  "oauthProviders": [
+    {
+      "id": "oauth-google",
+      "name": "Google",
+      "type": "oidc",
+      "enabled": true,
+      "linkedUserIds": ["user-001", "user-002"]
+    },
+    {
+      "id": "oauth-github",
+      "name": "GitHub",
+      "type": "oauth2",
+      "enabled": true,
+      "linkedUserIds": ["user-001", "user-004"]
+    },
+    {
+      "id": "oauth-apple",
+      "name": "Apple",
+      "type": "oidc",
+      "enabled": false,
+      "linkedUserIds": []
+    }
+  ]
+}
