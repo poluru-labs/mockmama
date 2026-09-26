@@ -1,0 +1,76 @@
+{
+  "recurring": [
+    {
+      "id": "recurring-001",
+      "name": "Rent",
+      "merchantId": "merchant-004",
+      "accountId": "account-001",
+      "category": "housing",
+      "amount": 1650,
+      "currency": "USD",
+      "cadence": "monthly",
+      "nextOn": "2026-10-01",
+      "active": true
+    },
+    {
+      "id": "recurring-002",
+      "name": "Electric",
+      "merchantId": "merchant-009",
+      "accountId": "account-001",
+      "category": "utilities",
+      "amount": 86.2,
+      "currency": "USD",
+      "cadence": "monthly",
+      "nextOn": "2026-10-09",
+      "active": true
+    },
+    {
+      "id": "recurring-003",
+      "name": "Streamline",
+      "merchantId": "merchant-008",
+      "accountId": "account-004",
+      "category": "subscriptions",
+      "amount": 15.99,
+      "currency": "USD",
+      "cadence": "monthly",
+      "nextOn": "2026-10-08",
+      "active": true
+    },
+    {
+      "id": "recurring-004",
+      "name": "Transit pass",
+      "merchantId": "merchant-006",
+      "accountId": "account-004",
+      "category": "transport",
+      "amount": 72,
+      "currency": "USD",
+      "cadence": "monthly",
+      "nextOn": "2026-10-03",
+      "active": true
+    },
+    {
+      "id": "recurring-005",
+      "name": "Rainy day sweep",
+      "merchantId": null,
+      "accountId": "account-001",
+      "category": "transfer",
+      "amount": 250,
+      "currency": "USD",
+      "cadence": "monthly",
+      "nextOn": "2026-10-21",
+      "active": true
+    },
+    {
+      "id": "recurring-006",
+      "name": "Paycheck",
+      "merchantId": "merchant-003",
+      "accountId": "account-001",
+      "category": "income",
+      "amount": 2480,
+      "currency": "USD",
+      "cadence": "semimonthly",
+      "nextOn": "2026-09-30",
+      "active": true
+    }
+  ]
+}

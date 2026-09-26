@@ -1,0 +1,34 @@
+{
+  "goals": [
+    {
+      "id": "goal-001",
+      "name": "Emergency fund",
+      "accountId": "account-002",
+      "target": 10000,
+      "current": 5250,
+      "currency": "USD",
+      "targetDate": "2027-03-01",
+      "status": "on-track"
+    },
+    {
+      "id": "goal-002",
+      "name": "Chicago trip",
+      "accountId": "account-003",
+      "target": 1500,
+      "current": 800,
+      "currency": "USD",
+      "targetDate": "2026-10-17",
+      "status": "behind"
+    },
+    {
+      "id": "goal-003",
+      "name": "Brokerage cash buffer",
+      "accountId": "account-005",
+      "target": 2000,
+      "current": 1284.5,
+      "currency": "USD",
+      "targetDate": "2026-12-31",
+      "status": "on-track"
+    }
+  ]
+}

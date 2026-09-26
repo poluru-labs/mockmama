@@ -1,0 +1,64 @@
+{
+  "merchants": [
+    {
+      "id": "merchant-001",
+      "name": "Green Basket",
+      "category": "groceries",
+      "logo": "https://picsum.photos/seed/merchant-green/80/80"
+    },
+    {
+      "id": "merchant-002",
+      "name": "Harbor Inn",
+      "category": "travel",
+      "logo": "https://picsum.photos/seed/merchant-harbor/80/80"
+    },
+    {
+      "id": "merchant-003",
+      "name": "Northstar Services",
+      "category": "income",
+      "logo": "https://picsum.photos/seed/merchant-northstar/80/80"
+    },
+    {
+      "id": "merchant-004",
+      "name": "Brickline Residences",
+      "category": "housing",
+      "logo": "https://picsum.photos/seed/merchant-brickline/80/80"
+    },
+    {
+      "id": "merchant-005",
+      "name": "Maple Kitchen",
+      "category": "dining",
+      "logo": "https://picsum.photos/seed/merchant-maple/80/80"
+    },
+    {
+      "id": "merchant-006",
+      "name": "City Transit",
+      "category": "transport",
+      "logo": "https://picsum.photos/seed/merchant-transit/80/80"
+    },
+    {
+      "id": "merchant-007",
+      "name": "Cedar Pharmacy",
+      "category": "health",
+      "logo": "https://picsum.photos/seed/merchant-pharm/80/80"
+    },
+    {
+      "id": "merchant-008",
+      "name": "Streamline",
+      "category": "subscriptions",
+      "logo": "https://picsum.photos/seed/merchant-stream/80/80"
+    },
+    {
+      "id": "merchant-009",
+      "name": "Austin Energy",
+      "category": "utilities",
+      "logo": "https://picsum.photos/seed/merchant-energy/80/80"
+    },
+    {
+      "id": "merchant-010",
+      "name": "Corner Cup",
+      "category": "dining",
+      "logo": "https://picsum.photos/seed/merchant-cup/80/80"
+    }
+  ]
+}

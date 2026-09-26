@@ -1,0 +1,59 @@
+{
+  "bills": [
+    {
+      "id": "bill-001",
+      "merchantId": "merchant-004",
+      "accountId": "account-001",
+      "name": "Rent",
+      "amount": 1650,
+      "currency": "USD",
+      "dueOn": "2026-10-01",
+      "status": "upcoming",
+      "recurringId": "recurring-001"
+    },
+    {
+      "id": "bill-002",
+      "merchantId": "merchant-009",
+      "accountId": "account-001",
+      "name": "Electric",
+      "amount": 86.2,
+      "currency": "USD",
+      "dueOn": "2026-09-09",
+      "status": "paid",
+      "recurringId": "recurring-002"
+    },
+    {
+      "id": "bill-003",
+      "merchantId": "merchant-008",
+      "accountId": "account-004",
+      "name": "Streamline",
+      "amount": 15.99,
+      "currency": "USD",
+      "dueOn": "2026-10-08",
+      "status": "upcoming",
+      "recurringId": "recurring-003"
+    },
+    {
+      "id": "bill-004",
+      "merchantId": "merchant-006",
+      "accountId": "account-004",
+      "name": "Transit pass",
+      "amount": 72,
+      "currency": "USD",
+      "dueOn": "2026-10-03",
+      "status": "upcoming",
+      "recurringId": "recurring-004"
+    },
+    {
+      "id": "bill-005",
+      "merchantId": "merchant-002",
+      "accountId": "account-003",
+      "name": "Harbor Inn hold",
+      "amount": 120,
+      "currency": "USD",
+      "dueOn": "2026-09-22",
+      "status": "pending",
+      "recurringId": null
+    }
+  ]
+}
