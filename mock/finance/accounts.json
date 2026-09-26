@@ -1,0 +1,28 @@
+{
+  "accounts": [
+    {
+      "id": "account-001",
+      "name": "Everyday Checking",
+      "type": "checking",
+      "openingBalance": 1500,
+      "balance": 1425,
+      "currency": "USD"
+    },
+    {
+      "id": "account-002",
+      "name": "Rainy Day Savings",
+      "type": "savings",
+      "openingBalance": 5000,
+      "balance": 5250,
+      "currency": "USD"
+    },
+    {
+      "id": "account-003",
+      "name": "Travel Fund",
+      "type": "savings",
+      "openingBalance": 800,
+      "balance": 800,
+      "currency": "USD"
+    }
+  ]
+}
