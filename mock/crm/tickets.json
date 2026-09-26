@@ -1,0 +1,74 @@
+{
+  "tickets": [
+    {
+      "id": "ticket-001",
+      "number": "CS-1842",
+      "companyId": "company-001",
+      "contactId": "contact-001",
+      "ownerId": "owner-003",
+      "subject": "Workspace SSO timeout",
+      "description": "Pineworks users are kicked after 20 minutes on the shop-floor kiosk.",
+      "priority": "high",
+      "status": "open",
+      "channel": "email",
+      "createdAt": "2026-09-21T08:14:00.000Z",
+      "updatedAt": "2026-09-25T11:02:00.000Z"
+    },
+    {
+      "id": "ticket-002",
+      "number": "CS-1790",
+      "companyId": "company-005",
+      "contactId": "contact-006",
+      "ownerId": "owner-003",
+      "subject": "Onboarding visit window",
+      "description": "Need a 6:30pm start for the Boston clinic. Day staff cannot leave the floor.",
+      "priority": "medium",
+      "status": "pending",
+      "channel": "chat",
+      "createdAt": "2026-09-04T19:40:00.000Z",
+      "updatedAt": "2026-09-11T13:20:00.000Z"
+    },
+    {
+      "id": "ticket-003",
+      "number": "CS-1764",
+      "companyId": "company-008",
+      "contactId": "contact-009",
+      "ownerId": "owner-003",
+      "subject": "Brand kit export",
+      "description": "Autumn SKU photos export as RGB. Print vendor asked for CMYK.",
+      "priority": "low",
+      "status": "resolved",
+      "channel": "email",
+      "createdAt": "2026-08-16T10:05:00.000Z",
+      "updatedAt": "2026-08-18T15:30:00.000Z"
+    },
+    {
+      "id": "ticket-004",
+      "number": "CS-1855",
+      "companyId": "company-007",
+      "contactId": "contact-008",
+      "ownerId": "owner-004",
+      "subject": "Sandbox Okta mapping",
+      "description": "Groups from Atlas freight-ops IdP are not landing in the staging workspace.",
+      "priority": "high",
+      "status": "open",
+      "channel": "slack",
+      "createdAt": "2026-09-23T09:20:00.000Z",
+      "updatedAt": "2026-09-25T16:45:00.000Z"
+    },
+    {
+      "id": "ticket-005",
+      "number": "CS-1702",
+      "companyId": "company-003",
+      "contactId": "contact-003",
+      "ownerId": "owner-003",
+      "subject": "Seat cancellation",
+      "description": "Requested unused-seat credit after they chose the incumbent. Closed as no-credit per policy.",
+      "priority": "medium",
+      "status": "closed",
+      "channel": "email",
+      "createdAt": "2026-09-18T17:10:00.000Z",
+      "updatedAt": "2026-09-19T09:00:00.000Z"
+    }
+  ]
+}

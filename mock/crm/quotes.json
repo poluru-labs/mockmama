@@ -1,0 +1,162 @@
+{
+  "quotes": [
+    {
+      "id": "quote-001",
+      "number": "Q-2026-014",
+      "dealId": "deal-001",
+      "companyId": "company-001",
+      "contactId": "contact-001",
+      "ownerId": "owner-001",
+      "status": "sent",
+      "currency": "USD",
+      "subtotal": 18000,
+      "discount": 0,
+      "total": 18000,
+      "validUntil": "2026-10-15",
+      "createdAt": "2026-09-22T16:00:00.000Z",
+      "lineItems": [
+        {
+          "productId": "product-001",
+          "name": "Workspace Annual",
+          "quantity": 1,
+          "unitPrice": 18000,
+          "lineTotal": 18000
+        }
+      ]
+    },
+    {
+      "id": "quote-002",
+      "number": "Q-2026-021",
+      "dealId": "deal-002",
+      "companyId": "company-002",
+      "contactId": "contact-002",
+      "ownerId": "owner-002",
+      "status": "draft",
+      "currency": "USD",
+      "subtotal": 2400,
+      "discount": 0,
+      "total": 2400,
+      "validUntil": "2026-11-01",
+      "createdAt": "2026-09-18T11:50:00.000Z",
+      "lineItems": [
+        {
+          "productId": "product-002",
+          "name": "Studio Pilot",
+          "quantity": 1,
+          "unitPrice": 2400,
+          "lineTotal": 2400
+        }
+      ]
+    },
+    {
+      "id": "quote-003",
+      "number": "Q-2026-009",
+      "dealId": "deal-003",
+      "companyId": "company-003",
+      "contactId": "contact-003",
+      "ownerId": "owner-003",
+      "status": "rejected",
+      "currency": "USD",
+      "subtotal": 9600,
+      "discount": 0,
+      "total": 9600,
+      "validUntil": "2026-09-18",
+      "createdAt": "2026-08-20T10:00:00.000Z",
+      "lineItems": [
+        {
+          "productId": "product-003",
+          "name": "Team Rollout",
+          "quantity": 1,
+          "unitPrice": 9600,
+          "lineTotal": 9600
+        }
+      ]
+    },
+    {
+      "id": "quote-004",
+      "number": "Q-2026-028",
+      "dealId": "deal-004",
+      "companyId": "company-004",
+      "contactId": "contact-005",
+      "ownerId": "owner-001",
+      "status": "sent",
+      "currency": "USD",
+      "subtotal": 45500,
+      "discount": 3500,
+      "total": 42000,
+      "validUntil": "2026-10-30",
+      "createdAt": "2026-09-25T09:30:00.000Z",
+      "lineItems": [
+        {
+          "productId": "product-003",
+          "name": "Team Rollout",
+          "quantity": 1,
+          "unitPrice": 9600,
+          "lineTotal": 9600
+        },
+        {
+          "productId": "product-004",
+          "name": "Enterprise SSO",
+          "quantity": 1,
+          "unitPrice": 21000,
+          "lineTotal": 21000
+        },
+        {
+          "productId": "product-005",
+          "name": "Onsite onboarding",
+          "quantity": 1,
+          "unitPrice": 3500,
+          "lineTotal": 3500
+        }
+      ]
+    },
+    {
+      "id": "quote-005",
+      "number": "Q-2026-011",
+      "dealId": "deal-005",
+      "companyId": "company-005",
+      "contactId": "contact-006",
+      "ownerId": "owner-004",
+      "status": "accepted",
+      "currency": "USD",
+      "subtotal": 14400,
+      "discount": 0,
+      "total": 14400,
+      "validUntil": "2026-09-01",
+      "createdAt": "2026-08-12T14:15:00.000Z",
+      "lineItems": [
+        {
+          "productId": "product-001",
+          "name": "Workspace Annual",
+          "quantity": 1,
+          "unitPrice": 14400,
+          "lineTotal": 14400
+        }
+      ]
+    },
+    {
+      "id": "quote-006",
+      "number": "Q-2026-030",
+      "dealId": "deal-007",
+      "companyId": "company-007",
+      "contactId": "contact-008",
+      "ownerId": "owner-004",
+      "status": "sent",
+      "currency": "USD",
+      "subtotal": 21000,
+      "discount": 0,
+      "total": 21000,
+      "validUntil": "2026-10-22",
+      "createdAt": "2026-09-23T10:00:00.000Z",
+      "lineItems": [
+        {
+          "productId": "product-004",
+          "name": "Enterprise SSO",
+          "quantity": 1,
+          "unitPrice": 21000,
+          "lineTotal": 21000
+        }
+      ]
+    }
+  ]
+}

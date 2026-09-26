@@ -1,0 +1,31 @@
+{
+  "pipelines": [
+    {
+      "id": "pipeline-001",
+      "name": "New business",
+      "type": "sales",
+      "isDefault": true,
+      "stages": [
+        { "id": "lead", "name": "Lead", "sortOrder": 1, "probabilityPercent": 10, "isClosed": false },
+        { "id": "qualified", "name": "Qualified", "sortOrder": 2, "probabilityPercent": 35, "isClosed": false },
+        { "id": "proposal", "name": "Proposal", "sortOrder": 3, "probabilityPercent": 55, "isClosed": false },
+        { "id": "negotiation", "name": "Negotiation", "sortOrder": 4, "probabilityPercent": 75, "isClosed": false },
+        { "id": "won", "name": "Won", "sortOrder": 5, "probabilityPercent": 100, "isClosed": true },
+        { "id": "lost", "name": "Lost", "sortOrder": 6, "probabilityPercent": 0, "isClosed": true }
+      ]
+    },
+    {
+      "id": "pipeline-002",
+      "name": "Expansion",
+      "type": "sales",
+      "isDefault": false,
+      "stages": [
+        { "id": "qualified", "name": "Qualified", "sortOrder": 1, "probabilityPercent": 35, "isClosed": false },
+        { "id": "proposal", "name": "Proposal", "sortOrder": 2, "probabilityPercent": 55, "isClosed": false },
+        { "id": "negotiation", "name": "Negotiation", "sortOrder": 3, "probabilityPercent": 70, "isClosed": false },
+        { "id": "won", "name": "Won", "sortOrder": 4, "probabilityPercent": 100, "isClosed": true },
+        { "id": "lost", "name": "Lost", "sortOrder": 5, "probabilityPercent": 0, "isClosed": true }
+      ]
+    }
+  ]
+}

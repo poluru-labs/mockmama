@@ -1,0 +1,70 @@
+{
+  "notes": [
+    {
+      "id": "note-001",
+      "ownerId": "owner-001",
+      "companyId": "company-001",
+      "contactId": "contact-001",
+      "dealId": "deal-001",
+      "title": "Buying committee",
+      "body": "Avery signs ops. Sam has to approve any seat split over $5k. Do not send one invoice for both workspaces.",
+      "pinned": true,
+      "createdAt": "2026-09-08T16:50:00.000Z"
+    },
+    {
+      "id": "note-002",
+      "ownerId": "owner-002",
+      "companyId": "company-002",
+      "contactId": "contact-002",
+      "dealId": "deal-002",
+      "title": "Design-tool stack",
+      "body": "They already pay for Figma. Pilot needs to feel like a complement, not another canvas.",
+      "pinned": false,
+      "createdAt": "2026-08-19T09:45:00.000Z"
+    },
+    {
+      "id": "note-003",
+      "ownerId": "owner-003",
+      "companyId": "company-003",
+      "contactId": "contact-003",
+      "dealId": "deal-003",
+      "title": "Why we lost",
+      "body": "Price was fine. They had unused seats on the incumbent and a cancellation fee through March 2027.",
+      "pinned": true,
+      "createdAt": "2026-09-18T16:50:00.000Z"
+    },
+    {
+      "id": "note-004",
+      "ownerId": "owner-001",
+      "companyId": "company-004",
+      "contactId": "contact-005",
+      "dealId": "deal-004",
+      "title": "Site constraints",
+      "body": "Houston yard has spotty LTE on the south fence. Offline mode is a must-have in the proposal.",
+      "pinned": false,
+      "createdAt": "2026-09-24T14:10:00.000Z"
+    },
+    {
+      "id": "note-005",
+      "ownerId": "owner-004",
+      "companyId": "company-005",
+      "contactId": "contact-006",
+      "dealId": "deal-005",
+      "title": "Clinic hours",
+      "body": "Onsite onboarding has to start after 6pm. Daytime floor is full.",
+      "pinned": false,
+      "createdAt": "2026-09-01T17:40:00.000Z"
+    },
+    {
+      "id": "note-006",
+      "ownerId": "owner-003",
+      "companyId": "company-008",
+      "contactId": "contact-009",
+      "dealId": "deal-008",
+      "title": "Brand kit files",
+      "body": "Nina will send autumn SKU photos next week. Hold the expansion invoice until those land.",
+      "pinned": false,
+      "createdAt": "2026-08-14T19:20:00.000Z"
+    }
+  ]
+}

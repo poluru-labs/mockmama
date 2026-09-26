@@ -1,0 +1,59 @@
+{
+  "owners": [
+    {
+      "id": "owner-001",
+      "name": "Alex Morgan",
+      "email": "alex.morgan@mockmama.example.com",
+      "role": "account-executive",
+      "team": "Mid-market",
+      "quota": 450000,
+      "currency": "USD",
+      "status": "active",
+      "avatar": "https://picsum.photos/seed/crm-owner-001/200/200"
+    },
+    {
+      "id": "owner-002",
+      "name": "Sam Rivera",
+      "email": "sam.rivera@mockmama.example.com",
+      "role": "sdr",
+      "team": "Inbound",
+      "quota": 120000,
+      "currency": "USD",
+      "status": "active",
+      "avatar": "https://picsum.photos/seed/crm-owner-002/200/200"
+    },
+    {
+      "id": "owner-003",
+      "name": "Taylor Kim",
+      "email": "taylor.kim@mockmama.example.com",
+      "role": "customer-success",
+      "team": "Renewals",
+      "quota": 200000,
+      "currency": "USD",
+      "status": "active",
+      "avatar": "https://picsum.photos/seed/crm-owner-003/200/200"
+    },
+    {
+      "id": "owner-004",
+      "name": "Mina Park",
+      "email": "mina.park@mockmama.example.com",
+      "role": "account-executive",
+      "team": "Enterprise",
+      "quota": 600000,
+      "currency": "USD",
+      "status": "active",
+      "avatar": "https://picsum.photos/seed/crm-owner-004/200/200"
+    },
+    {
+      "id": "owner-005",
+      "name": "Jordan Blake",
+      "email": "jordan.blake@mockmama.example.com",
+      "role": "manager",
+      "team": "Sales",
+      "quota": 1400000,
+      "currency": "USD",
+      "status": "active",
+      "avatar": "https://picsum.photos/seed/crm-owner-005/200/200"
+    }
+  ]
+}
