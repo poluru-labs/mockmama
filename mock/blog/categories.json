@@ -3,17 +3,47 @@
     {
       "id": "category-001",
       "name": "Design",
-      "slug": "design"
+      "slug": "design",
+      "description": "Interface patterns, empty states, and visual systems.",
+      "color": "#2563eb",
+      "articleCount": 3,
+      "featured": true
     },
     {
       "id": "category-002",
       "name": "Development",
-      "slug": "development"
+      "slug": "development",
+      "description": "Frontend, APIs, and working with mock data.",
+      "color": "#059669",
+      "articleCount": 3,
+      "featured": true
     },
     {
       "id": "category-003",
       "name": "Creativity",
-      "slug": "creativity"
+      "slug": "creativity",
+      "description": "Habits, sketching, and making space to try things.",
+      "color": "#d97706",
+      "articleCount": 2,
+      "featured": false
+    },
+    {
+      "id": "category-004",
+      "name": "Product",
+      "slug": "product",
+      "description": "Roadmaps, research, and shipping without the keynote tone.",
+      "color": "#7c3aed",
+      "articleCount": 2,
+      "featured": true
+    },
+    {
+      "id": "category-005",
+      "name": "Process",
+      "slug": "process",
+      "description": "How teams write, review, and publish.",
+      "color": "#dc2626",
+      "articleCount": 1,
+      "featured": false
     }
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "tags": [
+    { "id": "tag-ux", "name": "UX", "slug": "ux", "articleCount": 5 },
+    { "id": "tag-design", "name": "Design", "slug": "design", "articleCount": 3 },
+    { "id": "tag-api", "name": "API", "slug": "api", "articleCount": 2 },
+    { "id": "tag-frontend", "name": "Frontend", "slug": "frontend", "articleCount": 3 },
+    { "id": "tag-habits", "name": "Habits", "slug": "habits", "articleCount": 2 },
+    { "id": "tag-writing", "name": "Writing", "slug": "writing", "articleCount": 2 },
+    { "id": "tag-product", "name": "Product", "slug": "product", "articleCount": 2 },
+    { "id": "tag-sketch", "name": "Sketch", "slug": "sketch", "articleCount": 1 },
+    { "id": "tag-research", "name": "Research", "slug": "research", "articleCount": 1 },
+    { "id": "tag-process", "name": "Process", "slug": "process", "articleCount": 1 }
+  ]
+}

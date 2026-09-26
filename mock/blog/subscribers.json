@@ -1,0 +1,74 @@
+{
+  "subscribers": [
+    {
+      "id": "sub-001",
+      "email": "priya.sharma@example.com",
+      "name": "Priya Sharma",
+      "status": "active",
+      "source": "article",
+      "articleId": "article-001",
+      "confirmedAt": "2026-09-18T16:30:00Z",
+      "createdAt": "2026-09-18T16:28:00Z"
+    },
+    {
+      "id": "sub-002",
+      "email": "alex@example.com",
+      "name": "Alex Morgan",
+      "status": "active",
+      "source": "website",
+      "articleId": null,
+      "confirmedAt": "2026-08-02T10:12:00Z",
+      "createdAt": "2026-08-02T10:10:00Z"
+    },
+    {
+      "id": "sub-003",
+      "email": "jordan@clearwater.example.com",
+      "name": "Jordan Reed",
+      "status": "active",
+      "source": "article",
+      "articleId": "article-006",
+      "confirmedAt": "2026-09-04T18:25:00Z",
+      "createdAt": "2026-09-04T18:24:00Z"
+    },
+    {
+      "id": "sub-004",
+      "email": "sam@example.com",
+      "name": "Sam Rivera",
+      "status": "active",
+      "source": "newsletter-page",
+      "articleId": null,
+      "confirmedAt": "2026-09-01T15:50:00Z",
+      "createdAt": "2026-09-01T15:48:00Z"
+    },
+    {
+      "id": "sub-005",
+      "email": "pending.reader@example.com",
+      "name": "Riley Chen",
+      "status": "pending",
+      "source": "website",
+      "articleId": null,
+      "confirmedAt": null,
+      "createdAt": "2026-09-26T08:05:00Z"
+    },
+    {
+      "id": "sub-006",
+      "email": "unsubscribed@example.com",
+      "name": "Casey Quinn",
+      "status": "unsubscribed",
+      "source": "article",
+      "articleId": "article-002",
+      "confirmedAt": "2026-07-11T09:00:00Z",
+      "createdAt": "2026-07-11T08:58:00Z"
+    },
+    {
+      "id": "sub-007",
+      "email": "sofia.alvarez@example.com",
+      "name": "Sofia Alvarez",
+      "status": "active",
+      "source": "article",
+      "articleId": "article-002",
+      "confirmedAt": "2026-09-21T11:22:00Z",
+      "createdAt": "2026-09-21T11:20:00Z"
+    }
+  ]
+}

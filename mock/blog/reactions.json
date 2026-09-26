@@ -1,0 +1,16 @@
+{
+  "reactions": [
+    { "id": "rxn-001", "articleId": "article-001", "type": "like", "count": 96 },
+    { "id": "rxn-002", "articleId": "article-001", "type": "bookmark", "count": 41 },
+    { "id": "rxn-003", "articleId": "article-002", "type": "like", "count": 134 },
+    { "id": "rxn-004", "articleId": "article-002", "type": "bookmark", "count": 67 },
+    { "id": "rxn-005", "articleId": "article-004", "type": "like", "count": 71 },
+    { "id": "rxn-006", "articleId": "article-005", "type": "like", "count": 88 },
+    { "id": "rxn-007", "articleId": "article-006", "type": "like", "count": 120 },
+    { "id": "rxn-008", "articleId": "article-006", "type": "share", "count": 38 },
+    { "id": "rxn-009", "articleId": "article-007", "type": "like", "count": 54 },
+    { "id": "rxn-010", "articleId": "article-009", "type": "like", "count": 29 },
+    { "id": "rxn-011", "articleId": "article-010", "type": "like", "count": 63 },
+    { "id": "rxn-012", "articleId": "article-010", "type": "bookmark", "count": 22 }
+  ]
+}
