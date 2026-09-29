@@ -54,6 +54,149 @@
       "dueOn": "2026-09-22",
       "status": "pending",
       "recurringId": null
+    },
+    {
+      "id": "bill-006",
+      "merchantId": "merchant-004",
+      "accountId": "account-001",
+      "name": "Rent",
+      "amount": 1650,
+      "currency": "USD",
+      "dueOn": "2026-09-01",
+      "status": "paid",
+      "recurringId": "recurring-001"
+    },
+    {
+      "id": "bill-007",
+      "merchantId": "merchant-009",
+      "accountId": "account-001",
+      "name": "Electric",
+      "amount": 91.4,
+      "currency": "USD",
+      "dueOn": "2026-10-09",
+      "status": "upcoming",
+      "recurringId": "recurring-002"
+    },
+    {
+      "id": "bill-008",
+      "merchantId": "merchant-008",
+      "accountId": "account-004",
+      "name": "Streamline",
+      "amount": 15.99,
+      "currency": "USD",
+      "dueOn": "2026-09-08",
+      "status": "paid",
+      "recurringId": "recurring-003"
+    },
+    {
+      "id": "bill-009",
+      "merchantId": "merchant-006",
+      "accountId": "account-004",
+      "name": "Transit pass",
+      "amount": 72,
+      "currency": "USD",
+      "dueOn": "2026-09-03",
+      "status": "paid",
+      "recurringId": "recurring-004"
+    },
+    {
+      "id": "bill-010",
+      "merchantId": "merchant-007",
+      "accountId": "account-004",
+      "name": "Pharmacy copay",
+      "amount": 18.52,
+      "currency": "USD",
+      "dueOn": "2026-09-25",
+      "status": "overdue",
+      "recurringId": null
+    },
+    {
+      "id": "bill-011",
+      "merchantId": "merchant-001",
+      "accountId": "account-001",
+      "name": "Green Basket order",
+      "amount": 64.18,
+      "currency": "USD",
+      "dueOn": "2026-09-27",
+      "status": "overdue",
+      "recurringId": null
+    },
+    {
+      "id": "bill-012",
+      "merchantId": null,
+      "accountId": "account-001",
+      "name": "Rainy day sweep",
+      "amount": 250,
+      "currency": "USD",
+      "dueOn": "2026-10-21",
+      "status": "scheduled",
+      "recurringId": "recurring-005"
+    },
+    {
+      "id": "bill-013",
+      "merchantId": "merchant-009",
+      "accountId": "account-001",
+      "name": "Electric",
+      "amount": 79.1,
+      "currency": "USD",
+      "dueOn": "2026-08-09",
+      "status": "failed",
+      "recurringId": "recurring-002"
+    },
+    {
+      "id": "bill-014",
+      "merchantId": "merchant-005",
+      "accountId": "account-004",
+      "name": "Maple Kitchen tab",
+      "amount": 42.8,
+      "currency": "USD",
+      "dueOn": "2026-09-18",
+      "status": "paid",
+      "recurringId": null
+    },
+    {
+      "id": "bill-015",
+      "merchantId": "merchant-010",
+      "accountId": "account-004",
+      "name": "Corner Cup",
+      "amount": 6.6,
+      "currency": "USD",
+      "dueOn": "2026-09-28",
+      "status": "pending",
+      "recurringId": null
+    },
+    {
+      "id": "bill-016",
+      "merchantId": null,
+      "accountId": "account-004",
+      "name": "Card minimum payment",
+      "amount": 35,
+      "currency": "USD",
+      "dueOn": "2026-10-12",
+      "status": "upcoming",
+      "recurringId": null
+    },
+    {
+      "id": "bill-017",
+      "merchantId": "merchant-002",
+      "accountId": "account-003",
+      "name": "Harbor Inn remainder",
+      "amount": 210,
+      "currency": "USD",
+      "dueOn": "2026-10-17",
+      "status": "upcoming",
+      "recurringId": null
+    },
+    {
+      "id": "bill-018",
+      "merchantId": "merchant-007",
+      "accountId": "account-001",
+      "name": "Pharmacy refill",
+      "amount": 24.9,
+      "currency": "USD",
+      "dueOn": "2026-10-04",
+      "status": "upcoming",
+      "recurringId": null
     }
   ]
 }
