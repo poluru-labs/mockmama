@@ -1,0 +1,70 @@
+{
+  "interviews": [
+    {
+      "id": "int-001",
+      "applicationId": "app-001",
+      "jobId": "job-001",
+      "candidateId": "candidate-001",
+      "type": "phone",
+      "status": "completed",
+      "scheduledAt": "2026-09-22T16:00:00Z",
+      "durationMinutes": 30,
+      "interviewers": ["recruiter-001"]
+    },
+    {
+      "id": "int-002",
+      "applicationId": "app-001",
+      "jobId": "job-001",
+      "candidateId": "candidate-001",
+      "type": "technical",
+      "status": "scheduled",
+      "scheduledAt": "2026-10-02T17:00:00Z",
+      "durationMinutes": 60,
+      "interviewers": ["recruiter-001"]
+    },
+    {
+      "id": "int-003",
+      "applicationId": "app-002",
+      "jobId": "job-001",
+      "candidateId": "candidate-002",
+      "type": "onsite",
+      "status": "scheduled",
+      "scheduledAt": "2026-10-06T14:00:00Z",
+      "durationMinutes": 240,
+      "interviewers": ["recruiter-001", "recruiter-002"]
+    },
+    {
+      "id": "int-004",
+      "applicationId": "app-003",
+      "jobId": "job-002",
+      "candidateId": "candidate-003",
+      "type": "portfolio",
+      "status": "completed",
+      "scheduledAt": "2026-09-20T18:00:00Z",
+      "durationMinutes": 45,
+      "interviewers": ["recruiter-002"]
+    },
+    {
+      "id": "int-005",
+      "applicationId": "app-006",
+      "jobId": "job-006",
+      "candidateId": "candidate-006",
+      "type": "onsite",
+      "status": "scheduled",
+      "scheduledAt": "2026-10-01T15:00:00Z",
+      "durationMinutes": 90,
+      "interviewers": ["recruiter-004"]
+    },
+    {
+      "id": "int-006",
+      "applicationId": "app-004",
+      "jobId": "job-004",
+      "candidateId": "candidate-004",
+      "type": "phone",
+      "status": "canceled",
+      "scheduledAt": "2026-09-24T13:00:00Z",
+      "durationMinutes": 30,
+      "interviewers": ["recruiter-003"]
+    }
+  ]
+}

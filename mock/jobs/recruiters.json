@@ -1,0 +1,36 @@
+{
+  "recruiters": [
+    {
+      "id": "recruiter-001",
+      "name": "Alex Morgan",
+      "email": "alex.morgan@mockmama.example.com",
+      "companyId": "company-001",
+      "title": "Technical recruiter",
+      "avatar": "https://picsum.photos/seed/auth-alex/200/200"
+    },
+    {
+      "id": "recruiter-002",
+      "name": "Sam Rivera",
+      "email": "sam.rivera@mockmama.example.com",
+      "companyId": "company-001",
+      "title": "Design recruiter",
+      "avatar": "https://picsum.photos/seed/auth-sam/200/200"
+    },
+    {
+      "id": "recruiter-003",
+      "name": "Mina Park",
+      "email": "mina.park@apex.example.com",
+      "companyId": "company-005",
+      "title": "Staffing lead",
+      "avatar": "https://picsum.photos/seed/auth-mina/200/200"
+    },
+    {
+      "id": "recruiter-004",
+      "name": "Riley Chen",
+      "email": "riley@harborline.example.com",
+      "companyId": "company-003",
+      "title": "Ops recruiter",
+      "avatar": "https://picsum.photos/seed/auth-riley/200/200"
+    }
+  ]
+}

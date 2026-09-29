@@ -1,0 +1,34 @@
+{
+  "savedJobs": [
+    {
+      "id": "saved-001",
+      "candidateId": "candidate-001",
+      "jobId": "job-003",
+      "savedAt": "2026-09-19T08:00:00Z"
+    },
+    {
+      "id": "saved-002",
+      "candidateId": "candidate-002",
+      "jobId": "job-001",
+      "savedAt": "2026-09-09T21:15:00Z"
+    },
+    {
+      "id": "saved-003",
+      "candidateId": "candidate-003",
+      "jobId": "job-005",
+      "savedAt": "2026-09-22T16:40:00Z"
+    },
+    {
+      "id": "saved-004",
+      "candidateId": "candidate-005",
+      "jobId": "job-010",
+      "savedAt": "2026-09-25T11:02:00Z"
+    },
+    {
+      "id": "saved-005",
+      "candidateId": "candidate-008",
+      "jobId": "job-002",
+      "savedAt": "2026-09-21T19:30:00Z"
+    }
+  ]
+}

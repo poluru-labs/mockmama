@@ -1,0 +1,104 @@
+{
+  "applications": [
+    {
+      "id": "app-001",
+      "jobId": "job-001",
+      "candidateId": "candidate-001",
+      "recruiterId": "recruiter-001",
+      "status": "interview",
+      "source": "site",
+      "appliedAt": "2026-09-14T16:20:00Z",
+      "updatedAt": "2026-09-26T11:00:00Z"
+    },
+    {
+      "id": "app-002",
+      "jobId": "job-001",
+      "candidateId": "candidate-002",
+      "recruiterId": "recruiter-001",
+      "status": "onsite",
+      "source": "referral",
+      "appliedAt": "2026-09-10T09:05:00Z",
+      "updatedAt": "2026-09-27T14:40:00Z"
+    },
+    {
+      "id": "app-003",
+      "jobId": "job-002",
+      "candidateId": "candidate-003",
+      "recruiterId": "recruiter-002",
+      "status": "offer",
+      "source": "site",
+      "appliedAt": "2026-09-13T18:00:00Z",
+      "updatedAt": "2026-09-28T10:15:00Z"
+    },
+    {
+      "id": "app-004",
+      "jobId": "job-004",
+      "candidateId": "candidate-004",
+      "recruiterId": "recruiter-003",
+      "status": "screen",
+      "source": "linkedin",
+      "appliedAt": "2026-09-20T13:33:00Z",
+      "updatedAt": "2026-09-22T09:00:00Z"
+    },
+    {
+      "id": "app-005",
+      "jobId": "job-005",
+      "candidateId": "candidate-005",
+      "recruiterId": "recruiter-002",
+      "status": "review",
+      "source": "site",
+      "appliedAt": "2026-09-23T08:12:00Z",
+      "updatedAt": "2026-09-23T08:12:00Z"
+    },
+    {
+      "id": "app-006",
+      "jobId": "job-006",
+      "candidateId": "candidate-006",
+      "recruiterId": "recruiter-004",
+      "status": "interview",
+      "source": "event",
+      "appliedAt": "2026-09-16T19:40:00Z",
+      "updatedAt": "2026-09-24T15:10:00Z"
+    },
+    {
+      "id": "app-007",
+      "jobId": "job-010",
+      "candidateId": "candidate-007",
+      "recruiterId": "recruiter-002",
+      "status": "review",
+      "source": "campus",
+      "appliedAt": "2026-09-26T07:50:00Z",
+      "updatedAt": "2026-09-26T07:50:00Z"
+    },
+    {
+      "id": "app-008",
+      "jobId": "job-012",
+      "candidateId": "candidate-008",
+      "recruiterId": "recruiter-003",
+      "status": "rejected",
+      "source": "site",
+      "appliedAt": "2026-09-22T11:18:00Z",
+      "updatedAt": "2026-09-25T16:00:00Z"
+    },
+    {
+      "id": "app-009",
+      "jobId": "job-003",
+      "candidateId": "candidate-002",
+      "recruiterId": "recruiter-001",
+      "status": "withdrawn",
+      "source": "site",
+      "appliedAt": "2026-09-19T10:00:00Z",
+      "updatedAt": "2026-09-21T09:30:00Z"
+    },
+    {
+      "id": "app-010",
+      "jobId": "job-009",
+      "candidateId": "candidate-001",
+      "recruiterId": "recruiter-001",
+      "status": "hired",
+      "source": "referral",
+      "appliedAt": "2026-07-12T14:00:00Z",
+      "updatedAt": "2026-08-14T17:20:00Z"
+    }
+  ]
+}
