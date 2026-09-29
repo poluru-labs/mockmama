@@ -1,0 +1,92 @@
+{
+  "candidates": [
+    {
+      "id": "candidate-001",
+      "name": "Priya Sharma",
+      "email": "priya.sharma@example.com",
+      "title": "Frontend engineer",
+      "location": "Seattle, WA",
+      "avatar": "https://picsum.photos/seed/comment-priya/200/200",
+      "yearsExperience": 6,
+      "skills": ["react", "typescript", "css"],
+      "status": "active"
+    },
+    {
+      "id": "candidate-002",
+      "name": "Noah Patel",
+      "email": "noah@mockmama.example.com",
+      "title": "Frontend engineer",
+      "location": "Chicago, IL",
+      "avatar": "https://picsum.photos/seed/blog-noah/200/200",
+      "yearsExperience": 8,
+      "skills": ["react", "postgres", "design-systems"],
+      "status": "active"
+    },
+    {
+      "id": "candidate-003",
+      "name": "Maya Brooks",
+      "email": "maya@mockmama.example.com",
+      "title": "Product designer",
+      "location": "Austin, TX",
+      "avatar": "https://picsum.photos/seed/blog-maya/200/200",
+      "yearsExperience": 7,
+      "skills": ["product-design", "ux-writing"],
+      "status": "active"
+    },
+    {
+      "id": "candidate-004",
+      "name": "Drew Kim",
+      "email": "drew@atlasfreight.example.com",
+      "title": "Firmware engineer",
+      "location": "Atlanta, GA",
+      "avatar": "https://picsum.photos/seed/comment-drew/200/200",
+      "yearsExperience": 11,
+      "skills": ["firmware", "c++"],
+      "status": "active"
+    },
+    {
+      "id": "candidate-005",
+      "name": "Leah Park",
+      "email": "leah@mockmama.example.com",
+      "title": "Brand designer",
+      "location": "Portland, OR",
+      "avatar": "https://picsum.photos/seed/blog-leah/200/200",
+      "yearsExperience": 5,
+      "skills": ["brand", "illustration"],
+      "status": "active"
+    },
+    {
+      "id": "candidate-006",
+      "name": "Morgan Ellis",
+      "email": "morgan.ellis@example.com",
+      "title": "Operations supervisor",
+      "location": "Houston, TX",
+      "avatar": "https://picsum.photos/seed/jobs-morgan/200/200",
+      "yearsExperience": 9,
+      "skills": ["operations", "logistics"],
+      "status": "active"
+    },
+    {
+      "id": "candidate-007",
+      "name": "Taylor Kim",
+      "email": "taylor@example.com",
+      "title": "New grad designer",
+      "location": "San Francisco, CA",
+      "avatar": "https://picsum.photos/seed/auth-taylor/200/200",
+      "yearsExperience": 0,
+      "skills": ["figma", "illustration"],
+      "status": "active"
+    },
+    {
+      "id": "candidate-008",
+      "name": "Sofia Alvarez",
+      "email": "sofia.alvarez@example.com",
+      "title": "Technical writer",
+      "location": "Brooklyn, NY",
+      "avatar": "https://picsum.photos/seed/comment-sofia/200/200",
+      "yearsExperience": 6,
+      "skills": ["writing", "docs"],
+      "status": "passive"
+    }
+  ]
+}

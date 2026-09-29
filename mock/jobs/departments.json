@@ -1,0 +1,12 @@
+{
+  "departments": [
+    { "id": "dept-eng", "name": "Engineering", "companyId": "company-001" },
+    { "id": "dept-design", "name": "Design", "companyId": "company-001" },
+    { "id": "dept-product", "name": "Product", "companyId": "company-001" },
+    { "id": "dept-cs", "name": "Customer Success", "companyId": "company-001" },
+    { "id": "dept-studio", "name": "Studio", "companyId": "company-002" },
+    { "id": "dept-ops", "name": "Operations", "companyId": "company-003" },
+    { "id": "dept-clinic", "name": "Clinic Systems", "companyId": "company-004" },
+    { "id": "dept-hardware", "name": "Hardware", "companyId": "company-005" }
+  ]
+}

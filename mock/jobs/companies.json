@@ -1,0 +1,64 @@
+{
+  "companies": [
+    {
+      "id": "company-001",
+      "name": "MockMama Labs",
+      "slug": "mockmama-labs",
+      "industry": "Software",
+      "size": "51-200",
+      "website": "https://mockmama.example.com",
+      "logo": "https://picsum.photos/seed/jobs-mockmama/200/200",
+      "city": "Austin",
+      "state": "TX",
+      "remotePolicy": "hybrid"
+    },
+    {
+      "id": "company-002",
+      "name": "Clearwater Studio",
+      "slug": "clearwater-studio",
+      "industry": "Design",
+      "size": "11-50",
+      "website": "https://clearwater.example.com",
+      "logo": "https://picsum.photos/seed/jobs-clearwater/200/200",
+      "city": "San Francisco",
+      "state": "CA",
+      "remotePolicy": "remote"
+    },
+    {
+      "id": "company-003",
+      "name": "Harborline Logistics",
+      "slug": "harborline-logistics",
+      "industry": "Logistics",
+      "size": "201-500",
+      "website": "https://harborline.example.com",
+      "logo": "https://picsum.photos/seed/jobs-harborline/200/200",
+      "city": "Houston",
+      "state": "TX",
+      "remotePolicy": "onsite"
+    },
+    {
+      "id": "company-004",
+      "name": "Lumen Health",
+      "slug": "lumen-health",
+      "industry": "Healthcare",
+      "size": "51-200",
+      "website": "https://lumenhealth.example.com",
+      "logo": "https://picsum.photos/seed/jobs-lumen/200/200",
+      "city": "Boston",
+      "state": "MA",
+      "remotePolicy": "hybrid"
+    },
+    {
+      "id": "company-005",
+      "name": "Apex",
+      "slug": "apex",
+      "industry": "Hardware",
+      "size": "501-1000",
+      "website": "https://apex.example.com",
+      "logo": "https://picsum.photos/seed/brand-apex-logo/200/200",
+      "city": "Taipei",
+      "state": null,
+      "remotePolicy": "hybrid"
+    }
+  ]
+}
