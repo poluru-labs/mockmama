@@ -28,6 +28,10 @@ Each file is a single keyed array, for example `{ "products": [ ... ] }`, so it 
 
 Demo logins in `users.json` use `demo123` (customers) and `admin123` (admin). Product images are [picsum.photos](https://picsum.photos) seeds, not real merchandise photos.
 
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add or fix mock data. This project follows the [Contributor Covenant](CODE_OF_CONDUCT.md).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
