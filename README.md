@@ -30,7 +30,7 @@ Demo logins in `users.json` use `demo123` (customers) and `admin123` (admin). Pr
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add or fix mock data. This project follows the [Contributor Covenant](CODE_OF_CONDUCT.md).
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add or fix mock data. This project follows the [Contributor Covenant](CODE_OF_CONDUCT.md). To report a real secret or personal data leak, see [SECURITY.md](SECURITY.md).
 
 ## License
 
