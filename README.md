@@ -21,6 +21,7 @@ Everything lives under `mock/`.
 | [`mock/enterprise-bi-dashboard/`](mock/enterprise-bi-dashboard/) | Analytics workspace screens (KPIs, reports, lineage) |
 | [`mock/enterprise-billing-dashboard/`](mock/enterprise-billing-dashboard/) | Invoices, subscriptions, payments, collections |
 | [`mock/enterprise-banking-operations/`](mock/enterprise-banking-operations/) | Clearing, payments, screening, liquidity |
+| [`mock/enterprise-claims-copilot/`](mock/enterprise-claims-copilot/) | Performance copilot (scorecards, alerts) plus hospitality ops vista |
 
 Most domain files are a single keyed array, for example `{ "products": [ ... ] }`, so they work with `fetch()`, [json-server](https://github.com/typicode/json-server), or a local mock layer. Enterprise dashboard folders are screen-shaped objects (tables, KPIs, navigation) rather than one array per file.
 
@@ -69,6 +70,10 @@ Demo passwords in auth and ecommerce users are `demo123` (customers) and `admin1
 - **Events** — conferences and meetups, organizers, speakers, rooms, ticket types, attendees, discounts, and waitlist.
 - **Finance** — bank accounts, cards, bills, budgets, recurring payments, merchants, investments, and transfers.
 - **Jobs** — companies, departments, listings, candidates, applications, interviews, offers, and saved jobs.
+- **Enterprise BI** — overview, reports, explorer, lineage, quality, forecasts, and ask/query screens.
+- **Enterprise billing** — invoices, subscriptions, payments, collections, and ledger KPIs.
+- **Enterprise banking** — accounts, clearing, payments, screening, exceptions, and liquidity.
+- **Enterprise claims copilot** — workspace scorecards, KPIs, alerts, inbox, and a Vista property-ops layer (booking, occupancy, housekeeping, reservations).
 
 Keep existing `id` values when you edit. If a cart line has `productId: 12`, that product must still exist.
 
