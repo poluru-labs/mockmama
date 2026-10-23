@@ -8,7 +8,13 @@
       "durationMinutes": 30,
       "equipment": [
         "dumbbells"
-      ]
+      ],
+      "gymId": "gym-001",
+      "trainerId": "trainer-001",
+      "exerciseIds": ["exercise-001", "exercise-002", "exercise-003"],
+      "estimatedCalories": 220,
+      "status": "published",
+      "coverImage": "https://picsum.photos/seed/workout-001/1600/900"
     },
     {
       "id": "workout-002",
@@ -18,7 +24,13 @@
       "durationMinutes": 45,
       "equipment": [
         "stationary_bike"
-      ]
+      ],
+      "gymId": "gym-001",
+      "trainerId": "trainer-002",
+      "exerciseIds": ["exercise-004"],
+      "estimatedCalories": 410,
+      "status": "published",
+      "coverImage": "https://picsum.photos/seed/workout-002/1600/900"
     },
     {
       "id": "workout-003",
@@ -26,7 +38,83 @@
       "category": "mobility",
       "difficulty": "beginner",
       "durationMinutes": 15,
-      "equipment": []
+      "equipment": [],
+      "gymId": "gym-002",
+      "trainerId": "trainer-003",
+      "exerciseIds": ["exercise-005", "exercise-006", "exercise-007"],
+      "estimatedCalories": 70,
+      "status": "published",
+      "coverImage": "https://picsum.photos/seed/workout-003/1600/900"
+    },
+    {
+      "id": "workout-004",
+      "name": "Barbell Strength A",
+      "category": "strength",
+      "difficulty": "intermediate",
+      "durationMinutes": 50,
+      "equipment": ["barbell", "rack"],
+      "gymId": "gym-001",
+      "trainerId": "trainer-004",
+      "exerciseIds": ["exercise-008", "exercise-009"],
+      "estimatedCalories": 360,
+      "status": "published",
+      "coverImage": "https://picsum.photos/seed/workout-004/1600/900"
+    },
+    {
+      "id": "workout-005",
+      "name": "Lunch HIIT",
+      "category": "hiit",
+      "difficulty": "advanced",
+      "durationMinutes": 25,
+      "equipment": [],
+      "gymId": "gym-001",
+      "trainerId": "trainer-002",
+      "exerciseIds": ["exercise-010", "exercise-001"],
+      "estimatedCalories": 280,
+      "status": "published",
+      "coverImage": "https://picsum.photos/seed/workout-005/1600/900"
+    },
+    {
+      "id": "workout-006",
+      "name": "Reformer Foundations",
+      "category": "pilates",
+      "difficulty": "beginner",
+      "durationMinutes": 40,
+      "equipment": ["reformer"],
+      "gymId": "gym-003",
+      "trainerId": "trainer-005",
+      "exerciseIds": ["exercise-011"],
+      "estimatedCalories": 160,
+      "status": "published",
+      "coverImage": "https://picsum.photos/seed/workout-006/1600/900"
+    },
+    {
+      "id": "workout-007",
+      "name": "Hang and Recover",
+      "category": "mobility",
+      "difficulty": "beginner",
+      "durationMinutes": 20,
+      "equipment": ["pull_up_bar"],
+      "gymId": "gym-002",
+      "trainerId": "trainer-003",
+      "exerciseIds": ["exercise-012", "exercise-006"],
+      "estimatedCalories": 90,
+      "status": "draft",
+      "coverImage": "https://picsum.photos/seed/workout-007/1600/900"
+    },
+    {
+      "id": "workout-008",
+      "name": "Retired Turbo Ride",
+      "category": "cardio",
+      "difficulty": "advanced",
+      "durationMinutes": 60,
+      "equipment": ["stationary_bike"],
+      "gymId": "gym-001",
+      "trainerId": "trainer-002",
+      "exerciseIds": ["exercise-004"],
+      "estimatedCalories": 620,
+      "status": "archived",
+      "coverImage": "https://picsum.photos/seed/workout-008/1600/900"
     }
   ]
 }

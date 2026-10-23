@@ -1,0 +1,84 @@
+{
+  "classBookings": [
+    {
+      "id": "booking-001",
+      "classId": "class-001",
+      "memberId": "member-001",
+      "status": "confirmed",
+      "bookedAt": "2026-10-20T14:12:00Z",
+      "checkedInAt": null
+    },
+    {
+      "id": "booking-002",
+      "classId": "class-001",
+      "memberId": "member-004",
+      "status": "confirmed",
+      "bookedAt": "2026-10-21T09:04:00Z",
+      "checkedInAt": null
+    },
+    {
+      "id": "booking-003",
+      "classId": "class-002",
+      "memberId": "member-002",
+      "status": "confirmed",
+      "bookedAt": "2026-10-18T18:22:00Z",
+      "checkedInAt": null
+    },
+    {
+      "id": "booking-004",
+      "classId": "class-002",
+      "memberId": "member-007",
+      "status": "waitlisted",
+      "bookedAt": "2026-10-22T11:40:00Z",
+      "checkedInAt": null
+    },
+    {
+      "id": "booking-005",
+      "classId": "class-003",
+      "memberId": "member-003",
+      "status": "attended",
+      "bookedAt": "2026-10-21T16:00:00Z",
+      "checkedInAt": "2026-10-23T13:55:00Z"
+    },
+    {
+      "id": "booking-006",
+      "classId": "class-003",
+      "memberId": "member-009",
+      "status": "no_show",
+      "bookedAt": "2026-10-22T08:10:00Z",
+      "checkedInAt": null
+    },
+    {
+      "id": "booking-007",
+      "classId": "class-004",
+      "memberId": "member-007",
+      "status": "confirmed",
+      "bookedAt": "2026-10-19T20:01:00Z",
+      "checkedInAt": null
+    },
+    {
+      "id": "booking-008",
+      "classId": "class-005",
+      "memberId": "member-001",
+      "status": "cancelled",
+      "bookedAt": "2026-10-18T12:00:00Z",
+      "checkedInAt": null
+    },
+    {
+      "id": "booking-009",
+      "classId": "class-006",
+      "memberId": "member-006",
+      "status": "confirmed",
+      "bookedAt": "2026-10-22T15:33:00Z",
+      "checkedInAt": null
+    },
+    {
+      "id": "booking-010",
+      "classId": "class-006",
+      "memberId": "member-008",
+      "status": "waitlisted",
+      "bookedAt": "2026-10-22T16:02:00Z",
+      "checkedInAt": null
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "reviews": [
+    {
+      "id": "review-001",
+      "memberId": "member-001",
+      "targetType": "class",
+      "targetId": "class-001",
+      "rating": 5,
+      "title": "Clear cues",
+      "body": "Alex kept the room moving without rushing the last set.",
+      "createdAt": "2026-09-20T18:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-002",
+      "memberId": "member-002",
+      "targetType": "trainer",
+      "targetId": "trainer-002",
+      "rating": 4,
+      "title": "Hard but fair",
+      "body": "I stopped early and Mina still logged the partial ride.",
+      "createdAt": "2026-09-21T16:10:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-003",
+      "memberId": "member-003",
+      "targetType": "workout",
+      "targetId": "workout-003",
+      "rating": 5,
+      "title": "Finally a short mobility block",
+      "body": "Fifteen minutes and I could do it before work.",
+      "createdAt": "2026-09-22T13:40:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-004",
+      "memberId": "member-004",
+      "targetType": "gym",
+      "targetId": "gym-001",
+      "rating": 3,
+      "title": "Rack wait",
+      "body": "Floor is fine. Two racks were taken the whole hour.",
+      "createdAt": "2026-10-18T18:22:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-005",
+      "memberId": "member-006",
+      "targetType": "class",
+      "targetId": "class-006",
+      "rating": 5,
+      "title": "Good first reformer class",
+      "body": "Springs were explained before we started. No mystery tension.",
+      "createdAt": "2026-10-19T17:05:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-006",
+      "memberId": "member-008",
+      "targetType": "gym",
+      "targetId": "gym-003",
+      "rating": 2,
+      "title": "Hidden cancellation",
+      "body": "Class vanished from the app after I commuted.",
+      "createdAt": "2026-08-12T21:00:00Z",
+      "status": "hidden"
+    }
+  ]
+}

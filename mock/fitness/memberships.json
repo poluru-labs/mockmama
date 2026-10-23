@@ -1,0 +1,114 @@
+{
+  "memberships": [
+    {
+      "id": "membership-001",
+      "memberId": "member-001",
+      "planId": "plan-002",
+      "gymId": "gym-001",
+      "status": "active",
+      "startedAt": "2026-08-01",
+      "renewsAt": "2026-11-01",
+      "cancelledAt": null,
+      "autoRenew": true
+    },
+    {
+      "id": "membership-002",
+      "memberId": "member-002",
+      "planId": "plan-003",
+      "gymId": "gym-001",
+      "status": "active",
+      "startedAt": "2026-08-15",
+      "renewsAt": "2026-11-15",
+      "cancelledAt": null,
+      "autoRenew": true
+    },
+    {
+      "id": "membership-003",
+      "memberId": "member-003",
+      "planId": "plan-002",
+      "gymId": "gym-002",
+      "status": "active",
+      "startedAt": "2026-09-01",
+      "renewsAt": "2026-11-01",
+      "cancelledAt": null,
+      "autoRenew": false
+    },
+    {
+      "id": "membership-004",
+      "memberId": "member-004",
+      "planId": "plan-003",
+      "gymId": "gym-001",
+      "status": "active",
+      "startedAt": "2026-06-12",
+      "renewsAt": "2026-11-12",
+      "cancelledAt": null,
+      "autoRenew": true
+    },
+    {
+      "id": "membership-005",
+      "memberId": "member-005",
+      "planId": "plan-002",
+      "gymId": "gym-002",
+      "status": "paused",
+      "startedAt": "2026-04-03",
+      "renewsAt": "2026-12-01",
+      "cancelledAt": null,
+      "autoRenew": false
+    },
+    {
+      "id": "membership-006",
+      "memberId": "member-006",
+      "planId": "plan-005",
+      "gymId": "gym-003",
+      "status": "trial",
+      "startedAt": "2026-09-18",
+      "renewsAt": "2026-10-25",
+      "cancelledAt": null,
+      "autoRenew": false
+    },
+    {
+      "id": "membership-007",
+      "memberId": "member-007",
+      "planId": "plan-006",
+      "gymId": "gym-001",
+      "status": "active",
+      "startedAt": "2025-11-20",
+      "renewsAt": "2026-11-20",
+      "cancelledAt": null,
+      "autoRenew": true
+    },
+    {
+      "id": "membership-008",
+      "memberId": "member-008",
+      "planId": "plan-001",
+      "gymId": "gym-003",
+      "status": "cancelled",
+      "startedAt": "2025-02-08",
+      "renewsAt": null,
+      "cancelledAt": "2026-08-30",
+      "autoRenew": false
+    },
+    {
+      "id": "membership-009",
+      "memberId": "member-009",
+      "planId": "plan-004",
+      "gymId": "gym-002",
+      "status": "active",
+      "startedAt": "2026-10-02",
+      "renewsAt": "2026-11-02",
+      "cancelledAt": null,
+      "autoRenew": true
+    },
+    {
+      "id": "membership-010",
+      "memberId": "member-010",
+      "planId": "plan-001",
+      "gymId": "gym-001",
+      "status": "expired",
+      "startedAt": "2026-01-09",
+      "renewsAt": null,
+      "cancelledAt": null,
+      "autoRenew": false
+    }
+  ]
+}

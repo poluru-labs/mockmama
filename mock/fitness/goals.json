@@ -1,0 +1,81 @@
+{
+  "goals": [
+    {
+      "id": "goal-001",
+      "memberId": "member-001",
+      "type": "general_fitness",
+      "title": "Train 3 days a week",
+      "targetValue": 12,
+      "currentValue": 9,
+      "unit": "sessions",
+      "dueAt": "2026-10-31",
+      "status": "on_track"
+    },
+    {
+      "id": "goal-002",
+      "memberId": "member-002",
+      "type": "endurance",
+      "title": "Hold 40 minutes on the bike",
+      "targetValue": 40,
+      "currentValue": 20,
+      "unit": "minutes",
+      "dueAt": "2026-11-15",
+      "status": "at_risk"
+    },
+    {
+      "id": "goal-003",
+      "memberId": "member-003",
+      "type": "mobility",
+      "title": "Daily 15-minute mobility",
+      "targetValue": 30,
+      "currentValue": 18,
+      "unit": "days",
+      "dueAt": "2026-10-31",
+      "status": "on_track"
+    },
+    {
+      "id": "goal-004",
+      "memberId": "member-004",
+      "type": "strength",
+      "title": "Squat 100 kg",
+      "targetValue": 100,
+      "currentValue": 92,
+      "unit": "kg",
+      "dueAt": "2026-12-01",
+      "status": "on_track"
+    },
+    {
+      "id": "goal-005",
+      "memberId": "member-005",
+      "type": "weight_loss",
+      "title": "Lose 6 kg",
+      "targetValue": 86.5,
+      "currentValue": 92.5,
+      "unit": "kg",
+      "dueAt": "2026-12-31",
+      "status": "paused"
+    },
+    {
+      "id": "goal-006",
+      "memberId": "member-007",
+      "type": "hypertrophy",
+      "title": "Add 4 kg lean mass",
+      "targetValue": 4,
+      "currentValue": 2.2,
+      "unit": "kg",
+      "dueAt": "2026-11-20",
+      "status": "on_track"
+    },
+    {
+      "id": "goal-007",
+      "memberId": "member-010",
+      "type": "general_fitness",
+      "title": "Return for 8 check-ins",
+      "targetValue": 8,
+      "currentValue": 1,
+      "unit": "check-ins",
+      "dueAt": "2026-08-01",
+      "status": "missed"
+    }
+  ]
+}

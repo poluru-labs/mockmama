@@ -1,0 +1,100 @@
+{
+  "exercises": [
+    {
+      "id": "exercise-001",
+      "name": "Goblet squat",
+      "muscleGroup": "legs",
+      "equipment": "dumbbells",
+      "difficulty": "beginner",
+      "demoImage": "https://picsum.photos/seed/exercise-001/800/600"
+    },
+    {
+      "id": "exercise-002",
+      "name": "Dumbbell bench press",
+      "muscleGroup": "chest",
+      "equipment": "dumbbells",
+      "difficulty": "beginner",
+      "demoImage": "https://picsum.photos/seed/exercise-002/800/600"
+    },
+    {
+      "id": "exercise-003",
+      "name": "Bent-over row",
+      "muscleGroup": "back",
+      "equipment": "dumbbells",
+      "difficulty": "beginner",
+      "demoImage": "https://picsum.photos/seed/exercise-003/800/600"
+    },
+    {
+      "id": "exercise-004",
+      "name": "Seated bike intervals",
+      "muscleGroup": "cardio",
+      "equipment": "stationary_bike",
+      "difficulty": "intermediate",
+      "demoImage": "https://picsum.photos/seed/exercise-004/800/600"
+    },
+    {
+      "id": "exercise-005",
+      "name": "World's greatest stretch",
+      "muscleGroup": "mobility",
+      "equipment": "none",
+      "difficulty": "beginner",
+      "demoImage": "https://picsum.photos/seed/exercise-005/800/600"
+    },
+    {
+      "id": "exercise-006",
+      "name": "Cat-cow",
+      "muscleGroup": "mobility",
+      "equipment": "none",
+      "difficulty": "beginner",
+      "demoImage": "https://picsum.photos/seed/exercise-006/800/600"
+    },
+    {
+      "id": "exercise-007",
+      "name": "Hip 90/90",
+      "muscleGroup": "mobility",
+      "equipment": "none",
+      "difficulty": "beginner",
+      "demoImage": "https://picsum.photos/seed/exercise-007/800/600"
+    },
+    {
+      "id": "exercise-008",
+      "name": "Barbell back squat",
+      "muscleGroup": "legs",
+      "equipment": "barbell",
+      "difficulty": "intermediate",
+      "demoImage": "https://picsum.photos/seed/exercise-008/800/600"
+    },
+    {
+      "id": "exercise-009",
+      "name": "Push press",
+      "muscleGroup": "shoulders",
+      "equipment": "barbell",
+      "difficulty": "intermediate",
+      "demoImage": "https://picsum.photos/seed/exercise-009/800/600"
+    },
+    {
+      "id": "exercise-010",
+      "name": "Burpee",
+      "muscleGroup": "full_body",
+      "equipment": "none",
+      "difficulty": "intermediate",
+      "demoImage": "https://picsum.photos/seed/exercise-010/800/600"
+    },
+    {
+      "id": "exercise-011",
+      "name": "Reformer footwork",
+      "muscleGroup": "legs",
+      "equipment": "reformer",
+      "difficulty": "beginner",
+      "demoImage": "https://picsum.photos/seed/exercise-011/800/600"
+    },
+    {
+      "id": "exercise-012",
+      "name": "Dead hang",
+      "muscleGroup": "grip",
+      "equipment": "pull_up_bar",
+      "difficulty": "beginner",
+      "demoImage": "https://picsum.photos/seed/exercise-012/800/600"
+    }
+  ]
+}
