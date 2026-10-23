@@ -1,0 +1,61 @@
+{
+  "orders": [
+    {
+      "id": "food-order-001",
+      "restaurantId": "restaurant-001",
+      "customerName": "Alex Morgan",
+      "items": [
+        {
+          "menuItemId": "meal-001",
+          "quantity": 2,
+          "unitPrice": 12.5
+        }
+      ],
+      "subtotal": 25.0,
+      "deliveryFee": 2.99,
+      "tax": 2.0,
+      "total": 29.99,
+      "currency": "USD",
+      "status": "preparing",
+      "placedAt": "2026-09-22T17:00:00Z"
+    },
+    {
+      "id": "food-order-002",
+      "restaurantId": "restaurant-002",
+      "customerName": "Sam Rivera",
+      "items": [
+        {
+          "menuItemId": "meal-002",
+          "quantity": 1,
+          "unitPrice": 15.0
+        }
+      ],
+      "subtotal": 15.0,
+      "deliveryFee": 3.49,
+      "tax": 1.2,
+      "total": 19.69,
+      "currency": "USD",
+      "status": "delivered",
+      "placedAt": "2026-09-21T18:00:00Z"
+    },
+    {
+      "id": "food-order-003",
+      "restaurantId": "restaurant-003",
+      "customerName": "Taylor Kim",
+      "items": [
+        {
+          "menuItemId": "meal-003",
+          "quantity": 1,
+          "unitPrice": 10.0
+        }
+      ],
+      "subtotal": 10.0,
+      "deliveryFee": 1.99,
+      "tax": 0.8,
+      "total": 12.79,
+      "currency": "USD",
+      "status": "cancelled",
+      "placedAt": "2026-09-20T16:00:00Z"
+    }
+  ]
+}

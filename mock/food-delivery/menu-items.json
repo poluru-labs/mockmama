@@ -1,0 +1,40 @@
+{
+  "menu-items": [
+    {
+      "id": "meal-001",
+      "restaurantId": "restaurant-001",
+      "name": "Harvest Bowl",
+      "description": "Roasted vegetables, quinoa, and lemon dressing.",
+      "price": 12.5,
+      "currency": "USD",
+      "isVegetarian": true,
+      "isAvailable": true,
+      "allergens": []
+    },
+    {
+      "id": "meal-002",
+      "restaurantId": "restaurant-002",
+      "name": "Margherita Pizza",
+      "description": "Tomato, mozzarella, and fresh basil.",
+      "price": 15.0,
+      "currency": "USD",
+      "isVegetarian": true,
+      "isAvailable": true,
+      "allergens": [
+        "milk",
+        "wheat"
+      ]
+    },
+    {
+      "id": "meal-003",
+      "restaurantId": "restaurant-003",
+      "name": "Black Bean Tacos",
+      "description": "Three tacos with beans, slaw, and salsa.",
+      "price": 10.0,
+      "currency": "USD",
+      "isVegetarian": true,
+      "isAvailable": false,
+      "allergens": []
+    }
+  ]
+}

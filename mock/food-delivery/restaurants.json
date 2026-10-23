@@ -1,0 +1,34 @@
+{
+  "restaurants": [
+    {
+      "id": "restaurant-001",
+      "name": "Green Bowl Kitchen",
+      "cuisine": "Healthy",
+      "rating": 4.7,
+      "deliveryFee": 2.99,
+      "currency": "USD",
+      "estimatedDeliveryMinutes": 25,
+      "isOpen": true
+    },
+    {
+      "id": "restaurant-002",
+      "name": "Brick Oven Corner",
+      "cuisine": "Italian",
+      "rating": 4.5,
+      "deliveryFee": 3.49,
+      "currency": "USD",
+      "estimatedDeliveryMinutes": 35,
+      "isOpen": true
+    },
+    {
+      "id": "restaurant-003",
+      "name": "Sunrise Tacos",
+      "cuisine": "Mexican",
+      "rating": 4.6,
+      "deliveryFee": 1.99,
+      "currency": "USD",
+      "estimatedDeliveryMinutes": 20,
+      "isOpen": false
+    }
+  ]
+}
