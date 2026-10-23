@@ -1,0 +1,22 @@
+{
+  "members": [
+    {
+      "id": "member-001",
+      "name": "Morgan Ellis",
+      "joinedAt": "2026-08-01",
+      "goal": "general_fitness"
+    },
+    {
+      "id": "member-002",
+      "name": "Riley Chen",
+      "joinedAt": "2026-08-15",
+      "goal": "endurance"
+    },
+    {
+      "id": "member-003",
+      "name": "Jamie Cruz",
+      "joinedAt": "2026-09-01",
+      "goal": "mobility"
+    }
+  ]
+}
