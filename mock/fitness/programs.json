@@ -1,0 +1,59 @@
+{
+  "programs": [
+    {
+      "id": "program-001",
+      "name": "Four-week starter",
+      "goal": "general_fitness",
+      "weeks": 4,
+      "level": "beginner",
+      "workoutIds": ["workout-001", "workout-003", "workout-005"],
+      "trainerId": "trainer-001",
+      "status": "published",
+      "enrolledCount": 18
+    },
+    {
+      "id": "program-002",
+      "name": "Endurance block",
+      "goal": "endurance",
+      "weeks": 6,
+      "level": "intermediate",
+      "workoutIds": ["workout-002", "workout-005"],
+      "trainerId": "trainer-002",
+      "status": "published",
+      "enrolledCount": 9
+    },
+    {
+      "id": "program-003",
+      "name": "Mobility reset",
+      "goal": "mobility",
+      "weeks": 3,
+      "level": "beginner",
+      "workoutIds": ["workout-003", "workout-007"],
+      "trainerId": "trainer-003",
+      "status": "published",
+      "enrolledCount": 14
+    },
+    {
+      "id": "program-004",
+      "name": "Hypertrophy A",
+      "goal": "hypertrophy",
+      "weeks": 8,
+      "level": "intermediate",
+      "workoutIds": ["workout-001", "workout-004"],
+      "trainerId": "trainer-004",
+      "status": "published",
+      "enrolledCount": 7
+    },
+    {
+      "id": "program-005",
+      "name": "Studio draft",
+      "goal": "general_fitness",
+      "weeks": 2,
+      "level": "beginner",
+      "workoutIds": ["workout-006"],
+      "trainerId": "trainer-005",
+      "status": "draft",
+      "enrolledCount": 0
+    }
+  ]
+}

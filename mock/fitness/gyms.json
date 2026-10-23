@@ -1,0 +1,64 @@
+{
+  "gyms": [
+    {
+      "id": "gym-001",
+      "name": "Riverbend Athletic",
+      "slug": "riverbend-athletic",
+      "city": "Austin",
+      "state": "TX",
+      "timezone": "America/Chicago",
+      "address": "1408 Riverside Dr, Austin, TX 78704",
+      "phone": "+1-512-555-2001",
+      "email": "front-desk@riverbend.example.com",
+      "openHours": "05:00-22:00",
+      "amenities": ["pool", "sauna", "strength-floor", "cycle-studio"],
+      "status": "open",
+      "coverImage": "https://picsum.photos/seed/gym-001/1600/900"
+    },
+    {
+      "id": "gym-002",
+      "name": "Harbor Strength",
+      "slug": "harbor-strength",
+      "city": "Seattle",
+      "state": "WA",
+      "timezone": "America/Los_Angeles",
+      "address": "88 Bell St, Seattle, WA 98121",
+      "phone": "+1-206-555-2002",
+      "email": "hello@harborstrength.example.com",
+      "openHours": "06:00-21:00",
+      "amenities": ["strength-floor", "mobility-studio", "cold-plunge"],
+      "status": "open",
+      "coverImage": "https://picsum.photos/seed/gym-002/1600/900"
+    },
+    {
+      "id": "gym-003",
+      "name": "Northside Studio",
+      "slug": "northside-studio",
+      "city": "Chicago",
+      "state": "IL",
+      "timezone": "America/Chicago",
+      "address": "2211 N Milwaukee Ave, Chicago, IL 60647",
+      "phone": "+1-312-555-2003",
+      "email": "desk@northside.example.com",
+      "openHours": "06:30-20:00",
+      "amenities": ["reformer", "yoga-studio"],
+      "status": "open",
+      "coverImage": "https://picsum.photos/seed/gym-003/1600/900"
+    },
+    {
+      "id": "gym-004",
+      "name": "Cedar Pop-up Floor",
+      "slug": "cedar-popup",
+      "city": "Austin",
+      "state": "TX",
+      "timezone": "America/Chicago",
+      "address": "410 Cesar Chavez St, Austin, TX 78701",
+      "phone": "+1-512-555-2004",
+      "email": "popup@riverbend.example.com",
+      "openHours": "closed",
+      "amenities": ["turf"],
+      "status": "temporarily_closed",
+      "coverImage": "https://picsum.photos/seed/gym-004/1600/900"
+    }
+  ]
+}

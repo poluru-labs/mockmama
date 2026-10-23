@@ -1,0 +1,44 @@
+{
+  "waitlist": [
+    {
+      "id": "waitlist-001",
+      "classId": "class-002",
+      "memberId": "member-007",
+      "position": 1,
+      "joinedAt": "2026-10-22T11:40:00Z",
+      "status": "waiting"
+    },
+    {
+      "id": "waitlist-002",
+      "classId": "class-002",
+      "memberId": "member-004",
+      "position": 2,
+      "joinedAt": "2026-10-22T12:05:00Z",
+      "status": "waiting"
+    },
+    {
+      "id": "waitlist-003",
+      "classId": "class-002",
+      "memberId": "member-010",
+      "position": 3,
+      "joinedAt": "2026-10-22T13:18:00Z",
+      "status": "expired"
+    },
+    {
+      "id": "waitlist-004",
+      "classId": "class-006",
+      "memberId": "member-008",
+      "position": 1,
+      "joinedAt": "2026-10-22T16:02:00Z",
+      "status": "waiting"
+    },
+    {
+      "id": "waitlist-005",
+      "classId": "class-006",
+      "memberId": "member-003",
+      "position": 2,
+      "joinedAt": "2026-10-22T16:40:00Z",
+      "status": "offered"
+    }
+  ]
+}

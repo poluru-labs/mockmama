@@ -1,0 +1,70 @@
+{
+  "plans": [
+    {
+      "id": "plan-001",
+      "name": "Starter",
+      "interval": "month",
+      "price": 39,
+      "currency": "USD",
+      "classCredits": 4,
+      "guestPasses": 0,
+      "ptSessions": 0,
+      "status": "active"
+    },
+    {
+      "id": "plan-002",
+      "name": "Plus",
+      "interval": "month",
+      "price": 79,
+      "currency": "USD",
+      "classCredits": 12,
+      "guestPasses": 1,
+      "ptSessions": 1,
+      "status": "active"
+    },
+    {
+      "id": "plan-003",
+      "name": "Unlimited",
+      "interval": "month",
+      "price": 129,
+      "currency": "USD",
+      "classCredits": null,
+      "guestPasses": 2,
+      "ptSessions": 2,
+      "status": "active"
+    },
+    {
+      "id": "plan-004",
+      "name": "Student",
+      "interval": "month",
+      "price": 29,
+      "currency": "USD",
+      "classCredits": 8,
+      "guestPasses": 0,
+      "ptSessions": 0,
+      "status": "active"
+    },
+    {
+      "id": "plan-005",
+      "name": "Day pass",
+      "interval": "once",
+      "price": 25,
+      "currency": "USD",
+      "classCredits": 1,
+      "guestPasses": 0,
+      "ptSessions": 0,
+      "status": "active"
+    },
+    {
+      "id": "plan-006",
+      "name": "Legacy annual",
+      "interval": "year",
+      "price": 899,
+      "currency": "USD",
+      "classCredits": null,
+      "guestPasses": 4,
+      "ptSessions": 4,
+      "status": "retired"
+    }
+  ]
+}

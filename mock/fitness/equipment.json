@@ -1,0 +1,67 @@
+{
+  "equipment": [
+    {
+      "id": "equip-001",
+      "gymId": "gym-001",
+      "name": "Assault Bike 3",
+      "category": "stationary_bike",
+      "status": "in_service",
+      "lastServicedAt": "2026-09-12",
+      "location": "Cycle studio"
+    },
+    {
+      "id": "equip-002",
+      "gymId": "gym-001",
+      "name": "Squat rack 2",
+      "category": "rack",
+      "status": "in_service",
+      "lastServicedAt": "2026-08-02",
+      "location": "Rack bay"
+    },
+    {
+      "id": "equip-003",
+      "gymId": "gym-001",
+      "name": "Dumbbell set 5-50 lb",
+      "category": "dumbbells",
+      "status": "in_service",
+      "lastServicedAt": "2026-07-18",
+      "location": "Floor A"
+    },
+    {
+      "id": "equip-004",
+      "gymId": "gym-002",
+      "name": "Pull-up station",
+      "category": "pull_up_bar",
+      "status": "in_service",
+      "lastServicedAt": "2026-06-30",
+      "location": "Strength floor"
+    },
+    {
+      "id": "equip-005",
+      "gymId": "gym-003",
+      "name": "Reformer 4",
+      "category": "reformer",
+      "status": "maintenance",
+      "lastServicedAt": "2026-10-18",
+      "location": "Reformer bay"
+    },
+    {
+      "id": "equip-006",
+      "gymId": "gym-001",
+      "name": "Treadmill 7",
+      "category": "treadmill",
+      "status": "out_of_order",
+      "lastServicedAt": "2026-10-21",
+      "location": "Cardio row"
+    },
+    {
+      "id": "equip-007",
+      "gymId": "gym-004",
+      "name": "Turf sled",
+      "category": "sled",
+      "status": "retired",
+      "lastServicedAt": "2026-03-01",
+      "location": "Storage"
+    }
+  ]
+}

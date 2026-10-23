@@ -1,0 +1,84 @@
+{
+  "measurements": [
+    {
+      "id": "measure-001",
+      "memberId": "member-001",
+      "recordedAt": "2026-08-01",
+      "weightKg": 78.4,
+      "bodyFatPercent": 22.1,
+      "restingHr": 64
+    },
+    {
+      "id": "measure-002",
+      "memberId": "member-001",
+      "recordedAt": "2026-10-01",
+      "weightKg": 76.8,
+      "bodyFatPercent": 20.9,
+      "restingHr": 61
+    },
+    {
+      "id": "measure-003",
+      "memberId": "member-002",
+      "recordedAt": "2026-08-15",
+      "weightKg": 64.2,
+      "bodyFatPercent": 19.4,
+      "restingHr": 58
+    },
+    {
+      "id": "measure-004",
+      "memberId": "member-002",
+      "recordedAt": "2026-10-12",
+      "weightKg": 63.7,
+      "bodyFatPercent": 18.8,
+      "restingHr": 54
+    },
+    {
+      "id": "measure-005",
+      "memberId": "member-003",
+      "recordedAt": "2026-09-01",
+      "weightKg": 70.1,
+      "bodyFatPercent": 24.0,
+      "restingHr": 66
+    },
+    {
+      "id": "measure-006",
+      "memberId": "member-004",
+      "recordedAt": "2026-06-12",
+      "weightKg": 86.0,
+      "bodyFatPercent": 18.2,
+      "restingHr": 60
+    },
+    {
+      "id": "measure-007",
+      "memberId": "member-004",
+      "recordedAt": "2026-10-10",
+      "weightKg": 88.4,
+      "bodyFatPercent": 16.5,
+      "restingHr": 57
+    },
+    {
+      "id": "measure-008",
+      "memberId": "member-005",
+      "recordedAt": "2026-04-03",
+      "weightKg": 92.5,
+      "bodyFatPercent": 28.4,
+      "restingHr": 72
+    },
+    {
+      "id": "measure-009",
+      "memberId": "member-007",
+      "recordedAt": "2026-09-20",
+      "weightKg": 81.2,
+      "bodyFatPercent": 14.8,
+      "restingHr": 52
+    },
+    {
+      "id": "measure-010",
+      "memberId": "member-009",
+      "recordedAt": "2026-10-02",
+      "weightKg": 59.3,
+      "bodyFatPercent": 23.6,
+      "restingHr": 68
+    }
+  ]
+}

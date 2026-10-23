@@ -1,0 +1,74 @@
+{
+  "trainers": [
+    {
+      "id": "trainer-001",
+      "gymId": "gym-001",
+      "name": "Alex Rivera",
+      "email": "alex.rivera@riverbend.example.com",
+      "phone": "+1-512-555-3001",
+      "avatar": "https://picsum.photos/seed/trainer-001/200/200",
+      "specialties": ["strength", "general_fitness"],
+      "certifications": ["NASM-CPT", "CSCS"],
+      "yearsExperience": 8,
+      "status": "active",
+      "hourlyRate": 85,
+      "currency": "USD"
+    },
+    {
+      "id": "trainer-002",
+      "gymId": "gym-001",
+      "name": "Mina Park",
+      "email": "mina.park@riverbend.example.com",
+      "phone": "+1-512-555-3002",
+      "avatar": "https://picsum.photos/seed/trainer-002/200/200",
+      "specialties": ["endurance", "cycling"],
+      "certifications": ["ACE-CPT", "USAC Level 2"],
+      "yearsExperience": 6,
+      "status": "active",
+      "hourlyRate": 80,
+      "currency": "USD"
+    },
+    {
+      "id": "trainer-003",
+      "gymId": "gym-002",
+      "name": "Noah Patel",
+      "email": "noah.patel@harborstrength.example.com",
+      "phone": "+1-206-555-3003",
+      "avatar": "https://picsum.photos/seed/trainer-003/200/200",
+      "specialties": ["mobility", "yoga"],
+      "certifications": ["RYT-500", "FRC"],
+      "yearsExperience": 10,
+      "status": "active",
+      "hourlyRate": 90,
+      "currency": "USD"
+    },
+    {
+      "id": "trainer-004",
+      "gymId": "gym-001",
+      "name": "Harper Diaz",
+      "email": "harper.diaz@riverbend.example.com",
+      "phone": "+1-512-555-3004",
+      "avatar": "https://picsum.photos/seed/trainer-004/200/200",
+      "specialties": ["hypertrophy", "olympic_lifting"],
+      "certifications": ["USAW-L2", "NASM-CPT"],
+      "yearsExperience": 12,
+      "status": "active",
+      "hourlyRate": 95,
+      "currency": "USD"
+    },
+    {
+      "id": "trainer-005",
+      "gymId": "gym-003",
+      "name": "Elena Vos",
+      "email": "elena.vos@northside.example.com",
+      "phone": "+1-312-555-3005",
+      "avatar": "https://picsum.photos/seed/trainer-005/200/200",
+      "specialties": ["pilates", "mobility"],
+      "certifications": ["PMA-CPT"],
+      "yearsExperience": 7,
+      "status": "on_leave",
+      "hourlyRate": 75,
+      "currency": "USD"
+    }
+  ]
+}

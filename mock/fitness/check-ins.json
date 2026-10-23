@@ -1,0 +1,68 @@
+{
+  "checkIns": [
+    {
+      "id": "checkin-001",
+      "memberId": "member-001",
+      "gymId": "gym-001",
+      "method": "app",
+      "checkedInAt": "2026-09-20T11:48:00Z",
+      "checkedOutAt": "2026-09-20T12:36:00Z"
+    },
+    {
+      "id": "checkin-002",
+      "memberId": "member-002",
+      "gymId": "gym-001",
+      "method": "fob",
+      "checkedInAt": "2026-09-21T12:51:00Z",
+      "checkedOutAt": "2026-09-21T13:28:00Z"
+    },
+    {
+      "id": "checkin-003",
+      "memberId": "member-003",
+      "gymId": "gym-002",
+      "method": "front_desk",
+      "checkedInAt": "2026-09-22T11:50:00Z",
+      "checkedOutAt": "2026-09-22T12:22:00Z"
+    },
+    {
+      "id": "checkin-004",
+      "memberId": "member-004",
+      "gymId": "gym-001",
+      "method": "app",
+      "checkedInAt": "2026-10-18T15:42:00Z",
+      "checkedOutAt": "2026-10-18T17:05:00Z"
+    },
+    {
+      "id": "checkin-005",
+      "memberId": "member-007",
+      "gymId": "gym-001",
+      "method": "fob",
+      "checkedInAt": "2026-10-22T14:48:00Z",
+      "checkedOutAt": null
+    },
+    {
+      "id": "checkin-006",
+      "memberId": "member-006",
+      "gymId": "gym-003",
+      "method": "qr",
+      "checkedInAt": "2026-10-19T14:55:00Z",
+      "checkedOutAt": "2026-10-19T16:02:00Z"
+    },
+    {
+      "id": "checkin-007",
+      "memberId": "member-009",
+      "gymId": "gym-002",
+      "method": "app",
+      "checkedInAt": "2026-10-16T13:10:00Z",
+      "checkedOutAt": "2026-10-16T14:00:00Z"
+    },
+    {
+      "id": "checkin-008",
+      "memberId": "member-010",
+      "gymId": "gym-001",
+      "method": "front_desk",
+      "checkedInAt": "2026-07-12T18:00:00Z",
+      "checkedOutAt": "2026-07-12T19:10:00Z"
+    }
+  ]
+}
