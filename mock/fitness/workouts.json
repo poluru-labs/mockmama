@@ -1,0 +1,32 @@
+{
+  "workouts": [
+    {
+      "id": "workout-001",
+      "name": "Full Body Basics",
+      "category": "strength",
+      "difficulty": "beginner",
+      "durationMinutes": 30,
+      "equipment": [
+        "dumbbells"
+      ]
+    },
+    {
+      "id": "workout-002",
+      "name": "Steady Ride",
+      "category": "cardio",
+      "difficulty": "intermediate",
+      "durationMinutes": 45,
+      "equipment": [
+        "stationary_bike"
+      ]
+    },
+    {
+      "id": "workout-003",
+      "name": "Morning Mobility",
+      "category": "mobility",
+      "difficulty": "beginner",
+      "durationMinutes": 15,
+      "equipment": []
+    }
+  ]
+}
