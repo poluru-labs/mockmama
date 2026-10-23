@@ -2,8 +2,12 @@
   "orders": [
     {
       "id": "food-order-001",
+      "number": "FD-240922-001",
       "restaurantId": "restaurant-001",
+      "customerId": "customer-001",
       "customerName": "Alex Morgan",
+      "addressId": "address-001",
+      "courierId": "courier-001",
       "items": [
         {
           "menuItemId": "meal-001",
@@ -12,17 +16,27 @@
         }
       ],
       "subtotal": 25.0,
+      "discount": 0,
       "deliveryFee": 2.99,
       "tax": 2.0,
-      "total": 29.99,
+      "tip": 4.0,
+      "total": 33.99,
       "currency": "USD",
+      "promoCode": null,
       "status": "preparing",
-      "placedAt": "2026-09-22T17:00:00Z"
+      "paymentStatus": "paid",
+      "placedAt": "2026-09-22T17:00:00Z",
+      "estimatedDeliveryAt": "2026-09-22T17:28:00Z",
+      "deliveredAt": null
     },
     {
       "id": "food-order-002",
+      "number": "FD-240921-002",
       "restaurantId": "restaurant-002",
+      "customerId": "customer-002",
       "customerName": "Sam Rivera",
+      "addressId": "address-002",
+      "courierId": "courier-002",
       "items": [
         {
           "menuItemId": "meal-002",
@@ -31,17 +45,27 @@
         }
       ],
       "subtotal": 15.0,
+      "discount": 0,
       "deliveryFee": 3.49,
       "tax": 1.2,
-      "total": 19.69,
+      "tip": 3.0,
+      "total": 22.69,
       "currency": "USD",
+      "promoCode": null,
       "status": "delivered",
-      "placedAt": "2026-09-21T18:00:00Z"
+      "paymentStatus": "paid",
+      "placedAt": "2026-09-21T18:00:00Z",
+      "estimatedDeliveryAt": "2026-09-21T18:38:00Z",
+      "deliveredAt": "2026-09-21T18:41:00Z"
     },
     {
       "id": "food-order-003",
+      "number": "FD-240920-003",
       "restaurantId": "restaurant-003",
+      "customerId": "customer-003",
       "customerName": "Taylor Kim",
+      "addressId": "address-003",
+      "courierId": null,
       "items": [
         {
           "menuItemId": "meal-003",
@@ -50,12 +74,173 @@
         }
       ],
       "subtotal": 10.0,
+      "discount": 0,
       "deliveryFee": 1.99,
       "tax": 0.8,
+      "tip": 0,
       "total": 12.79,
       "currency": "USD",
+      "promoCode": null,
       "status": "cancelled",
-      "placedAt": "2026-09-20T16:00:00Z"
+      "paymentStatus": "refunded",
+      "placedAt": "2026-09-20T16:00:00Z",
+      "estimatedDeliveryAt": null,
+      "deliveredAt": null
+    },
+    {
+      "id": "food-order-004",
+      "number": "FD-241018-004",
+      "restaurantId": "restaurant-004",
+      "customerId": "customer-004",
+      "customerName": "Jordan Reed",
+      "addressId": "address-004",
+      "courierId": "courier-004",
+      "items": [
+        {
+          "menuItemId": "meal-009",
+          "quantity": 1,
+          "unitPrice": 14.0
+        },
+        {
+          "menuItemId": "meal-010",
+          "quantity": 1,
+          "unitPrice": 12.0
+        }
+      ],
+      "subtotal": 26.0,
+      "discount": 2.6,
+      "deliveryFee": 4.99,
+      "tax": 2.1,
+      "tip": 5.0,
+      "total": 35.49,
+      "currency": "USD",
+      "promoCode": "WELCOME10",
+      "status": "out_for_delivery",
+      "paymentStatus": "paid",
+      "placedAt": "2026-10-18T19:15:00Z",
+      "estimatedDeliveryAt": "2026-10-18T20:02:00Z",
+      "deliveredAt": null
+    },
+    {
+      "id": "food-order-005",
+      "number": "FD-241022-005",
+      "restaurantId": "restaurant-005",
+      "customerId": "customer-005",
+      "customerName": "Priya Shah",
+      "addressId": "address-005",
+      "courierId": "courier-005",
+      "items": [
+        {
+          "menuItemId": "meal-011",
+          "quantity": 2,
+          "unitPrice": 13.5
+        }
+      ],
+      "subtotal": 27.0,
+      "discount": 5.0,
+      "deliveryFee": 2.49,
+      "tax": 1.8,
+      "tip": 6.0,
+      "total": 32.29,
+      "currency": "USD",
+      "promoCode": "LUNCH5",
+      "status": "delivered",
+      "paymentStatus": "paid",
+      "placedAt": "2026-10-22T17:30:00Z",
+      "estimatedDeliveryAt": "2026-10-22T18:05:00Z",
+      "deliveredAt": "2026-10-22T18:12:00Z"
+    },
+    {
+      "id": "food-order-006",
+      "number": "FD-241024-006",
+      "restaurantId": "restaurant-006",
+      "customerId": "customer-001",
+      "customerName": "Alex Morgan",
+      "addressId": "address-001",
+      "courierId": null,
+      "items": [
+        {
+          "menuItemId": "meal-012",
+          "quantity": 1,
+          "unitPrice": 13.0
+        }
+      ],
+      "subtotal": 13.0,
+      "discount": 0,
+      "deliveryFee": 3.99,
+      "tax": 1.0,
+      "tip": 0,
+      "total": 17.99,
+      "currency": "USD",
+      "promoCode": null,
+      "status": "pending",
+      "paymentStatus": "authorized",
+      "placedAt": "2026-10-24T12:10:00Z",
+      "estimatedDeliveryAt": "2026-10-24T12:58:00Z",
+      "deliveredAt": null
+    },
+    {
+      "id": "food-order-007",
+      "number": "FD-241010-007",
+      "restaurantId": "restaurant-002",
+      "customerId": "customer-002",
+      "customerName": "Sam Rivera",
+      "addressId": "address-002",
+      "courierId": "courier-001",
+      "items": [
+        {
+          "menuItemId": "meal-006",
+          "quantity": 1,
+          "unitPrice": 17.5
+        },
+        {
+          "menuItemId": "meal-007",
+          "quantity": 1,
+          "unitPrice": 16.0
+        }
+      ],
+      "subtotal": 33.5,
+      "discount": 0,
+      "deliveryFee": 0,
+      "tax": 2.7,
+      "tip": 7.0,
+      "total": 43.2,
+      "currency": "USD",
+      "promoCode": "FREESHIP",
+      "status": "delivered",
+      "paymentStatus": "paid",
+      "placedAt": "2026-10-10T18:45:00Z",
+      "estimatedDeliveryAt": "2026-10-10T19:25:00Z",
+      "deliveredAt": "2026-10-10T19:31:00Z"
+    },
+    {
+      "id": "food-order-008",
+      "number": "FD-241024-008",
+      "restaurantId": "restaurant-001",
+      "customerId": "customer-006",
+      "customerName": "Morgan Ellis",
+      "addressId": "address-006",
+      "courierId": null,
+      "items": [
+        {
+          "menuItemId": "meal-001",
+          "quantity": 1,
+          "unitPrice": 12.5
+        }
+      ],
+      "subtotal": 12.5,
+      "discount": 0,
+      "deliveryFee": 2.99,
+      "tax": 1.0,
+      "tip": 0,
+      "total": 16.49,
+      "currency": "USD",
+      "promoCode": null,
+      "status": "failed",
+      "paymentStatus": "declined",
+      "placedAt": "2026-10-24T11:55:00Z",
+      "estimatedDeliveryAt": null,
+      "deliveredAt": null
     }
   ]
 }

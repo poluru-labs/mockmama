@@ -1,0 +1,51 @@
+{
+  "carts": [
+    {
+      "id": "cart-001",
+      "customerId": "customer-001",
+      "restaurantId": "restaurant-001",
+      "items": [
+        {
+          "menuItemId": "meal-004",
+          "quantity": 1,
+          "unitPrice": 14.5,
+          "notes": "No onions"
+        },
+        {
+          "menuItemId": "meal-005",
+          "quantity": 1,
+          "unitPrice": 8.5,
+          "notes": null
+        }
+      ],
+      "subtotal": 23.0,
+      "currency": "USD",
+      "updatedAt": "2026-10-24T11:30:00Z"
+    },
+    {
+      "id": "cart-002",
+      "customerId": "customer-004",
+      "restaurantId": "restaurant-004",
+      "items": [
+        {
+          "menuItemId": "meal-009",
+          "quantity": 2,
+          "unitPrice": 14.0,
+          "notes": "Extra ginger"
+        }
+      ],
+      "subtotal": 28.0,
+      "currency": "USD",
+      "updatedAt": "2026-10-24T12:05:00Z"
+    },
+    {
+      "id": "cart-003",
+      "customerId": "customer-002",
+      "restaurantId": "restaurant-002",
+      "items": [],
+      "subtotal": 0,
+      "currency": "USD",
+      "updatedAt": "2026-10-23T19:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "couriers": [
+    {
+      "id": "courier-001",
+      "name": "Chris Nguyen",
+      "phone": "+1-512-555-6101",
+      "avatar": "https://picsum.photos/seed/courier-001/200/200",
+      "vehicle": "bike",
+      "zoneId": "zone-001",
+      "status": "on_delivery",
+      "rating": 4.9
+    },
+    {
+      "id": "courier-002",
+      "name": "Dana Brooks",
+      "phone": "+1-512-555-6102",
+      "avatar": "https://picsum.photos/seed/courier-002/200/200",
+      "vehicle": "scooter",
+      "zoneId": "zone-001",
+      "status": "available",
+      "rating": 4.7
+    },
+    {
+      "id": "courier-003",
+      "name": "Lee Martinez",
+      "phone": "+1-512-555-6103",
+      "avatar": "https://picsum.photos/seed/courier-003/200/200",
+      "vehicle": "car",
+      "zoneId": "zone-002",
+      "status": "offline",
+      "rating": 4.6
+    },
+    {
+      "id": "courier-004",
+      "name": "Robin Park",
+      "phone": "+1-206-555-6104",
+      "avatar": "https://picsum.photos/seed/courier-004/200/200",
+      "vehicle": "bike",
+      "zoneId": "zone-003",
+      "status": "on_delivery",
+      "rating": 4.8
+    },
+    {
+      "id": "courier-005",
+      "name": "Quinn O'Brien",
+      "phone": "+1-312-555-6105",
+      "avatar": "https://picsum.photos/seed/courier-005/200/200",
+      "vehicle": "car",
+      "zoneId": "zone-004",
+      "status": "available",
+      "rating": 4.5
+    }
+  ]
+}

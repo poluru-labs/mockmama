@@ -1,0 +1,34 @@
+{
+  "favorites": [
+    {
+      "id": "favorite-001",
+      "customerId": "customer-001",
+      "restaurantId": "restaurant-001",
+      "createdAt": "2026-08-05T14:00:00Z"
+    },
+    {
+      "id": "favorite-002",
+      "customerId": "customer-001",
+      "restaurantId": "restaurant-006",
+      "createdAt": "2026-09-12T20:30:00Z"
+    },
+    {
+      "id": "favorite-003",
+      "customerId": "customer-002",
+      "restaurantId": "restaurant-002",
+      "createdAt": "2026-07-20T12:15:00Z"
+    },
+    {
+      "id": "favorite-004",
+      "customerId": "customer-004",
+      "restaurantId": "restaurant-004",
+      "createdAt": "2026-10-01T09:00:00Z"
+    },
+    {
+      "id": "favorite-005",
+      "customerId": "customer-003",
+      "restaurantId": "restaurant-003",
+      "createdAt": "2026-06-18T16:45:00Z"
+    }
+  ]
+}

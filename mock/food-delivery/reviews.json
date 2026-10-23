@@ -1,0 +1,59 @@
+{
+  "reviews": [
+    {
+      "id": "review-001",
+      "orderId": "food-order-002",
+      "customerId": "customer-002",
+      "restaurantId": "restaurant-002",
+      "rating": 5,
+      "title": "Basil still green",
+      "body": "Pizza arrived hot and the crust had a proper snap.",
+      "createdAt": "2026-09-21T20:10:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-002",
+      "orderId": "food-order-005",
+      "customerId": "customer-005",
+      "restaurantId": "restaurant-005",
+      "rating": 4,
+      "title": "Late but warm",
+      "body": "Burger was seven minutes late. Fries were still crisp.",
+      "createdAt": "2026-10-22T19:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-003",
+      "orderId": "food-order-007",
+      "customerId": "customer-002",
+      "restaurantId": "restaurant-002",
+      "rating": 5,
+      "title": "Free delivery worked",
+      "body": "FREESHIP applied at checkout without a support chat.",
+      "createdAt": "2026-10-10T21:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-004",
+      "orderId": null,
+      "customerId": "customer-004",
+      "restaurantId": "restaurant-004",
+      "rating": 3,
+      "title": "Roll fell apart",
+      "body": "Taste was fine. One roll opened in the bag.",
+      "createdAt": "2026-10-19T13:30:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-005",
+      "orderId": "food-order-003",
+      "customerId": "customer-003",
+      "restaurantId": "restaurant-003",
+      "rating": 1,
+      "title": "Never arrived",
+      "body": "Restaurant was closed and the order still charged briefly.",
+      "createdAt": "2026-09-20T17:30:00Z",
+      "status": "hidden"
+    }
+  ]
+}

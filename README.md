@@ -19,6 +19,7 @@ Everything lives under `mock/`.
 | [`mock/finance/`](mock/finance/) | Accounts, bills, budgets, cards, transfers |
 | [`mock/jobs/`](mock/jobs/) | Jobs, candidates, applications, interviews |
 | [`mock/fitness/`](mock/fitness/) | Gyms, members, classes, workouts, memberships, check-ins |
+| [`mock/food-delivery/`](mock/food-delivery/) | Restaurants, menus, carts, orders, couriers, promos |
 | [`mock/enterprise-bi-dashboard/`](mock/enterprise-bi-dashboard/) | Analytics workspace screens (KPIs, reports, lineage) |
 | [`mock/enterprise-billing-dashboard/`](mock/enterprise-billing-dashboard/) | Invoices, subscriptions, payments, collections |
 | [`mock/enterprise-banking-operations/`](mock/enterprise-banking-operations/) | Clearing, payments, screening, liquidity |
@@ -72,6 +73,7 @@ Demo passwords in auth and ecommerce users are `demo123` (customers) and `admin1
 - **Finance** — bank accounts, cards, bills, budgets, recurring payments, merchants, investments, and transfers.
 - **Jobs** — companies, departments, listings, candidates, applications, interviews, offers, and saved jobs.
 - **Fitness** — gyms, trainers, members, plans, classes, bookings, workouts, sessions, check-ins, and waitlist.
+- **Food delivery** — restaurants, menu items, customers, addresses, carts, orders, couriers, promos, and reviews.
 - **Enterprise BI** — overview, reports, explorer, lineage, quality, forecasts, and ask/query screens.
 - **Enterprise billing** — invoices, subscriptions, payments, collections, and ledger KPIs.
 - **Enterprise banking** — accounts, clearing, payments, screening, exceptions, and liquidity.

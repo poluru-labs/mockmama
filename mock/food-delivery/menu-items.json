@@ -1,40 +1,186 @@
 {
-  "menu-items": [
+  "menuItems": [
     {
       "id": "meal-001",
       "restaurantId": "restaurant-001",
+      "categoryId": "cat-001",
       "name": "Harvest Bowl",
       "description": "Roasted vegetables, quinoa, and lemon dressing.",
       "price": 12.5,
       "currency": "USD",
       "isVegetarian": true,
       "isAvailable": true,
-      "allergens": []
+      "allergens": [],
+      "image": "https://picsum.photos/seed/meal-001/800/600",
+      "calories": 520
     },
     {
       "id": "meal-002",
       "restaurantId": "restaurant-002",
+      "categoryId": "cat-003",
       "name": "Margherita Pizza",
       "description": "Tomato, mozzarella, and fresh basil.",
       "price": 15.0,
       "currency": "USD",
       "isVegetarian": true,
       "isAvailable": true,
-      "allergens": [
-        "milk",
-        "wheat"
-      ]
+      "allergens": ["milk", "wheat"],
+      "image": "https://picsum.photos/seed/meal-002/800/600",
+      "calories": 780
     },
     {
       "id": "meal-003",
       "restaurantId": "restaurant-003",
+      "categoryId": "cat-005",
       "name": "Black Bean Tacos",
       "description": "Three tacos with beans, slaw, and salsa.",
       "price": 10.0,
       "currency": "USD",
       "isVegetarian": true,
       "isAvailable": false,
-      "allergens": []
+      "allergens": [],
+      "image": "https://picsum.photos/seed/meal-003/800/600",
+      "calories": 640
+    },
+    {
+      "id": "meal-004",
+      "restaurantId": "restaurant-001",
+      "categoryId": "cat-001",
+      "name": "Protein Greens Bowl",
+      "description": "Grilled chicken, kale, farro, and tahini.",
+      "price": 14.5,
+      "currency": "USD",
+      "isVegetarian": false,
+      "isAvailable": true,
+      "allergens": ["sesame"],
+      "image": "https://picsum.photos/seed/meal-004/800/600",
+      "calories": 610
+    },
+    {
+      "id": "meal-005",
+      "restaurantId": "restaurant-001",
+      "categoryId": "cat-002",
+      "name": "Berry Recovery Smoothie",
+      "description": "Blueberry, banana, oat milk, and flax.",
+      "price": 8.5,
+      "currency": "USD",
+      "isVegetarian": true,
+      "isAvailable": true,
+      "allergens": [],
+      "image": "https://picsum.photos/seed/meal-005/800/600",
+      "calories": 340
+    },
+    {
+      "id": "meal-006",
+      "restaurantId": "restaurant-002",
+      "categoryId": "cat-003",
+      "name": "Pepperoni Pie",
+      "description": "Classic pepperoni with mozzarella.",
+      "price": 17.5,
+      "currency": "USD",
+      "isVegetarian": false,
+      "isAvailable": true,
+      "allergens": ["milk", "wheat"],
+      "image": "https://picsum.photos/seed/meal-006/800/600",
+      "calories": 920
+    },
+    {
+      "id": "meal-007",
+      "restaurantId": "restaurant-002",
+      "categoryId": "cat-004",
+      "name": "Cacio e Pepe",
+      "description": "Spaghetti, pecorino, and cracked pepper.",
+      "price": 16.0,
+      "currency": "USD",
+      "isVegetarian": true,
+      "isAvailable": true,
+      "allergens": ["milk", "wheat"],
+      "image": "https://picsum.photos/seed/meal-007/800/600",
+      "calories": 850
+    },
+    {
+      "id": "meal-008",
+      "restaurantId": "restaurant-003",
+      "categoryId": "cat-005",
+      "name": "Al Pastor Tacos",
+      "description": "Three tacos with pineapple and cilantro.",
+      "price": 11.5,
+      "currency": "USD",
+      "isVegetarian": false,
+      "isAvailable": true,
+      "allergens": [],
+      "image": "https://picsum.photos/seed/meal-008/800/600",
+      "calories": 710
+    },
+    {
+      "id": "meal-009",
+      "restaurantId": "restaurant-004",
+      "categoryId": "cat-006",
+      "name": "Salmon Lover Roll",
+      "description": "Salmon, avocado, and cucumber.",
+      "price": 14.0,
+      "currency": "USD",
+      "isVegetarian": false,
+      "isAvailable": true,
+      "allergens": ["fish", "soy"],
+      "image": "https://picsum.photos/seed/meal-009/800/600",
+      "calories": 420
+    },
+    {
+      "id": "meal-010",
+      "restaurantId": "restaurant-004",
+      "categoryId": "cat-006",
+      "name": "Veggie Dragon Roll",
+      "description": "Tempura asparagus, avocado, and eel sauce.",
+      "price": 12.0,
+      "currency": "USD",
+      "isVegetarian": true,
+      "isAvailable": true,
+      "allergens": ["soy", "wheat"],
+      "image": "https://picsum.photos/seed/meal-010/800/600",
+      "calories": 380
+    },
+    {
+      "id": "meal-011",
+      "restaurantId": "restaurant-005",
+      "categoryId": "cat-007",
+      "name": "Double Stack Burger",
+      "description": "Two patties, cheddar, pickles, and special sauce.",
+      "price": 13.5,
+      "currency": "USD",
+      "isVegetarian": false,
+      "isAvailable": true,
+      "allergens": ["milk", "wheat", "egg"],
+      "image": "https://picsum.photos/seed/meal-011/800/600",
+      "calories": 980
+    },
+    {
+      "id": "meal-012",
+      "restaurantId": "restaurant-006",
+      "categoryId": "cat-008",
+      "name": "Chana Masala",
+      "description": "Chickpea curry with basmati rice and naan.",
+      "price": 13.0,
+      "currency": "USD",
+      "isVegetarian": true,
+      "isAvailable": true,
+      "allergens": ["milk", "wheat"],
+      "image": "https://picsum.photos/seed/meal-012/800/600",
+      "calories": 720
+    },
+    {
+      "id": "meal-013",
+      "restaurantId": "restaurant-006",
+      "categoryId": "cat-008",
+      "name": "Lamb Vindaloo",
+      "description": "Spicy lamb curry with rice.",
+      "price": 17.0,
+      "currency": "USD",
+      "isVegetarian": false,
+      "isAvailable": false,
+      "allergens": [],
+      "image": "https://picsum.photos/seed/meal-013/800/600",
+      "calories": 810
     }
   ]
 }

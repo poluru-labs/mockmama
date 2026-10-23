@@ -1,0 +1,64 @@
+{
+  "notifications": [
+    {
+      "id": "notif-001",
+      "customerId": "customer-001",
+      "orderId": "food-order-001",
+      "type": "order_status",
+      "title": "Green Bowl is preparing your order",
+      "body": "Chris picked up the bag. ETA 12 minutes.",
+      "read": false,
+      "createdAt": "2026-09-22T17:08:00Z"
+    },
+    {
+      "id": "notif-002",
+      "customerId": "customer-004",
+      "orderId": "food-order-004",
+      "type": "order_status",
+      "title": "Robin is on the way",
+      "body": "Harbor Sushi Bar order FD-241018-004 is out for delivery.",
+      "read": false,
+      "createdAt": "2026-10-18T19:45:00Z"
+    },
+    {
+      "id": "notif-003",
+      "customerId": "customer-003",
+      "orderId": "food-order-003",
+      "type": "refund",
+      "title": "Refund issued",
+      "body": "Sunrise Tacos could not fulfill meal-003. $12.79 returned.",
+      "read": true,
+      "createdAt": "2026-09-20T16:20:00Z"
+    },
+    {
+      "id": "notif-004",
+      "customerId": "customer-001",
+      "orderId": null,
+      "type": "promo",
+      "title": "WELCOME10 still active",
+      "body": "10% off your next order over $15.",
+      "read": true,
+      "createdAt": "2026-10-20T09:00:00Z"
+    },
+    {
+      "id": "notif-005",
+      "customerId": "customer-006",
+      "orderId": "food-order-008",
+      "type": "payment",
+      "title": "Payment declined",
+      "body": "Update your card to retry checkout.",
+      "read": false,
+      "createdAt": "2026-10-24T11:56:00Z"
+    },
+    {
+      "id": "notif-006",
+      "customerId": "customer-005",
+      "orderId": "food-order-005",
+      "type": "order_status",
+      "title": "Order delivered",
+      "body": "Midnight Diner left the bag at your door.",
+      "read": true,
+      "createdAt": "2026-10-22T18:12:00Z"
+    }
+  ]
+}
