@@ -1,0 +1,52 @@
+{
+  "promos": [
+    {
+      "id": "promo-001",
+      "code": "WELCOME10",
+      "description": "10% off first order",
+      "discountType": "percent",
+      "discountValue": 10,
+      "minSubtotal": 15,
+      "maxDiscount": 12,
+      "currency": "USD",
+      "status": "active",
+      "expiresAt": "2026-12-31T23:59:59Z"
+    },
+    {
+      "id": "promo-002",
+      "code": "FREESHIP",
+      "description": "Free delivery over $30",
+      "discountType": "free_delivery",
+      "discountValue": 0,
+      "minSubtotal": 30,
+      "maxDiscount": null,
+      "currency": "USD",
+      "status": "active",
+      "expiresAt": "2026-11-30T23:59:59Z"
+    },
+    {
+      "id": "promo-003",
+      "code": "LUNCH5",
+      "description": "$5 off weekday lunch",
+      "discountType": "fixed",
+      "discountValue": 5,
+      "minSubtotal": 20,
+      "maxDiscount": 5,
+      "currency": "USD",
+      "status": "active",
+      "expiresAt": "2026-10-31T23:59:59Z"
+    },
+    {
+      "id": "promo-004",
+      "code": "SUMMER20",
+      "description": "Summer promo",
+      "discountType": "percent",
+      "discountValue": 20,
+      "minSubtotal": 25,
+      "maxDiscount": 15,
+      "currency": "USD",
+      "status": "expired",
+      "expiresAt": "2026-08-31T23:59:59Z"
+    }
+  ]
+}

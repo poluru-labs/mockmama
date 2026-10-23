@@ -1,0 +1,44 @@
+{
+  "zones": [
+    {
+      "id": "zone-001",
+      "name": "Central Austin",
+      "city": "Austin",
+      "state": "TX",
+      "status": "active",
+      "avgDeliveryMinutes": 28
+    },
+    {
+      "id": "zone-002",
+      "name": "East Austin",
+      "city": "Austin",
+      "state": "TX",
+      "status": "active",
+      "avgDeliveryMinutes": 22
+    },
+    {
+      "id": "zone-003",
+      "name": "Seattle Belltown",
+      "city": "Seattle",
+      "state": "WA",
+      "status": "active",
+      "avgDeliveryMinutes": 38
+    },
+    {
+      "id": "zone-004",
+      "name": "Chicago River North",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "active",
+      "avgDeliveryMinutes": 32
+    },
+    {
+      "id": "zone-005",
+      "name": "South Austin (paused)",
+      "city": "Austin",
+      "state": "TX",
+      "status": "paused",
+      "avgDeliveryMinutes": null
+    }
+  ]
+}

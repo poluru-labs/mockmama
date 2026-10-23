@@ -1,0 +1,52 @@
+{
+  "menuCategories": [
+    {
+      "id": "cat-001",
+      "restaurantId": "restaurant-001",
+      "name": "Bowls",
+      "sortOrder": 1
+    },
+    {
+      "id": "cat-002",
+      "restaurantId": "restaurant-001",
+      "name": "Smoothies",
+      "sortOrder": 2
+    },
+    {
+      "id": "cat-003",
+      "restaurantId": "restaurant-002",
+      "name": "Pizza",
+      "sortOrder": 1
+    },
+    {
+      "id": "cat-004",
+      "restaurantId": "restaurant-002",
+      "name": "Pasta",
+      "sortOrder": 2
+    },
+    {
+      "id": "cat-005",
+      "restaurantId": "restaurant-003",
+      "name": "Tacos",
+      "sortOrder": 1
+    },
+    {
+      "id": "cat-006",
+      "restaurantId": "restaurant-004",
+      "name": "Rolls",
+      "sortOrder": 1
+    },
+    {
+      "id": "cat-007",
+      "restaurantId": "restaurant-005",
+      "name": "Burgers",
+      "sortOrder": 1
+    },
+    {
+      "id": "cat-008",
+      "restaurantId": "restaurant-006",
+      "name": "Curries",
+      "sortOrder": 1
+    }
+  ]
+}

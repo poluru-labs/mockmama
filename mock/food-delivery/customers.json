@@ -1,0 +1,64 @@
+{
+  "customers": [
+    {
+      "id": "customer-001",
+      "name": "Alex Morgan",
+      "email": "alex.morgan@example.com",
+      "phone": "+1-512-555-5101",
+      "avatar": "https://picsum.photos/seed/customer-001/200/200",
+      "defaultAddressId": "address-001",
+      "status": "active",
+      "createdAt": "2025-06-10T12:00:00Z"
+    },
+    {
+      "id": "customer-002",
+      "name": "Sam Rivera",
+      "email": "sam.rivera@example.com",
+      "phone": "+1-512-555-5102",
+      "avatar": "https://picsum.photos/seed/customer-002/200/200",
+      "defaultAddressId": "address-002",
+      "status": "active",
+      "createdAt": "2025-11-02T09:30:00Z"
+    },
+    {
+      "id": "customer-003",
+      "name": "Taylor Kim",
+      "email": "taylor.kim@example.com",
+      "phone": "+1-512-555-5103",
+      "avatar": "https://picsum.photos/seed/customer-003/200/200",
+      "defaultAddressId": "address-003",
+      "status": "active",
+      "createdAt": "2026-01-18T16:45:00Z"
+    },
+    {
+      "id": "customer-004",
+      "name": "Jordan Reed",
+      "email": "jordan.reed@example.com",
+      "phone": "+1-206-555-5104",
+      "avatar": "https://picsum.photos/seed/customer-004/200/200",
+      "defaultAddressId": "address-004",
+      "status": "active",
+      "createdAt": "2026-03-22T11:00:00Z"
+    },
+    {
+      "id": "customer-005",
+      "name": "Priya Shah",
+      "email": "priya.shah@example.com",
+      "phone": "+1-312-555-5105",
+      "avatar": "https://picsum.photos/seed/customer-005/200/200",
+      "defaultAddressId": "address-005",
+      "status": "active",
+      "createdAt": "2026-07-01T08:20:00Z"
+    },
+    {
+      "id": "customer-006",
+      "name": "Morgan Ellis",
+      "email": "morgan.ellis@example.com",
+      "phone": "+1-512-555-5106",
+      "avatar": "https://picsum.photos/seed/customer-006/200/200",
+      "defaultAddressId": "address-006",
+      "status": "suspended",
+      "createdAt": "2024-09-14T14:00:00Z"
+    }
+  ]
+}
