@@ -1,0 +1,41 @@
+{
+  "hourly": [
+    {
+      "id": "hourly-001",
+      "locationId": "location-001",
+      "date": "2026-09-23",
+      "hours": [
+        { "time": "2026-09-23T06:00:00Z", "condition": "clear", "temperatureC": 22, "precipitationProbabilityPercent": 0, "windSpeedKph": 6 },
+        { "time": "2026-09-23T09:00:00Z", "condition": "sunny", "temperatureC": 26, "precipitationProbabilityPercent": 0, "windSpeedKph": 8 },
+        { "time": "2026-09-23T12:00:00Z", "condition": "sunny", "temperatureC": 30, "precipitationProbabilityPercent": 5, "windSpeedKph": 12 },
+        { "time": "2026-09-23T15:00:00Z", "condition": "sunny", "temperatureC": 32, "precipitationProbabilityPercent": 5, "windSpeedKph": 14 },
+        { "time": "2026-09-23T18:00:00Z", "condition": "partly_cloudy", "temperatureC": 28, "precipitationProbabilityPercent": 10, "windSpeedKph": 10 },
+        { "time": "2026-09-23T21:00:00Z", "condition": "partly_cloudy", "temperatureC": 24, "precipitationProbabilityPercent": 15, "windSpeedKph": 8 }
+      ]
+    },
+    {
+      "id": "hourly-002",
+      "locationId": "location-002",
+      "date": "2026-09-23",
+      "hours": [
+        { "time": "2026-09-23T06:00:00Z", "condition": "rain", "temperatureC": 14, "precipitationProbabilityPercent": 70, "windSpeedKph": 16 },
+        { "time": "2026-09-23T09:00:00Z", "condition": "rain", "temperatureC": 15, "precipitationProbabilityPercent": 85, "windSpeedKph": 18 },
+        { "time": "2026-09-23T12:00:00Z", "condition": "heavy_rain", "temperatureC": 16, "precipitationProbabilityPercent": 90, "windSpeedKph": 22 },
+        { "time": "2026-09-23T15:00:00Z", "condition": "rain", "temperatureC": 17, "precipitationProbabilityPercent": 80, "windSpeedKph": 20 },
+        { "time": "2026-09-23T18:00:00Z", "condition": "cloudy", "temperatureC": 15, "precipitationProbabilityPercent": 45, "windSpeedKph": 14 },
+        { "time": "2026-09-23T21:00:00Z", "condition": "partly_cloudy", "temperatureC": 13, "precipitationProbabilityPercent": 25, "windSpeedKph": 12 }
+      ]
+    },
+    {
+      "id": "hourly-003",
+      "locationId": "location-004",
+      "date": "2026-10-24",
+      "hours": [
+        { "time": "2026-10-24T14:00:00Z", "condition": "partly_cloudy", "temperatureC": 13, "precipitationProbabilityPercent": 10, "windSpeedKph": 11 },
+        { "time": "2026-10-24T17:00:00Z", "condition": "cloudy", "temperatureC": 12, "precipitationProbabilityPercent": 25, "windSpeedKph": 13 },
+        { "time": "2026-10-24T20:00:00Z", "condition": "rain", "temperatureC": 10, "precipitationProbabilityPercent": 55, "windSpeedKph": 16 },
+        { "time": "2026-10-24T23:00:00Z", "condition": "rain", "temperatureC": 9, "precipitationProbabilityPercent": 70, "windSpeedKph": 18 }
+      ]
+    }
+  ]
+}

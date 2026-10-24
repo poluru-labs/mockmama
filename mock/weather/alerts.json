@@ -1,0 +1,70 @@
+{
+  "alerts": [
+    {
+      "id": "alert-001",
+      "locationId": "location-001",
+      "type": "heat_advisory",
+      "severity": "moderate",
+      "title": "Heat advisory",
+      "description": "Afternoon heat index near 38°C. Limit outdoor exertion.",
+      "startsAt": "2026-09-24T15:00:00Z",
+      "endsAt": "2026-09-24T22:00:00Z",
+      "status": "expired"
+    },
+    {
+      "id": "alert-002",
+      "locationId": "location-001",
+      "type": "thunderstorm_watch",
+      "severity": "severe",
+      "title": "Severe thunderstorm watch",
+      "description": "Storms possible Thursday afternoon with gusty winds.",
+      "startsAt": "2026-09-26T12:00:00Z",
+      "endsAt": "2026-09-26T23:00:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "alert-003",
+      "locationId": "location-002",
+      "type": "flood_warning",
+      "severity": "severe",
+      "title": "Flood warning",
+      "description": "Heavy rain may cause localized flooding on low roads.",
+      "startsAt": "2026-09-23T06:00:00Z",
+      "endsAt": "2026-09-23T18:00:00Z",
+      "status": "active"
+    },
+    {
+      "id": "alert-004",
+      "locationId": "location-005",
+      "type": "wind_advisory",
+      "severity": "moderate",
+      "title": "Wind advisory",
+      "description": "Sustained winds 30–40 kph along the lakefront.",
+      "startsAt": "2026-10-24T12:00:00Z",
+      "endsAt": "2026-10-25T06:00:00Z",
+      "status": "active"
+    },
+    {
+      "id": "alert-005",
+      "locationId": "location-007",
+      "type": "winter_storm_warning",
+      "severity": "extreme",
+      "title": "Winter storm warning",
+      "description": "Heavy snow and blowing snow. Travel not recommended.",
+      "startsAt": "2026-10-24T00:00:00Z",
+      "endsAt": "2026-10-25T12:00:00Z",
+      "status": "active"
+    },
+    {
+      "id": "alert-006",
+      "locationId": "location-008",
+      "type": "excessive_heat_warning",
+      "severity": "extreme",
+      "title": "Excessive heat warning",
+      "description": "Historic dataset only. Location deprecated.",
+      "startsAt": "2026-08-01T12:00:00Z",
+      "endsAt": "2026-08-02T00:00:00Z",
+      "status": "expired"
+    }
+  ]
+}

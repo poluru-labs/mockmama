@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "wx-user-001",
+      "name": "Alex Morgan",
+      "email": "alex.morgan@example.com",
+      "homeLocationId": "location-001",
+      "units": "metric",
+      "status": "active"
+    },
+    {
+      "id": "wx-user-002",
+      "name": "Sam Rivera",
+      "email": "sam.rivera@example.com",
+      "homeLocationId": "location-004",
+      "units": "imperial",
+      "status": "active"
+    },
+    {
+      "id": "wx-user-003",
+      "name": "Taylor Kim",
+      "email": "taylor.kim@example.com",
+      "homeLocationId": "location-002",
+      "units": "metric",
+      "status": "active"
+    }
+  ]
+}

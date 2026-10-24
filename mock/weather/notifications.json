@@ -1,0 +1,59 @@
+{
+  "notifications": [
+    {
+      "id": "wx-notif-001",
+      "userId": "wx-user-001",
+      "locationId": "location-001",
+      "alertId": "alert-002",
+      "type": "severe_weather",
+      "title": "Thunderstorm watch Thursday",
+      "body": "Austin may see severe storms after noon.",
+      "read": false,
+      "createdAt": "2026-09-25T08:00:00Z"
+    },
+    {
+      "id": "wx-notif-002",
+      "userId": "wx-user-003",
+      "locationId": "location-002",
+      "alertId": "alert-003",
+      "type": "severe_weather",
+      "title": "Flood warning in effect",
+      "body": "Avoid underpasses until 6pm local.",
+      "read": false,
+      "createdAt": "2026-09-23T07:15:00Z"
+    },
+    {
+      "id": "wx-notif-003",
+      "userId": "wx-user-002",
+      "locationId": "location-004",
+      "alertId": null,
+      "type": "daily_forecast",
+      "title": "Rain tonight in Seattle",
+      "body": "55% chance after 8pm. High 15°C.",
+      "read": true,
+      "createdAt": "2026-10-24T12:00:00Z"
+    },
+    {
+      "id": "wx-notif-004",
+      "userId": "wx-user-001",
+      "locationId": "location-005",
+      "alertId": "alert-004",
+      "type": "wind",
+      "title": "Wind advisory for Chicago",
+      "body": "Lakefront gusts up to 40 kph.",
+      "read": true,
+      "createdAt": "2026-10-24T13:30:00Z"
+    },
+    {
+      "id": "wx-notif-005",
+      "userId": "wx-user-002",
+      "locationId": "location-007",
+      "alertId": "alert-005",
+      "type": "severe_weather",
+      "title": "Winter storm in Reykjavik",
+      "body": "Your saved vacation spot has an active warning.",
+      "read": false,
+      "createdAt": "2026-10-24T06:00:00Z"
+    }
+  ]
+}

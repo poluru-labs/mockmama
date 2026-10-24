@@ -3,26 +3,98 @@
     {
       "id": "location-001",
       "name": "Austin",
+      "region": "Texas",
       "countryCode": "US",
+      "countryName": "United States",
       "latitude": 30.2672,
       "longitude": -97.7431,
-      "timezone": "America/Chicago"
+      "timezone": "America/Chicago",
+      "elevationM": 149,
+      "status": "active"
     },
     {
       "id": "location-002",
       "name": "London",
+      "region": "England",
       "countryCode": "GB",
+      "countryName": "United Kingdom",
       "latitude": 51.5074,
       "longitude": -0.1278,
-      "timezone": "Europe/London"
+      "timezone": "Europe/London",
+      "elevationM": 11,
+      "status": "active"
     },
     {
       "id": "location-003",
       "name": "Tokyo",
+      "region": "Tokyo",
       "countryCode": "JP",
+      "countryName": "Japan",
       "latitude": 35.6762,
       "longitude": 139.6503,
-      "timezone": "Asia/Tokyo"
+      "timezone": "Asia/Tokyo",
+      "elevationM": 40,
+      "status": "active"
+    },
+    {
+      "id": "location-004",
+      "name": "Seattle",
+      "region": "Washington",
+      "countryCode": "US",
+      "countryName": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "timezone": "America/Los_Angeles",
+      "elevationM": 56,
+      "status": "active"
+    },
+    {
+      "id": "location-005",
+      "name": "Chicago",
+      "region": "Illinois",
+      "countryCode": "US",
+      "countryName": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "timezone": "America/Chicago",
+      "elevationM": 181,
+      "status": "active"
+    },
+    {
+      "id": "location-006",
+      "name": "Sydney",
+      "region": "New South Wales",
+      "countryCode": "AU",
+      "countryName": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "timezone": "Australia/Sydney",
+      "elevationM": 58,
+      "status": "active"
+    },
+    {
+      "id": "location-007",
+      "name": "Reykjavik",
+      "region": "Capital Region",
+      "countryCode": "IS",
+      "countryName": "Iceland",
+      "latitude": 64.1466,
+      "longitude": -21.9426,
+      "timezone": "Atlantic/Reykjavik",
+      "elevationM": 61,
+      "status": "active"
+    },
+    {
+      "id": "location-008",
+      "name": "Phoenix",
+      "region": "Arizona",
+      "countryCode": "US",
+      "countryName": "United States",
+      "latitude": 33.4484,
+      "longitude": -112.074,
+      "timezone": "America/Phoenix",
+      "elevationM": 331,
+      "status": "deprecated"
     }
   ]
 }

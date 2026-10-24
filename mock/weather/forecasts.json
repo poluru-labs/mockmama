@@ -3,81 +3,266 @@
     {
       "id": "forecast-001",
       "locationId": "location-001",
+      "generatedAt": "2026-09-22T12:00:00Z",
       "days": [
         {
           "date": "2026-09-23",
           "condition": "sunny",
           "minTemperatureC": 22,
           "maxTemperatureC": 32,
-          "precipitationProbabilityPercent": 5
+          "precipitationProbabilityPercent": 5,
+          "windSpeedKph": 10
         },
         {
           "date": "2026-09-24",
           "condition": "partly_cloudy",
           "minTemperatureC": 23,
           "maxTemperatureC": 33,
-          "precipitationProbabilityPercent": 20
+          "precipitationProbabilityPercent": 20,
+          "windSpeedKph": 14
         },
         {
           "date": "2026-09-25",
           "condition": "rain",
           "minTemperatureC": 22,
           "maxTemperatureC": 30,
-          "precipitationProbabilityPercent": 75
+          "precipitationProbabilityPercent": 75,
+          "windSpeedKph": 18
+        },
+        {
+          "date": "2026-09-26",
+          "condition": "thunderstorm",
+          "minTemperatureC": 21,
+          "maxTemperatureC": 28,
+          "precipitationProbabilityPercent": 85,
+          "windSpeedKph": 24
+        },
+        {
+          "date": "2026-09-27",
+          "condition": "partly_cloudy",
+          "minTemperatureC": 20,
+          "maxTemperatureC": 29,
+          "precipitationProbabilityPercent": 25,
+          "windSpeedKph": 12
+        },
+        {
+          "date": "2026-09-28",
+          "condition": "sunny",
+          "minTemperatureC": 21,
+          "maxTemperatureC": 31,
+          "precipitationProbabilityPercent": 5,
+          "windSpeedKph": 8
+        },
+        {
+          "date": "2026-09-29",
+          "condition": "sunny",
+          "minTemperatureC": 22,
+          "maxTemperatureC": 32,
+          "precipitationProbabilityPercent": 0,
+          "windSpeedKph": 9
         }
       ]
     },
     {
       "id": "forecast-002",
       "locationId": "location-002",
+      "generatedAt": "2026-09-22T12:00:00Z",
       "days": [
         {
           "date": "2026-09-23",
           "condition": "rain",
           "minTemperatureC": 12,
           "maxTemperatureC": 18,
-          "precipitationProbabilityPercent": 80
+          "precipitationProbabilityPercent": 80,
+          "windSpeedKph": 20
         },
         {
           "date": "2026-09-24",
           "condition": "partly_cloudy",
           "minTemperatureC": 13,
           "maxTemperatureC": 19,
-          "precipitationProbabilityPercent": 20
+          "precipitationProbabilityPercent": 20,
+          "windSpeedKph": 14
         },
         {
           "date": "2026-09-25",
           "condition": "rain",
           "minTemperatureC": 12,
           "maxTemperatureC": 16,
-          "precipitationProbabilityPercent": 75
+          "precipitationProbabilityPercent": 75,
+          "windSpeedKph": 18
+        },
+        {
+          "date": "2026-09-26",
+          "condition": "cloudy",
+          "minTemperatureC": 11,
+          "maxTemperatureC": 17,
+          "precipitationProbabilityPercent": 40,
+          "windSpeedKph": 16
+        },
+        {
+          "date": "2026-09-27",
+          "condition": "fog",
+          "minTemperatureC": 10,
+          "maxTemperatureC": 15,
+          "precipitationProbabilityPercent": 30,
+          "windSpeedKph": 8
+        },
+        {
+          "date": "2026-09-28",
+          "condition": "partly_cloudy",
+          "minTemperatureC": 11,
+          "maxTemperatureC": 18,
+          "precipitationProbabilityPercent": 15,
+          "windSpeedKph": 12
+        },
+        {
+          "date": "2026-09-29",
+          "condition": "rain",
+          "minTemperatureC": 12,
+          "maxTemperatureC": 17,
+          "precipitationProbabilityPercent": 60,
+          "windSpeedKph": 22
         }
       ]
     },
     {
       "id": "forecast-003",
       "locationId": "location-003",
+      "generatedAt": "2026-09-22T12:00:00Z",
       "days": [
         {
           "date": "2026-09-23",
           "condition": "cloudy",
           "minTemperatureC": 20,
           "maxTemperatureC": 26,
-          "precipitationProbabilityPercent": 30
+          "precipitationProbabilityPercent": 30,
+          "windSpeedKph": 10
         },
         {
           "date": "2026-09-24",
           "condition": "partly_cloudy",
           "minTemperatureC": 21,
           "maxTemperatureC": 27,
-          "precipitationProbabilityPercent": 20
+          "precipitationProbabilityPercent": 20,
+          "windSpeedKph": 8
         },
         {
           "date": "2026-09-25",
           "condition": "rain",
           "minTemperatureC": 20,
           "maxTemperatureC": 24,
-          "precipitationProbabilityPercent": 75
+          "precipitationProbabilityPercent": 75,
+          "windSpeedKph": 16
+        },
+        {
+          "date": "2026-09-26",
+          "condition": "rain",
+          "minTemperatureC": 19,
+          "maxTemperatureC": 23,
+          "precipitationProbabilityPercent": 70,
+          "windSpeedKph": 14
+        },
+        {
+          "date": "2026-09-27",
+          "condition": "cloudy",
+          "minTemperatureC": 20,
+          "maxTemperatureC": 25,
+          "precipitationProbabilityPercent": 35,
+          "windSpeedKph": 11
+        },
+        {
+          "date": "2026-09-28",
+          "condition": "partly_cloudy",
+          "minTemperatureC": 21,
+          "maxTemperatureC": 27,
+          "precipitationProbabilityPercent": 10,
+          "windSpeedKph": 9
+        },
+        {
+          "date": "2026-09-29",
+          "condition": "sunny",
+          "minTemperatureC": 22,
+          "maxTemperatureC": 28,
+          "precipitationProbabilityPercent": 5,
+          "windSpeedKph": 7
+        }
+      ]
+    },
+    {
+      "id": "forecast-004",
+      "locationId": "location-004",
+      "generatedAt": "2026-10-24T10:00:00Z",
+      "days": [
+        {
+          "date": "2026-10-24",
+          "condition": "partly_cloudy",
+          "minTemperatureC": 9,
+          "maxTemperatureC": 15,
+          "precipitationProbabilityPercent": 15,
+          "windSpeedKph": 12
+        },
+        {
+          "date": "2026-10-25",
+          "condition": "rain",
+          "minTemperatureC": 8,
+          "maxTemperatureC": 13,
+          "precipitationProbabilityPercent": 65,
+          "windSpeedKph": 18
+        },
+        {
+          "date": "2026-10-26",
+          "condition": "rain",
+          "minTemperatureC": 7,
+          "maxTemperatureC": 12,
+          "precipitationProbabilityPercent": 80,
+          "windSpeedKph": 20
+        }
+      ]
+    },
+    {
+      "id": "forecast-005",
+      "locationId": "location-005",
+      "generatedAt": "2026-10-24T10:00:00Z",
+      "days": [
+        {
+          "date": "2026-10-24",
+          "condition": "windy",
+          "minTemperatureC": 6,
+          "maxTemperatureC": 12,
+          "precipitationProbabilityPercent": 10,
+          "windSpeedKph": 35
+        },
+        {
+          "date": "2026-10-25",
+          "condition": "partly_cloudy",
+          "minTemperatureC": 5,
+          "maxTemperatureC": 11,
+          "precipitationProbabilityPercent": 20,
+          "windSpeedKph": 22
+        }
+      ]
+    },
+    {
+      "id": "forecast-006",
+      "locationId": "location-007",
+      "generatedAt": "2026-10-24T08:00:00Z",
+      "days": [
+        {
+          "date": "2026-10-24",
+          "condition": "snow",
+          "minTemperatureC": -2,
+          "maxTemperatureC": 2,
+          "precipitationProbabilityPercent": 90,
+          "windSpeedKph": 28
+        },
+        {
+          "date": "2026-10-25",
+          "condition": "snow",
+          "minTemperatureC": -3,
+          "maxTemperatureC": 1,
+          "precipitationProbabilityPercent": 75,
+          "windSpeedKph": 24
         }
       ]
     }

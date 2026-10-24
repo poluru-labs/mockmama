@@ -1,0 +1,68 @@
+{
+  "airQuality": [
+    {
+      "id": "aqi-001",
+      "locationId": "location-001",
+      "index": 42,
+      "category": "good",
+      "primaryPollutant": "pm25",
+      "observedAt": "2026-09-22T14:00:00Z"
+    },
+    {
+      "id": "aqi-002",
+      "locationId": "location-002",
+      "index": 58,
+      "category": "moderate",
+      "primaryPollutant": "no2",
+      "observedAt": "2026-09-22T14:00:00Z"
+    },
+    {
+      "id": "aqi-003",
+      "locationId": "location-003",
+      "index": 51,
+      "category": "moderate",
+      "primaryPollutant": "pm25",
+      "observedAt": "2026-09-22T14:00:00Z"
+    },
+    {
+      "id": "aqi-004",
+      "locationId": "location-004",
+      "index": 35,
+      "category": "good",
+      "primaryPollutant": "pm25",
+      "observedAt": "2026-10-24T15:00:00Z"
+    },
+    {
+      "id": "aqi-005",
+      "locationId": "location-005",
+      "index": 72,
+      "category": "moderate",
+      "primaryPollutant": "ozone",
+      "observedAt": "2026-10-24T15:00:00Z"
+    },
+    {
+      "id": "aqi-006",
+      "locationId": "location-006",
+      "index": 28,
+      "category": "good",
+      "primaryPollutant": "pm10",
+      "observedAt": "2026-10-24T04:00:00Z"
+    },
+    {
+      "id": "aqi-007",
+      "locationId": "location-007",
+      "index": 18,
+      "category": "good",
+      "primaryPollutant": "pm25",
+      "observedAt": "2026-10-24T12:00:00Z"
+    },
+    {
+      "id": "aqi-008",
+      "locationId": "location-001",
+      "index": 155,
+      "category": "unhealthy",
+      "primaryPollutant": "pm25",
+      "observedAt": "2026-09-26T16:00:00Z"
+    }
+  ]
+}
