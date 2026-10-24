@@ -1,0 +1,52 @@
+{
+  "projectMembers": [
+    {
+      "id": "pm-001",
+      "projectId": "project-001",
+      "memberId": "member-001",
+      "role": "owner"
+    },
+    {
+      "id": "pm-002",
+      "projectId": "project-001",
+      "memberId": "member-002",
+      "role": "contributor"
+    },
+    {
+      "id": "pm-003",
+      "projectId": "project-001",
+      "memberId": "member-004",
+      "role": "contributor"
+    },
+    {
+      "id": "pm-004",
+      "projectId": "project-002",
+      "memberId": "member-002",
+      "role": "owner"
+    },
+    {
+      "id": "pm-005",
+      "projectId": "project-002",
+      "memberId": "member-001",
+      "role": "contributor"
+    },
+    {
+      "id": "pm-006",
+      "projectId": "project-003",
+      "memberId": "member-003",
+      "role": "owner"
+    },
+    {
+      "id": "pm-007",
+      "projectId": "project-004",
+      "memberId": "member-001",
+      "role": "owner"
+    },
+    {
+      "id": "pm-008",
+      "projectId": "project-004",
+      "memberId": "member-003",
+      "role": "contributor"
+    }
+  ]
+}

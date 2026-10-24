@@ -2,18 +2,57 @@
   "members": [
     {
       "id": "member-001",
+      "workspaceId": "workspace-001",
       "name": "Alex Morgan",
-      "email": "alex@example.com"
+      "email": "alex@example.com",
+      "avatar": "https://picsum.photos/seed/task-member-001/200/200",
+      "role": "admin",
+      "status": "active"
     },
     {
       "id": "member-002",
+      "workspaceId": "workspace-001",
       "name": "Sam Rivera",
-      "email": "sam@example.com"
+      "email": "sam@example.com",
+      "avatar": "https://picsum.photos/seed/task-member-002/200/200",
+      "role": "member",
+      "status": "active"
     },
     {
       "id": "member-003",
+      "workspaceId": "workspace-001",
       "name": "Taylor Kim",
-      "email": "taylor@example.com"
+      "email": "taylor@example.com",
+      "avatar": "https://picsum.photos/seed/task-member-003/200/200",
+      "role": "member",
+      "status": "active"
+    },
+    {
+      "id": "member-004",
+      "workspaceId": "workspace-001",
+      "name": "Jordan Reed",
+      "email": "jordan@example.com",
+      "avatar": "https://picsum.photos/seed/task-member-004/200/200",
+      "role": "member",
+      "status": "active"
+    },
+    {
+      "id": "member-005",
+      "workspaceId": "workspace-001",
+      "name": "Priya Shah",
+      "email": "priya@example.com",
+      "avatar": "https://picsum.photos/seed/task-member-005/200/200",
+      "role": "viewer",
+      "status": "invited"
+    },
+    {
+      "id": "member-006",
+      "workspaceId": "workspace-002",
+      "name": "Morgan Ellis",
+      "email": "morgan@example.com",
+      "avatar": "https://picsum.photos/seed/task-member-006/200/200",
+      "role": "admin",
+      "status": "active"
     }
   ]
 }

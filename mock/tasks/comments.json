@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "id": "comment-001",
+      "taskId": "task-001",
+      "authorId": "member-001",
+      "body": "Mobile wireframe can reuse the blog hero grid.",
+      "createdAt": "2026-09-23T14:10:00Z",
+      "editedAt": null
+    },
+    {
+      "id": "comment-002",
+      "taskId": "task-001",
+      "authorId": "member-002",
+      "body": "Posted v2 in Figma. Waiting on copy for hero.",
+      "createdAt": "2026-09-24T09:30:00Z",
+      "editedAt": null
+    },
+    {
+      "id": "comment-003",
+      "taskId": "task-005",
+      "authorId": "member-004",
+      "body": "Please check loading state on slow 3G.",
+      "createdAt": "2026-10-03T16:00:00Z",
+      "editedAt": "2026-10-03T16:05:00Z"
+    },
+    {
+      "id": "comment-004",
+      "taskId": "task-007",
+      "authorId": "member-002",
+      "body": "Blocked on Android build from CI. Ticket INF-442.",
+      "createdAt": "2026-09-30T11:20:00Z",
+      "editedAt": null
+    },
+    {
+      "id": "comment-005",
+      "taskId": "task-006",
+      "authorId": "member-003",
+      "body": "Added empty board screenshot to the PR.",
+      "createdAt": "2026-10-18T13:45:00Z",
+      "editedAt": null
+    }
+  ]
+}

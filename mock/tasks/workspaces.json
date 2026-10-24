@@ -1,0 +1,20 @@
+{
+  "workspaces": [
+    {
+      "id": "workspace-001",
+      "name": "Pineworks Studio",
+      "slug": "pineworks",
+      "plan": "team",
+      "status": "active",
+      "createdAt": "2025-01-10T12:00:00Z"
+    },
+    {
+      "id": "workspace-002",
+      "name": "Side experiments",
+      "slug": "side-lab",
+      "plan": "free",
+      "status": "active",
+      "createdAt": "2026-06-01T09:00:00Z"
+    }
+  ]
+}

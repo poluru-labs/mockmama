@@ -1,0 +1,40 @@
+{
+  "columns": [
+    {
+      "id": "column-001",
+      "projectId": "project-001",
+      "name": "Backlog",
+      "sortOrder": 1
+    },
+    {
+      "id": "column-002",
+      "projectId": "project-001",
+      "name": "In progress",
+      "sortOrder": 2
+    },
+    {
+      "id": "column-003",
+      "projectId": "project-001",
+      "name": "Review",
+      "sortOrder": 3
+    },
+    {
+      "id": "column-004",
+      "projectId": "project-001",
+      "name": "Done",
+      "sortOrder": 4
+    },
+    {
+      "id": "column-005",
+      "projectId": "project-002",
+      "name": "Ideas",
+      "sortOrder": 1
+    },
+    {
+      "id": "column-006",
+      "projectId": "project-002",
+      "name": "Ready",
+      "sortOrder": 2
+    }
+  ]
+}

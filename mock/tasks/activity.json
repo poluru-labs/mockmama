@@ -1,0 +1,64 @@
+{
+  "activity": [
+    {
+      "id": "activity-001",
+      "workspaceId": "workspace-001",
+      "taskId": "task-001",
+      "actorId": "member-002",
+      "type": "status_changed",
+      "fromValue": "todo",
+      "toValue": "in_progress",
+      "createdAt": "2026-09-22T10:00:00Z"
+    },
+    {
+      "id": "activity-002",
+      "workspaceId": "workspace-001",
+      "taskId": "task-005",
+      "actorId": "member-001",
+      "type": "status_changed",
+      "fromValue": "in_progress",
+      "toValue": "in_review",
+      "createdAt": "2026-10-04T17:30:00Z"
+    },
+    {
+      "id": "activity-003",
+      "workspaceId": "workspace-001",
+      "taskId": "task-003",
+      "actorId": "member-003",
+      "type": "completed",
+      "fromValue": null,
+      "toValue": null,
+      "createdAt": "2026-09-14T16:00:00Z"
+    },
+    {
+      "id": "activity-004",
+      "workspaceId": "workspace-001",
+      "taskId": "task-007",
+      "actorId": "member-002",
+      "type": "status_changed",
+      "fromValue": "in_progress",
+      "toValue": "blocked",
+      "createdAt": "2026-09-30T11:21:00Z"
+    },
+    {
+      "id": "activity-005",
+      "workspaceId": "workspace-001",
+      "taskId": null,
+      "actorId": "member-001",
+      "type": "project_created",
+      "fromValue": null,
+      "toValue": "project-004",
+      "createdAt": "2026-10-01T09:00:00Z"
+    },
+    {
+      "id": "activity-006",
+      "workspaceId": "workspace-001",
+      "taskId": "task-002",
+      "actorId": "member-005",
+      "type": "mentioned",
+      "fromValue": null,
+      "toValue": "member-002",
+      "createdAt": "2026-10-20T08:00:00Z"
+    }
+  ]
+}

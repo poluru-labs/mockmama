@@ -1,0 +1,40 @@
+{
+  "sprints": [
+    {
+      "id": "sprint-001",
+      "projectId": "project-001",
+      "name": "Sprint 12",
+      "goal": "Ship homepage and pricing",
+      "startsOn": "2026-09-22",
+      "endsOn": "2026-10-06",
+      "status": "active"
+    },
+    {
+      "id": "sprint-002",
+      "projectId": "project-003",
+      "name": "Brand wrap-up",
+      "goal": "Export and handoff",
+      "startsOn": "2026-09-01",
+      "endsOn": "2026-09-15",
+      "status": "completed"
+    },
+    {
+      "id": "sprint-003",
+      "projectId": "project-004",
+      "name": "Sprint 1",
+      "goal": "Mock-driven empty and error states",
+      "startsOn": "2026-10-14",
+      "endsOn": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "id": "sprint-004",
+      "projectId": "project-002",
+      "name": "Discovery",
+      "goal": "Requirements only",
+      "startsOn": "2026-10-01",
+      "endsOn": "2026-10-15",
+      "status": "planned"
+    }
+  ]
+}
