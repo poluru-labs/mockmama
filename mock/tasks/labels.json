@@ -1,0 +1,40 @@
+{
+  "labels": [
+    {
+      "id": "label-001",
+      "workspaceId": "workspace-001",
+      "name": "design",
+      "color": "#ec4899"
+    },
+    {
+      "id": "label-002",
+      "workspaceId": "workspace-001",
+      "name": "planning",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "label-003",
+      "workspaceId": "workspace-001",
+      "name": "assets",
+      "color": "#14b8a6"
+    },
+    {
+      "id": "label-004",
+      "workspaceId": "workspace-001",
+      "name": "engineering",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "label-005",
+      "workspaceId": "workspace-001",
+      "name": "bug",
+      "color": "#ef4444"
+    },
+    {
+      "id": "label-006",
+      "workspaceId": "workspace-001",
+      "name": "blocked",
+      "color": "#64748b"
+    }
+  ]
+}

@@ -2,24 +2,63 @@
   "projects": [
     {
       "id": "project-001",
+      "workspaceId": "workspace-001",
       "name": "Website refresh",
+      "slug": "website-refresh",
       "ownerId": "member-001",
       "status": "active",
-      "dueDate": "2026-10-15"
+      "visibility": "team",
+      "dueDate": "2026-10-15",
+      "description": "Marketing site and docs shell.",
+      "color": "#2563eb"
     },
     {
       "id": "project-002",
+      "workspaceId": "workspace-001",
       "name": "Mobile onboarding",
+      "slug": "mobile-onboarding",
       "ownerId": "member-002",
       "status": "planning",
-      "dueDate": "2026-11-01"
+      "visibility": "team",
+      "dueDate": "2026-11-01",
+      "description": "First-run flow for iOS and Android.",
+      "color": "#7c3aed"
     },
     {
       "id": "project-003",
+      "workspaceId": "workspace-001",
       "name": "Brand guidelines",
+      "slug": "brand-guidelines",
       "ownerId": "member-003",
       "status": "completed",
-      "dueDate": "2026-09-15"
+      "visibility": "team",
+      "dueDate": "2026-09-15",
+      "description": "Logo, type, and color usage.",
+      "color": "#059669"
+    },
+    {
+      "id": "project-004",
+      "workspaceId": "workspace-001",
+      "name": "Design system QA",
+      "slug": "design-system-qa",
+      "ownerId": "member-001",
+      "status": "active",
+      "visibility": "team",
+      "dueDate": "2026-10-31",
+      "description": "Component states against mock data.",
+      "color": "#ea580c"
+    },
+    {
+      "id": "project-005",
+      "workspaceId": "workspace-002",
+      "name": "Weekend prototype",
+      "slug": "weekend-prototype",
+      "ownerId": "member-006",
+      "status": "archived",
+      "visibility": "private",
+      "dueDate": "2026-08-01",
+      "description": "Spike only. Not shipped.",
+      "color": "#64748b"
     }
   ]
 }

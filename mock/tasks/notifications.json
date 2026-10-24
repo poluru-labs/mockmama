@@ -1,0 +1,64 @@
+{
+  "notifications": [
+    {
+      "id": "notif-001",
+      "memberId": "member-002",
+      "taskId": "task-001",
+      "type": "assignment",
+      "title": "Assigned to homepage wireframes",
+      "body": "Alex assigned you task-001.",
+      "read": true,
+      "createdAt": "2026-09-22T09:55:00Z"
+    },
+    {
+      "id": "notif-002",
+      "memberId": "member-001",
+      "taskId": "task-005",
+      "type": "review_requested",
+      "title": "Pricing section ready for review",
+      "body": "Sam moved task-005 to review.",
+      "read": false,
+      "createdAt": "2026-10-04T17:31:00Z"
+    },
+    {
+      "id": "notif-003",
+      "memberId": "member-002",
+      "taskId": "task-007",
+      "type": "blocked",
+      "title": "Task blocked",
+      "body": "Android crash waiting on CI build.",
+      "read": false,
+      "createdAt": "2026-09-30T11:22:00Z"
+    },
+    {
+      "id": "notif-004",
+      "memberId": "member-001",
+      "taskId": "task-009",
+      "type": "due_soon",
+      "title": "Overdue: accessibility audit",
+      "body": "Due date was 2026-10-10. Still unassigned.",
+      "read": false,
+      "createdAt": "2026-10-22T08:00:00Z"
+    },
+    {
+      "id": "notif-005",
+      "memberId": "member-005",
+      "taskId": null,
+      "type": "invite",
+      "title": "Workspace invite pending",
+      "body": "Accept to view Pineworks Studio projects.",
+      "read": false,
+      "createdAt": "2026-10-19T12:00:00Z"
+    },
+    {
+      "id": "notif-006",
+      "memberId": "member-003",
+      "taskId": "task-006",
+      "type": "comment",
+      "title": "New comment on empty states",
+      "body": "Jordan: please check loading state on slow 3G.",
+      "read": true,
+      "createdAt": "2026-10-03T16:06:00Z"
+    }
+  ]
+}
