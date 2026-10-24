@@ -1,0 +1,43 @@
+{
+  "hotels": [
+    {
+      "id": "hotel-001",
+      "destinationId": "destination-001",
+      "name": "Riverlight Stay",
+      "stars": 4,
+      "pricePerNight": 140,
+      "currency": "USD",
+      "amenities": [
+        "wifi",
+        "breakfast"
+      ],
+      "available": true
+    },
+    {
+      "id": "hotel-002",
+      "destinationId": "destination-002",
+      "name": "Maple Courtyard",
+      "stars": 3,
+      "pricePerNight": 110,
+      "currency": "USD",
+      "amenities": [
+        "wifi",
+        "garden"
+      ],
+      "available": true
+    },
+    {
+      "id": "hotel-003",
+      "destinationId": "destination-003",
+      "name": "Harbor View Lodge",
+      "stars": 4,
+      "pricePerNight": 180,
+      "currency": "USD",
+      "amenities": [
+        "wifi",
+        "gym"
+      ],
+      "available": false
+    }
+  ]
+}
