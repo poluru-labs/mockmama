@@ -1,0 +1,28 @@
+{
+  "locations": [
+    {
+      "id": "location-001",
+      "name": "Austin",
+      "countryCode": "US",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "timezone": "America/Chicago"
+    },
+    {
+      "id": "location-002",
+      "name": "London",
+      "countryCode": "GB",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "timezone": "Europe/London"
+    },
+    {
+      "id": "location-003",
+      "name": "Tokyo",
+      "countryCode": "JP",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "timezone": "Asia/Tokyo"
+    }
+  ]
+}

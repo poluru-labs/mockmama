@@ -1,0 +1,34 @@
+{
+  "current": [
+    {
+      "id": "weather-001",
+      "locationId": "location-001",
+      "condition": "sunny",
+      "temperatureC": 29,
+      "feelsLikeC": 31,
+      "humidityPercent": 55,
+      "windSpeedKph": 12,
+      "observedAt": "2026-09-22T15:00:00Z"
+    },
+    {
+      "id": "weather-002",
+      "locationId": "location-002",
+      "condition": "rain",
+      "temperatureC": 16,
+      "feelsLikeC": 15,
+      "humidityPercent": 82,
+      "windSpeedKph": 18,
+      "observedAt": "2026-09-22T15:00:00Z"
+    },
+    {
+      "id": "weather-003",
+      "locationId": "location-003",
+      "condition": "cloudy",
+      "temperatureC": 23,
+      "feelsLikeC": 24,
+      "humidityPercent": 70,
+      "windSpeedKph": 9,
+      "observedAt": "2026-09-22T15:00:00Z"
+    }
+  ]
+}

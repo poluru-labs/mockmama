@@ -1,0 +1,85 @@
+{
+  "forecasts": [
+    {
+      "id": "forecast-001",
+      "locationId": "location-001",
+      "days": [
+        {
+          "date": "2026-09-23",
+          "condition": "sunny",
+          "minTemperatureC": 22,
+          "maxTemperatureC": 32,
+          "precipitationProbabilityPercent": 5
+        },
+        {
+          "date": "2026-09-24",
+          "condition": "partly_cloudy",
+          "minTemperatureC": 23,
+          "maxTemperatureC": 33,
+          "precipitationProbabilityPercent": 20
+        },
+        {
+          "date": "2026-09-25",
+          "condition": "rain",
+          "minTemperatureC": 22,
+          "maxTemperatureC": 30,
+          "precipitationProbabilityPercent": 75
+        }
+      ]
+    },
+    {
+      "id": "forecast-002",
+      "locationId": "location-002",
+      "days": [
+        {
+          "date": "2026-09-23",
+          "condition": "rain",
+          "minTemperatureC": 12,
+          "maxTemperatureC": 18,
+          "precipitationProbabilityPercent": 80
+        },
+        {
+          "date": "2026-09-24",
+          "condition": "partly_cloudy",
+          "minTemperatureC": 13,
+          "maxTemperatureC": 19,
+          "precipitationProbabilityPercent": 20
+        },
+        {
+          "date": "2026-09-25",
+          "condition": "rain",
+          "minTemperatureC": 12,
+          "maxTemperatureC": 16,
+          "precipitationProbabilityPercent": 75
+        }
+      ]
+    },
+    {
+      "id": "forecast-003",
+      "locationId": "location-003",
+      "days": [
+        {
+          "date": "2026-09-23",
+          "condition": "cloudy",
+          "minTemperatureC": 20,
+          "maxTemperatureC": 26,
+          "precipitationProbabilityPercent": 30
+        },
+        {
+          "date": "2026-09-24",
+          "condition": "partly_cloudy",
+          "minTemperatureC": 21,
+          "maxTemperatureC": 27,
+          "precipitationProbabilityPercent": 20
+        },
+        {
+          "date": "2026-09-25",
+          "condition": "rain",
+          "minTemperatureC": 20,
+          "maxTemperatureC": 24,
+          "precipitationProbabilityPercent": 75
+        }
+      ]
+    }
+  ]
+}
