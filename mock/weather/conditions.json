@@ -1,0 +1,74 @@
+{
+  "conditions": [
+    {
+      "id": "cond-sunny",
+      "code": "sunny",
+      "label": "Sunny",
+      "icon": "sun",
+      "isDaytime": true
+    },
+    {
+      "id": "cond-clear",
+      "code": "clear",
+      "label": "Clear",
+      "icon": "moon",
+      "isDaytime": false
+    },
+    {
+      "id": "cond-partly-cloudy",
+      "code": "partly_cloudy",
+      "label": "Partly cloudy",
+      "icon": "cloud-sun",
+      "isDaytime": true
+    },
+    {
+      "id": "cond-cloudy",
+      "code": "cloudy",
+      "label": "Cloudy",
+      "icon": "cloud",
+      "isDaytime": true
+    },
+    {
+      "id": "cond-rain",
+      "code": "rain",
+      "label": "Rain",
+      "icon": "cloud-rain",
+      "isDaytime": true
+    },
+    {
+      "id": "cond-heavy-rain",
+      "code": "heavy_rain",
+      "label": "Heavy rain",
+      "icon": "cloud-rain-heavy",
+      "isDaytime": true
+    },
+    {
+      "id": "cond-thunderstorm",
+      "code": "thunderstorm",
+      "label": "Thunderstorm",
+      "icon": "cloud-lightning",
+      "isDaytime": true
+    },
+    {
+      "id": "cond-snow",
+      "code": "snow",
+      "label": "Snow",
+      "icon": "cloud-snow",
+      "isDaytime": true
+    },
+    {
+      "id": "cond-fog",
+      "code": "fog",
+      "label": "Fog",
+      "icon": "cloud-fog",
+      "isDaytime": true
+    },
+    {
+      "id": "cond-windy",
+      "code": "windy",
+      "label": "Windy",
+      "icon": "wind",
+      "isDaytime": true
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "radar": [
+    {
+      "id": "radar-001",
+      "locationId": "location-001",
+      "layer": "precipitation",
+      "updatedAt": "2026-09-22T14:55:00Z",
+      "animationFrames": 12,
+      "tileUrlTemplate": "https://picsum.photos/seed/radar-austin-{frame}/512/512",
+      "coverageKm": 120,
+      "status": "live"
+    },
+    {
+      "id": "radar-002",
+      "locationId": "location-002",
+      "layer": "precipitation",
+      "updatedAt": "2026-09-22T14:50:00Z",
+      "animationFrames": 12,
+      "tileUrlTemplate": "https://picsum.photos/seed/radar-london-{frame}/512/512",
+      "coverageKm": 150,
+      "status": "live"
+    },
+    {
+      "id": "radar-003",
+      "locationId": "location-004",
+      "layer": "precipitation",
+      "updatedAt": "2026-10-24T15:30:00Z",
+      "animationFrames": 8,
+      "tileUrlTemplate": "https://picsum.photos/seed/radar-seattle-{frame}/512/512",
+      "coverageKm": 100,
+      "status": "delayed"
+    },
+    {
+      "id": "radar-004",
+      "locationId": "location-008",
+      "layer": "precipitation",
+      "updatedAt": "2026-08-01T18:00:00Z",
+      "animationFrames": 0,
+      "tileUrlTemplate": null,
+      "coverageKm": null,
+      "status": "offline"
+    }
+  ]
+}

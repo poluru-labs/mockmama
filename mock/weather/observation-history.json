@@ -1,0 +1,58 @@
+{
+  "observationHistory": [
+    {
+      "id": "history-001",
+      "locationId": "location-001",
+      "date": "2026-09-21",
+      "minTemperatureC": 21,
+      "maxTemperatureC": 31,
+      "precipitationMm": 0,
+      "dominantCondition": "sunny"
+    },
+    {
+      "id": "history-002",
+      "locationId": "location-001",
+      "date": "2026-09-20",
+      "minTemperatureC": 20,
+      "maxTemperatureC": 30,
+      "precipitationMm": 4.2,
+      "dominantCondition": "rain"
+    },
+    {
+      "id": "history-003",
+      "locationId": "location-002",
+      "date": "2026-09-21",
+      "minTemperatureC": 11,
+      "maxTemperatureC": 17,
+      "precipitationMm": 8.1,
+      "dominantCondition": "rain"
+    },
+    {
+      "id": "history-004",
+      "locationId": "location-003",
+      "date": "2026-09-21",
+      "minTemperatureC": 19,
+      "maxTemperatureC": 25,
+      "precipitationMm": 0,
+      "dominantCondition": "cloudy"
+    },
+    {
+      "id": "history-005",
+      "locationId": "location-004",
+      "date": "2026-10-23",
+      "minTemperatureC": 8,
+      "maxTemperatureC": 14,
+      "precipitationMm": 1.5,
+      "dominantCondition": "rain"
+    },
+    {
+      "id": "history-006",
+      "locationId": "location-007",
+      "date": "2026-10-23",
+      "minTemperatureC": -1,
+      "maxTemperatureC": 3,
+      "precipitationMm": 6.0,
+      "dominantCondition": "snow"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "savedLocations": [
+    {
+      "id": "saved-001",
+      "userId": "wx-user-001",
+      "locationId": "location-001",
+      "label": "Home",
+      "sortOrder": 1,
+      "notificationsEnabled": true
+    },
+    {
+      "id": "saved-002",
+      "userId": "wx-user-001",
+      "locationId": "location-005",
+      "label": "Chicago trip",
+      "sortOrder": 2,
+      "notificationsEnabled": true
+    },
+    {
+      "id": "saved-003",
+      "userId": "wx-user-001",
+      "locationId": "location-003",
+      "label": "Tokyo office",
+      "sortOrder": 3,
+      "notificationsEnabled": false
+    },
+    {
+      "id": "saved-004",
+      "userId": "wx-user-002",
+      "locationId": "location-004",
+      "label": "Home",
+      "sortOrder": 1,
+      "notificationsEnabled": true
+    },
+    {
+      "id": "saved-005",
+      "userId": "wx-user-002",
+      "locationId": "location-007",
+      "label": "Vacation",
+      "sortOrder": 2,
+      "notificationsEnabled": true
+    },
+    {
+      "id": "saved-006",
+      "userId": "wx-user-003",
+      "locationId": "location-002",
+      "label": "Flat",
+      "sortOrder": 1,
+      "notificationsEnabled": true
+    }
+  ]
+}
