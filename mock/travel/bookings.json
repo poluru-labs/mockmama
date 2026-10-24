@@ -1,0 +1,37 @@
+{
+  "bookings": [
+    {
+      "id": "booking-001",
+      "hotelId": "hotel-001",
+      "guestName": "Alex Morgan",
+      "checkIn": "2026-10-10",
+      "checkOut": "2026-10-13",
+      "guests": 2,
+      "total": 420,
+      "currency": "USD",
+      "status": "confirmed"
+    },
+    {
+      "id": "booking-002",
+      "hotelId": "hotel-002",
+      "guestName": "Sam Rivera",
+      "checkIn": "2026-11-02",
+      "checkOut": "2026-11-04",
+      "guests": 1,
+      "total": 220,
+      "currency": "USD",
+      "status": "pending"
+    },
+    {
+      "id": "booking-003",
+      "hotelId": "hotel-003",
+      "guestName": "Taylor Kim",
+      "checkIn": "2026-10-05",
+      "checkOut": "2026-10-07",
+      "guests": 2,
+      "total": 360,
+      "currency": "USD",
+      "status": "cancelled"
+    }
+  ]
+}

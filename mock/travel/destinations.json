@@ -1,0 +1,25 @@
+{
+  "destinations": [
+    {
+      "id": "destination-001",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "description": "Hillside neighborhoods and riverside walks."
+    },
+    {
+      "id": "destination-002",
+      "city": "Kyoto",
+      "country": "Japan",
+      "countryCode": "JP",
+      "description": "Gardens, temples, and traditional streets."
+    },
+    {
+      "id": "destination-003",
+      "city": "Vancouver",
+      "country": "Canada",
+      "countryCode": "CA",
+      "description": "Coastal scenery and mountain day trips."
+    }
+  ]
+}
