@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "id": "project-001",
+      "name": "Website refresh",
+      "ownerId": "member-001",
+      "status": "active",
+      "dueDate": "2026-10-15"
+    },
+    {
+      "id": "project-002",
+      "name": "Mobile onboarding",
+      "ownerId": "member-002",
+      "status": "planning",
+      "dueDate": "2026-11-01"
+    },
+    {
+      "id": "project-003",
+      "name": "Brand guidelines",
+      "ownerId": "member-003",
+      "status": "completed",
+      "dueDate": "2026-09-15"
+    }
+  ]
+}

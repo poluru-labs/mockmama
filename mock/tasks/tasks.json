@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    {
+      "id": "task-001",
+      "projectId": "project-001",
+      "assigneeId": "member-002",
+      "title": "Create homepage wireframes",
+      "status": "in_progress",
+      "priority": "high",
+      "dueDate": "2026-09-28",
+      "completedAt": null,
+      "labels": [
+        "design"
+      ]
+    },
+    {
+      "id": "task-002",
+      "projectId": "project-002",
+      "assigneeId": null,
+      "title": "Review onboarding requirements",
+      "status": "todo",
+      "priority": "medium",
+      "dueDate": "2026-10-02",
+      "completedAt": null,
+      "labels": [
+        "planning"
+      ]
+    },
+    {
+      "id": "task-003",
+      "projectId": "project-003",
+      "assigneeId": "member-003",
+      "title": "Export logo assets",
+      "status": "done",
+      "priority": "low",
+      "dueDate": "2026-09-14",
+      "completedAt": "2026-09-14T16:00:00Z",
+      "labels": [
+        "assets"
+      ]
+    }
+  ]
+}
