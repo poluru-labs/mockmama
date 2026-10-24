@@ -1,0 +1,53 @@
+{
+  "airports": [
+    {
+      "id": "airport-aus",
+      "code": "AUS",
+      "name": "Austin-Bergstrom International",
+      "city": "Austin",
+      "countryCode": "US"
+    },
+    {
+      "id": "airport-lis",
+      "code": "LIS",
+      "name": "Humberto Delgado",
+      "city": "Lisbon",
+      "countryCode": "PT"
+    },
+    {
+      "id": "airport-sea",
+      "code": "SEA",
+      "name": "Seattle-Tacoma International",
+      "city": "Seattle",
+      "countryCode": "US"
+    },
+    {
+      "id": "airport-kix",
+      "code": "KIX",
+      "name": "Kansai International",
+      "city": "Osaka",
+      "countryCode": "JP"
+    },
+    {
+      "id": "airport-ord",
+      "code": "ORD",
+      "name": "O'Hare International",
+      "city": "Chicago",
+      "countryCode": "US"
+    },
+    {
+      "id": "airport-yvr",
+      "code": "YVR",
+      "name": "Vancouver International",
+      "city": "Vancouver",
+      "countryCode": "CA"
+    },
+    {
+      "id": "airport-kef",
+      "code": "KEF",
+      "name": "Keflavik International",
+      "city": "Reykjavik",
+      "countryCode": "IS"
+    }
+  ]
+}

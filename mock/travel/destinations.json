@@ -3,23 +3,86 @@
     {
       "id": "destination-001",
       "city": "Lisbon",
+      "region": "Lisbon District",
       "country": "Portugal",
       "countryCode": "PT",
-      "description": "Hillside neighborhoods and riverside walks."
+      "description": "Hillside neighborhoods and riverside walks.",
+      "timezone": "Europe/Lisbon",
+      "latitude": 38.7223,
+      "longitude": -9.1393,
+      "coverImage": "https://picsum.photos/seed/destination-001/1600/900",
+      "tags": ["coastal", "food", "walkable"],
+      "status": "active"
     },
     {
       "id": "destination-002",
       "city": "Kyoto",
+      "region": "Kyoto Prefecture",
       "country": "Japan",
       "countryCode": "JP",
-      "description": "Gardens, temples, and traditional streets."
+      "description": "Gardens, temples, and traditional streets.",
+      "timezone": "Asia/Tokyo",
+      "latitude": 35.0116,
+      "longitude": 135.7681,
+      "coverImage": "https://picsum.photos/seed/destination-002/1600/900",
+      "tags": ["culture", "temples", "seasonal"],
+      "status": "active"
     },
     {
       "id": "destination-003",
       "city": "Vancouver",
+      "region": "British Columbia",
       "country": "Canada",
       "countryCode": "CA",
-      "description": "Coastal scenery and mountain day trips."
+      "description": "Coastal scenery and mountain day trips.",
+      "timezone": "America/Vancouver",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "coverImage": "https://picsum.photos/seed/destination-003/1600/900",
+      "tags": ["mountains", "outdoors", "family"],
+      "status": "active"
+    },
+    {
+      "id": "destination-004",
+      "city": "Austin",
+      "region": "Texas",
+      "country": "United States",
+      "countryCode": "US",
+      "description": "Live music, food trucks, and river trails.",
+      "timezone": "America/Chicago",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "coverImage": "https://picsum.photos/seed/destination-004/1600/900",
+      "tags": ["music", "food", "weekend"],
+      "status": "active"
+    },
+    {
+      "id": "destination-005",
+      "city": "Reykjavik",
+      "region": "Capital Region",
+      "country": "Iceland",
+      "countryCode": "IS",
+      "description": "Northern lights season and compact downtown.",
+      "timezone": "Atlantic/Reykjavik",
+      "latitude": 64.1466,
+      "longitude": -21.9426,
+      "coverImage": "https://picsum.photos/seed/destination-005/1600/900",
+      "tags": ["aurora", "adventure", "winter"],
+      "status": "active"
+    },
+    {
+      "id": "destination-006",
+      "city": "Marrakech",
+      "region": "Marrakesh-Safi",
+      "country": "Morocco",
+      "countryCode": "MA",
+      "description": "Medina souks and riad courtyards.",
+      "timezone": "Africa/Casablanca",
+      "latitude": 31.6295,
+      "longitude": -7.9811,
+      "coverImage": "https://picsum.photos/seed/destination-006/1600/900",
+      "tags": ["markets", "desert-trips"],
+      "status": "paused"
     }
   ]
 }

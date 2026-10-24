@@ -1,0 +1,64 @@
+{
+  "roomTypes": [
+    {
+      "id": "room-001",
+      "hotelId": "hotel-001",
+      "name": "Standard double",
+      "maxGuests": 2,
+      "beds": "1 queen",
+      "pricePerNight": 140,
+      "currency": "USD",
+      "availableRooms": 4
+    },
+    {
+      "id": "room-002",
+      "hotelId": "hotel-001",
+      "name": "River view suite",
+      "maxGuests": 3,
+      "beds": "1 king + sofa",
+      "pricePerNight": 210,
+      "currency": "USD",
+      "availableRooms": 1
+    },
+    {
+      "id": "room-003",
+      "hotelId": "hotel-002",
+      "name": "Courtyard twin",
+      "maxGuests": 2,
+      "beds": "2 twin",
+      "pricePerNight": 110,
+      "currency": "USD",
+      "availableRooms": 6
+    },
+    {
+      "id": "room-004",
+      "hotelId": "hotel-003",
+      "name": "Harbor king",
+      "maxGuests": 2,
+      "beds": "1 king",
+      "pricePerNight": 180,
+      "currency": "USD",
+      "availableRooms": 0
+    },
+    {
+      "id": "room-005",
+      "hotelId": "hotel-005",
+      "name": "Loft king",
+      "maxGuests": 2,
+      "beds": "1 king",
+      "pricePerNight": 165,
+      "currency": "USD",
+      "availableRooms": 3
+    },
+    {
+      "id": "room-006",
+      "hotelId": "hotel-006",
+      "name": "Aurora room",
+      "maxGuests": 2,
+      "beds": "1 queen",
+      "pricePerNight": 195,
+      "currency": "USD",
+      "availableRooms": 2
+    }
+  ]
+}

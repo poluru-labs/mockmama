@@ -1,0 +1,54 @@
+{
+  "notifications": [
+    {
+      "id": "trv-notif-001",
+      "travelerId": "traveler-001",
+      "bookingId": "booking-001",
+      "type": "check_in_reminder",
+      "title": "Check-in tomorrow in Lisbon",
+      "body": "Riverlight Stay opens at 3pm local. Confirmation TRV8K2M.",
+      "read": true,
+      "createdAt": "2026-10-09T08:00:00Z"
+    },
+    {
+      "id": "trv-notif-002",
+      "travelerId": "traveler-002",
+      "bookingId": "booking-002",
+      "type": "payment",
+      "title": "Complete payment for Kyoto",
+      "body": "Authorization expires in 24 hours.",
+      "read": false,
+      "createdAt": "2026-10-21T14:06:00Z"
+    },
+    {
+      "id": "trv-notif-003",
+      "travelerId": "traveler-003",
+      "bookingId": "booking-003",
+      "type": "refund",
+      "title": "Refund processed",
+      "body": "$396 returned for cancelled Vancouver stay.",
+      "read": true,
+      "createdAt": "2026-09-29T11:00:00Z"
+    },
+    {
+      "id": "trv-notif-004",
+      "travelerId": "traveler-004",
+      "bookingId": "booking-005",
+      "type": "check_in",
+      "title": "You are checked in",
+      "body": "Congress Loft Hotel, room Loft king.",
+      "read": false,
+      "createdAt": "2026-10-24T15:10:00Z"
+    },
+    {
+      "id": "trv-notif-005",
+      "travelerId": "traveler-001",
+      "bookingId": "booking-006",
+      "type": "payment",
+      "title": "Booking failed",
+      "body": "Card declined for Alfama House suite.",
+      "read": false,
+      "createdAt": "2026-10-24T08:56:00Z"
+    }
+  ]
+}

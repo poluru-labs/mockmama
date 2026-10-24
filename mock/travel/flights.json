@@ -1,0 +1,72 @@
+{
+  "flights": [
+    {
+      "id": "flight-001",
+      "originAirportCode": "AUS",
+      "destinationAirportCode": "LIS",
+      "destinationId": "destination-001",
+      "airline": "Atlantic Sky",
+      "flightNumber": "AS482",
+      "departsAt": "2026-10-09T14:30:00Z",
+      "arrivesAt": "2026-10-10T06:15:00Z",
+      "durationMinutes": 525,
+      "stops": 1,
+      "cabin": "economy",
+      "price": 640,
+      "currency": "USD",
+      "seatsLeft": 7,
+      "status": "scheduled"
+    },
+    {
+      "id": "flight-002",
+      "originAirportCode": "SEA",
+      "destinationAirportCode": "KIX",
+      "destinationId": "destination-002",
+      "airline": "Pacific Ring",
+      "flightNumber": "PR118",
+      "departsAt": "2026-11-01T09:00:00Z",
+      "arrivesAt": "2026-11-02T13:20:00Z",
+      "durationMinutes": 680,
+      "stops": 0,
+      "cabin": "economy",
+      "price": 890,
+      "currency": "USD",
+      "seatsLeft": 2,
+      "status": "scheduled"
+    },
+    {
+      "id": "flight-003",
+      "originAirportCode": "ORD",
+      "destinationAirportCode": "YVR",
+      "destinationId": "destination-003",
+      "airline": "North Cascades",
+      "flightNumber": "NC305",
+      "departsAt": "2026-10-04T18:45:00Z",
+      "arrivesAt": "2026-10-04T21:10:00Z",
+      "durationMinutes": 265,
+      "stops": 0,
+      "cabin": "economy",
+      "price": 320,
+      "currency": "USD",
+      "seatsLeft": 0,
+      "status": "sold_out"
+    },
+    {
+      "id": "flight-004",
+      "originAirportCode": "AUS",
+      "destinationAirportCode": "KEF",
+      "destinationId": "destination-005",
+      "airline": "Atlantic Sky",
+      "flightNumber": "AS901",
+      "departsAt": "2026-12-10T22:00:00Z",
+      "arrivesAt": "2026-12-11T12:30:00Z",
+      "durationMinutes": 450,
+      "stops": 1,
+      "cabin": "premium_economy",
+      "price": 780,
+      "currency": "USD",
+      "seatsLeft": 14,
+      "status": "scheduled"
+    }
+  ]
+}

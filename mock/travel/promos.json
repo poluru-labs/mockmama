@@ -1,0 +1,37 @@
+{
+  "promos": [
+    {
+      "id": "promo-001",
+      "code": "STAY10",
+      "description": "10% off hotel stays of 3+ nights",
+      "discountType": "percent",
+      "discountValue": 10,
+      "minNights": 3,
+      "currency": "USD",
+      "status": "active",
+      "expiresAt": "2026-12-31T23:59:59Z"
+    },
+    {
+      "id": "promo-002",
+      "code": "AURORA50",
+      "description": "$50 off Reykjavik packages",
+      "discountType": "fixed",
+      "discountValue": 50,
+      "minNights": 2,
+      "currency": "USD",
+      "status": "active",
+      "expiresAt": "2027-01-15T23:59:59Z"
+    },
+    {
+      "id": "promo-003",
+      "code": "SUMMER24",
+      "description": "Expired summer sale",
+      "discountType": "percent",
+      "discountValue": 15,
+      "minNights": 2,
+      "currency": "USD",
+      "status": "expired",
+      "expiresAt": "2026-08-31T23:59:59Z"
+    }
+  ]
+}

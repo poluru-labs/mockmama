@@ -1,0 +1,54 @@
+{
+  "travelers": [
+    {
+      "id": "traveler-001",
+      "name": "Alex Morgan",
+      "email": "alex.morgan@example.com",
+      "phone": "+1-512-555-7101",
+      "avatar": "https://picsum.photos/seed/traveler-001/200/200",
+      "homeCountryCode": "US",
+      "loyaltyTier": "gold",
+      "status": "active"
+    },
+    {
+      "id": "traveler-002",
+      "name": "Sam Rivera",
+      "email": "sam.rivera@example.com",
+      "phone": "+1-512-555-7102",
+      "avatar": "https://picsum.photos/seed/traveler-002/200/200",
+      "homeCountryCode": "US",
+      "loyaltyTier": "silver",
+      "status": "active"
+    },
+    {
+      "id": "traveler-003",
+      "name": "Taylor Kim",
+      "email": "taylor.kim@example.com",
+      "phone": "+1-206-555-7103",
+      "avatar": "https://picsum.photos/seed/traveler-003/200/200",
+      "homeCountryCode": "US",
+      "loyaltyTier": "member",
+      "status": "active"
+    },
+    {
+      "id": "traveler-004",
+      "name": "Jordan Reed",
+      "email": "jordan.reed@example.com",
+      "phone": "+1-206-555-7104",
+      "avatar": "https://picsum.photos/seed/traveler-004/200/200",
+      "homeCountryCode": "US",
+      "loyaltyTier": "member",
+      "status": "active"
+    },
+    {
+      "id": "traveler-005",
+      "name": "Priya Shah",
+      "email": "priya.shah@example.com",
+      "phone": "+1-312-555-7105",
+      "avatar": "https://picsum.photos/seed/traveler-005/200/200",
+      "homeCountryCode": "US",
+      "loyaltyTier": "platinum",
+      "status": "active"
+    }
+  ]
+}

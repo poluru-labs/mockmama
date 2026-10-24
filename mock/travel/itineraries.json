@@ -1,0 +1,62 @@
+{
+  "itineraries": [
+    {
+      "id": "itinerary-001",
+      "travelerId": "traveler-001",
+      "destinationId": "destination-001",
+      "bookingId": "booking-001",
+      "title": "Lisbon long weekend",
+      "startsOn": "2026-10-10",
+      "endsOn": "2026-10-13",
+      "days": [
+        {
+          "date": "2026-10-10",
+          "items": [
+            { "time": "15:00", "type": "hotel_check_in", "refId": "hotel-001" },
+            { "time": "19:30", "type": "activity", "refId": "activity-002" }
+          ]
+        },
+        {
+          "date": "2026-10-11",
+          "items": [
+            { "time": "09:30", "type": "activity", "refId": "activity-001" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "itinerary-002",
+      "travelerId": "traveler-002",
+      "destinationId": "destination-002",
+      "bookingId": "booking-002",
+      "title": "Kyoto temples",
+      "startsOn": "2026-11-02",
+      "endsOn": "2026-11-04",
+      "days": [
+        {
+          "date": "2026-11-03",
+          "items": [
+            { "time": "06:00", "type": "activity", "refId": "activity-003" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "itinerary-003",
+      "travelerId": "traveler-005",
+      "destinationId": "destination-005",
+      "bookingId": "booking-004",
+      "title": "Iceland aurora chase",
+      "startsOn": "2026-12-11",
+      "endsOn": "2026-12-15",
+      "days": [
+        {
+          "date": "2026-12-12",
+          "items": [
+            { "time": "21:00", "type": "activity", "refId": "activity-005" }
+          ]
+        }
+      ]
+    }
+  ]
+}

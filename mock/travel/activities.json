@@ -1,0 +1,76 @@
+{
+  "activities": [
+    {
+      "id": "activity-001",
+      "destinationId": "destination-001",
+      "name": "Alfama walking tour",
+      "category": "walking_tour",
+      "durationHours": 3,
+      "price": 45,
+      "currency": "USD",
+      "rating": 4.8,
+      "availableSpots": 12,
+      "status": "published"
+    },
+    {
+      "id": "activity-002",
+      "destinationId": "destination-001",
+      "name": "Sunset river cruise",
+      "category": "cruise",
+      "durationHours": 2,
+      "price": 38,
+      "currency": "USD",
+      "rating": 4.6,
+      "availableSpots": 0,
+      "status": "sold_out"
+    },
+    {
+      "id": "activity-003",
+      "destinationId": "destination-002",
+      "name": "Fushimi Inari early access",
+      "category": "temple",
+      "durationHours": 4,
+      "price": 72,
+      "currency": "USD",
+      "rating": 4.9,
+      "availableSpots": 8,
+      "status": "published"
+    },
+    {
+      "id": "activity-004",
+      "destinationId": "destination-003",
+      "name": "Grouse Mountain gondola",
+      "category": "outdoors",
+      "durationHours": 5,
+      "price": 55,
+      "currency": "USD",
+      "rating": 4.5,
+      "availableSpots": 20,
+      "status": "published"
+    },
+    {
+      "id": "activity-005",
+      "destinationId": "destination-005",
+      "name": "Northern lights minibus",
+      "category": "aurora",
+      "durationHours": 4,
+      "price": 95,
+      "currency": "USD",
+      "rating": 4.7,
+      "availableSpots": 6,
+      "status": "published"
+    },
+    {
+      "id": "activity-006",
+      "destinationId": "destination-006",
+      "name": "Medina food walk",
+      "category": "food",
+      "durationHours": 3,
+      "price": 40,
+      "currency": "USD",
+      "rating": 4.4,
+      "availableSpots": 10,
+      "status": "paused"
+    }
+  ]
+}
