@@ -4,40 +4,91 @@
       "id": "hotel-001",
       "destinationId": "destination-001",
       "name": "Riverlight Stay",
+      "slug": "riverlight-stay-lisbon",
       "stars": 4,
       "pricePerNight": 140,
       "currency": "USD",
-      "amenities": [
-        "wifi",
-        "breakfast"
-      ],
-      "available": true
+      "amenities": ["wifi", "breakfast", "rooftop"],
+      "available": true,
+      "address": "Rua do Alecrim 12, Lisbon",
+      "coverImage": "https://picsum.photos/seed/hotel-001/1600/900",
+      "rating": 4.6,
+      "reviewCount": 318
     },
     {
       "id": "hotel-002",
       "destinationId": "destination-002",
       "name": "Maple Courtyard",
+      "slug": "maple-courtyard-kyoto",
       "stars": 3,
       "pricePerNight": 110,
       "currency": "USD",
-      "amenities": [
-        "wifi",
-        "garden"
-      ],
-      "available": true
+      "amenities": ["wifi", "garden", "tea-service"],
+      "available": true,
+      "address": "Shimogyo Ward, Kyoto",
+      "coverImage": "https://picsum.photos/seed/hotel-002/1600/900",
+      "rating": 4.4,
+      "reviewCount": 204
     },
     {
       "id": "hotel-003",
       "destinationId": "destination-003",
       "name": "Harbor View Lodge",
+      "slug": "harbor-view-lodge-vancouver",
       "stars": 4,
       "pricePerNight": 180,
       "currency": "USD",
-      "amenities": [
-        "wifi",
-        "gym"
-      ],
-      "available": false
+      "amenities": ["wifi", "gym", "harbor-view"],
+      "available": false,
+      "address": "999 Canada Place, Vancouver",
+      "coverImage": "https://picsum.photos/seed/hotel-003/1600/900",
+      "rating": 4.7,
+      "reviewCount": 412
+    },
+    {
+      "id": "hotel-004",
+      "destinationId": "destination-001",
+      "name": "Alfama House",
+      "slug": "alfama-house-lisbon",
+      "stars": 5,
+      "pricePerNight": 220,
+      "currency": "USD",
+      "amenities": ["wifi", "breakfast", "concierge"],
+      "available": true,
+      "address": "Travessa do Almada 4, Lisbon",
+      "coverImage": "https://picsum.photos/seed/hotel-004/1600/900",
+      "rating": 4.9,
+      "reviewCount": 89
+    },
+    {
+      "id": "hotel-005",
+      "destinationId": "destination-004",
+      "name": "Congress Loft Hotel",
+      "slug": "congress-loft-austin",
+      "stars": 4,
+      "pricePerNight": 165,
+      "currency": "USD",
+      "amenities": ["wifi", "pool", "parking"],
+      "available": true,
+      "address": "1100 Congress Ave, Austin, TX",
+      "coverImage": "https://picsum.photos/seed/hotel-005/1600/900",
+      "rating": 4.3,
+      "reviewCount": 156
+    },
+    {
+      "id": "hotel-006",
+      "destinationId": "destination-005",
+      "name": "Aurora Inn",
+      "slug": "aurora-inn-reykjavik",
+      "stars": 4,
+      "pricePerNight": 195,
+      "currency": "USD",
+      "amenities": ["wifi", "breakfast", "hot-tub"],
+      "available": true,
+      "address": "Laugavegur 41, Reykjavik",
+      "coverImage": "https://picsum.photos/seed/hotel-006/1600/900",
+      "rating": 4.5,
+      "reviewCount": 267
     }
   ]
 }

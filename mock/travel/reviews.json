@@ -1,0 +1,59 @@
+{
+  "reviews": [
+    {
+      "id": "review-001",
+      "travelerId": "traveler-001",
+      "hotelId": "hotel-001",
+      "bookingId": "booking-001",
+      "rating": 5,
+      "title": "Quiet rooms",
+      "body": "Breakfast on the roof was worth the early alarm.",
+      "createdAt": "2026-10-13T10:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-002",
+      "travelerId": "traveler-002",
+      "hotelId": "hotel-002",
+      "bookingId": null,
+      "rating": 4,
+      "title": "Garden at dawn",
+      "body": "Tea service before the temple line gets long.",
+      "createdAt": "2026-08-02T14:20:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-003",
+      "travelerId": "traveler-003",
+      "hotelId": "hotel-003",
+      "bookingId": "booking-003",
+      "rating": 2,
+      "title": "Could not check in",
+      "body": "Hotel showed unavailable after flight was cancelled.",
+      "createdAt": "2026-10-07T09:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-004",
+      "travelerId": "traveler-004",
+      "activityId": "activity-004",
+      "bookingId": null,
+      "rating": 5,
+      "title": "Clear day on the mountain",
+      "body": "Gondola line moved fast on a weekday.",
+      "createdAt": "2026-09-10T18:30:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-005",
+      "travelerId": "traveler-005",
+      "hotelId": "hotel-006",
+      "bookingId": "booking-004",
+      "rating": 5,
+      "title": "Hot tub after the flight",
+      "body": "AURORA50 applied without calling support.",
+      "createdAt": "2026-10-19T08:00:00Z",
+      "status": "published"
+    }
+  ]
+}

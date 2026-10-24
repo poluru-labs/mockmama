@@ -1,0 +1,25 @@
+{
+  "wishlists": [
+    {
+      "id": "wishlist-001",
+      "travelerId": "traveler-001",
+      "name": "Europe weekends",
+      "destinationIds": ["destination-001"],
+      "hotelIds": ["hotel-004"]
+    },
+    {
+      "id": "wishlist-002",
+      "travelerId": "traveler-002",
+      "name": "Japan autumn",
+      "destinationIds": ["destination-002"],
+      "hotelIds": ["hotel-002"]
+    },
+    {
+      "id": "wishlist-003",
+      "travelerId": "traveler-005",
+      "name": "Northern lights",
+      "destinationIds": ["destination-005"],
+      "hotelIds": ["hotel-006"]
+    }
+  ]
+}
