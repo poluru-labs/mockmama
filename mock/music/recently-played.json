@@ -1,0 +1,44 @@
+{
+  "recentlyPlayed": [
+    {
+      "id": "play-001",
+      "userId": "listener-001",
+      "trackId": "track-012",
+      "playedAt": "2026-10-25T10:30:00Z",
+      "contextType": "playlist",
+      "contextId": "playlist-001"
+    },
+    {
+      "id": "play-002",
+      "userId": "listener-001",
+      "trackId": "track-004",
+      "playedAt": "2026-10-25T10:26:00Z",
+      "contextType": "playlist",
+      "contextId": "playlist-001"
+    },
+    {
+      "id": "play-003",
+      "userId": "listener-001",
+      "trackId": "track-008",
+      "playedAt": "2026-10-24T21:00:00Z",
+      "contextType": "album",
+      "contextId": "album-002"
+    },
+    {
+      "id": "play-004",
+      "userId": "listener-002",
+      "trackId": "track-011",
+      "playedAt": "2026-10-24T18:45:00Z",
+      "contextType": "search",
+      "contextId": null
+    },
+    {
+      "id": "play-005",
+      "userId": "listener-003",
+      "trackId": "track-003",
+      "playedAt": "2026-10-23T07:15:00Z",
+      "contextType": "album",
+      "contextId": "album-003"
+    }
+  ]
+}

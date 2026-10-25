@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "listener-001",
+      "name": "Alex Morgan",
+      "email": "alex.morgan@example.com",
+      "avatar": "https://picsum.photos/seed/listener-001/200/200",
+      "plan": "premium",
+      "countryCode": "US",
+      "status": "active"
+    },
+    {
+      "id": "listener-002",
+      "name": "Sam Rivera",
+      "email": "sam.rivera@example.com",
+      "avatar": "https://picsum.photos/seed/listener-002/200/200",
+      "plan": "free",
+      "countryCode": "US",
+      "status": "active"
+    },
+    {
+      "id": "listener-003",
+      "name": "Taylor Kim",
+      "email": "taylor.kim@example.com",
+      "avatar": "https://picsum.photos/seed/listener-003/200/200",
+      "plan": "premium",
+      "countryCode": "CA",
+      "status": "active"
+    },
+    {
+      "id": "listener-004",
+      "name": "Jordan Reed",
+      "email": "jordan.reed@example.com",
+      "avatar": "https://picsum.photos/seed/listener-004/200/200",
+      "plan": "free",
+      "countryCode": "GB",
+      "status": "suspended"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "genres": [
+    {
+      "id": "genre-001",
+      "name": "Indie",
+      "slug": "indie"
+    },
+    {
+      "id": "genre-002",
+      "name": "Folk",
+      "slug": "folk"
+    },
+    {
+      "id": "genre-003",
+      "name": "Electronic",
+      "slug": "electronic"
+    },
+    {
+      "id": "genre-004",
+      "name": "Jazz",
+      "slug": "jazz"
+    },
+    {
+      "id": "genre-005",
+      "name": "Hip-hop",
+      "slug": "hip-hop"
+    },
+    {
+      "id": "genre-006",
+      "name": "Ambient",
+      "slug": "ambient"
+    }
+  ]
+}

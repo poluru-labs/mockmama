@@ -3,27 +3,74 @@
     {
       "id": "artist-001",
       "name": "Willow Avenue",
-      "genres": [
-        "indie",
-        "folk"
-      ],
-      "countryCode": "US"
+      "slug": "willow-avenue",
+      "genres": ["indie", "folk"],
+      "countryCode": "US",
+      "monthlyListeners": 842000,
+      "verified": true,
+      "avatarImage": "https://picsum.photos/seed/artist-001/400/400",
+      "headerImage": "https://picsum.photos/seed/artist-001-header/1600/400",
+      "status": "active"
     },
     {
       "id": "artist-002",
       "name": "Midnight Atlas",
-      "genres": [
-        "electronic"
-      ],
-      "countryCode": "GB"
+      "slug": "midnight-atlas",
+      "genres": ["electronic"],
+      "countryCode": "GB",
+      "monthlyListeners": 1204000,
+      "verified": true,
+      "avatarImage": "https://picsum.photos/seed/artist-002/400/400",
+      "headerImage": "https://picsum.photos/seed/artist-002-header/1600/400",
+      "status": "active"
     },
     {
       "id": "artist-003",
       "name": "Juniper Trio",
-      "genres": [
-        "jazz"
-      ],
-      "countryCode": "CA"
+      "slug": "juniper-trio",
+      "genres": ["jazz"],
+      "countryCode": "CA",
+      "monthlyListeners": 318000,
+      "verified": false,
+      "avatarImage": "https://picsum.photos/seed/artist-003/400/400",
+      "headerImage": "https://picsum.photos/seed/artist-003-header/1600/400",
+      "status": "active"
+    },
+    {
+      "id": "artist-004",
+      "name": "Kite District",
+      "slug": "kite-district",
+      "genres": ["hip-hop", "electronic"],
+      "countryCode": "US",
+      "monthlyListeners": 2100000,
+      "verified": true,
+      "avatarImage": "https://picsum.photos/seed/artist-004/400/400",
+      "headerImage": "https://picsum.photos/seed/artist-004-header/1600/400",
+      "status": "active"
+    },
+    {
+      "id": "artist-005",
+      "name": "Harbor Echo",
+      "slug": "harbor-echo",
+      "genres": ["ambient"],
+      "countryCode": "IS",
+      "monthlyListeners": 96000,
+      "verified": false,
+      "avatarImage": "https://picsum.photos/seed/artist-005/400/400",
+      "headerImage": "https://picsum.photos/seed/artist-005-header/1600/400",
+      "status": "active"
+    },
+    {
+      "id": "artist-006",
+      "name": "The Static Pages",
+      "slug": "the-static-pages",
+      "genres": ["indie"],
+      "countryCode": "US",
+      "monthlyListeners": 4200,
+      "verified": false,
+      "avatarImage": "https://picsum.photos/seed/artist-006/400/400",
+      "headerImage": "https://picsum.photos/seed/artist-006-header/1600/400",
+      "status": "removed"
     }
   ]
 }

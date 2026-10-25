@@ -4,22 +4,92 @@
       "id": "album-001",
       "artistId": "artist-001",
       "title": "Letters from Home",
+      "slug": "letters-from-home",
+      "type": "album",
       "releasedAt": "2026-03-12",
-      "trackCount": 1
+      "trackCount": 4,
+      "durationSeconds": 892,
+      "label": "Riverlight Records",
+      "coverImage": "https://picsum.photos/seed/album-001/800/800",
+      "status": "published"
     },
     {
       "id": "album-002",
       "artistId": "artist-002",
       "title": "City After Dark",
+      "slug": "city-after-dark",
+      "type": "album",
       "releasedAt": "2026-06-05",
-      "trackCount": 1
+      "trackCount": 4,
+      "durationSeconds": 1028,
+      "label": "North Line Audio",
+      "coverImage": "https://picsum.photos/seed/album-002/800/800",
+      "status": "published"
     },
     {
       "id": "album-003",
       "artistId": "artist-003",
       "title": "Sunday Windows",
+      "slug": "sunday-windows",
+      "type": "album",
       "releasedAt": "2025-11-21",
-      "trackCount": 1
+      "trackCount": 3,
+      "durationSeconds": 918,
+      "label": "Blue Hour Jazz",
+      "coverImage": "https://picsum.photos/seed/album-003/800/800",
+      "status": "published"
+    },
+    {
+      "id": "album-004",
+      "artistId": "artist-004",
+      "title": "Late Shift",
+      "slug": "late-shift",
+      "type": "album",
+      "releasedAt": "2026-08-18",
+      "trackCount": 2,
+      "durationSeconds": 422,
+      "label": "Kite District LLC",
+      "coverImage": "https://picsum.photos/seed/album-004/800/800",
+      "status": "published"
+    },
+    {
+      "id": "album-005",
+      "artistId": "artist-005",
+      "title": "Tidal Loops",
+      "slug": "tidal-loops",
+      "type": "ep",
+      "releasedAt": "2026-01-09",
+      "trackCount": 2,
+      "durationSeconds": 680,
+      "label": "Harbor Echo",
+      "coverImage": "https://picsum.photos/seed/album-005/800/800",
+      "status": "published"
+    },
+    {
+      "id": "album-006",
+      "artistId": "artist-001",
+      "title": "Paper Boats (Single)",
+      "slug": "paper-boats-single",
+      "type": "single",
+      "releasedAt": "2025-12-01",
+      "trackCount": 1,
+      "durationSeconds": 214,
+      "label": "Riverlight Records",
+      "coverImage": "https://picsum.photos/seed/album-006/800/800",
+      "status": "published"
+    },
+    {
+      "id": "album-007",
+      "artistId": "artist-002",
+      "title": "Unreleased Demos",
+      "slug": "unreleased-demos",
+      "type": "album",
+      "releasedAt": null,
+      "trackCount": 0,
+      "durationSeconds": 0,
+      "label": "North Line Audio",
+      "coverImage": "https://picsum.photos/seed/album-007/800/800",
+      "status": "draft"
     }
   ]
 }
