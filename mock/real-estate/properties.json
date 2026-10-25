@@ -1,0 +1,60 @@
+{
+  "properties": [
+    {
+      "id": "property-001",
+      "agentId": "agent-001",
+      "title": "Garden Terrace Home",
+      "city": "Austin",
+      "propertyType": "house",
+      "listingType": "sale",
+      "price": 425000,
+      "currency": "USD",
+      "pricePeriod": "one_time",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "areaSqFt": 1850,
+      "amenities": [
+        "garage",
+        "garden"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "property-002",
+      "agentId": "agent-002",
+      "title": "Lakeview Apartment",
+      "city": "Chicago",
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "price": 2100,
+      "currency": "USD",
+      "pricePeriod": "month",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "areaSqFt": 980,
+      "amenities": [
+        "elevator",
+        "balcony"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "property-003",
+      "agentId": "agent-003",
+      "title": "Woodland Townhouse",
+      "city": "Seattle",
+      "propertyType": "townhouse",
+      "listingType": "sale",
+      "price": 610000,
+      "currency": "USD",
+      "pricePeriod": "one_time",
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "areaSqFt": 1620,
+      "amenities": [
+        "parking"
+      ],
+      "status": "sold"
+    }
+  ]
+}
