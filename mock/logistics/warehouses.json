@@ -1,0 +1,22 @@
+{
+  "warehouses": [
+    {
+      "id": "warehouse-001",
+      "name": "Central Fulfillment",
+      "city": "Dallas",
+      "capacityUnits": 10000
+    },
+    {
+      "id": "warehouse-002",
+      "name": "West Fulfillment",
+      "city": "Phoenix",
+      "capacityUnits": 7500
+    },
+    {
+      "id": "warehouse-003",
+      "name": "East Fulfillment",
+      "city": "Atlanta",
+      "capacityUnits": 12000
+    }
+  ]
+}
