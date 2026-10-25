@@ -1,0 +1,39 @@
+{
+  "reposts": [
+    {
+      "id": "repost-001",
+      "postId": "post-004",
+      "userId": "social-user-008",
+      "quote": "Worth printing for every eng manager.",
+      "createdAt": "2026-09-24T08:00:00Z"
+    },
+    {
+      "id": "repost-002",
+      "postId": "post-003",
+      "userId": "social-user-007",
+      "quote": null,
+      "createdAt": "2026-09-22T14:00:00Z"
+    },
+    {
+      "id": "repost-003",
+      "postId": "post-008",
+      "userId": "social-user-004",
+      "quote": "Finally — shared workspaces.",
+      "createdAt": "2026-10-02T10:00:00Z"
+    },
+    {
+      "id": "repost-004",
+      "postId": "post-011",
+      "userId": "social-user-007",
+      "quote": null,
+      "createdAt": "2026-10-12T11:30:00Z"
+    },
+    {
+      "id": "repost-005",
+      "postId": "post-001",
+      "userId": "social-user-004",
+      "quote": "Public space design matters.",
+      "createdAt": "2026-09-21T09:00:00Z"
+    }
+  ]
+}

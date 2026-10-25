@@ -1,0 +1,39 @@
+{
+  "bookmarks": [
+    {
+      "id": "bookmark-001",
+      "userId": "social-user-003",
+      "postId": "post-004",
+      "collectionName": "Inspiration",
+      "createdAt": "2026-09-23T20:00:00Z"
+    },
+    {
+      "id": "bookmark-002",
+      "userId": "social-user-001",
+      "postId": "post-011",
+      "collectionName": "Dev tips",
+      "createdAt": "2026-10-12T12:00:00Z"
+    },
+    {
+      "id": "bookmark-003",
+      "userId": "social-user-002",
+      "postId": "post-006",
+      "collectionName": "Recipes",
+      "createdAt": "2026-09-26T07:00:00Z"
+    },
+    {
+      "id": "bookmark-004",
+      "userId": "social-user-004",
+      "postId": "post-008",
+      "collectionName": "Product launches",
+      "createdAt": "2026-10-01T18:00:00Z"
+    },
+    {
+      "id": "bookmark-005",
+      "userId": "social-user-007",
+      "postId": "post-007",
+      "collectionName": "Release notes",
+      "createdAt": "2026-09-26T15:00:00Z"
+    }
+  ]
+}

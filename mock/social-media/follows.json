@@ -1,0 +1,16 @@
+{
+  "follows": [
+    { "id": "follow-001", "followerId": "social-user-002", "followingId": "social-user-001", "createdAt": "2025-02-01T10:00:00Z" },
+    { "id": "follow-002", "followerId": "social-user-003", "followingId": "social-user-001", "createdAt": "2025-06-15T12:00:00Z" },
+    { "id": "follow-003", "followerId": "social-user-001", "followingId": "social-user-004", "createdAt": "2024-03-01T08:00:00Z" },
+    { "id": "follow-004", "followerId": "social-user-003", "followingId": "social-user-004", "createdAt": "2025-07-01T09:00:00Z" },
+    { "id": "follow-005", "followerId": "social-user-005", "followingId": "social-user-002", "createdAt": "2025-04-10T20:00:00Z" },
+    { "id": "follow-006", "followerId": "social-user-002", "followingId": "social-user-005", "createdAt": "2025-04-11T08:00:00Z" },
+    { "id": "follow-007", "followerId": "social-user-007", "followingId": "social-user-003", "createdAt": "2025-08-20T14:00:00Z" },
+    { "id": "follow-008", "followerId": "social-user-006", "followingId": "social-user-004", "createdAt": "2025-05-01T11:00:00Z" },
+    { "id": "follow-009", "followerId": "social-user-003", "followingId": "social-user-008", "createdAt": "2025-09-01T10:00:00Z" },
+    { "id": "follow-010", "followerId": "social-user-004", "followingId": "social-user-008", "createdAt": "2024-01-15T12:00:00Z" },
+    { "id": "follow-011", "followerId": "social-user-001", "followingId": "social-user-002", "createdAt": "2025-01-20T16:00:00Z" },
+    { "id": "follow-012", "followerId": "social-user-008", "followingId": "social-user-003", "createdAt": "2026-10-02T09:00:00Z" }
+  ]
+}

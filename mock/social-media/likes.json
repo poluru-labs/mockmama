@@ -1,0 +1,18 @@
+{
+  "likes": [
+    { "id": "like-001", "postId": "post-001", "userId": "social-user-002", "createdAt": "2026-09-20T14:45:00Z" },
+    { "id": "like-002", "postId": "post-001", "userId": "social-user-003", "createdAt": "2026-09-20T15:10:00Z" },
+    { "id": "like-003", "postId": "post-004", "userId": "social-user-001", "createdAt": "2026-09-23T17:30:00Z" },
+    { "id": "like-004", "postId": "post-004", "userId": "social-user-008", "createdAt": "2026-09-23T17:05:00Z" },
+    { "id": "like-005", "postId": "post-004", "userId": "social-user-003", "createdAt": "2026-09-23T18:00:00Z" },
+    { "id": "like-006", "postId": "post-008", "userId": "social-user-003", "createdAt": "2026-10-01T15:30:00Z" },
+    { "id": "like-007", "postId": "post-008", "userId": "social-user-004", "createdAt": "2026-10-01T15:45:00Z" },
+    { "id": "like-008", "postId": "post-011", "userId": "social-user-007", "createdAt": "2026-10-12T10:00:00Z" },
+    { "id": "like-009", "postId": "post-011", "userId": "social-user-001", "createdAt": "2026-10-12T11:00:00Z" },
+    { "id": "like-010", "postId": "post-015", "userId": "social-user-002", "createdAt": "2026-10-22T21:15:00Z" },
+    { "id": "like-011", "postId": "post-003", "userId": "social-user-001", "createdAt": "2026-09-22T10:30:00Z" },
+    { "id": "like-012", "postId": "post-006", "userId": "social-user-005", "createdAt": "2026-09-25T19:00:00Z" },
+    { "id": "like-013", "postId": null, "commentId": "comment-007", "userId": "social-user-004", "createdAt": "2026-09-23T18:30:00Z" },
+    { "id": "like-014", "postId": null, "commentId": "comment-009", "userId": "social-user-002", "createdAt": "2026-09-25T20:00:00Z" }
+  ]
+}

@@ -4,32 +4,181 @@
       "id": "post-001",
       "userId": "social-user-001",
       "content": "A fresh sketch for the community garden.",
-      "tags": [
-        "design",
-        "community"
-      ],
+      "tags": ["design", "community"],
+      "mediaIds": ["media-001"],
       "likesCount": 24,
+      "commentsCount": 2,
+      "repostsCount": 3,
+      "visibility": "public",
       "createdAt": "2026-09-20T14:30:00Z"
     },
     {
       "id": "post-002",
       "userId": "social-user-002",
       "content": "Morning walk by the lake.",
-      "tags": [
-        "outdoors"
-      ],
+      "tags": ["outdoors", "photography"],
+      "mediaIds": ["media-002"],
       "likesCount": 12,
+      "commentsCount": 1,
+      "repostsCount": 0,
+      "visibility": "public",
       "createdAt": "2026-09-21T08:00:00Z"
     },
     {
       "id": "post-003",
       "userId": "social-user-003",
       "content": "Shipped my first reading tracker today!",
-      "tags": [
-        "coding"
-      ],
-      "likesCount": 0,
+      "tags": ["coding", "shipped"],
+      "mediaIds": [],
+      "likesCount": 47,
+      "commentsCount": 3,
+      "repostsCount": 5,
+      "visibility": "public",
       "createdAt": "2026-09-22T10:15:00Z"
+    },
+    {
+      "id": "post-004",
+      "userId": "social-user-004",
+      "content": "The best teams I have worked with argue about ideas, not people. Write that down before your next retro.",
+      "tags": ["product"],
+      "mediaIds": [],
+      "likesCount": 892,
+      "commentsCount": 41,
+      "repostsCount": 128,
+      "visibility": "public",
+      "createdAt": "2026-09-23T17:00:00Z"
+    },
+    {
+      "id": "post-005",
+      "userId": "social-user-005",
+      "content": "New beat drop at midnight — link in bio.",
+      "tags": ["music"],
+      "mediaIds": ["media-003"],
+      "likesCount": 156,
+      "commentsCount": 8,
+      "repostsCount": 12,
+      "visibility": "public",
+      "createdAt": "2026-09-24T23:45:00Z"
+    },
+    {
+      "id": "post-006",
+      "userId": "social-user-006",
+      "content": "Roasted carrot soup with ginger — recipe thread below.",
+      "tags": ["food"],
+      "mediaIds": ["media-004"],
+      "likesCount": 203,
+      "commentsCount": 14,
+      "repostsCount": 9,
+      "visibility": "public",
+      "createdAt": "2026-09-25T18:30:00Z"
+    },
+    {
+      "id": "post-007",
+      "userId": "social-user-007",
+      "content": "Released v2.1 of cli-sync — breaking change: config file moved to .sync/config.toml",
+      "tags": ["coding", "opensource"],
+      "mediaIds": [],
+      "likesCount": 64,
+      "commentsCount": 6,
+      "repostsCount": 11,
+      "visibility": "public",
+      "createdAt": "2026-09-26T13:00:00Z"
+    },
+    {
+      "id": "post-008",
+      "userId": "social-user-008",
+      "content": "Introducing shared workspaces — invite your team in one click.",
+      "tags": ["product", "shipped"],
+      "mediaIds": ["media-005"],
+      "likesCount": 420,
+      "commentsCount": 22,
+      "repostsCount": 87,
+      "visibility": "public",
+      "createdAt": "2026-10-01T15:00:00Z"
+    },
+    {
+      "id": "post-009",
+      "userId": "social-user-002",
+      "content": "Golden hour on the ridge trail. No filter.",
+      "tags": ["outdoors", "photography"],
+      "mediaIds": ["media-006"],
+      "likesCount": 88,
+      "commentsCount": 4,
+      "repostsCount": 2,
+      "visibility": "public",
+      "createdAt": "2026-10-05T19:20:00Z"
+    },
+    {
+      "id": "post-010",
+      "userId": "social-user-001",
+      "content": "Work-in-progress: wayfinding icons for the garden project.",
+      "tags": ["design"],
+      "mediaIds": ["media-007"],
+      "likesCount": 31,
+      "commentsCount": 1,
+      "repostsCount": 1,
+      "visibility": "public",
+      "createdAt": "2026-10-10T11:00:00Z"
+    },
+    {
+      "id": "post-011",
+      "userId": "social-user-003",
+      "content": "TIL you can stream CSV parsing in Node without loading the whole file. Thread:",
+      "tags": ["coding"],
+      "mediaIds": [],
+      "likesCount": 112,
+      "commentsCount": 9,
+      "repostsCount": 18,
+      "visibility": "public",
+      "createdAt": "2026-10-12T09:45:00Z"
+    },
+    {
+      "id": "post-012",
+      "userId": "social-user-004",
+      "content": "Drafting in public is scary until it is not.",
+      "tags": ["product"],
+      "mediaIds": [],
+      "likesCount": 540,
+      "commentsCount": 27,
+      "repostsCount": 44,
+      "visibility": "followers",
+      "createdAt": "2026-10-15T20:00:00Z"
+    },
+    {
+      "id": "post-013",
+      "userId": "social-user-006",
+      "content": "Meal prep Sunday: miso salmon, herbed rice, quick pickles.",
+      "tags": ["food"],
+      "mediaIds": ["media-008"],
+      "likesCount": 97,
+      "commentsCount": 5,
+      "repostsCount": 3,
+      "visibility": "public",
+      "createdAt": "2026-10-18T16:00:00Z"
+    },
+    {
+      "id": "post-014",
+      "userId": "social-user-007",
+      "content": "Looking for maintainers for docs-site theme — DM if interested.",
+      "tags": ["opensource"],
+      "mediaIds": [],
+      "likesCount": 28,
+      "commentsCount": 2,
+      "repostsCount": 6,
+      "visibility": "public",
+      "createdAt": "2026-10-20T12:30:00Z"
+    },
+    {
+      "id": "post-015",
+      "userId": "social-user-005",
+      "content": "Studio session with @samoutside — field recordings from the trail.",
+      "tags": ["music", "outdoors"],
+      "mediaIds": ["media-009"],
+      "likesCount": 74,
+      "commentsCount": 3,
+      "repostsCount": 4,
+      "visibility": "public",
+      "createdAt": "2026-10-22T21:00:00Z"
     }
   ]
 }

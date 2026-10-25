@@ -5,21 +5,96 @@
       "username": "alexcreates",
       "displayName": "Alex Morgan",
       "bio": "Designing small things that help people.",
-      "isVerified": true
+      "isVerified": true,
+      "joinedAt": "2024-02-14T10:00:00Z",
+      "location": "Portland, OR",
+      "website": "https://alexmorgan.design",
+      "followerCount": 4820,
+      "followingCount": 312
     },
     {
       "id": "social-user-002",
       "username": "samoutside",
       "displayName": "Sam Rivera",
       "bio": "Weekend trails and city photography.",
-      "isVerified": false
+      "isVerified": false,
+      "joinedAt": "2025-01-08T16:20:00Z",
+      "location": "Denver, CO",
+      "website": null,
+      "followerCount": 910,
+      "followingCount": 428
     },
     {
       "id": "social-user-003",
       "username": "taylortech",
       "displayName": "Taylor Kim",
       "bio": "Building and learning in public.",
-      "isVerified": false
+      "isVerified": false,
+      "joinedAt": "2025-06-01T09:00:00Z",
+      "location": "Austin, TX",
+      "website": "https://github.com/taylortech",
+      "followerCount": 1240,
+      "followingCount": 189
+    },
+    {
+      "id": "social-user-004",
+      "username": "priyawrites",
+      "displayName": "Priya Nair",
+      "bio": "Essays on craft, teams, and slow productivity.",
+      "isVerified": true,
+      "joinedAt": "2023-11-20T12:00:00Z",
+      "location": "Brooklyn, NY",
+      "website": "https://priyanair.substack.com",
+      "followerCount": 12400,
+      "followingCount": 98
+    },
+    {
+      "id": "social-user-005",
+      "username": "marcusbeats",
+      "displayName": "Marcus Webb",
+      "bio": "Producer · lo-fi · late night sessions.",
+      "isVerified": false,
+      "joinedAt": "2024-09-03T22:00:00Z",
+      "location": "Chicago, IL",
+      "website": null,
+      "followerCount": 3400,
+      "followingCount": 501
+    },
+    {
+      "id": "social-user-006",
+      "username": "elenakitchen",
+      "displayName": "Elena Morris",
+      "bio": "Seasonal recipes, no fuss.",
+      "isVerified": false,
+      "joinedAt": "2025-03-15T08:30:00Z",
+      "location": "Seattle, WA",
+      "website": null,
+      "followerCount": 2180,
+      "followingCount": 267
+    },
+    {
+      "id": "social-user-007",
+      "username": "devoncodes",
+      "displayName": "Devon Walsh",
+      "bio": "Open source maintainer. Coffee-powered.",
+      "isVerified": false,
+      "joinedAt": "2024-07-22T14:00:00Z",
+      "location": "Remote",
+      "website": "https://devonwalsh.dev",
+      "followerCount": 890,
+      "followingCount": 156
+    },
+    {
+      "id": "social-user-008",
+      "username": "northlineco",
+      "displayName": "Northline",
+      "bio": "Tools for distributed teams. Official account.",
+      "isVerified": true,
+      "joinedAt": "2022-05-01T00:00:00Z",
+      "location": "San Francisco, CA",
+      "website": "https://northline.io",
+      "followerCount": 28500,
+      "followingCount": 42
     }
   ]
 }
