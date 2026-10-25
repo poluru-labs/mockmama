@@ -3,26 +3,122 @@
     {
       "id": "viewing-001",
       "propertyId": "property-001",
+      "clientId": "client-001",
+      "agentId": "agent-001",
       "visitorName": "Morgan Ellis",
       "visitorEmail": "morgan.ellis@example.com",
       "startsAt": "2026-09-25T17:00:00Z",
-      "status": "confirmed"
+      "endsAt": "2026-09-25T17:45:00Z",
+      "status": "confirmed",
+      "notes": "Interested in garden and garage space."
     },
     {
       "id": "viewing-002",
       "propertyId": "property-002",
+      "clientId": "client-002",
+      "agentId": "agent-002",
       "visitorName": "Riley Chen",
       "visitorEmail": "riley.chen@example.com",
       "startsAt": "2026-09-26T15:00:00Z",
-      "status": "requested"
+      "endsAt": "2026-09-26T15:30:00Z",
+      "status": "requested",
+      "notes": null
     },
     {
       "id": "viewing-003",
       "propertyId": "property-003",
+      "clientId": "client-003",
+      "agentId": "agent-003",
       "visitorName": "Jamie Cruz",
       "visitorEmail": "jamie.cruz@example.com",
       "startsAt": "2026-09-15T18:00:00Z",
-      "status": "completed"
+      "endsAt": "2026-09-15T18:45:00Z",
+      "status": "completed",
+      "notes": "Led to accepted offer."
+    },
+    {
+      "id": "viewing-004",
+      "propertyId": "property-004",
+      "clientId": "client-004",
+      "agentId": "agent-004",
+      "visitorName": "Alex Kim",
+      "visitorEmail": "alex.kim@northline.io",
+      "startsAt": "2026-10-02T20:00:00Z",
+      "endsAt": "2026-10-02T20:45:00Z",
+      "status": "confirmed",
+      "notes": "Investor — comparing cap rates."
+    },
+    {
+      "id": "viewing-005",
+      "propertyId": "property-005",
+      "clientId": "client-005",
+      "agentId": "agent-005",
+      "visitorName": "Taylor Brooks",
+      "visitorEmail": "taylor@parcelapp.com",
+      "startsAt": "2026-09-28T16:00:00Z",
+      "endsAt": "2026-09-28T17:00:00Z",
+      "status": "completed",
+      "notes": "Offer submitted same week."
+    },
+    {
+      "id": "viewing-006",
+      "propertyId": "property-006",
+      "clientId": "client-006",
+      "agentId": "agent-006",
+      "visitorName": "Elena Morris",
+      "visitorEmail": "elena@harborlabs.com",
+      "startsAt": "2026-10-08T14:00:00Z",
+      "endsAt": "2026-10-08T15:00:00Z",
+      "status": "confirmed",
+      "notes": "Seller walkthrough before listing photos."
+    },
+    {
+      "id": "viewing-007",
+      "propertyId": "property-007",
+      "clientId": "client-001",
+      "agentId": "agent-001",
+      "visitorName": "Morgan Ellis",
+      "visitorEmail": "morgan.ellis@example.com",
+      "startsAt": "2026-10-18T18:00:00Z",
+      "endsAt": "2026-10-18T18:30:00Z",
+      "status": "requested",
+      "notes": "Backup option if sale falls through."
+    },
+    {
+      "id": "viewing-008",
+      "propertyId": "property-009",
+      "clientId": "client-003",
+      "agentId": "agent-003",
+      "visitorName": "Jamie Cruz",
+      "visitorEmail": "jamie.cruz@example.com",
+      "startsAt": "2026-10-20T17:30:00Z",
+      "endsAt": "2026-10-20T18:30:00Z",
+      "status": "confirmed",
+      "notes": null
+    },
+    {
+      "id": "viewing-009",
+      "propertyId": "property-011",
+      "clientId": "client-005",
+      "agentId": "agent-005",
+      "visitorName": "Taylor Brooks",
+      "visitorEmail": "taylor@parcelapp.com",
+      "startsAt": "2026-10-22T15:00:00Z",
+      "endsAt": "2026-10-22T16:00:00Z",
+      "status": "cancelled",
+      "notes": "Rescheduling due to travel."
+    },
+    {
+      "id": "viewing-010",
+      "propertyId": "property-012",
+      "clientId": "client-002",
+      "agentId": "agent-006",
+      "visitorName": "Riley Chen",
+      "visitorEmail": "riley.chen@example.com",
+      "startsAt": "2026-10-24T19:00:00Z",
+      "endsAt": "2026-10-24T19:30:00Z",
+      "status": "requested",
+      "notes": "Relocating from Chicago — virtual tour ok."
     }
   ]
 }

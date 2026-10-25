@@ -1,0 +1,53 @@
+{
+  "activity": [
+    {
+      "id": "act-001",
+      "propertyId": "property-001",
+      "type": "price_drop",
+      "detail": "Reduced from $439,000 to $425,000",
+      "createdAt": "2026-09-18T10:00:00Z"
+    },
+    {
+      "id": "act-002",
+      "propertyId": "property-003",
+      "type": "status_change",
+      "detail": "Changed from pending to sold",
+      "createdAt": "2026-09-18T16:00:00Z"
+    },
+    {
+      "id": "act-003",
+      "propertyId": "property-005",
+      "type": "status_change",
+      "detail": "Changed from available to pending",
+      "createdAt": "2026-09-30T09:00:00Z"
+    },
+    {
+      "id": "act-004",
+      "propertyId": "property-002",
+      "type": "viewing_scheduled",
+      "detail": "Viewing viewing-002 requested",
+      "createdAt": "2026-09-25T08:00:00Z"
+    },
+    {
+      "id": "act-005",
+      "propertyId": "property-008",
+      "type": "status_change",
+      "detail": "Changed from available to leased",
+      "createdAt": "2026-09-10T12:00:00Z"
+    },
+    {
+      "id": "act-006",
+      "propertyId": "property-009",
+      "type": "listed",
+      "detail": "New listing published",
+      "createdAt": "2026-10-12T10:00:00Z"
+    },
+    {
+      "id": "act-007",
+      "propertyId": "property-001",
+      "type": "offer_received",
+      "detail": "Offer offer-003 submitted",
+      "createdAt": "2026-09-26T09:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "images": [
+    { "id": "img-001", "propertyId": "property-001", "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200", "caption": "Front exterior", "sortOrder": 1 },
+    { "id": "img-002", "propertyId": "property-001", "url": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1200", "caption": "Open kitchen", "sortOrder": 2 },
+    { "id": "img-003", "propertyId": "property-002", "url": "https://images.unsplash.com/photo-1502672020268-1c1ef2d93688?w=1200", "caption": "Living room with lake view", "sortOrder": 1 },
+    { "id": "img-004", "propertyId": "property-003", "url": "https://images.unsplash.com/photo-1605276374101-dee77648d20f?w=1200", "caption": "Townhouse front", "sortOrder": 1 },
+    { "id": "img-005", "propertyId": "property-003", "url": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=1200", "caption": "Primary bedroom", "sortOrder": 2 },
+    { "id": "img-006", "propertyId": "property-004", "url": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200", "caption": "Loft interior", "sortOrder": 1 },
+    { "id": "img-007", "propertyId": "property-005", "url": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=1200", "caption": "Modern row exterior", "sortOrder": 1 },
+    { "id": "img-008", "propertyId": "property-005", "url": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=1200", "caption": "Kitchen and dining", "sortOrder": 2 },
+    { "id": "img-009", "propertyId": "property-006", "url": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200", "caption": "Brownstone facade", "sortOrder": 1 },
+    { "id": "img-010", "propertyId": "property-007", "url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200", "caption": "Condo living space", "sortOrder": 1 },
+    { "id": "img-011", "propertyId": "property-008", "url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200", "caption": "One-bedroom flat", "sortOrder": 1 },
+    { "id": "img-012", "propertyId": "property-009", "url": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1200", "caption": "Craftsman porch", "sortOrder": 1 },
+    { "id": "img-013", "propertyId": "property-010", "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200", "caption": "Street-level unit", "sortOrder": 1 },
+    { "id": "img-014", "propertyId": "property-011", "url": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=1200", "caption": "Bungalow exterior", "sortOrder": 1 },
+    { "id": "img-015", "propertyId": "property-012", "url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200", "caption": "Studio layout", "sortOrder": 1 }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "mortgageEstimates": [
+    {
+      "id": "mortgage-001",
+      "propertyId": "property-001",
+      "clientId": "client-001",
+      "purchasePrice": 425000,
+      "downPaymentPercent": 20,
+      "loanTermYears": 30,
+      "interestRatePercent": 6.25,
+      "estimatedMonthlyPayment": 2092,
+      "currency": "USD",
+      "calculatedAt": "2026-09-23T10:00:00Z"
+    },
+    {
+      "id": "mortgage-002",
+      "propertyId": "property-005",
+      "clientId": "client-005",
+      "purchasePrice": 689000,
+      "downPaymentPercent": 15,
+      "loanTermYears": 30,
+      "interestRatePercent": 6.1,
+      "estimatedMonthlyPayment": 3548,
+      "currency": "USD",
+      "calculatedAt": "2026-09-28T16:00:00Z"
+    },
+    {
+      "id": "mortgage-003",
+      "propertyId": "property-006",
+      "clientId": "client-006",
+      "purchasePrice": 945000,
+      "downPaymentPercent": 25,
+      "loanTermYears": 30,
+      "interestRatePercent": 6.0,
+      "estimatedMonthlyPayment": 4536,
+      "currency": "USD",
+      "calculatedAt": "2026-10-02T09:00:00Z"
+    },
+    {
+      "id": "mortgage-004",
+      "propertyId": "property-009",
+      "clientId": "client-003",
+      "purchasePrice": 875000,
+      "downPaymentPercent": 20,
+      "loanTermYears": 30,
+      "interestRatePercent": 6.35,
+      "estimatedMonthlyPayment": 4358,
+      "currency": "USD",
+      "calculatedAt": "2026-10-14T11:00:00Z"
+    }
+  ]
+}

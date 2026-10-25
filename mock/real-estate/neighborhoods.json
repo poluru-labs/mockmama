@@ -1,0 +1,58 @@
+{
+  "neighborhoods": [
+    {
+      "id": "hood-zilker",
+      "name": "Zilker",
+      "city": "Austin",
+      "state": "TX",
+      "walkScore": 78,
+      "medianSalePrice": 520000,
+      "schoolRating": 8
+    },
+    {
+      "id": "hood-lincoln-park",
+      "name": "Lincoln Park",
+      "city": "Chicago",
+      "state": "IL",
+      "walkScore": 92,
+      "medianSalePrice": 485000,
+      "schoolRating": 9
+    },
+    {
+      "id": "hood-ballard",
+      "name": "Ballard",
+      "city": "Seattle",
+      "state": "WA",
+      "walkScore": 85,
+      "medianSalePrice": 720000,
+      "schoolRating": 8
+    },
+    {
+      "id": "hood-mission",
+      "name": "Mission District",
+      "city": "San Francisco",
+      "state": "CA",
+      "walkScore": 96,
+      "medianSalePrice": 1150000,
+      "schoolRating": 7
+    },
+    {
+      "id": "hood-lohi",
+      "name": "LoHi",
+      "city": "Denver",
+      "state": "CO",
+      "walkScore": 88,
+      "medianSalePrice": 640000,
+      "schoolRating": 8
+    },
+    {
+      "id": "hood-south-end",
+      "name": "South End",
+      "city": "Boston",
+      "state": "MA",
+      "walkScore": 94,
+      "medianSalePrice": 890000,
+      "schoolRating": 9
+    }
+  ]
+}
