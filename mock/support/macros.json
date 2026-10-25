@@ -1,0 +1,46 @@
+{
+  "macros": [
+    {
+      "id": "macro-001",
+      "title": "Invoice location",
+      "body": "You can download invoices anytime from Billing > Invoices. Select a row and choose Download PDF.",
+      "categoryId": "cat-billing",
+      "shortcut": "/invoice"
+    },
+    {
+      "id": "macro-002",
+      "title": "Invite teammate",
+      "body": "Go to Settings > Team > Invite member, enter their email, and choose a role (Admin, Member, or Viewer).",
+      "categoryId": "cat-onboarding",
+      "shortcut": "/invite"
+    },
+    {
+      "id": "macro-003",
+      "title": "Export workaround",
+      "body": "For large exports, try narrowing the date range or exporting by month. We are tracking a fix for jobs that stall near 50%.",
+      "categoryId": "cat-technical",
+      "shortcut": "/export-help"
+    },
+    {
+      "id": "macro-004",
+      "title": "Webhook signing",
+      "body": "Verify webhooks using the signing secret in Developers > Webhooks. Compare the X-Signature header with an HMAC-SHA256 of the raw body.",
+      "categoryId": "cat-technical",
+      "shortcut": "/webhook"
+    },
+    {
+      "id": "macro-005",
+      "title": "Enterprise SLA reminder",
+      "body": "As an Enterprise customer you have 30-minute first response and 24/7 coverage for severity-1 issues. Reply URGENT in the subject to escalate.",
+      "categoryId": "cat-enterprise",
+      "shortcut": "/enterprise-sla"
+    },
+    {
+      "id": "macro-006",
+      "title": "Closing — resolved",
+      "body": "Glad we could help. This ticket is marked resolved; reply within 7 days to reopen. We appreciate your feedback.",
+      "categoryId": null,
+      "shortcut": "/close"
+    }
+  ]
+}

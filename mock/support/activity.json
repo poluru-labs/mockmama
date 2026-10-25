@@ -1,0 +1,74 @@
+{
+  "activity": [
+    {
+      "id": "act-001",
+      "ticketId": "ticket-002",
+      "type": "status_change",
+      "actorType": "agent",
+      "actorId": "agent-002",
+      "fromValue": "open",
+      "toValue": "in_progress",
+      "createdAt": "2026-09-21T11:18:00Z"
+    },
+    {
+      "id": "act-002",
+      "ticketId": "ticket-002",
+      "type": "tag_added",
+      "actorType": "agent",
+      "actorId": "agent-002",
+      "fromValue": null,
+      "toValue": "bug",
+      "createdAt": "2026-09-21T12:05:00Z"
+    },
+    {
+      "id": "act-003",
+      "ticketId": "ticket-004",
+      "type": "assignment",
+      "actorType": "system",
+      "actorId": null,
+      "fromValue": null,
+      "toValue": "agent-005",
+      "createdAt": "2026-09-23T14:21:00Z"
+    },
+    {
+      "id": "act-004",
+      "ticketId": "ticket-004",
+      "type": "status_change",
+      "actorType": "agent",
+      "actorId": "agent-005",
+      "fromValue": "in_progress",
+      "toValue": "waiting_on_customer",
+      "createdAt": "2026-09-24T09:10:00Z"
+    },
+    {
+      "id": "act-005",
+      "ticketId": "ticket-007",
+      "type": "priority_change",
+      "actorType": "agent",
+      "actorId": "agent-002",
+      "fromValue": "high",
+      "toValue": "urgent",
+      "createdAt": "2026-09-26T16:15:00Z"
+    },
+    {
+      "id": "act-006",
+      "ticketId": "ticket-011",
+      "type": "status_change",
+      "actorType": "agent",
+      "actorId": "agent-004",
+      "fromValue": "in_progress",
+      "toValue": "resolved",
+      "createdAt": "2026-10-18T22:32:00Z"
+    },
+    {
+      "id": "act-007",
+      "ticketId": "ticket-001",
+      "type": "csat_received",
+      "actorType": "customer",
+      "actorId": "customer-001",
+      "fromValue": null,
+      "toValue": "5",
+      "createdAt": "2026-09-20T11:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "id": "cat-billing",
+      "name": "Billing & invoices",
+      "description": "Payments, receipts, plan changes, and refunds.",
+      "defaultPriority": "medium",
+      "slaPolicyId": "sla-standard"
+    },
+    {
+      "id": "cat-technical",
+      "name": "Technical support",
+      "description": "Bugs, errors, integrations, and API issues.",
+      "defaultPriority": "high",
+      "slaPolicyId": "sla-priority"
+    },
+    {
+      "id": "cat-onboarding",
+      "name": "Onboarding",
+      "description": "Setup, invites, first project, and getting started.",
+      "defaultPriority": "low",
+      "slaPolicyId": "sla-standard"
+    },
+    {
+      "id": "cat-account",
+      "name": "Account & security",
+      "description": "Login, SSO, permissions, and data privacy.",
+      "defaultPriority": "high",
+      "slaPolicyId": "sla-priority"
+    },
+    {
+      "id": "cat-feature",
+      "name": "Feature request",
+      "description": "Product feedback and enhancement ideas.",
+      "defaultPriority": "low",
+      "slaPolicyId": "sla-standard"
+    },
+    {
+      "id": "cat-enterprise",
+      "name": "Enterprise",
+      "description": "Dedicated success, custom contracts, and compliance.",
+      "defaultPriority": "high",
+      "slaPolicyId": "sla-enterprise"
+    }
+  ]
+}

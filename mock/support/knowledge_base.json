@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "id": "kb-001",
+      "slug": "download-invoices",
+      "title": "Download invoices and receipts",
+      "categoryId": "cat-billing",
+      "status": "published",
+      "updatedAt": "2026-08-01T12:00:00Z",
+      "viewCount": 1842,
+      "helpfulVotes": 156
+    },
+    {
+      "id": "kb-002",
+      "slug": "invite-team-members",
+      "title": "Invite team members and manage roles",
+      "categoryId": "cat-onboarding",
+      "status": "published",
+      "updatedAt": "2026-07-15T09:00:00Z",
+      "viewCount": 3201,
+      "helpfulVotes": 289
+    },
+    {
+      "id": "kb-003",
+      "slug": "csv-export-limits",
+      "title": "CSV export limits and best practices",
+      "categoryId": "cat-technical",
+      "status": "published",
+      "updatedAt": "2026-09-10T16:30:00Z",
+      "viewCount": 967,
+      "helpfulVotes": 72
+    },
+    {
+      "id": "kb-004",
+      "slug": "configure-sso-okta",
+      "title": "Configure SSO with Okta",
+      "categoryId": "cat-account",
+      "status": "published",
+      "updatedAt": "2026-06-20T11:00:00Z",
+      "viewCount": 554,
+      "helpfulVotes": 48
+    },
+    {
+      "id": "kb-005",
+      "slug": "webhook-signatures",
+      "title": "Verify webhook signatures",
+      "categoryId": "cat-technical",
+      "status": "published",
+      "updatedAt": "2026-09-01T08:00:00Z",
+      "viewCount": 1103,
+      "helpfulVotes": 91
+    },
+    {
+      "id": "kb-006",
+      "slug": "api-key-rotation",
+      "title": "Rotate API keys safely",
+      "categoryId": "cat-account",
+      "status": "published",
+      "updatedAt": "2026-10-01T14:00:00Z",
+      "viewCount": 421,
+      "helpfulVotes": 38
+    },
+    {
+      "id": "kb-007",
+      "slug": "enterprise-audit-logs",
+      "title": "Enterprise audit log retention",
+      "categoryId": "cat-enterprise",
+      "status": "draft",
+      "updatedAt": "2026-10-20T10:00:00Z",
+      "viewCount": 12,
+      "helpfulVotes": 2
+    }
+  ]
+}

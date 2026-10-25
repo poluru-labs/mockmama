@@ -1,0 +1,16 @@
+{
+  "tags": [
+    { "id": "tag-billing", "name": "billing", "color": "#2563eb" },
+    { "id": "tag-bug", "name": "bug", "color": "#dc2626" },
+    { "id": "tag-export", "name": "export", "color": "#7c3aed" },
+    { "id": "tag-onboarding", "name": "onboarding", "color": "#059669" },
+    { "id": "tag-sso", "name": "sso", "color": "#d97706" },
+    { "id": "tag-security", "name": "security", "color": "#b45309" },
+    { "id": "tag-enterprise", "name": "enterprise", "color": "#4f46e5" },
+    { "id": "tag-webhooks", "name": "webhooks", "color": "#0891b2" },
+    { "id": "tag-api", "name": "api", "color": "#0d9488" },
+    { "id": "tag-feature-request", "name": "feature-request", "color": "#64748b" },
+    { "id": "tag-performance", "name": "performance", "color": "#ea580c" },
+    { "id": "tag-mobile", "name": "mobile", "color": "#db2777" }
+  ]
+}
