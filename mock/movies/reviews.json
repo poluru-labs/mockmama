@@ -1,0 +1,31 @@
+{
+  "reviews": [
+    {
+      "id": "review-001",
+      "movieId": "movie-001",
+      "displayName": "Morgan E.",
+      "rating": 4,
+      "maxRating": 5,
+      "body": "Wonderful scenery and an uplifting ending.",
+      "createdAt": "2026-09-18T18:00:00Z"
+    },
+    {
+      "id": "review-002",
+      "movieId": "movie-002",
+      "displayName": "Riley C.",
+      "rating": 5,
+      "maxRating": 5,
+      "body": "A quiet story with memorable performances.",
+      "createdAt": "2026-09-20T19:00:00Z"
+    },
+    {
+      "id": "review-003",
+      "movieId": "movie-003",
+      "displayName": "Jamie C.",
+      "rating": 3,
+      "maxRating": 5,
+      "body": "Charming characters and a few great laughs.",
+      "createdAt": "2026-09-21T20:00:00Z"
+    }
+  ]
+}

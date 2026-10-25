@@ -1,0 +1,39 @@
+{
+  "homeSections": [
+    {
+      "id": "section-001",
+      "title": "Good morning",
+      "type": "recently_played",
+      "itemIds": ["play-001", "play-002", "play-003"],
+      "sortOrder": 1
+    },
+    {
+      "id": "section-002",
+      "title": "Made for you",
+      "type": "playlists",
+      "itemIds": ["playlist-001", "playlist-002", "radio-001"],
+      "sortOrder": 2
+    },
+    {
+      "id": "section-003",
+      "title": "New releases",
+      "type": "albums",
+      "itemIds": ["album-008", "album-004", "album-002"],
+      "sortOrder": 3
+    },
+    {
+      "id": "section-004",
+      "title": "Charts",
+      "type": "charts",
+      "itemIds": ["chart-001", "chart-002"],
+      "sortOrder": 4
+    },
+    {
+      "id": "section-005",
+      "title": "Podcasts for the commute",
+      "type": "podcasts",
+      "itemIds": ["podcast-001", "podcast-002"],
+      "sortOrder": 5
+    }
+  ]
+}

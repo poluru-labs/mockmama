@@ -1,0 +1,46 @@
+{
+  "searchSuggestions": [
+    {
+      "id": "suggest-001",
+      "query": "willow",
+      "type": "artist",
+      "refId": "artist-001",
+      "rank": 1
+    },
+    {
+      "id": "suggest-002",
+      "query": "paper boats",
+      "type": "track",
+      "refId": "track-001",
+      "rank": 1
+    },
+    {
+      "id": "suggest-003",
+      "query": "jazz",
+      "type": "genre",
+      "refId": "genre-004",
+      "rank": 1
+    },
+    {
+      "id": "suggest-004",
+      "query": "morning commute",
+      "type": "playlist",
+      "refId": "playlist-001",
+      "rank": 1
+    },
+    {
+      "id": "suggest-005",
+      "query": "design system",
+      "type": "podcast",
+      "refId": "podcast-001",
+      "rank": 1
+    },
+    {
+      "id": "suggest-006",
+      "query": "static pages",
+      "type": "artist",
+      "refId": "artist-006",
+      "rank": 1
+    }
+  ]
+}
