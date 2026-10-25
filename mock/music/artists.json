@@ -1,0 +1,29 @@
+{
+  "artists": [
+    {
+      "id": "artist-001",
+      "name": "Willow Avenue",
+      "genres": [
+        "indie",
+        "folk"
+      ],
+      "countryCode": "US"
+    },
+    {
+      "id": "artist-002",
+      "name": "Midnight Atlas",
+      "genres": [
+        "electronic"
+      ],
+      "countryCode": "GB"
+    },
+    {
+      "id": "artist-003",
+      "name": "Juniper Trio",
+      "genres": [
+        "jazz"
+      ],
+      "countryCode": "CA"
+    }
+  ]
+}
