@@ -1,0 +1,22 @@
+{
+  "savedPodcasts": [
+    {
+      "id": "sp-001",
+      "userId": "listener-001",
+      "podcastId": "podcast-001",
+      "savedAt": "2026-09-01T12:00:00Z"
+    },
+    {
+      "id": "sp-002",
+      "userId": "listener-002",
+      "podcastId": "podcast-002",
+      "savedAt": "2026-08-10T18:00:00Z"
+    },
+    {
+      "id": "sp-003",
+      "userId": "listener-003",
+      "podcastId": "podcast-003",
+      "savedAt": "2025-05-01T09:00:00Z"
+    }
+  ]
+}

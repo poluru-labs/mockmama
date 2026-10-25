@@ -1,0 +1,40 @@
+{
+  "playback": [
+    {
+      "id": "playback-001",
+      "userId": "listener-001",
+      "deviceId": "device-001",
+      "trackId": "track-001",
+      "positionSeconds": 142,
+      "isPlaying": true,
+      "shuffle": false,
+      "repeat": "off",
+      "volumePercent": 72,
+      "updatedAt": "2026-10-25T10:55:00Z"
+    },
+    {
+      "id": "playback-002",
+      "userId": "listener-002",
+      "deviceId": "device-003",
+      "trackId": "track-002",
+      "positionSeconds": 0,
+      "isPlaying": false,
+      "shuffle": true,
+      "repeat": "context",
+      "volumePercent": 55,
+      "updatedAt": "2026-10-25T09:02:00Z"
+    },
+    {
+      "id": "playback-003",
+      "userId": "listener-004",
+      "deviceId": null,
+      "trackId": "track-015",
+      "positionSeconds": 30,
+      "isPlaying": false,
+      "shuffle": false,
+      "repeat": "off",
+      "volumePercent": 100,
+      "updatedAt": "2026-10-10T09:01:00Z"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "podcastEpisodes": [
+    {
+      "id": "episode-001",
+      "podcastId": "podcast-001",
+      "title": "Empty states without shame",
+      "description": "Why your zero-results screen needs a next step.",
+      "durationSeconds": 312,
+      "publishedAt": "2026-10-20T12:00:00Z",
+      "explicit": false,
+      "status": "published"
+    },
+    {
+      "id": "episode-002",
+      "podcastId": "podcast-001",
+      "title": "Loading skeletons that match content",
+      "description": "Aspect ratio beats shimmer alone.",
+      "durationSeconds": 285,
+      "publishedAt": "2026-10-13T12:00:00Z",
+      "explicit": false,
+      "status": "published"
+    },
+    {
+      "id": "episode-003",
+      "podcastId": "podcast-002",
+      "title": "Midnight Atlas on City After Dark",
+      "description": "Studio session breakdown.",
+      "durationSeconds": 2410,
+      "publishedAt": "2026-09-08T18:00:00Z",
+      "explicit": true,
+      "status": "published"
+    },
+    {
+      "id": "episode-004",
+      "podcastId": "podcast-003",
+      "title": "Standards night recap",
+      "description": "Final episode before archive.",
+      "durationSeconds": 3600,
+      "publishedAt": "2025-06-01T10:00:00Z",
+      "explicit": false,
+      "status": "published"
+    },
+    {
+      "id": "episode-005",
+      "podcastId": "podcast-002",
+      "title": "Unpublished pilot",
+      "description": "Held for legal review.",
+      "durationSeconds": 1800,
+      "publishedAt": null,
+      "explicit": false,
+      "status": "draft"
+    }
+  ]
+}

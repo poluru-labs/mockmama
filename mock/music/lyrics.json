@@ -1,0 +1,43 @@
+{
+  "lyrics": [
+    {
+      "id": "lyrics-001",
+      "trackId": "track-001",
+      "language": "en",
+      "synced": true,
+      "lines": [
+        { "startMs": 0, "text": "Paper boats on the creek" },
+        { "startMs": 12000, "text": "Summer never lasts the way we think" },
+        { "startMs": 28000, "text": "You wrote your name along the fold" }
+      ],
+      "status": "published"
+    },
+    {
+      "id": "lyrics-002",
+      "trackId": "track-008",
+      "language": "en",
+      "synced": false,
+      "lines": [
+        { "startMs": null, "text": "After hours, neon hum" },
+        { "startMs": null, "text": "Taxi lights and second drums" }
+      ],
+      "status": "published"
+    },
+    {
+      "id": "lyrics-003",
+      "trackId": "track-013",
+      "language": "en",
+      "synced": false,
+      "lines": [],
+      "status": "instrumental"
+    },
+    {
+      "id": "lyrics-004",
+      "trackId": "track-021",
+      "language": "en",
+      "synced": false,
+      "lines": [],
+      "status": "unavailable"
+    }
+  ]
+}

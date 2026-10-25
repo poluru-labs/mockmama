@@ -1,0 +1,25 @@
+{
+  "playlistCollaborators": [
+    {
+      "id": "pc-001",
+      "playlistId": "playlist-003",
+      "userId": "listener-002",
+      "role": "owner",
+      "joinedAt": "2026-09-01T17:00:00Z"
+    },
+    {
+      "id": "pc-002",
+      "playlistId": "playlist-003",
+      "userId": "listener-001",
+      "role": "editor",
+      "joinedAt": "2026-09-02T10:00:00Z"
+    },
+    {
+      "id": "pc-003",
+      "playlistId": "playlist-003",
+      "userId": "listener-005",
+      "role": "viewer",
+      "joinedAt": "2026-10-15T14:00:00Z"
+    }
+  ]
+}

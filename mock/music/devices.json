@@ -1,0 +1,36 @@
+{
+  "devices": [
+    {
+      "id": "device-001",
+      "userId": "listener-001",
+      "name": "Alex's MacBook",
+      "type": "computer",
+      "isActive": true,
+      "lastSeenAt": "2026-10-25T10:55:00Z"
+    },
+    {
+      "id": "device-002",
+      "userId": "listener-001",
+      "name": "Pixel Earbuds",
+      "type": "speaker",
+      "isActive": false,
+      "lastSeenAt": "2026-10-24T21:05:00Z"
+    },
+    {
+      "id": "device-003",
+      "userId": "listener-002",
+      "name": "Sam's Phone",
+      "type": "mobile",
+      "isActive": true,
+      "lastSeenAt": "2026-10-25T09:00:00Z"
+    },
+    {
+      "id": "device-004",
+      "userId": "listener-003",
+      "name": "Living room TV",
+      "type": "tv",
+      "isActive": false,
+      "lastSeenAt": "2026-10-23T20:00:00Z"
+    }
+  ]
+}

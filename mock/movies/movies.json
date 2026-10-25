@@ -1,0 +1,38 @@
+{
+  "movies": [
+    {
+      "id": "movie-001",
+      "title": "Beyond the Lanterns",
+      "releaseYear": 2025,
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
+      "runtimeMinutes": 112,
+      "ageRating": "PG",
+      "synopsis": "Two friends follow a trail of lanterns to a hidden valley."
+    },
+    {
+      "id": "movie-002",
+      "title": "The Last Platform",
+      "releaseYear": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtimeMinutes": 98,
+      "ageRating": "PG-13",
+      "synopsis": "A night train brings three strangers together."
+    },
+    {
+      "id": "movie-003",
+      "title": "Small Town Signals",
+      "releaseYear": 2024,
+      "genres": [
+        "comedy"
+      ],
+      "runtimeMinutes": 105,
+      "ageRating": "PG",
+      "synopsis": "A community radio station prepares for its biggest broadcast."
+    }
+  ]
+}

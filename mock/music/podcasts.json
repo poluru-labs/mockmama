@@ -1,0 +1,34 @@
+{
+  "podcasts": [
+    {
+      "id": "podcast-001",
+      "title": "Design Systems Daily",
+      "publisher": "Pineworks Audio",
+      "description": "Five-minute episodes on tokens, states, and mock data.",
+      "coverImage": "https://picsum.photos/seed/podcast-001/800/800",
+      "language": "en",
+      "episodeCount": 12,
+      "status": "active"
+    },
+    {
+      "id": "podcast-002",
+      "title": "Night Shift FM",
+      "publisher": "North Line Audio",
+      "description": "Interviews with electronic producers.",
+      "coverImage": "https://picsum.photos/seed/podcast-002/800/800",
+      "language": "en",
+      "episodeCount": 24,
+      "status": "active"
+    },
+    {
+      "id": "podcast-003",
+      "title": "Archived Jazz Hour",
+      "publisher": "Blue Hour Jazz",
+      "description": "Feed retired. Episodes remain for subscribers.",
+      "coverImage": "https://picsum.photos/seed/podcast-003/800/800",
+      "language": "en",
+      "episodeCount": 6,
+      "status": "archived"
+    }
+  ]
+}

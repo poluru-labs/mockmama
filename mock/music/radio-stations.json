@@ -1,0 +1,36 @@
+{
+  "radioStations": [
+    {
+      "id": "radio-001",
+      "name": "Willow Avenue Radio",
+      "seedArtistId": "artist-001",
+      "description": "Similar artists and deep cuts.",
+      "coverImage": "https://picsum.photos/seed/radio-001/800/800",
+      "status": "active"
+    },
+    {
+      "id": "radio-002",
+      "name": "Electronic Focus",
+      "seedTrackId": "track-002",
+      "description": "Instrumental and mid-tempo electronic.",
+      "coverImage": "https://picsum.photos/seed/radio-002/800/800",
+      "status": "active"
+    },
+    {
+      "id": "radio-003",
+      "name": "Jazz Sunday",
+      "seedArtistId": "artist-003",
+      "description": "Classic and contemporary jazz.",
+      "coverImage": "https://picsum.photos/seed/radio-003/800/800",
+      "status": "active"
+    },
+    {
+      "id": "radio-004",
+      "name": "Retired indie wave",
+      "seedArtistId": "artist-006",
+      "description": "Station paused with artist removal.",
+      "coverImage": "https://picsum.photos/seed/radio-004/800/800",
+      "status": "offline"
+    }
+  ]
+}
