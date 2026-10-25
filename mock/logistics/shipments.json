@@ -1,0 +1,37 @@
+{
+  "shipments": [
+    {
+      "id": "shipment-001",
+      "warehouseId": "warehouse-001",
+      "trackingNumber": "MOCK-TRACK-1001",
+      "carrier": "Demo Express",
+      "destinationCity": "Austin",
+      "weightKg": 2.4,
+      "status": "in_transit",
+      "estimatedDeliveryDate": "2026-09-24",
+      "deliveredAt": null
+    },
+    {
+      "id": "shipment-002",
+      "warehouseId": "warehouse-002",
+      "trackingNumber": "MOCK-TRACK-1002",
+      "carrier": "Demo Ground",
+      "destinationCity": "San Diego",
+      "weightKg": 5.1,
+      "status": "delivered",
+      "estimatedDeliveryDate": "2026-09-21",
+      "deliveredAt": "2026-09-21T18:30:00Z"
+    },
+    {
+      "id": "shipment-003",
+      "warehouseId": "warehouse-003",
+      "trackingNumber": "MOCK-TRACK-1003",
+      "carrier": "Demo Express",
+      "destinationCity": "Miami",
+      "weightKg": 1.2,
+      "status": "label_created",
+      "estimatedDeliveryDate": "2026-09-26",
+      "deliveredAt": null
+    }
+  ]
+}
