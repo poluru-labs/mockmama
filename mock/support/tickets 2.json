@@ -1,0 +1,44 @@
+{
+  "tickets": [
+    {
+      "id": "ticket-001",
+      "agentId": "agent-001",
+      "subject": "Request invoice copy",
+      "customerEmail": "morgan.ellis@example.com",
+      "priority": "low",
+      "status": "resolved",
+      "createdAt": "2026-09-20T09:00:00Z",
+      "resolvedAt": "2026-09-20T10:00:00Z",
+      "tags": [
+        "billing"
+      ]
+    },
+    {
+      "id": "ticket-002",
+      "agentId": "agent-002",
+      "subject": "Export stops at 50 percent",
+      "customerEmail": "riley.chen@example.com",
+      "priority": "high",
+      "status": "in_progress",
+      "createdAt": "2026-09-21T11:00:00Z",
+      "resolvedAt": null,
+      "tags": [
+        "export",
+        "bug"
+      ]
+    },
+    {
+      "id": "ticket-003",
+      "agentId": null,
+      "subject": "How do I invite a teammate?",
+      "customerEmail": "jamie.cruz@example.com",
+      "priority": "medium",
+      "status": "open",
+      "createdAt": "2026-09-22T08:00:00Z",
+      "resolvedAt": null,
+      "tags": [
+        "onboarding"
+      ]
+    }
+  ]
+}
