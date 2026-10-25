@@ -1,0 +1,25 @@
+{
+  "comments": [
+    {
+      "id": "comment-001",
+      "postId": "post-001",
+      "userId": "social-user-002",
+      "body": "Love the shaded seating area.",
+      "createdAt": "2026-09-20T15:00:00Z"
+    },
+    {
+      "id": "comment-002",
+      "postId": "post-002",
+      "userId": "social-user-003",
+      "body": "What a peaceful start.",
+      "createdAt": "2026-09-21T09:00:00Z"
+    },
+    {
+      "id": "comment-003",
+      "postId": "post-003",
+      "userId": "social-user-001",
+      "body": "Congratulations on the launch!",
+      "createdAt": "2026-09-22T11:00:00Z"
+    }
+  ]
+}

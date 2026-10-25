@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "social-user-001",
+      "username": "alexcreates",
+      "displayName": "Alex Morgan",
+      "bio": "Designing small things that help people.",
+      "isVerified": true
+    },
+    {
+      "id": "social-user-002",
+      "username": "samoutside",
+      "displayName": "Sam Rivera",
+      "bio": "Weekend trails and city photography.",
+      "isVerified": false
+    },
+    {
+      "id": "social-user-003",
+      "username": "taylortech",
+      "displayName": "Taylor Kim",
+      "bio": "Building and learning in public.",
+      "isVerified": false
+    }
+  ]
+}
