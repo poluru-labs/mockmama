@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "post-001",
+      "userId": "social-user-001",
+      "content": "A fresh sketch for the community garden.",
+      "tags": [
+        "design",
+        "community"
+      ],
+      "likesCount": 24,
+      "createdAt": "2026-09-20T14:30:00Z"
+    },
+    {
+      "id": "post-002",
+      "userId": "social-user-002",
+      "content": "Morning walk by the lake.",
+      "tags": [
+        "outdoors"
+      ],
+      "likesCount": 12,
+      "createdAt": "2026-09-21T08:00:00Z"
+    },
+    {
+      "id": "post-003",
+      "userId": "social-user-003",
+      "content": "Shipped my first reading tracker today!",
+      "tags": [
+        "coding"
+      ],
+      "likesCount": 0,
+      "createdAt": "2026-09-22T10:15:00Z"
+    }
+  ]
+}
