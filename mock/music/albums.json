@@ -1,0 +1,25 @@
+{
+  "albums": [
+    {
+      "id": "album-001",
+      "artistId": "artist-001",
+      "title": "Letters from Home",
+      "releasedAt": "2026-03-12",
+      "trackCount": 1
+    },
+    {
+      "id": "album-002",
+      "artistId": "artist-002",
+      "title": "City After Dark",
+      "releasedAt": "2026-06-05",
+      "trackCount": 1
+    },
+    {
+      "id": "album-003",
+      "artistId": "artist-003",
+      "title": "Sunday Windows",
+      "releasedAt": "2025-11-21",
+      "trackCount": 1
+    }
+  ]
+}
