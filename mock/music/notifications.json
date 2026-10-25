@@ -1,0 +1,44 @@
+{
+  "notifications": [
+    {
+      "id": "music-notif-001",
+      "userId": "listener-001",
+      "type": "new_release",
+      "artistId": "artist-004",
+      "albumId": "album-004",
+      "title": "New album from Kite District",
+      "body": "Late Shift is out now.",
+      "read": false,
+      "createdAt": "2026-08-18T12:00:00Z"
+    },
+    {
+      "id": "music-notif-002",
+      "userId": "listener-001",
+      "type": "playlist_update",
+      "playlistId": "playlist-005",
+      "title": "Today's Indie Mix refreshed",
+      "body": "3 new picks for your morning.",
+      "read": true,
+      "createdAt": "2026-10-25T06:00:00Z"
+    },
+    {
+      "id": "music-notif-003",
+      "userId": "listener-002",
+      "type": "collaborative",
+      "playlistId": "playlist-003",
+      "title": "Alex added a track",
+      "body": "Side Street was added to Shared Friday.",
+      "read": false,
+      "createdAt": "2026-10-18T19:00:00Z"
+    },
+    {
+      "id": "music-notif-004",
+      "userId": "listener-004",
+      "type": "account",
+      "title": "Subscription paused",
+      "body": "Playback limited to previews until billing is updated.",
+      "read": false,
+      "createdAt": "2026-10-10T09:00:00Z"
+    }
+  ]
+}

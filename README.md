@@ -23,6 +23,7 @@ Everything lives under `mock/`.
 | [`mock/weather/`](mock/weather/) | Locations, current conditions, forecasts, alerts, air quality |
 | [`mock/travel/`](mock/travel/) | Destinations, hotels, flights, bookings, activities, itineraries |
 | [`mock/tasks/`](mock/tasks/) | Workspaces, projects, tasks, sprints, boards, comments |
+| [`mock/music/`](mock/music/) | Artists, albums, tracks, playlists, charts, listening queue |
 | [`mock/enterprise-bi-dashboard/`](mock/enterprise-bi-dashboard/) | Analytics workspace screens (KPIs, reports, lineage) |
 | [`mock/enterprise-billing-dashboard/`](mock/enterprise-billing-dashboard/) | Invoices, subscriptions, payments, collections |
 | [`mock/enterprise-banking-operations/`](mock/enterprise-banking-operations/) | Clearing, payments, screening, liquidity |
@@ -80,6 +81,7 @@ Demo passwords in auth and ecommerce users are `demo123` (customers) and `admin1
 - **Weather** — locations, current and hourly forecasts, alerts, air quality, saved places, and radar metadata.
 - **Travel** — destinations, hotels, room types, flights, bookings, activities, wishlists, and trip itineraries.
 - **Tasks** — workspaces, projects, kanban columns, sprints, assignments, comments, and activity feed.
+- **Music** — artists, albums, tracks, playlists, likes, follows, recently played, charts, and queue.
 - **Enterprise BI** — overview, reports, explorer, lineage, quality, forecasts, and ask/query screens.
 - **Enterprise billing** — invoices, subscriptions, payments, collections, and ledger KPIs.
 - **Enterprise banking** — accounts, clearing, payments, screening, exceptions, and liquidity.

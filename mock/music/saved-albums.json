@@ -1,0 +1,28 @@
+{
+  "savedAlbums": [
+    {
+      "id": "save-001",
+      "userId": "listener-001",
+      "albumId": "album-001",
+      "savedAt": "2026-07-10T12:00:00Z"
+    },
+    {
+      "id": "save-002",
+      "userId": "listener-001",
+      "albumId": "album-002",
+      "savedAt": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "save-003",
+      "userId": "listener-002",
+      "albumId": "album-004",
+      "savedAt": "2026-09-22T11:00:00Z"
+    },
+    {
+      "id": "save-004",
+      "userId": "listener-003",
+      "albumId": "album-003",
+      "savedAt": "2026-05-18T16:30:00Z"
+    }
+  ]
+}

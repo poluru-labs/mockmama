@@ -1,0 +1,34 @@
+{
+  "following": [
+    {
+      "id": "follow-001",
+      "userId": "listener-001",
+      "artistId": "artist-001",
+      "followedAt": "2026-03-15T10:00:00Z"
+    },
+    {
+      "id": "follow-002",
+      "userId": "listener-001",
+      "artistId": "artist-002",
+      "followedAt": "2026-06-06T08:00:00Z"
+    },
+    {
+      "id": "follow-003",
+      "userId": "listener-001",
+      "artistId": "artist-004",
+      "followedAt": "2026-08-19T12:00:00Z"
+    },
+    {
+      "id": "follow-004",
+      "userId": "listener-002",
+      "artistId": "artist-002",
+      "followedAt": "2026-07-01T19:00:00Z"
+    },
+    {
+      "id": "follow-005",
+      "userId": "listener-003",
+      "artistId": "artist-003",
+      "followedAt": "2025-11-22T09:00:00Z"
+    }
+  ]
+}

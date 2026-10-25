@@ -1,0 +1,100 @@
+{
+  "playlistTracks": [
+    {
+      "id": "pt-001",
+      "playlistId": "playlist-001",
+      "trackId": "track-001",
+      "addedById": "listener-001",
+      "position": 1,
+      "addedAt": "2026-07-10T12:05:00Z"
+    },
+    {
+      "id": "pt-002",
+      "playlistId": "playlist-001",
+      "trackId": "track-002",
+      "addedById": "listener-001",
+      "position": 2,
+      "addedAt": "2026-07-10T12:06:00Z"
+    },
+    {
+      "id": "pt-003",
+      "playlistId": "playlist-001",
+      "trackId": "track-004",
+      "addedById": "listener-001",
+      "position": 3,
+      "addedAt": "2026-08-01T10:00:00Z"
+    },
+    {
+      "id": "pt-004",
+      "playlistId": "playlist-001",
+      "trackId": "track-012",
+      "addedById": "listener-001",
+      "position": 4,
+      "addedAt": "2026-10-20T08:30:00Z"
+    },
+    {
+      "id": "pt-005",
+      "playlistId": "playlist-002",
+      "trackId": "track-003",
+      "addedById": "listener-001",
+      "position": 1,
+      "addedAt": "2026-05-02T09:10:00Z"
+    },
+    {
+      "id": "pt-006",
+      "playlistId": "playlist-002",
+      "trackId": "track-009",
+      "addedById": "listener-001",
+      "position": 2,
+      "addedAt": "2026-05-02T09:11:00Z"
+    },
+    {
+      "id": "pt-007",
+      "playlistId": "playlist-002",
+      "trackId": "track-013",
+      "addedById": "listener-001",
+      "position": 3,
+      "addedAt": "2026-06-20T14:00:00Z"
+    },
+    {
+      "id": "pt-008",
+      "playlistId": "playlist-003",
+      "trackId": "track-008",
+      "addedById": "listener-002",
+      "position": 1,
+      "addedAt": "2026-09-01T17:05:00Z"
+    },
+    {
+      "id": "pt-009",
+      "playlistId": "playlist-003",
+      "trackId": "track-011",
+      "addedById": "listener-001",
+      "position": 2,
+      "addedAt": "2026-10-18T19:00:00Z"
+    },
+    {
+      "id": "pt-010",
+      "playlistId": "playlist-005",
+      "trackId": "track-001",
+      "addedById": "system",
+      "position": 1,
+      "addedAt": "2026-10-25T06:00:00Z"
+    },
+    {
+      "id": "pt-011",
+      "playlistId": "playlist-005",
+      "trackId": "track-004",
+      "addedById": "system",
+      "position": 2,
+      "addedAt": "2026-10-25T06:00:00Z"
+    },
+    {
+      "id": "pt-012",
+      "playlistId": "playlist-005",
+      "trackId": "track-005",
+      "addedById": "system",
+      "position": 3,
+      "addedAt": "2026-10-25T06:00:00Z"
+    }
+  ]
+}

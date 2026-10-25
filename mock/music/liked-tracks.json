@@ -1,0 +1,34 @@
+{
+  "likedTracks": [
+    {
+      "id": "like-001",
+      "userId": "listener-001",
+      "trackId": "track-001",
+      "likedAt": "2026-07-12T20:00:00Z"
+    },
+    {
+      "id": "like-002",
+      "userId": "listener-001",
+      "trackId": "track-008",
+      "likedAt": "2026-09-05T22:15:00Z"
+    },
+    {
+      "id": "like-003",
+      "userId": "listener-002",
+      "trackId": "track-002",
+      "likedAt": "2026-08-20T18:30:00Z"
+    },
+    {
+      "id": "like-004",
+      "userId": "listener-003",
+      "trackId": "track-003",
+      "likedAt": "2026-06-01T09:00:00Z"
+    },
+    {
+      "id": "like-005",
+      "userId": "listener-003",
+      "trackId": "track-010",
+      "likedAt": "2026-06-01T09:01:00Z"
+    }
+  ]
+}

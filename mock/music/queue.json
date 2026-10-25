@@ -1,0 +1,33 @@
+{
+  "queue": [
+    {
+      "id": "queue-001",
+      "userId": "listener-001",
+      "trackId": "track-001",
+      "position": 1,
+      "source": "user_add"
+    },
+    {
+      "id": "queue-002",
+      "userId": "listener-001",
+      "trackId": "track-007",
+      "position": 2,
+      "source": "autoplay"
+    },
+    {
+      "id": "queue-003",
+      "userId": "listener-001",
+      "trackId": "track-013",
+      "position": 3,
+      "source": "autoplay"
+    },
+    {
+      "id": "queue-004",
+      "userId": "listener-002",
+      "trackId": "track-002",
+      "position": 1,
+      "source": "playlist",
+      "contextId": "playlist-003"
+    }
+  ]
+}
