@@ -1,0 +1,36 @@
+{
+  "carriers": [
+    {
+      "id": "carrier-001",
+      "name": "Demo Express",
+      "code": "DEMOXP",
+      "serviceLevel": "express",
+      "trackingUrlTemplate": "https://example.com/track/{trackingNumber}",
+      "status": "active"
+    },
+    {
+      "id": "carrier-002",
+      "name": "Demo Ground",
+      "code": "DEMOGR",
+      "serviceLevel": "ground",
+      "trackingUrlTemplate": "https://example.com/track/{trackingNumber}",
+      "status": "active"
+    },
+    {
+      "id": "carrier-003",
+      "name": "Demo Freight",
+      "code": "DEMOFR",
+      "serviceLevel": "freight",
+      "trackingUrlTemplate": "https://example.com/track/{trackingNumber}",
+      "status": "active"
+    },
+    {
+      "id": "carrier-004",
+      "name": "Legacy Courier",
+      "code": "LEGACY",
+      "serviceLevel": "ground",
+      "trackingUrlTemplate": null,
+      "status": "retired"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pickTasks": [
+    {
+      "id": "pick-001",
+      "fulfillmentOrderId": "fulfillment-003",
+      "warehouseId": "warehouse-003",
+      "assigneeId": "staff-002",
+      "lineCount": 3,
+      "status": "open",
+      "dueAt": "2026-09-22T16:00:00Z"
+    },
+    {
+      "id": "pick-002",
+      "fulfillmentOrderId": "fulfillment-004",
+      "warehouseId": "warehouse-001",
+      "assigneeId": "staff-001",
+      "lineCount": 12,
+      "status": "completed",
+      "dueAt": "2026-10-22T12:00:00Z"
+    },
+    {
+      "id": "pick-003",
+      "fulfillmentOrderId": "fulfillment-005",
+      "warehouseId": "warehouse-003",
+      "assigneeId": null,
+      "lineCount": 1,
+      "status": "blocked",
+      "dueAt": "2026-10-23T14:00:00Z"
+    }
+  ]
+}

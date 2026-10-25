@@ -1,0 +1,28 @@
+{
+  "drivers": [
+    {
+      "id": "driver-001",
+      "name": "Chris Nguyen",
+      "phone": "+1-214-555-9101",
+      "vehicleType": "van",
+      "carrierId": "carrier-001",
+      "status": "on_route"
+    },
+    {
+      "id": "driver-002",
+      "name": "Dana Brooks",
+      "phone": "+1-602-555-9102",
+      "vehicleType": "box_truck",
+      "carrierId": "carrier-002",
+      "status": "available"
+    },
+    {
+      "id": "driver-003",
+      "name": "Lee Martinez",
+      "phone": "+1-404-555-9103",
+      "vehicleType": "van",
+      "carrierId": "carrier-001",
+      "status": "off_duty"
+    }
+  ]
+}

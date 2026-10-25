@@ -1,0 +1,64 @@
+{
+  "addresses": [
+    {
+      "id": "address-001",
+      "label": "Pineworks HQ",
+      "line1": "1100 Congress Ave",
+      "line2": null,
+      "city": "Austin",
+      "state": "TX",
+      "postalCode": "78701",
+      "countryCode": "US",
+      "latitude": 30.274,
+      "longitude": -97.74
+    },
+    {
+      "id": "address-002",
+      "label": "Alex home",
+      "line1": "801 Barton Springs Rd",
+      "line2": "Apt 4B",
+      "city": "Austin",
+      "state": "TX",
+      "postalCode": "78704",
+      "countryCode": "US",
+      "latitude": 30.263,
+      "longitude": -97.771
+    },
+    {
+      "id": "address-003",
+      "label": "Harbor store",
+      "line1": "88 Bell St",
+      "line2": null,
+      "city": "Seattle",
+      "state": "WA",
+      "postalCode": "98121",
+      "countryCode": "US",
+      "latitude": 47.613,
+      "longitude": -122.344
+    },
+    {
+      "id": "address-004",
+      "label": "San Diego office",
+      "line1": "750 B St",
+      "line2": "Suite 200",
+      "city": "San Diego",
+      "state": "CA",
+      "postalCode": "92101",
+      "countryCode": "US",
+      "latitude": 32.715,
+      "longitude": -117.161
+    },
+    {
+      "id": "address-005",
+      "label": "Miami dock",
+      "line1": "1015 N America Way",
+      "line2": null,
+      "city": "Miami",
+      "state": "FL",
+      "postalCode": "33132",
+      "countryCode": "US",
+      "latitude": 25.795,
+      "longitude": -80.278
+    }
+  ]
+}

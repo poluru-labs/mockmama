@@ -1,0 +1,37 @@
+{
+  "exceptions": [
+    {
+      "id": "exception-001",
+      "shipmentId": "shipment-005",
+      "type": "access_code_required",
+      "severity": "medium",
+      "title": "Could not enter gate",
+      "description": "Driver needs gate code 4521 or call recipient.",
+      "status": "open",
+      "reportedAt": "2026-10-24T16:00:00Z",
+      "resolvedAt": null
+    },
+    {
+      "id": "exception-002",
+      "shipmentId": "shipment-004",
+      "type": "weather_delay",
+      "severity": "low",
+      "title": "Mountain pass delay",
+      "description": "One hour delay reported by carrier.",
+      "status": "resolved",
+      "reportedAt": "2026-10-25T04:00:00Z",
+      "resolvedAt": "2026-10-25T08:00:00Z"
+    },
+    {
+      "id": "exception-003",
+      "shipmentId": "shipment-006",
+      "type": "carrier_cancelled",
+      "severity": "high",
+      "title": "Legacy carrier retired",
+      "description": "Shipment voided. Rebook on Demo Ground.",
+      "status": "closed",
+      "reportedAt": "2026-08-02T09:00:00Z",
+      "resolvedAt": "2026-08-02T09:30:00Z"
+    }
+  ]
+}

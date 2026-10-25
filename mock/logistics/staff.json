@@ -1,0 +1,31 @@
+{
+  "staff": [
+    {
+      "id": "staff-001",
+      "warehouseId": "warehouse-001",
+      "name": "Harper Diaz",
+      "email": "harper.diaz@fulfillment.example.com",
+      "role": "picker",
+      "shift": "day",
+      "status": "active"
+    },
+    {
+      "id": "staff-002",
+      "warehouseId": "warehouse-003",
+      "name": "Mina Park",
+      "email": "mina.park@fulfillment.example.com",
+      "role": "picker",
+      "shift": "swing",
+      "status": "active"
+    },
+    {
+      "id": "staff-003",
+      "warehouseId": "warehouse-002",
+      "name": "Noah Patel",
+      "email": "noah.patel@fulfillment.example.com",
+      "role": "supervisor",
+      "shift": "day",
+      "status": "on_leave"
+    }
+  ]
+}

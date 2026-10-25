@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "logistics-customer-001",
+      "name": "Pineworks Retail",
+      "email": "shipping@pineworks.example.com",
+      "phone": "+1-512-555-8101",
+      "accountTier": "enterprise",
+      "status": "active"
+    },
+    {
+      "id": "logistics-customer-002",
+      "name": "Harbor Market Co",
+      "email": "ops@harbor.example.com",
+      "phone": "+1-206-555-8102",
+      "accountTier": "business",
+      "status": "active"
+    },
+    {
+      "id": "logistics-customer-003",
+      "name": "Alex Morgan",
+      "email": "alex.morgan@example.com",
+      "phone": "+1-512-555-8103",
+      "accountTier": "consumer",
+      "status": "active"
+    }
+  ]
+}
