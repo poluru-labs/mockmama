@@ -35,6 +35,15 @@
       "plan": "free",
       "countryCode": "GB",
       "status": "suspended"
+    },
+    {
+      "id": "listener-005",
+      "name": "Priya Shah",
+      "email": "priya.shah@example.com",
+      "avatar": "https://picsum.photos/seed/listener-005/200/200",
+      "plan": "premium",
+      "countryCode": "US",
+      "status": "active"
     }
   ]
 }

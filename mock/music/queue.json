@@ -28,6 +28,22 @@
       "position": 1,
       "source": "playlist",
       "contextId": "playlist-003"
+    },
+    {
+      "id": "queue-005",
+      "userId": "listener-005",
+      "trackId": "track-018",
+      "position": 1,
+      "source": "album",
+      "contextId": "album-008"
+    },
+    {
+      "id": "queue-006",
+      "userId": "listener-005",
+      "trackId": "track-019",
+      "position": 2,
+      "source": "album",
+      "contextId": "album-008"
     }
   ]
 }

@@ -29,6 +29,16 @@
       "id": "genre-006",
       "name": "Ambient",
       "slug": "ambient"
+    },
+    {
+      "id": "genre-007",
+      "name": "Pop",
+      "slug": "pop"
+    },
+    {
+      "id": "genre-008",
+      "name": "Podcast",
+      "slug": "podcast"
     }
   ]
 }

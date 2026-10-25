@@ -23,6 +23,12 @@
       "userId": "listener-003",
       "albumId": "album-003",
       "savedAt": "2026-05-18T16:30:00Z"
+    },
+    {
+      "id": "save-005",
+      "userId": "listener-005",
+      "albumId": "album-008",
+      "savedAt": "2026-10-01T10:00:00Z"
     }
   ]
 }

@@ -29,6 +29,18 @@
       "userId": "listener-003",
       "trackId": "track-010",
       "likedAt": "2026-06-01T09:01:00Z"
+    },
+    {
+      "id": "like-006",
+      "userId": "listener-005",
+      "trackId": "track-018",
+      "likedAt": "2026-10-05T19:00:00Z"
+    },
+    {
+      "id": "like-007",
+      "userId": "listener-001",
+      "trackId": "track-019",
+      "likedAt": "2026-10-06T07:30:00Z"
     }
   ]
 }
