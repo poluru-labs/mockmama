@@ -1,0 +1,32 @@
+{
+  "slaPolicies": [
+    {
+      "id": "sla-standard",
+      "name": "Standard",
+      "firstResponseMinutes": 480,
+      "resolutionMinutes": 2880,
+      "businessHoursOnly": true
+    },
+    {
+      "id": "sla-priority",
+      "name": "Priority",
+      "firstResponseMinutes": 60,
+      "resolutionMinutes": 1440,
+      "businessHoursOnly": true
+    },
+    {
+      "id": "sla-enterprise",
+      "name": "Enterprise",
+      "firstResponseMinutes": 30,
+      "resolutionMinutes": 480,
+      "businessHoursOnly": false
+    },
+    {
+      "id": "sla-urgent",
+      "name": "Urgent outage",
+      "firstResponseMinutes": 15,
+      "resolutionMinutes": 240,
+      "businessHoursOnly": false
+    }
+  ]
+}

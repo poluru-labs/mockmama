@@ -1,0 +1,39 @@
+{
+  "queues": [
+    {
+      "id": "queue-general",
+      "name": "General inbox",
+      "team": "General",
+      "openCount": 3,
+      "assignedAgentIds": ["agent-003"]
+    },
+    {
+      "id": "queue-billing",
+      "name": "Billing",
+      "team": "Billing",
+      "openCount": 2,
+      "assignedAgentIds": ["agent-001", "agent-006"]
+    },
+    {
+      "id": "queue-technical",
+      "name": "Technical",
+      "team": "Technical",
+      "openCount": 5,
+      "assignedAgentIds": ["agent-002", "agent-004"]
+    },
+    {
+      "id": "queue-enterprise",
+      "name": "Enterprise priority",
+      "team": "Enterprise",
+      "openCount": 2,
+      "assignedAgentIds": ["agent-005"]
+    },
+    {
+      "id": "queue-unassigned",
+      "name": "Unassigned",
+      "team": null,
+      "openCount": 3,
+      "assignedAgentIds": []
+    }
+  ]
+}

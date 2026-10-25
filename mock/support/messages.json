@@ -1,0 +1,194 @@
+{
+  "messages": [
+    {
+      "id": "message-001",
+      "ticketId": "ticket-001",
+      "agentId": null,
+      "customerId": "customer-001",
+      "senderType": "customer",
+      "body": "Hi — I need a PDF copy of invoice #INV-20491 for our accountant.",
+      "createdAt": "2026-09-20T09:00:00Z",
+      "internal": false
+    },
+    {
+      "id": "message-002",
+      "ticketId": "ticket-001",
+      "agentId": "agent-001",
+      "customerId": null,
+      "senderType": "agent",
+      "body": "Your invoice is available in Billing > Invoices. I have also attached a PDF to this reply.",
+      "createdAt": "2026-09-20T10:00:00Z",
+      "internal": false
+    },
+    {
+      "id": "message-003",
+      "ticketId": "ticket-002",
+      "agentId": null,
+      "customerId": "customer-002",
+      "senderType": "customer",
+      "body": "CSV export of our dashboard always stops at 50%. Dataset is about 120k rows.",
+      "createdAt": "2026-09-21T11:00:00Z",
+      "internal": false
+    },
+    {
+      "id": "message-004",
+      "ticketId": "ticket-002",
+      "agentId": "agent-002",
+      "customerId": null,
+      "senderType": "agent",
+      "body": "We are investigating the export issue. Can you share the export job ID from Settings > Activity?",
+      "createdAt": "2026-09-21T12:00:00Z",
+      "internal": false
+    },
+    {
+      "id": "message-005",
+      "ticketId": "ticket-002",
+      "agentId": null,
+      "customerId": "customer-002",
+      "senderType": "customer",
+      "body": "Job ID is exp_8f2a91c. It failed twice with the same behavior.",
+      "createdAt": "2026-09-22T09:30:00Z",
+      "internal": false
+    },
+    {
+      "id": "message-006",
+      "ticketId": "ticket-002",
+      "agentId": "agent-002",
+      "customerId": null,
+      "senderType": "agent",
+      "body": "Engineering identified a timeout on large date ranges. Workaround: split export by month until patch ships.",
+      "createdAt": "2026-09-22T15:30:00Z",
+      "internal": false
+    },
+    {
+      "id": "message-007",
+      "ticketId": "ticket-002",
+      "agentId": "agent-002",
+      "customerId": null,
+      "senderType": "agent",
+      "body": "Linked JIRA SUP-4421. ETA for fix: Oct 1.",
+      "createdAt": "2026-09-22T15:31:00Z",
+      "internal": true
+    },
+    {
+      "id": "message-008",
+      "ticketId": "ticket-003",
+      "agentId": null,
+      "customerId": "customer-003",
+      "senderType": "customer",
+      "body": "Where can I find the team invitation settings?",
+      "createdAt": "2026-09-22T08:00:00Z",
+      "internal": false
+    },
+    {
+      "id": "message-009",
+      "ticketId": "ticket-004",
+      "agentId": null,
+      "customerId": "customer-004",
+      "senderType": "customer",
+      "body": "We are rotating Okta SAML certificates next week. Please confirm the metadata URL and signing cert format you need.",
+      "createdAt": "2026-09-23T14:20:00Z",
+      "internal": false
+    },
+    {
+      "id": "message-010",
+      "ticketId": "ticket-004",
+      "agentId": "agent-005",
+      "customerId": null,
+      "senderType": "agent",
+      "body": "Use the metadata at https://app.example.com/sso/metadata and upload the new x509 cert in Admin > Security > SSO.",
+      "createdAt": "2026-09-23T14:35:00Z",
+      "internal": false
+    },
+    {
+      "id": "message-011",
+      "ticketId": "ticket-004",
+      "agentId": "agent-005",
+      "customerId": null,
+      "senderType": "agent",
+      "body": "Waiting on customer to confirm maintenance window for cutover.",
+      "createdAt": "2026-09-24T09:10:00Z",
+      "internal": true
+    },
+    {
+      "id": "message-012",
+      "ticketId": "ticket-005",
+      "agentId": null,
+      "customerId": "customer-005",
+      "senderType": "customer",
+      "body": "All webhook POSTs to our endpoint return 403 since yesterday 04:00 UTC.",
+      "createdAt": "2026-09-24T06:45:00Z",
+      "internal": false
+    },
+    {
+      "id": "message-013",
+      "ticketId": "ticket-005",
+      "agentId": "agent-004",
+      "customerId": null,
+      "senderType": "agent",
+      "body": "Your signing secret was rotated. Update the X-Signature header validation to use whsec_new_9k2…",
+      "createdAt": "2026-09-24T11:00:00Z",
+      "internal": false
+    },
+    {
+      "id": "message-014",
+      "ticketId": "ticket-006",
+      "agentId": "agent-006",
+      "customerId": null,
+      "senderType": "agent",
+      "body": "Prorated charge of $24.50 applied. Business features are active immediately.",
+      "createdAt": "2026-09-25T13:40:00Z",
+      "internal": false
+    },
+    {
+      "id": "message-015",
+      "ticketId": "ticket-007",
+      "agentId": null,
+      "customerId": "customer-007",
+      "senderType": "customer",
+      "body": "Bulk import of 2M records completed but search results are 6+ hours behind.",
+      "createdAt": "2026-09-26T16:00:00Z",
+      "internal": false
+    },
+    {
+      "id": "message-016",
+      "ticketId": "ticket-007",
+      "agentId": "agent-002",
+      "customerId": null,
+      "senderType": "agent",
+      "body": "We escalated to infra. Reindex queue depth is being cleared — monitoring every 15 minutes.",
+      "createdAt": "2026-09-26T18:20:00Z",
+      "internal": false
+    },
+    {
+      "id": "message-017",
+      "ticketId": "ticket-008",
+      "agentId": null,
+      "customerId": "customer-008",
+      "senderType": "customer",
+      "body": "Verification email never arrives. Checked spam and tried twice.",
+      "createdAt": "2026-10-20T10:30:00Z",
+      "internal": false
+    },
+    {
+      "id": "message-018",
+      "ticketId": "ticket-011",
+      "agentId": "agent-004",
+      "customerId": null,
+      "senderType": "agent",
+      "body": "Old key revoked. New key is visible under Developers > API keys. Rotate any CI secrets.",
+      "createdAt": "2026-10-18T22:32:00Z",
+      "internal": false
+    },
+    {
+      "id": "message-019",
+      "ticketId": "ticket-012",
+      "agentId": null,
+      "customerId": "customer-006",
+      "senderType": "customer",
+      "body": "Would love a dark theme on iOS — any timeline?",
+      "createdAt": "2026-10-22T19:00:00Z",
+      "internal": false
+    }
+  ]
+}

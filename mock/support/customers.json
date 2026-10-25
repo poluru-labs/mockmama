@@ -1,0 +1,76 @@
+{
+  "customers": [
+    {
+      "id": "customer-001",
+      "name": "Morgan Ellis",
+      "email": "morgan.ellis@example.com",
+      "company": "Ellis Design Co.",
+      "plan": "pro",
+      "createdAt": "2025-11-02T14:00:00Z",
+      "lifetimeTickets": 6
+    },
+    {
+      "id": "customer-002",
+      "name": "Riley Chen",
+      "email": "riley.chen@example.com",
+      "company": "Chen Analytics",
+      "plan": "business",
+      "createdAt": "2025-08-19T09:30:00Z",
+      "lifetimeTickets": 14
+    },
+    {
+      "id": "customer-003",
+      "name": "Jamie Cruz",
+      "email": "jamie.cruz@example.com",
+      "company": null,
+      "plan": "starter",
+      "createdAt": "2026-09-01T16:45:00Z",
+      "lifetimeTickets": 2
+    },
+    {
+      "id": "customer-004",
+      "name": "Alex Kim",
+      "email": "alex.kim@northline.io",
+      "company": "Northline",
+      "plan": "enterprise",
+      "createdAt": "2024-03-10T11:00:00Z",
+      "lifetimeTickets": 41
+    },
+    {
+      "id": "customer-005",
+      "name": "Taylor Brooks",
+      "email": "taylor@parcelapp.com",
+      "company": "Parcel",
+      "plan": "business",
+      "createdAt": "2026-01-22T08:00:00Z",
+      "lifetimeTickets": 9
+    },
+    {
+      "id": "customer-006",
+      "name": "Devon Walsh",
+      "email": "devon.walsh@example.com",
+      "company": "Freelance",
+      "plan": "pro",
+      "createdAt": "2026-06-14T12:20:00Z",
+      "lifetimeTickets": 4
+    },
+    {
+      "id": "customer-007",
+      "name": "Elena Morris",
+      "email": "elena@harborlabs.com",
+      "company": "Harbor Labs",
+      "plan": "enterprise",
+      "createdAt": "2023-09-05T10:00:00Z",
+      "lifetimeTickets": 28
+    },
+    {
+      "id": "customer-008",
+      "name": "Chris Park",
+      "email": "chris.park@example.com",
+      "company": null,
+      "plan": "starter",
+      "createdAt": "2026-10-18T07:15:00Z",
+      "lifetimeTickets": 1
+    }
+  ]
+}

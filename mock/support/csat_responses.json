@@ -1,0 +1,44 @@
+{
+  "csatResponses": [
+    {
+      "id": "csat-001",
+      "ticketId": "ticket-001",
+      "customerId": "customer-001",
+      "rating": 5,
+      "comment": "Quick and clear — got the PDF I needed.",
+      "submittedAt": "2026-09-20T11:00:00Z"
+    },
+    {
+      "id": "csat-002",
+      "ticketId": "ticket-006",
+      "customerId": "customer-006",
+      "rating": 4,
+      "comment": "Upgrade was smooth. Would like clearer proration breakdown upfront.",
+      "submittedAt": "2026-09-25T14:00:00Z"
+    },
+    {
+      "id": "csat-003",
+      "ticketId": "ticket-009",
+      "customerId": "customer-002",
+      "rating": 5,
+      "comment": null,
+      "submittedAt": "2026-10-05T12:00:00Z"
+    },
+    {
+      "id": "csat-004",
+      "ticketId": "ticket-011",
+      "customerId": "customer-005",
+      "rating": 5,
+      "comment": "Saved us after a scary key leak. Thank you.",
+      "submittedAt": "2026-10-19T08:00:00Z"
+    },
+    {
+      "id": "csat-005",
+      "ticketId": "ticket-002",
+      "customerId": "customer-002",
+      "rating": 3,
+      "comment": "Workaround helps but still waiting on the real fix.",
+      "submittedAt": "2026-09-23T10:00:00Z"
+    }
+  ]
+}
