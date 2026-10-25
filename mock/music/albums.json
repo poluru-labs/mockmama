@@ -90,6 +90,19 @@
       "label": "North Line Audio",
       "coverImage": "https://picsum.photos/seed/album-007/800/800",
       "status": "draft"
+    },
+    {
+      "id": "album-008",
+      "artistId": "artist-007",
+      "title": "Satellite Hearts",
+      "slug": "satellite-hearts",
+      "type": "album",
+      "releasedAt": "2026-09-30",
+      "trackCount": 3,
+      "durationSeconds": 678,
+      "label": "Southern Lights",
+      "coverImage": "https://picsum.photos/seed/album-008/800/800",
+      "status": "published"
     }
   ]
 }

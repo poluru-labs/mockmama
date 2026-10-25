@@ -71,6 +71,18 @@
       "avatarImage": "https://picsum.photos/seed/artist-006/400/400",
       "headerImage": "https://picsum.photos/seed/artist-006-header/1600/400",
       "status": "removed"
+    },
+    {
+      "id": "artist-007",
+      "name": "Nova Bloom",
+      "slug": "nova-bloom",
+      "genres": ["pop", "electronic"],
+      "countryCode": "AU",
+      "monthlyListeners": 567000,
+      "verified": true,
+      "avatarImage": "https://picsum.photos/seed/artist-007/400/400",
+      "headerImage": "https://picsum.photos/seed/artist-007-header/1600/400",
+      "status": "active"
     }
   ]
 }

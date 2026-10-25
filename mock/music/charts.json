@@ -5,14 +5,14 @@
       "name": "Top tracks — US",
       "countryCode": "US",
       "updatedAt": "2026-10-25T06:00:00Z",
-      "trackIds": ["track-011", "track-008", "track-002", "track-001", "track-012"]
+      "trackIds": ["track-011", "track-008", "track-002", "track-018", "track-001", "track-012"]
     },
     {
       "id": "chart-002",
       "name": "New releases",
       "countryCode": null,
       "updatedAt": "2026-10-25T06:00:00Z",
-      "trackIds": ["track-012", "track-011", "track-006", "track-007"]
+      "trackIds": ["track-018", "track-012", "track-011", "track-006", "track-007", "track-019"]
     },
     {
       "id": "chart-003",

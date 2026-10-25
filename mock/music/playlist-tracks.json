@@ -95,6 +95,22 @@
       "addedById": "system",
       "position": 3,
       "addedAt": "2026-10-25T06:00:00Z"
+    },
+    {
+      "id": "pt-013",
+      "playlistId": "playlist-001",
+      "trackId": "track-018",
+      "addedById": "listener-001",
+      "position": 5,
+      "addedAt": "2026-10-22T09:00:00Z"
+    },
+    {
+      "id": "pt-014",
+      "playlistId": "playlist-005",
+      "trackId": "track-018",
+      "addedById": "system",
+      "position": 4,
+      "addedAt": "2026-10-25T06:00:00Z"
     }
   ]
 }

@@ -29,6 +29,18 @@
       "userId": "listener-003",
       "artistId": "artist-003",
       "followedAt": "2025-11-22T09:00:00Z"
+    },
+    {
+      "id": "follow-006",
+      "userId": "listener-005",
+      "artistId": "artist-007",
+      "followedAt": "2026-10-01T08:00:00Z"
+    },
+    {
+      "id": "follow-007",
+      "userId": "listener-001",
+      "artistId": "artist-007",
+      "followedAt": "2026-10-02T12:00:00Z"
     }
   ]
 }

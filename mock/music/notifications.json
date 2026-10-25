@@ -39,6 +39,27 @@
       "body": "Playback limited to previews until billing is updated.",
       "read": false,
       "createdAt": "2026-10-10T09:00:00Z"
+    },
+    {
+      "id": "music-notif-005",
+      "userId": "listener-005",
+      "type": "new_release",
+      "artistId": "artist-007",
+      "albumId": "album-008",
+      "title": "Nova Bloom dropped Satellite Hearts",
+      "body": "3 tracks. Start with the title single.",
+      "read": false,
+      "createdAt": "2026-09-30T12:00:00Z"
+    },
+    {
+      "id": "music-notif-006",
+      "userId": "listener-001",
+      "type": "podcast",
+      "podcastId": "podcast-001",
+      "title": "New episode: Empty states without shame",
+      "body": "Design Systems Daily · 5 min",
+      "read": true,
+      "createdAt": "2026-10-20T12:30:00Z"
     }
   ]
 }

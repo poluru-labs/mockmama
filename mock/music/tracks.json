@@ -201,12 +201,77 @@
       "artistId": "artist-002",
       "title": "Neon Crossing (Live)",
       "trackNumber": 1,
-      "discNumber": 1,
+      "discNumber": 2,
       "durationSeconds": 272,
       "explicit": false,
       "popularity": 12,
       "audioUrl": null,
       "status": "region_locked"
+    },
+    {
+      "id": "track-017",
+      "albumId": "album-002",
+      "artistId": "artist-002",
+      "title": "City After Dark",
+      "trackNumber": 4,
+      "discNumber": 1,
+      "durationSeconds": 272,
+      "explicit": false,
+      "popularity": 74,
+      "audioUrl": null,
+      "status": "available"
+    },
+    {
+      "id": "track-018",
+      "albumId": "album-008",
+      "artistId": "artist-007",
+      "title": "Satellite Hearts",
+      "trackNumber": 1,
+      "discNumber": 1,
+      "durationSeconds": 218,
+      "explicit": false,
+      "popularity": 68,
+      "audioUrl": null,
+      "status": "available"
+    },
+    {
+      "id": "track-019",
+      "albumId": "album-008",
+      "artistId": "artist-007",
+      "title": "Orbit",
+      "trackNumber": 2,
+      "discNumber": 1,
+      "durationSeconds": 231,
+      "explicit": false,
+      "popularity": 61,
+      "audioUrl": null,
+      "status": "available"
+    },
+    {
+      "id": "track-020",
+      "albumId": "album-008",
+      "artistId": "artist-007",
+      "title": "Landing Lights",
+      "trackNumber": 3,
+      "discNumber": 1,
+      "durationSeconds": 229,
+      "explicit": false,
+      "popularity": 55,
+      "audioUrl": null,
+      "status": "available"
+    },
+    {
+      "id": "track-021",
+      "albumId": "album-001",
+      "artistId": "artist-001",
+      "title": "Front Porch Light (Demo)",
+      "trackNumber": 5,
+      "discNumber": 1,
+      "durationSeconds": 186,
+      "explicit": false,
+      "popularity": 8,
+      "audioUrl": null,
+      "status": "unavailable"
     }
   ]
 }

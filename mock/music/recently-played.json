@@ -39,6 +39,22 @@
       "playedAt": "2026-10-23T07:15:00Z",
       "contextType": "album",
       "contextId": "album-003"
+    },
+    {
+      "id": "play-006",
+      "userId": "listener-005",
+      "trackId": "track-018",
+      "playedAt": "2026-10-25T08:00:00Z",
+      "contextType": "album",
+      "contextId": "album-008"
+    },
+    {
+      "id": "play-007",
+      "userId": "listener-001",
+      "trackId": "track-017",
+      "playedAt": "2026-10-24T07:00:00Z",
+      "contextType": "radio",
+      "contextId": "radio-002"
     }
   ]
 }
