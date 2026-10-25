@@ -1,0 +1,48 @@
+{
+  "cinemas": [
+    {
+      "id": "cinema-001",
+      "name": "Maple Cinema",
+      "slug": "maple-cinema",
+      "city": "Austin",
+      "state": "TX",
+      "address": "901 Red River St, Austin, TX 78701",
+      "timezone": "America/Chicago",
+      "amenities": ["recliners", "dolby-atmos"],
+      "status": "open"
+    },
+    {
+      "id": "cinema-002",
+      "name": "Cedar Cinema",
+      "slug": "cedar-cinema",
+      "city": "Austin",
+      "state": "TX",
+      "address": "410 Cesar Chavez St, Austin, TX 78701",
+      "timezone": "America/Chicago",
+      "amenities": ["matinee-discount"],
+      "status": "open"
+    },
+    {
+      "id": "cinema-003",
+      "name": "Harbor Picture House",
+      "slug": "harbor-picture-house",
+      "city": "Seattle",
+      "state": "WA",
+      "address": "88 Bell St, Seattle, WA 98121",
+      "timezone": "America/Los_Angeles",
+      "amenities": ["imax", "bar"],
+      "status": "open"
+    },
+    {
+      "id": "cinema-004",
+      "name": "Northside Retro",
+      "slug": "northside-retro",
+      "city": "Chicago",
+      "state": "IL",
+      "address": "2211 N Milwaukee Ave, Chicago, IL 60647",
+      "timezone": "America/Chicago",
+      "amenities": ["35mm"],
+      "status": "temporarily_closed"
+    }
+  ]
+}

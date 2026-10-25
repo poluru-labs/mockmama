@@ -1,0 +1,46 @@
+{
+  "cast": [
+    {
+      "id": "cast-001",
+      "movieId": "movie-001",
+      "personId": "person-001",
+      "characterName": "Mira",
+      "billingOrder": 1
+    },
+    {
+      "id": "cast-002",
+      "movieId": "movie-001",
+      "personId": "person-002",
+      "characterName": "Theo",
+      "billingOrder": 2
+    },
+    {
+      "id": "cast-003",
+      "movieId": "movie-002",
+      "personId": "person-004",
+      "characterName": "Passenger A",
+      "billingOrder": 1
+    },
+    {
+      "id": "cast-004",
+      "movieId": "movie-002",
+      "personId": "person-001",
+      "characterName": "Passenger B",
+      "billingOrder": 2
+    },
+    {
+      "id": "cast-005",
+      "movieId": "movie-003",
+      "personId": "person-006",
+      "characterName": "DJ Sam",
+      "billingOrder": 1
+    },
+    {
+      "id": "cast-006",
+      "movieId": "movie-003",
+      "personId": "person-002",
+      "characterName": "Mayor Cole",
+      "billingOrder": 2
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "watchlist": [
+    {
+      "id": "watch-001",
+      "userId": "viewer-001",
+      "movieId": "movie-004",
+      "addedAt": "2026-10-01T12:00:00Z"
+    },
+    {
+      "id": "watch-002",
+      "userId": "viewer-001",
+      "movieId": "movie-002",
+      "addedAt": "2026-09-05T08:00:00Z"
+    },
+    {
+      "id": "watch-003",
+      "userId": "viewer-002",
+      "movieId": "movie-001",
+      "addedAt": "2026-09-24T20:00:00Z"
+    },
+    {
+      "id": "watch-004",
+      "userId": "viewer-003",
+      "movieId": "movie-005",
+      "addedAt": "2026-07-12T16:00:00Z"
+    }
+  ]
+}

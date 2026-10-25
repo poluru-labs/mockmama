@@ -3,36 +3,104 @@
     {
       "id": "movie-001",
       "title": "Beyond the Lanterns",
+      "slug": "beyond-the-lanterns",
       "releaseYear": 2025,
-      "genres": [
-        "adventure",
-        "fantasy"
-      ],
+      "releaseDate": "2025-11-14",
+      "genres": ["adventure", "fantasy"],
       "runtimeMinutes": 112,
       "ageRating": "PG",
-      "synopsis": "Two friends follow a trail of lanterns to a hidden valley."
+      "synopsis": "Two friends follow a trail of lanterns to a hidden valley.",
+      "posterImage": "https://picsum.photos/seed/movie-001/600/900",
+      "backdropImage": "https://picsum.photos/seed/movie-001-backdrop/1600/900",
+      "directorId": "person-003",
+      "averageRating": 4.2,
+      "ratingCount": 1842,
+      "status": "now_playing"
     },
     {
       "id": "movie-002",
       "title": "The Last Platform",
+      "slug": "the-last-platform",
       "releaseYear": 2026,
-      "genres": [
-        "drama"
-      ],
+      "releaseDate": "2026-08-22",
+      "genres": ["drama"],
       "runtimeMinutes": 98,
       "ageRating": "PG-13",
-      "synopsis": "A night train brings three strangers together."
+      "synopsis": "A night train brings three strangers together.",
+      "posterImage": "https://picsum.photos/seed/movie-002/600/900",
+      "backdropImage": "https://picsum.photos/seed/movie-002-backdrop/1600/900",
+      "directorId": "person-003",
+      "averageRating": 4.6,
+      "ratingCount": 967,
+      "status": "now_playing"
     },
     {
       "id": "movie-003",
       "title": "Small Town Signals",
+      "slug": "small-town-signals",
       "releaseYear": 2024,
-      "genres": [
-        "comedy"
-      ],
+      "releaseDate": "2024-06-07",
+      "genres": ["comedy"],
       "runtimeMinutes": 105,
       "ageRating": "PG",
-      "synopsis": "A community radio station prepares for its biggest broadcast."
+      "synopsis": "A community radio station prepares for its biggest broadcast.",
+      "posterImage": "https://picsum.photos/seed/movie-003/600/900",
+      "backdropImage": "https://picsum.photos/seed/movie-003-backdrop/1600/900",
+      "directorId": "person-005",
+      "averageRating": 3.8,
+      "ratingCount": 512,
+      "status": "catalog"
+    },
+    {
+      "id": "movie-004",
+      "title": "Glass Meridian",
+      "slug": "glass-meridian",
+      "releaseYear": 2026,
+      "releaseDate": "2026-12-05",
+      "genres": ["sci-fi", "thriller"],
+      "runtimeMinutes": 124,
+      "ageRating": "PG-13",
+      "synopsis": "A survey crew finds a mirror city under the ice shelf.",
+      "posterImage": "https://picsum.photos/seed/movie-004/600/900",
+      "backdropImage": "https://picsum.photos/seed/movie-004-backdrop/1600/900",
+      "directorId": "person-003",
+      "averageRating": null,
+      "ratingCount": 0,
+      "status": "coming_soon"
+    },
+    {
+      "id": "movie-005",
+      "title": "Riverbed Choir",
+      "slug": "riverbed-choir",
+      "releaseYear": 2023,
+      "releaseDate": "2023-09-15",
+      "genres": ["documentary"],
+      "runtimeMinutes": 88,
+      "ageRating": "G",
+      "synopsis": "A choir rehearses on a dry riverbed after the rains return.",
+      "posterImage": "https://picsum.photos/seed/movie-005/600/900",
+      "backdropImage": "https://picsum.photos/seed/movie-005-backdrop/1600/900",
+      "directorId": "person-005",
+      "averageRating": 4.1,
+      "ratingCount": 89,
+      "status": "catalog"
+    },
+    {
+      "id": "movie-006",
+      "title": "Midnight Reel (Unreleased)",
+      "slug": "midnight-reel",
+      "releaseYear": null,
+      "releaseDate": null,
+      "genres": ["thriller"],
+      "runtimeMinutes": null,
+      "ageRating": "R",
+      "synopsis": "Internal screener only.",
+      "posterImage": "https://picsum.photos/seed/movie-006/600/900",
+      "backdropImage": null,
+      "directorId": "person-003",
+      "averageRating": null,
+      "ratingCount": 0,
+      "status": "unreleased"
     }
   ]
 }

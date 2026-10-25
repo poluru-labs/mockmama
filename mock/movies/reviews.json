@@ -3,29 +3,74 @@
     {
       "id": "review-001",
       "movieId": "movie-001",
+      "userId": "viewer-001",
       "displayName": "Morgan E.",
       "rating": 4,
       "maxRating": 5,
+      "title": "Lantern trail payoff",
       "body": "Wonderful scenery and an uplifting ending.",
-      "createdAt": "2026-09-18T18:00:00Z"
+      "createdAt": "2026-09-18T18:00:00Z",
+      "status": "published"
     },
     {
       "id": "review-002",
       "movieId": "movie-002",
+      "userId": "viewer-002",
       "displayName": "Riley C.",
       "rating": 5,
       "maxRating": 5,
+      "title": "Quiet and sharp",
       "body": "A quiet story with memorable performances.",
-      "createdAt": "2026-09-20T19:00:00Z"
+      "createdAt": "2026-09-20T19:00:00Z",
+      "status": "published"
     },
     {
       "id": "review-003",
       "movieId": "movie-003",
+      "userId": "viewer-003",
       "displayName": "Jamie C.",
       "rating": 3,
       "maxRating": 5,
+      "title": "Radio gags land",
       "body": "Charming characters and a few great laughs.",
-      "createdAt": "2026-09-21T20:00:00Z"
+      "createdAt": "2026-09-21T20:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-004",
+      "movieId": "movie-001",
+      "userId": "viewer-002",
+      "displayName": "Sam R.",
+      "rating": 5,
+      "maxRating": 5,
+      "title": "Took the kids",
+      "body": "PG rating felt accurate. No jump scares.",
+      "createdAt": "2026-10-10T14:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-005",
+      "movieId": "movie-005",
+      "userId": "viewer-001",
+      "displayName": "Alex M.",
+      "rating": 4,
+      "maxRating": 5,
+      "title": "Short and sweet",
+      "body": "Documentary runtime without filler.",
+      "createdAt": "2026-08-01T11:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-006",
+      "movieId": "movie-002",
+      "userId": "viewer-003",
+      "displayName": "Taylor K.",
+      "rating": 1,
+      "maxRating": 5,
+      "title": "Spoiler in trailer",
+      "body": "Hidden pending moderation.",
+      "createdAt": "2026-10-22T09:00:00Z",
+      "status": "hidden"
     }
   ]
 }

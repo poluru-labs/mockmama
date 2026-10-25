@@ -1,0 +1,44 @@
+{
+  "notifications": [
+    {
+      "id": "movie-notif-001",
+      "userId": "viewer-001",
+      "movieId": "movie-004",
+      "type": "coming_soon",
+      "title": "Glass Meridian opens Dec 5",
+      "body": "On your watchlist. Trailer available now.",
+      "read": false,
+      "createdAt": "2026-10-20T09:00:00Z"
+    },
+    {
+      "id": "movie-notif-002",
+      "userId": "viewer-001",
+      "showtimeId": "showtime-004",
+      "type": "showtime_reminder",
+      "title": "Beyond the Lanterns tonight",
+      "body": "Maple Cinema · Screen 1 · 7:00 PM",
+      "read": true,
+      "createdAt": "2026-10-25T12:00:00Z"
+    },
+    {
+      "id": "movie-notif-003",
+      "userId": "viewer-001",
+      "showtimeId": "showtime-006",
+      "type": "refund",
+      "title": "Show cancelled at Northside Retro",
+      "body": "Refund issued for confirmation MVCAN0.",
+      "read": true,
+      "createdAt": "2026-10-19T14:00:00Z"
+    },
+    {
+      "id": "movie-notif-004",
+      "userId": "viewer-002",
+      "showtimeId": "showtime-002",
+      "type": "waitlist",
+      "title": "Still waitlisted for The Last Platform",
+      "body": "Maple Cinema sold out. We will email if seats open.",
+      "read": false,
+      "createdAt": "2026-09-26T01:00:00Z"
+    }
+  ]
+}
