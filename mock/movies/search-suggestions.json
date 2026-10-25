@@ -1,0 +1,39 @@
+{
+  "searchSuggestions": [
+    {
+      "id": "suggest-001",
+      "query": "lantern",
+      "type": "movie",
+      "refId": "movie-001",
+      "rank": 1
+    },
+    {
+      "id": "suggest-002",
+      "query": "platform",
+      "type": "movie",
+      "refId": "movie-002",
+      "rank": 1
+    },
+    {
+      "id": "suggest-003",
+      "query": "maple",
+      "type": "cinema",
+      "refId": "cinema-001",
+      "rank": 1
+    },
+    {
+      "id": "suggest-004",
+      "query": "elena",
+      "type": "person",
+      "refId": "person-001",
+      "rank": 1
+    },
+    {
+      "id": "suggest-005",
+      "query": "comedy",
+      "type": "genre",
+      "refId": "genre-comedy",
+      "rank": 1
+    }
+  ]
+}

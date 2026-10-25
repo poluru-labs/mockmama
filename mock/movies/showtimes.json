@@ -3,32 +3,92 @@
     {
       "id": "showtime-001",
       "movieId": "movie-001",
+      "cinemaId": "cinema-001",
       "cinema": "Maple Cinema",
       "auditorium": "Screen 1",
+      "format": "standard",
       "startsAt": "2026-09-25T23:00:00Z",
+      "endsAt": "2026-09-26T00:52:00Z",
       "ticketPrice": 14,
       "currency": "USD",
-      "availableSeats": 32
+      "totalSeats": 120,
+      "availableSeats": 32,
+      "status": "scheduled"
     },
     {
       "id": "showtime-002",
       "movieId": "movie-002",
+      "cinemaId": "cinema-001",
       "cinema": "Maple Cinema",
       "auditorium": "Screen 2",
+      "format": "dolby-atmos",
       "startsAt": "2026-09-26T00:00:00Z",
+      "endsAt": "2026-09-26T01:38:00Z",
       "ticketPrice": 16,
       "currency": "USD",
-      "availableSeats": 0
+      "totalSeats": 80,
+      "availableSeats": 0,
+      "status": "sold_out"
     },
     {
       "id": "showtime-003",
       "movieId": "movie-003",
+      "cinemaId": "cinema-002",
       "cinema": "Cedar Cinema",
       "auditorium": "Screen 3",
+      "format": "matinee",
       "startsAt": "2026-09-26T20:00:00Z",
+      "endsAt": "2026-09-26T21:45:00Z",
       "ticketPrice": 10,
       "currency": "USD",
-      "availableSeats": 56
+      "totalSeats": 96,
+      "availableSeats": 56,
+      "status": "scheduled"
+    },
+    {
+      "id": "showtime-004",
+      "movieId": "movie-001",
+      "cinemaId": "cinema-001",
+      "cinema": "Maple Cinema",
+      "auditorium": "Screen 1",
+      "format": "standard",
+      "startsAt": "2026-10-25T19:00:00Z",
+      "endsAt": "2026-10-25T20:52:00Z",
+      "ticketPrice": 14,
+      "currency": "USD",
+      "totalSeats": 120,
+      "availableSeats": 88,
+      "status": "scheduled"
+    },
+    {
+      "id": "showtime-005",
+      "movieId": "movie-002",
+      "cinemaId": "cinema-003",
+      "cinema": "Harbor Picture House",
+      "auditorium": "IMAX 1",
+      "format": "imax",
+      "startsAt": "2026-10-26T02:00:00Z",
+      "endsAt": "2026-10-26T03:38:00Z",
+      "ticketPrice": 22,
+      "currency": "USD",
+      "totalSeats": 200,
+      "availableSeats": 145,
+      "status": "scheduled"
+    },
+    {
+      "id": "showtime-006",
+      "movieId": "movie-001",
+      "cinemaId": "cinema-004",
+      "cinema": "Northside Retro",
+      "auditorium": "Main",
+      "format": "35mm",
+      "startsAt": "2026-10-20T00:00:00Z",
+      "endsAt": "2026-10-20T01:52:00Z",
+      "ticketPrice": 12,
+      "currency": "USD",
+      "totalSeats": 60,
+      "availableSeats": 60,
+      "status": "cancelled"
     }
   ]
 }

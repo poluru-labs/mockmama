@@ -1,0 +1,40 @@
+{
+  "people": [
+    {
+      "id": "person-001",
+      "name": "Elena Voss",
+      "role": "actor",
+      "avatar": "https://picsum.photos/seed/person-001/200/200"
+    },
+    {
+      "id": "person-002",
+      "name": "Marcus Hale",
+      "role": "actor",
+      "avatar": "https://picsum.photos/seed/person-002/200/200"
+    },
+    {
+      "id": "person-003",
+      "name": "Priya Nair",
+      "role": "director",
+      "avatar": "https://picsum.photos/seed/person-003/200/200"
+    },
+    {
+      "id": "person-004",
+      "name": "Jonah Reed",
+      "role": "actor",
+      "avatar": "https://picsum.photos/seed/person-004/200/200"
+    },
+    {
+      "id": "person-005",
+      "name": "Mina Park",
+      "role": "writer",
+      "avatar": "https://picsum.photos/seed/person-005/200/200"
+    },
+    {
+      "id": "person-006",
+      "name": "Chris Nguyen",
+      "role": "actor",
+      "avatar": "https://picsum.photos/seed/person-006/200/200"
+    }
+  ]
+}

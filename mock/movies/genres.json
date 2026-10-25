@@ -1,0 +1,11 @@
+{
+  "genres": [
+    { "id": "genre-adventure", "name": "Adventure", "slug": "adventure" },
+    { "id": "genre-fantasy", "name": "Fantasy", "slug": "fantasy" },
+    { "id": "genre-drama", "name": "Drama", "slug": "drama" },
+    { "id": "genre-comedy", "name": "Comedy", "slug": "comedy" },
+    { "id": "genre-thriller", "name": "Thriller", "slug": "thriller" },
+    { "id": "genre-documentary", "name": "Documentary", "slug": "documentary" },
+    { "id": "genre-scifi", "name": "Sci-fi", "slug": "sci-fi" }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "collections": [
+    {
+      "id": "collection-001",
+      "title": "Now playing",
+      "slug": "now-playing",
+      "description": "Currently in theaters.",
+      "movieIds": ["movie-001", "movie-002"],
+      "sortOrder": 1
+    },
+    {
+      "id": "collection-002",
+      "title": "Coming soon",
+      "slug": "coming-soon",
+      "description": "Upcoming wide releases.",
+      "movieIds": ["movie-004"],
+      "sortOrder": 2
+    },
+    {
+      "id": "collection-003",
+      "title": "Feel-good comedy",
+      "slug": "feel-good-comedy",
+      "description": "Catalog picks under two hours.",
+      "movieIds": ["movie-003", "movie-005"],
+      "sortOrder": 3
+    },
+    {
+      "id": "collection-004",
+      "title": "Staff picks — Austin",
+      "slug": "staff-picks-austin",
+      "description": "Maple and Cedar favorites.",
+      "movieIds": ["movie-001", "movie-003", "movie-002"],
+      "sortOrder": 4
+    }
+  ]
+}

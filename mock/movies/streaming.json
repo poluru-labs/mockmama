@@ -1,0 +1,31 @@
+{
+  "streaming": [
+    {
+      "id": "stream-001",
+      "movieId": "movie-003",
+      "userId": "viewer-001",
+      "positionSeconds": 3420,
+      "durationSeconds": 6300,
+      "completed": false,
+      "updatedAt": "2026-10-24T21:30:00Z"
+    },
+    {
+      "id": "stream-002",
+      "movieId": "movie-005",
+      "userId": "viewer-003",
+      "positionSeconds": 5280,
+      "durationSeconds": 5280,
+      "completed": true,
+      "updatedAt": "2026-10-20T22:00:00Z"
+    },
+    {
+      "id": "stream-003",
+      "movieId": "movie-001",
+      "userId": "viewer-002",
+      "positionSeconds": 0,
+      "durationSeconds": 6720,
+      "completed": false,
+      "updatedAt": "2026-10-25T10:00:00Z"
+    }
+  ]
+}

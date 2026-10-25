@@ -1,0 +1,69 @@
+{
+  "tickets": [
+    {
+      "id": "ticket-001",
+      "showtimeId": "showtime-001",
+      "userId": "viewer-001",
+      "confirmationCode": "MV7K2P",
+      "seatRow": "F",
+      "seatNumber": 12,
+      "quantity": 2,
+      "total": 28,
+      "currency": "USD",
+      "status": "confirmed",
+      "purchasedAt": "2026-09-24T15:00:00Z"
+    },
+    {
+      "id": "ticket-002",
+      "showtimeId": "showtime-002",
+      "userId": "viewer-002",
+      "confirmationCode": "MV9X1Q",
+      "seatRow": "C",
+      "seatNumber": 8,
+      "quantity": 1,
+      "total": 16,
+      "currency": "USD",
+      "status": "waitlisted",
+      "purchasedAt": "2026-09-25T18:00:00Z"
+    },
+    {
+      "id": "ticket-003",
+      "showtimeId": "showtime-003",
+      "userId": "viewer-003",
+      "confirmationCode": "MV3L8R",
+      "seatRow": "H",
+      "seatNumber": 4,
+      "quantity": 1,
+      "total": 10,
+      "currency": "USD",
+      "status": "confirmed",
+      "purchasedAt": "2026-09-26T12:00:00Z"
+    },
+    {
+      "id": "ticket-004",
+      "showtimeId": "showtime-006",
+      "userId": "viewer-001",
+      "confirmationCode": "MVCAN0",
+      "seatRow": "A",
+      "seatNumber": 1,
+      "quantity": 2,
+      "total": 24,
+      "currency": "USD",
+      "status": "refunded",
+      "purchasedAt": "2026-10-18T10:00:00Z"
+    },
+    {
+      "id": "ticket-005",
+      "showtimeId": "showtime-005",
+      "userId": "viewer-002",
+      "confirmationCode": "MVIMX5",
+      "seatRow": "M",
+      "seatNumber": 22,
+      "quantity": 2,
+      "total": 44,
+      "currency": "USD",
+      "status": "confirmed",
+      "purchasedAt": "2026-10-24T19:30:00Z"
+    }
+  ]
+}

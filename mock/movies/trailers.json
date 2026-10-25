@@ -1,0 +1,44 @@
+{
+  "trailers": [
+    {
+      "id": "trailer-001",
+      "movieId": "movie-001",
+      "title": "Official trailer",
+      "durationSeconds": 152,
+      "videoUrl": "https://example.com/trailers/movie-001.mp4",
+      "thumbnailUrl": "https://picsum.photos/seed/trailer-001/1280/720",
+      "language": "en",
+      "status": "published"
+    },
+    {
+      "id": "trailer-002",
+      "movieId": "movie-002",
+      "title": "Teaser",
+      "durationSeconds": 62,
+      "videoUrl": "https://example.com/trailers/movie-002-teaser.mp4",
+      "thumbnailUrl": "https://picsum.photos/seed/trailer-002/1280/720",
+      "language": "en",
+      "status": "published"
+    },
+    {
+      "id": "trailer-003",
+      "movieId": "movie-004",
+      "title": "First look",
+      "durationSeconds": 90,
+      "videoUrl": "https://example.com/trailers/movie-004-look.mp4",
+      "thumbnailUrl": "https://picsum.photos/seed/trailer-003/1280/720",
+      "language": "en",
+      "status": "published"
+    },
+    {
+      "id": "trailer-004",
+      "movieId": "movie-006",
+      "title": "Internal screener",
+      "durationSeconds": 45,
+      "videoUrl": null,
+      "thumbnailUrl": null,
+      "language": "en",
+      "status": "restricted"
+    }
+  ]
+}
