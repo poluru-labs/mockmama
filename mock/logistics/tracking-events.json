@@ -1,10 +1,11 @@
 {
-  "tracking-events": [
+  "trackingEvents": [
     {
       "id": "tracking-event-001",
       "shipmentId": "shipment-001",
       "status": "in_transit",
       "city": "Dallas",
+      "state": "TX",
       "occurredAt": "2026-09-22T08:00:00Z",
       "description": "Departed origin facility."
     },
@@ -13,6 +14,7 @@
       "shipmentId": "shipment-002",
       "status": "delivered",
       "city": "San Diego",
+      "state": "CA",
       "occurredAt": "2026-09-21T18:30:00Z",
       "description": "Delivered to reception."
     },
@@ -21,8 +23,63 @@
       "shipmentId": "shipment-003",
       "status": "label_created",
       "city": "Atlanta",
+      "state": "GA",
       "occurredAt": "2026-09-22T10:00:00Z",
       "description": "Shipping label created; awaiting pickup."
+    },
+    {
+      "id": "tracking-event-004",
+      "shipmentId": "shipment-001",
+      "status": "in_transit",
+      "city": "Waco",
+      "state": "TX",
+      "occurredAt": "2026-09-22T14:30:00Z",
+      "description": "Arrived at regional hub."
+    },
+    {
+      "id": "tracking-event-005",
+      "shipmentId": "shipment-001",
+      "status": "out_for_delivery",
+      "city": "Austin",
+      "state": "TX",
+      "occurredAt": "2026-09-23T12:00:00Z",
+      "description": "Out for delivery."
+    },
+    {
+      "id": "tracking-event-006",
+      "shipmentId": "shipment-004",
+      "status": "in_transit",
+      "city": "Albuquerque",
+      "state": "NM",
+      "occurredAt": "2026-10-24T06:00:00Z",
+      "description": "Departed Phoenix hub."
+    },
+    {
+      "id": "tracking-event-007",
+      "shipmentId": "shipment-004",
+      "status": "out_for_delivery",
+      "city": "Seattle",
+      "state": "WA",
+      "occurredAt": "2026-10-26T08:15:00Z",
+      "description": "On delivery vehicle."
+    },
+    {
+      "id": "tracking-event-008",
+      "shipmentId": "shipment-005",
+      "status": "exception",
+      "city": "Austin",
+      "state": "TX",
+      "occurredAt": "2026-10-24T16:00:00Z",
+      "description": "Delivery attempted. Access code required."
+    },
+    {
+      "id": "tracking-event-009",
+      "shipmentId": "shipment-002",
+      "status": "in_transit",
+      "city": "Phoenix",
+      "state": "AZ",
+      "occurredAt": "2026-09-19T10:00:00Z",
+      "description": "Picked up from warehouse."
     }
   ]
 }

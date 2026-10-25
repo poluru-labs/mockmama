@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "id": "package-001",
+      "shipmentId": "shipment-001",
+      "sku": "SKU-BOX-M",
+      "description": "Apparel box M",
+      "weightKg": 2.4,
+      "lengthCm": 40,
+      "widthCm": 30,
+      "heightCm": 12,
+      "status": "in_transit"
+    },
+    {
+      "id": "package-002",
+      "shipmentId": "shipment-002",
+      "sku": "SKU-BOX-L",
+      "description": "Electronics carton",
+      "weightKg": 3.2,
+      "lengthCm": 50,
+      "widthCm": 40,
+      "heightCm": 30,
+      "status": "delivered"
+    },
+    {
+      "id": "package-003",
+      "shipmentId": "shipment-002",
+      "sku": "SKU-BOX-S",
+      "description": "Accessory mailer",
+      "weightKg": 1.9,
+      "lengthCm": 25,
+      "widthCm": 20,
+      "heightCm": 10,
+      "status": "delivered"
+    },
+    {
+      "id": "package-004",
+      "shipmentId": "shipment-003",
+      "sku": "SKU-ENVELOPE",
+      "description": "Documents",
+      "weightKg": 1.2,
+      "lengthCm": 35,
+      "widthCm": 25,
+      "heightCm": 3,
+      "status": "label_created"
+    },
+    {
+      "id": "package-005",
+      "shipmentId": "shipment-004",
+      "sku": "SKU-PALLET",
+      "description": "Pallet — mixed SKUs",
+      "weightKg": 18.6,
+      "lengthCm": 120,
+      "widthCm": 100,
+      "heightCm": 150,
+      "status": "out_for_delivery"
+    },
+    {
+      "id": "package-006",
+      "shipmentId": "shipment-005",
+      "sku": "SKU-BOX-S",
+      "description": "Replacement part",
+      "weightKg": 0.8,
+      "lengthCm": 20,
+      "widthCm": 15,
+      "heightCm": 8,
+      "status": "exception"
+    }
+  ]
+}

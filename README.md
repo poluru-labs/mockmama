@@ -25,6 +25,7 @@ Everything lives under `mock/`.
 | [`mock/tasks/`](mock/tasks/) | Workspaces, projects, tasks, sprints, boards, comments |
 | [`mock/music/`](mock/music/) | Artists, albums, tracks, playlists, podcasts, playback, charts |
 | [`mock/movies/`](mock/movies/) | Films, cinemas, showtimes, tickets, cast, watchlist, streaming |
+| [`mock/logistics/`](mock/logistics/) | Warehouses, shipments, carriers, tracking, inventory, fulfillment |
 | [`mock/enterprise-bi-dashboard/`](mock/enterprise-bi-dashboard/) | Analytics workspace screens (KPIs, reports, lineage) |
 | [`mock/enterprise-billing-dashboard/`](mock/enterprise-billing-dashboard/) | Invoices, subscriptions, payments, collections |
 | [`mock/enterprise-banking-operations/`](mock/enterprise-banking-operations/) | Clearing, payments, screening, liquidity |
@@ -84,6 +85,7 @@ Demo passwords in auth and ecommerce users are `demo123` (customers) and `admin1
 - **Tasks** — workspaces, projects, kanban columns, sprints, assignments, comments, and activity feed.
 - **Music** — artists, albums, tracks, playlists, podcasts, lyrics, radio, devices, playback, likes, and charts.
 - **Movies** — films, cast, cinemas, showtimes, tickets, trailers, collections, watchlist, and streaming progress.
+- **Logistics** — warehouses, carriers, shipments, packages, tracking events, pick tasks, inventory, and exceptions.
 - **Enterprise BI** — overview, reports, explorer, lineage, quality, forecasts, and ask/query screens.
 - **Enterprise billing** — invoices, subscriptions, payments, collections, and ledger KPIs.
 - **Enterprise banking** — accounts, clearing, payments, screening, exceptions, and liquidity.

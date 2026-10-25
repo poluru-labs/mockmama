@@ -1,0 +1,58 @@
+{
+  "fulfillmentOrders": [
+    {
+      "id": "fulfillment-001",
+      "customerId": "logistics-customer-003",
+      "warehouseId": "warehouse-001",
+      "externalOrderNumber": "ORD-88201",
+      "priority": "standard",
+      "status": "shipped",
+      "createdAt": "2026-09-21T13:00:00Z"
+    },
+    {
+      "id": "fulfillment-002",
+      "customerId": "logistics-customer-002",
+      "warehouseId": "warehouse-002",
+      "externalOrderNumber": "ORD-88144",
+      "priority": "standard",
+      "status": "delivered",
+      "createdAt": "2026-09-18T08:30:00Z"
+    },
+    {
+      "id": "fulfillment-003",
+      "customerId": "logistics-customer-001",
+      "warehouseId": "warehouse-003",
+      "externalOrderNumber": "ORD-88310",
+      "priority": "express",
+      "status": "awaiting_pickup",
+      "createdAt": "2026-09-22T09:45:00Z"
+    },
+    {
+      "id": "fulfillment-004",
+      "customerId": "logistics-customer-001",
+      "warehouseId": "warehouse-001",
+      "externalOrderNumber": "ORD-90102",
+      "priority": "freight",
+      "status": "shipped",
+      "createdAt": "2026-10-22T07:00:00Z"
+    },
+    {
+      "id": "fulfillment-005",
+      "customerId": "logistics-customer-003",
+      "warehouseId": "warehouse-003",
+      "externalOrderNumber": "ORD-90188",
+      "priority": "express",
+      "status": "exception",
+      "createdAt": "2026-10-23T10:30:00Z"
+    },
+    {
+      "id": "fulfillment-006",
+      "customerId": "logistics-customer-002",
+      "warehouseId": "warehouse-002",
+      "externalOrderNumber": "ORD-77001",
+      "priority": "standard",
+      "status": "cancelled",
+      "createdAt": "2026-08-01T11:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "routes": [
+    {
+      "id": "route-001",
+      "driverId": "driver-001",
+      "date": "2026-09-23",
+      "stops": 8,
+      "completedStops": 5,
+      "shipmentIds": ["shipment-001"],
+      "status": "in_progress"
+    },
+    {
+      "id": "route-002",
+      "driverId": "driver-002",
+      "date": "2026-10-26",
+      "stops": 12,
+      "completedStops": 3,
+      "shipmentIds": ["shipment-004"],
+      "status": "in_progress"
+    },
+    {
+      "id": "route-003",
+      "driverId": "driver-002",
+      "date": "2026-09-21",
+      "stops": 6,
+      "completedStops": 6,
+      "shipmentIds": ["shipment-002"],
+      "status": "completed"
+    }
+  ]
+}

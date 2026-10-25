@@ -1,0 +1,54 @@
+{
+  "notifications": [
+    {
+      "id": "log-notif-001",
+      "customerId": "logistics-customer-003",
+      "shipmentId": "shipment-001",
+      "type": "out_for_delivery",
+      "title": "Out for delivery today",
+      "body": "MOCK-TRACK-1001 arrives by end of day.",
+      "read": false,
+      "createdAt": "2026-09-23T12:05:00Z"
+    },
+    {
+      "id": "log-notif-002",
+      "customerId": "logistics-customer-002",
+      "shipmentId": "shipment-002",
+      "type": "delivered",
+      "title": "Delivered in San Diego",
+      "body": "Signed by reception.",
+      "read": true,
+      "createdAt": "2026-09-21T18:31:00Z"
+    },
+    {
+      "id": "log-notif-003",
+      "customerId": "logistics-customer-003",
+      "shipmentId": "shipment-005",
+      "type": "exception",
+      "title": "Delivery exception",
+      "body": "We need your gate code to finish delivery.",
+      "read": false,
+      "createdAt": "2026-10-24T16:05:00Z"
+    },
+    {
+      "id": "log-notif-004",
+      "customerId": "logistics-customer-001",
+      "shipmentId": "shipment-003",
+      "type": "label_created",
+      "title": "Label created",
+      "body": "Awaiting carrier pickup in Atlanta.",
+      "read": true,
+      "createdAt": "2026-09-22T10:05:00Z"
+    },
+    {
+      "id": "log-notif-005",
+      "customerId": "logistics-customer-001",
+      "shipmentId": null,
+      "type": "inventory",
+      "title": "Low stock: standard pallet",
+      "body": "PHX-01 has 12 pallets on hand.",
+      "read": false,
+      "createdAt": "2026-10-25T06:00:00Z"
+    }
+  ]
+}

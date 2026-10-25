@@ -1,0 +1,54 @@
+{
+  "inventory": [
+    {
+      "id": "inv-001",
+      "warehouseId": "warehouse-001",
+      "sku": "SKU-BOX-M",
+      "name": "Shipping box M",
+      "quantityOnHand": 4200,
+      "quantityReserved": 180,
+      "reorderPoint": 500,
+      "status": "in_stock"
+    },
+    {
+      "id": "inv-002",
+      "warehouseId": "warehouse-001",
+      "sku": "SKU-BOX-L",
+      "name": "Shipping box L",
+      "quantityOnHand": 890,
+      "quantityReserved": 45,
+      "reorderPoint": 200,
+      "status": "in_stock"
+    },
+    {
+      "id": "inv-003",
+      "warehouseId": "warehouse-002",
+      "sku": "SKU-PALLET",
+      "name": "Standard pallet",
+      "quantityOnHand": 12,
+      "quantityReserved": 4,
+      "reorderPoint": 10,
+      "status": "low_stock"
+    },
+    {
+      "id": "inv-004",
+      "warehouseId": "warehouse-003",
+      "sku": "SKU-ENVELOPE",
+      "name": "Document mailer",
+      "quantityOnHand": 0,
+      "quantityReserved": 0,
+      "reorderPoint": 100,
+      "status": "out_of_stock"
+    },
+    {
+      "id": "inv-005",
+      "warehouseId": "warehouse-004",
+      "sku": "SKU-BOX-S",
+      "name": "Shipping box S",
+      "quantityOnHand": 0,
+      "quantityReserved": 0,
+      "reorderPoint": 50,
+      "status": "unavailable"
+    }
+  ]
+}

@@ -3,20 +3,50 @@
     {
       "id": "warehouse-001",
       "name": "Central Fulfillment",
+      "code": "DFW-01",
       "city": "Dallas",
-      "capacityUnits": 10000
+      "state": "TX",
+      "countryCode": "US",
+      "timezone": "America/Chicago",
+      "capacityUnits": 10000,
+      "usedUnits": 7200,
+      "status": "operational"
     },
     {
       "id": "warehouse-002",
       "name": "West Fulfillment",
+      "code": "PHX-01",
       "city": "Phoenix",
-      "capacityUnits": 7500
+      "state": "AZ",
+      "countryCode": "US",
+      "timezone": "America/Phoenix",
+      "capacityUnits": 7500,
+      "usedUnits": 6100,
+      "status": "operational"
     },
     {
       "id": "warehouse-003",
       "name": "East Fulfillment",
+      "code": "ATL-01",
       "city": "Atlanta",
-      "capacityUnits": 12000
+      "state": "GA",
+      "countryCode": "US",
+      "timezone": "America/New_York",
+      "capacityUnits": 12000,
+      "usedUnits": 9800,
+      "status": "operational"
+    },
+    {
+      "id": "warehouse-004",
+      "name": "Pop-up Sort",
+      "code": "AUS-TMP",
+      "city": "Austin",
+      "state": "TX",
+      "countryCode": "US",
+      "timezone": "America/Chicago",
+      "capacityUnits": 500,
+      "usedUnits": 0,
+      "status": "seasonal_closed"
     }
   ]
 }
