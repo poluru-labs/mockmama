@@ -1,0 +1,28 @@
+{
+  "messages": [
+    {
+      "id": "message-001",
+      "ticketId": "ticket-001",
+      "agentId": "agent-001",
+      "senderType": "agent",
+      "body": "Your invoice is available in Billing > Invoices.",
+      "createdAt": "2026-09-20T10:00:00Z"
+    },
+    {
+      "id": "message-002",
+      "ticketId": "ticket-002",
+      "agentId": "agent-002",
+      "senderType": "agent",
+      "body": "We are investigating the export issue.",
+      "createdAt": "2026-09-21T12:00:00Z"
+    },
+    {
+      "id": "message-003",
+      "ticketId": "ticket-003",
+      "agentId": null,
+      "senderType": "customer",
+      "body": "Where can I find the team invitation settings?",
+      "createdAt": "2026-09-22T08:00:00Z"
+    }
+  ]
+}
