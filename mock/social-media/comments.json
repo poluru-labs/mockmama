@@ -4,22 +4,154 @@
       "id": "comment-001",
       "postId": "post-001",
       "userId": "social-user-002",
+      "parentCommentId": null,
       "body": "Love the shaded seating area.",
+      "likesCount": 4,
       "createdAt": "2026-09-20T15:00:00Z"
     },
     {
       "id": "comment-002",
-      "postId": "post-002",
-      "userId": "social-user-003",
-      "body": "What a peaceful start.",
-      "createdAt": "2026-09-21T09:00:00Z"
+      "postId": "post-001",
+      "userId": "social-user-001",
+      "parentCommentId": "comment-001",
+      "body": "Thanks! That corner gets the best light after 4pm.",
+      "likesCount": 2,
+      "createdAt": "2026-09-20T15:22:00Z"
     },
     {
       "id": "comment-003",
+      "postId": "post-002",
+      "userId": "social-user-003",
+      "body": "What a peaceful start.",
+      "parentCommentId": null,
+      "likesCount": 1,
+      "createdAt": "2026-09-21T09:00:00Z"
+    },
+    {
+      "id": "comment-004",
       "postId": "post-003",
       "userId": "social-user-001",
+      "parentCommentId": null,
       "body": "Congratulations on the launch!",
+      "likesCount": 6,
       "createdAt": "2026-09-22T11:00:00Z"
+    },
+    {
+      "id": "comment-005",
+      "postId": "post-003",
+      "userId": "social-user-007",
+      "parentCommentId": null,
+      "body": "Is the repo public? Would love to peek at the stack.",
+      "likesCount": 3,
+      "createdAt": "2026-09-22T11:30:00Z"
+    },
+    {
+      "id": "comment-006",
+      "postId": "post-003",
+      "userId": "social-user-003",
+      "parentCommentId": "comment-005",
+      "body": "Yes — github.com/taylortech/reading-tracker",
+      "likesCount": 5,
+      "createdAt": "2026-09-22T11:45:00Z"
+    },
+    {
+      "id": "comment-007",
+      "postId": "post-004",
+      "userId": "social-user-008",
+      "parentCommentId": null,
+      "body": "Saving this for our leadership offsite.",
+      "likesCount": 42,
+      "createdAt": "2026-09-23T18:10:00Z"
+    },
+    {
+      "id": "comment-008",
+      "postId": "post-004",
+      "userId": "social-user-003",
+      "parentCommentId": null,
+      "body": "Hard in practice but worth repeating every sprint.",
+      "likesCount": 18,
+      "createdAt": "2026-09-23T19:00:00Z"
+    },
+    {
+      "id": "comment-009",
+      "postId": "post-006",
+      "userId": "social-user-006",
+      "parentCommentId": null,
+      "body": "1) Roast carrots + onion 2) Blend with stock + ginger 3) Finish with coconut milk",
+      "likesCount": 31,
+      "createdAt": "2026-09-25T19:00:00Z"
+    },
+    {
+      "id": "comment-010",
+      "postId": "post-008",
+      "userId": "social-user-003",
+      "parentCommentId": null,
+      "body": "Just migrated our side project — invites worked first try.",
+      "likesCount": 12,
+      "createdAt": "2026-10-01T16:30:00Z"
+    },
+    {
+      "id": "comment-011",
+      "postId": "post-008",
+      "userId": "social-user-004",
+      "parentCommentId": null,
+      "body": "Clean rollout. Docs were clear too.",
+      "likesCount": 8,
+      "createdAt": "2026-10-01T17:00:00Z"
+    },
+    {
+      "id": "comment-012",
+      "postId": "post-009",
+      "userId": "social-user-005",
+      "parentCommentId": null,
+      "body": "Those colors are unreal — permission to sample for a track cover?",
+      "likesCount": 7,
+      "createdAt": "2026-10-05T20:00:00Z"
+    },
+    {
+      "id": "comment-013",
+      "postId": "post-011",
+      "userId": "social-user-007",
+      "parentCommentId": null,
+      "body": "Readable streams + csv-parse — chef's kiss.",
+      "likesCount": 14,
+      "createdAt": "2026-10-12T10:15:00Z"
+    },
+    {
+      "id": "comment-014",
+      "postId": "post-011",
+      "userId": "social-user-003",
+      "parentCommentId": "comment-013",
+      "body": "Exactly what I used. Happy to share a gist.",
+      "likesCount": 9,
+      "createdAt": "2026-10-12T10:40:00Z"
+    },
+    {
+      "id": "comment-015",
+      "postId": "post-015",
+      "userId": "social-user-002",
+      "parentCommentId": null,
+      "body": "Honored — cannot wait to hear what you do with the creek samples.",
+      "likesCount": 11,
+      "createdAt": "2026-10-22T21:30:00Z"
+    },
+    {
+      "id": "comment-016",
+      "postId": "post-010",
+      "userId": "social-user-004",
+      "parentCommentId": null,
+      "body": "Icon set feels accessible and calm. Nice work.",
+      "likesCount": 3,
+      "createdAt": "2026-10-10T12:00:00Z"
+    },
+    {
+      "id": "comment-017",
+      "postId": "post-014",
+      "userId": "social-user-001",
+      "parentCommentId": null,
+      "body": "Might know a design student who could help with docs UX.",
+      "likesCount": 2,
+      "createdAt": "2026-10-20T13:00:00Z"
     }
   ]
 }

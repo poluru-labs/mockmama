@@ -1,0 +1,84 @@
+{
+  "media": [
+    {
+      "id": "media-001",
+      "postId": "post-001",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800",
+      "alt": "Community garden sketch",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "id": "media-002",
+      "postId": "post-002",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=800",
+      "alt": "Lake at sunrise",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "id": "media-003",
+      "postId": "post-005",
+      "type": "audio",
+      "url": "https://cdn.example.com/beats/midnight-drop-preview.mp3",
+      "alt": "Midnight drop preview",
+      "durationSeconds": 45
+    },
+    {
+      "id": "media-004",
+      "postId": "post-006",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=800",
+      "alt": "Bowl of carrot soup",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "id": "media-005",
+      "postId": "post-008",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800",
+      "alt": "Team collaborating in workspace",
+      "width": 800,
+      "height": 534
+    },
+    {
+      "id": "media-006",
+      "postId": "post-009",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "alt": "Mountain ridge at golden hour",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "id": "media-007",
+      "postId": "post-010",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800",
+      "alt": "Wayfinding icon grid",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "id": "media-008",
+      "postId": "post-013",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800",
+      "alt": "Miso salmon meal prep",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "id": "media-009",
+      "postId": "post-015",
+      "type": "video",
+      "url": "https://cdn.example.com/clips/trail-field-recording.mp4",
+      "alt": "Trail field recording clip",
+      "durationSeconds": 62,
+      "thumbnailUrl": "https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?w=800"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "hashtags": [
+    { "id": "tag-design", "name": "design", "postCount": 1240 },
+    { "id": "tag-community", "name": "community", "postCount": 890 },
+    { "id": "tag-outdoors", "name": "outdoors", "postCount": 2100 },
+    { "id": "tag-coding", "name": "coding", "postCount": 5600 },
+    { "id": "tag-opensource", "name": "opensource", "postCount": 980 },
+    { "id": "tag-food", "name": "food", "postCount": 3200 },
+    { "id": "tag-music", "name": "music", "postCount": 1450 },
+    { "id": "tag-product", "name": "product", "postCount": 760 },
+    { "id": "tag-photography", "name": "photography", "postCount": 4100 },
+    { "id": "tag-shipped", "name": "shipped", "postCount": 620 }
+  ]
+}

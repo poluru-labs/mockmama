@@ -1,0 +1,28 @@
+{
+  "feeds": [
+    {
+      "id": "feed-home",
+      "name": "Home",
+      "description": "Algorithmic mix from followed accounts",
+      "postIds": ["post-015", "post-011", "post-009", "post-004", "post-008", "post-013", "post-003"]
+    },
+    {
+      "id": "feed-following",
+      "name": "Following",
+      "description": "Chronological posts from people you follow",
+      "postIds": ["post-015", "post-014", "post-013", "post-012", "post-011", "post-010", "post-009"]
+    },
+    {
+      "id": "feed-design",
+      "name": "Design",
+      "description": "Curated #design and #community",
+      "postIds": ["post-010", "post-001"]
+    },
+    {
+      "id": "feed-dev",
+      "name": "Developers",
+      "description": "Curated #coding and #opensource",
+      "postIds": ["post-014", "post-011", "post-007", "post-003"]
+    }
+  ]
+}

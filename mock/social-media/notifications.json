@@ -1,0 +1,79 @@
+{
+  "notifications": [
+    {
+      "id": "notif-001",
+      "recipientId": "social-user-001",
+      "type": "like",
+      "actorId": "social-user-002",
+      "postId": "post-001",
+      "read": true,
+      "createdAt": "2026-09-20T14:45:00Z"
+    },
+    {
+      "id": "notif-002",
+      "recipientId": "social-user-001",
+      "type": "comment",
+      "actorId": "social-user-002",
+      "postId": "post-001",
+      "commentId": "comment-001",
+      "read": true,
+      "createdAt": "2026-09-20T15:00:00Z"
+    },
+    {
+      "id": "notif-003",
+      "recipientId": "social-user-003",
+      "type": "comment",
+      "actorId": "social-user-001",
+      "postId": "post-003",
+      "commentId": "comment-004",
+      "read": true,
+      "createdAt": "2026-09-22T11:00:00Z"
+    },
+    {
+      "id": "notif-004",
+      "recipientId": "social-user-004",
+      "type": "repost",
+      "actorId": "social-user-008",
+      "postId": "post-004",
+      "read": false,
+      "createdAt": "2026-09-24T08:00:00Z"
+    },
+    {
+      "id": "notif-005",
+      "recipientId": "social-user-003",
+      "type": "follow",
+      "actorId": "social-user-008",
+      "postId": null,
+      "read": false,
+      "createdAt": "2026-10-02T09:00:00Z"
+    },
+    {
+      "id": "notif-006",
+      "recipientId": "social-user-002",
+      "type": "mention",
+      "actorId": "social-user-005",
+      "postId": "post-015",
+      "read": false,
+      "createdAt": "2026-10-22T21:00:00Z"
+    },
+    {
+      "id": "notif-007",
+      "recipientId": "social-user-007",
+      "type": "like",
+      "actorId": "social-user-003",
+      "postId": "post-007",
+      "read": true,
+      "createdAt": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "notif-008",
+      "recipientId": "social-user-006",
+      "type": "comment",
+      "actorId": "social-user-005",
+      "postId": "post-006",
+      "commentId": "comment-009",
+      "read": true,
+      "createdAt": "2026-09-25T19:30:00Z"
+    }
+  ]
+}
