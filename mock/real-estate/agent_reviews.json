@@ -1,0 +1,52 @@
+{
+  "reviews": [
+    {
+      "id": "review-001",
+      "agentId": "agent-001",
+      "clientId": "client-001",
+      "rating": 5,
+      "comment": "Avery made our first home purchase stress-free.",
+      "createdAt": "2026-08-01T12:00:00Z"
+    },
+    {
+      "id": "review-002",
+      "agentId": "agent-002",
+      "clientId": "client-002",
+      "rating": 5,
+      "comment": "Found the perfect Lincoln Park rental in one weekend.",
+      "createdAt": "2026-07-15T09:00:00Z"
+    },
+    {
+      "id": "review-003",
+      "agentId": "agent-003",
+      "clientId": "client-003",
+      "rating": 5,
+      "comment": "Casey negotiated a fair price on our Ballard townhouse.",
+      "createdAt": "2026-09-20T10:00:00Z"
+    },
+    {
+      "id": "review-004",
+      "agentId": "agent-004",
+      "clientId": "client-004",
+      "rating": 5,
+      "comment": "Deep market knowledge in Mission and Noe Valley.",
+      "createdAt": "2026-06-10T14:00:00Z"
+    },
+    {
+      "id": "review-005",
+      "agentId": "agent-005",
+      "clientId": "client-005",
+      "rating": 4,
+      "comment": "Great on new builds — communication could be faster on weekends.",
+      "createdAt": "2026-05-22T16:00:00Z"
+    },
+    {
+      "id": "review-006",
+      "agentId": "agent-006",
+      "clientId": "client-006",
+      "rating": 5,
+      "comment": "Sold our South End condo above ask.",
+      "createdAt": "2026-04-03T11:00:00Z"
+    }
+  ]
+}

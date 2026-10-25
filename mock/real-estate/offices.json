@@ -1,0 +1,52 @@
+{
+  "offices": [
+    {
+      "id": "office-austin",
+      "name": "Lotline Austin",
+      "city": "Austin",
+      "state": "TX",
+      "address": "1200 Congress Ave, Suite 400",
+      "phone": "+1-512-555-1000"
+    },
+    {
+      "id": "office-chicago",
+      "name": "Lotline Chicago",
+      "city": "Chicago",
+      "state": "IL",
+      "address": "233 S Wacker Dr, Floor 12",
+      "phone": "+1-312-555-1000"
+    },
+    {
+      "id": "office-seattle",
+      "name": "Lotline Seattle",
+      "city": "Seattle",
+      "state": "WA",
+      "address": "600 Pine St, Suite 800",
+      "phone": "+1-206-555-1000"
+    },
+    {
+      "id": "office-sf",
+      "name": "Lotline San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "address": "1 Market St, Suite 300",
+      "phone": "+1-415-555-1000"
+    },
+    {
+      "id": "office-denver",
+      "name": "Lotline Denver",
+      "city": "Denver",
+      "state": "CO",
+      "address": "1700 Broadway, Suite 500",
+      "phone": "+1-303-555-1000"
+    },
+    {
+      "id": "office-boston",
+      "name": "Lotline Boston",
+      "city": "Boston",
+      "state": "MA",
+      "address": "53 State St, 14th Floor",
+      "phone": "+1-617-555-1000"
+    }
+  ]
+}

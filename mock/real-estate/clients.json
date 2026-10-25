@@ -1,0 +1,58 @@
+{
+  "clients": [
+    {
+      "id": "client-001",
+      "name": "Morgan Ellis",
+      "email": "morgan.ellis@example.com",
+      "phone": "+1-512-555-2201",
+      "type": "buyer",
+      "preApprovedMax": 450000,
+      "preferredCities": ["Austin"]
+    },
+    {
+      "id": "client-002",
+      "name": "Riley Chen",
+      "email": "riley.chen@example.com",
+      "phone": "+1-312-555-2202",
+      "type": "renter",
+      "preApprovedMax": null,
+      "preferredCities": ["Chicago"]
+    },
+    {
+      "id": "client-003",
+      "name": "Jamie Cruz",
+      "email": "jamie.cruz@example.com",
+      "phone": "+1-206-555-2203",
+      "type": "buyer",
+      "preApprovedMax": 650000,
+      "preferredCities": ["Seattle", "Portland"]
+    },
+    {
+      "id": "client-004",
+      "name": "Alex Kim",
+      "email": "alex.kim@northline.io",
+      "phone": "+1-415-555-2204",
+      "type": "investor",
+      "preApprovedMax": 2000000,
+      "preferredCities": ["San Francisco", "Oakland"]
+    },
+    {
+      "id": "client-005",
+      "name": "Taylor Brooks",
+      "email": "taylor@parcelapp.com",
+      "phone": "+1-303-555-2205",
+      "type": "buyer",
+      "preApprovedMax": 700000,
+      "preferredCities": ["Denver"]
+    },
+    {
+      "id": "client-006",
+      "name": "Elena Morris",
+      "email": "elena@harborlabs.com",
+      "phone": "+1-617-555-2206",
+      "type": "seller",
+      "preApprovedMax": null,
+      "preferredCities": ["Boston"]
+    }
+  ]
+}

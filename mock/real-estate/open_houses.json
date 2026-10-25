@@ -1,0 +1,36 @@
+{
+  "openHouses": [
+    {
+      "id": "open-001",
+      "propertyId": "property-001",
+      "agentId": "agent-001",
+      "startsAt": "2026-10-05T14:00:00Z",
+      "endsAt": "2026-10-05T16:00:00Z",
+      "visitorCount": 18
+    },
+    {
+      "id": "open-002",
+      "propertyId": "property-006",
+      "agentId": "agent-006",
+      "startsAt": "2026-10-12T11:00:00Z",
+      "endsAt": "2026-10-12T13:00:00Z",
+      "visitorCount": 24
+    },
+    {
+      "id": "open-003",
+      "propertyId": "property-009",
+      "agentId": "agent-003",
+      "startsAt": "2026-10-19T13:00:00Z",
+      "endsAt": "2026-10-19T15:00:00Z",
+      "visitorCount": 12
+    },
+    {
+      "id": "open-004",
+      "propertyId": "property-011",
+      "agentId": "agent-005",
+      "startsAt": "2026-10-26T12:00:00Z",
+      "endsAt": "2026-10-26T14:00:00Z",
+      "visitorCount": null
+    }
+  ]
+}

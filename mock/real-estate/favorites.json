@@ -1,0 +1,12 @@
+{
+  "favorites": [
+    { "id": "fav-001", "clientId": "client-001", "propertyId": "property-001", "createdAt": "2026-09-22T12:00:00Z" },
+    { "id": "fav-002", "clientId": "client-001", "propertyId": "property-007", "createdAt": "2026-10-11T08:00:00Z" },
+    { "id": "fav-003", "clientId": "client-002", "propertyId": "property-002", "createdAt": "2026-09-24T10:00:00Z" },
+    { "id": "fav-004", "clientId": "client-002", "propertyId": "property-012", "createdAt": "2026-10-16T09:00:00Z" },
+    { "id": "fav-005", "clientId": "client-003", "propertyId": "property-009", "createdAt": "2026-10-13T15:00:00Z" },
+    { "id": "fav-006", "clientId": "client-004", "propertyId": "property-004", "createdAt": "2026-09-20T18:00:00Z" },
+    { "id": "fav-007", "clientId": "client-005", "propertyId": "property-005", "createdAt": "2026-09-27T11:00:00Z" },
+    { "id": "fav-008", "clientId": "client-005", "propertyId": "property-011", "createdAt": "2026-10-09T13:00:00Z" }
+  ]
+}

@@ -5,28 +5,78 @@
       "name": "Avery Lane",
       "email": "avery@example.com",
       "phone": "+1-512-555-0101",
-      "languages": [
-        "en"
-      ]
+      "officeId": "office-austin",
+      "licenseNumber": "TX-7849201",
+      "languages": ["en"],
+      "specialties": ["residential", "first-time buyers"],
+      "rating": 4.9,
+      "reviewCount": 86,
+      "yearsExperience": 8
     },
     {
       "id": "agent-002",
       "name": "Jordan Reed",
       "email": "jordan@example.com",
       "phone": "+1-312-555-0102",
-      "languages": [
-        "en",
-        "es"
-      ]
+      "officeId": "office-chicago",
+      "licenseNumber": "IL-5529103",
+      "languages": ["en", "es"],
+      "specialties": ["rentals", "urban condos"],
+      "rating": 4.7,
+      "reviewCount": 124,
+      "yearsExperience": 11
     },
     {
       "id": "agent-003",
       "name": "Casey Quinn",
       "email": "casey@example.com",
       "phone": "+1-206-555-0103",
-      "languages": [
-        "en"
-      ]
+      "officeId": "office-seattle",
+      "licenseNumber": "WA-9912044",
+      "languages": ["en"],
+      "specialties": ["townhomes", "suburban sales"],
+      "rating": 4.8,
+      "reviewCount": 59,
+      "yearsExperience": 6
+    },
+    {
+      "id": "agent-004",
+      "name": "Priya Nair",
+      "email": "priya.re@example.com",
+      "phone": "+1-415-555-0104",
+      "officeId": "office-sf",
+      "licenseNumber": "CA-8823100",
+      "languages": ["en", "hi"],
+      "specialties": ["luxury", "investment"],
+      "rating": 5.0,
+      "reviewCount": 42,
+      "yearsExperience": 9
+    },
+    {
+      "id": "agent-005",
+      "name": "Marcus Webb",
+      "email": "marcus.re@example.com",
+      "phone": "+1-303-555-0105",
+      "officeId": "office-denver",
+      "licenseNumber": "CO-4412098",
+      "languages": ["en"],
+      "specialties": ["mountain properties", "new construction"],
+      "rating": 4.6,
+      "reviewCount": 37,
+      "yearsExperience": 5
+    },
+    {
+      "id": "agent-006",
+      "name": "Sam Okonkwo",
+      "email": "sam.re@example.com",
+      "phone": "+1-617-555-0106",
+      "officeId": "office-boston",
+      "licenseNumber": "MA-7721004",
+      "languages": ["en", "fr"],
+      "specialties": ["historic homes", "multi-family"],
+      "rating": 4.8,
+      "reviewCount": 71,
+      "yearsExperience": 12
     }
   ]
 }
