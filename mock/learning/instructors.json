@@ -1,0 +1,19 @@
+{
+  "instructors": [
+    {
+      "id": "instructor-001",
+      "name": "Maya Brooks",
+      "bio": "Product designer and educator."
+    },
+    {
+      "id": "instructor-002",
+      "name": "Noah Patel",
+      "bio": "Web developer and mentor."
+    },
+    {
+      "id": "instructor-003",
+      "name": "Leah Park",
+      "bio": "Illustrator and workshop host."
+    }
+  ]
+}
