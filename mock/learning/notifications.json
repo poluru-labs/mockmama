@@ -1,0 +1,53 @@
+{
+  "notifications": [
+    {
+      "id": "learn-notif-001",
+      "studentId": "student-001",
+      "type": "lesson_reminder",
+      "courseId": "course-001",
+      "title": "Continue Interface Design Basics",
+      "body": "You left off at States and feedback.",
+      "read": false,
+      "createdAt": "2026-10-25T08:00:00Z"
+    },
+    {
+      "id": "learn-notif-002",
+      "studentId": "student-003",
+      "type": "certificate",
+      "courseId": "course-003",
+      "title": "Certificate ready",
+      "body": "Everyday Sketching credential issued.",
+      "read": true,
+      "createdAt": "2026-09-15T16:06:00Z"
+    },
+    {
+      "id": "learn-notif-003",
+      "studentId": "student-002",
+      "type": "assignment_due",
+      "courseId": "course-002",
+      "title": "Assignment due soon",
+      "body": "Wire fetch to mock JSON is due Oct 15.",
+      "read": false,
+      "createdAt": "2026-10-14T09:00:00Z"
+    },
+    {
+      "id": "learn-notif-004",
+      "studentId": "student-004",
+      "type": "cohort",
+      "courseId": "course-002",
+      "title": "October API cohort live",
+      "body": "Office hours Thursdays 2pm CT.",
+      "read": true,
+      "createdAt": "2026-10-01T14:05:00Z"
+    },
+    {
+      "id": "learn-notif-005",
+      "studentId": "student-005",
+      "type": "account",
+      "title": "Enrollment expired",
+      "body": "Interface Design Basics access ended. Renew to continue.",
+      "read": false,
+      "createdAt": "2026-08-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "assignments": [
+    {
+      "id": "assignment-001",
+      "lessonId": "lesson-007",
+      "courseId": "course-003",
+      "title": "Upload sketchbook page",
+      "dueAt": "2026-09-14T23:59:59Z",
+      "maxScore": 100,
+      "status": "published"
+    },
+    {
+      "id": "assignment-002",
+      "lessonId": "lesson-005",
+      "courseId": "course-002",
+      "title": "Wire fetch to mock JSON",
+      "dueAt": "2026-10-15T23:59:59Z",
+      "maxScore": 100,
+      "status": "published"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "lessons": [
+    {
+      "id": "lesson-001",
+      "courseId": "course-001",
+      "title": "What makes an interface",
+      "sortOrder": 1,
+      "durationMinutes": 25,
+      "type": "video",
+      "isPreview": true,
+      "status": "published"
+    },
+    {
+      "id": "lesson-002",
+      "courseId": "course-001",
+      "title": "Layout and spacing",
+      "sortOrder": 2,
+      "durationMinutes": 35,
+      "type": "video",
+      "isPreview": false,
+      "status": "published"
+    },
+    {
+      "id": "lesson-003",
+      "courseId": "course-001",
+      "title": "States and feedback",
+      "sortOrder": 3,
+      "durationMinutes": 40,
+      "type": "video",
+      "isPreview": false,
+      "status": "published"
+    },
+    {
+      "id": "lesson-004",
+      "courseId": "course-002",
+      "title": "JSON shape and keys",
+      "sortOrder": 1,
+      "durationMinutes": 30,
+      "type": "video",
+      "isPreview": true,
+      "status": "published"
+    },
+    {
+      "id": "lesson-005",
+      "courseId": "course-002",
+      "title": "fetch and error handling",
+      "sortOrder": 2,
+      "durationMinutes": 45,
+      "type": "video",
+      "isPreview": false,
+      "status": "published"
+    },
+    {
+      "id": "lesson-006",
+      "courseId": "course-003",
+      "title": "Warm-up lines",
+      "sortOrder": 1,
+      "durationMinutes": 20,
+      "type": "video",
+      "isPreview": true,
+      "status": "published"
+    },
+    {
+      "id": "lesson-007",
+      "courseId": "course-003",
+      "title": "Sketchbook walk-through",
+      "sortOrder": 2,
+      "durationMinutes": 25,
+      "type": "assignment",
+      "isPreview": false,
+      "status": "published"
+    },
+    {
+      "id": "lesson-008",
+      "courseId": "course-004",
+      "title": "SELECT without fear",
+      "sortOrder": 1,
+      "durationMinutes": 28,
+      "type": "video",
+      "isPreview": true,
+      "status": "published"
+    },
+    {
+      "id": "lesson-009",
+      "courseId": "course-005",
+      "title": "Token naming draft",
+      "sortOrder": 1,
+      "durationMinutes": 15,
+      "type": "text",
+      "isPreview": false,
+      "status": "draft"
+    }
+  ]
+}

@@ -3,8 +3,10 @@
     {
       "id": "enrollment-001",
       "courseId": "course-001",
+      "studentId": "student-001",
       "studentName": "Alex Morgan",
       "progressPercent": 45,
+      "lastLessonId": "lesson-002",
       "status": "in_progress",
       "enrolledAt": "2026-09-01T09:00:00Z",
       "completedAt": null
@@ -12,8 +14,10 @@
     {
       "id": "enrollment-002",
       "courseId": "course-002",
+      "studentId": "student-002",
       "studentName": "Sam Rivera",
       "progressPercent": 0,
+      "lastLessonId": null,
       "status": "not_started",
       "enrolledAt": "2026-09-21T09:00:00Z",
       "completedAt": null
@@ -21,11 +25,57 @@
     {
       "id": "enrollment-003",
       "courseId": "course-003",
+      "studentId": "student-003",
       "studentName": "Taylor Kim",
       "progressPercent": 100,
+      "lastLessonId": "lesson-007",
       "status": "completed",
       "enrolledAt": "2026-09-01T09:00:00Z",
       "completedAt": "2026-09-15T16:00:00Z"
+    },
+    {
+      "id": "enrollment-004",
+      "courseId": "course-004",
+      "studentId": "student-001",
+      "studentName": "Alex Morgan",
+      "progressPercent": 12,
+      "lastLessonId": "lesson-008",
+      "status": "in_progress",
+      "enrolledAt": "2026-10-10T14:00:00Z",
+      "completedAt": null
+    },
+    {
+      "id": "enrollment-005",
+      "courseId": "course-002",
+      "studentId": "student-004",
+      "studentName": "Jordan Reed",
+      "progressPercent": 62,
+      "lastLessonId": "lesson-005",
+      "status": "in_progress",
+      "enrolledAt": "2026-08-15T10:00:00Z",
+      "completedAt": null
+    },
+    {
+      "id": "enrollment-006",
+      "courseId": "course-001",
+      "studentId": "student-005",
+      "studentName": "Morgan Ellis",
+      "progressPercent": 10,
+      "lastLessonId": "lesson-001",
+      "status": "expired",
+      "enrolledAt": "2026-06-01T09:00:00Z",
+      "completedAt": null
+    },
+    {
+      "id": "enrollment-007",
+      "courseId": "course-002",
+      "studentId": "student-001",
+      "studentName": "Alex Morgan",
+      "progressPercent": 0,
+      "lastLessonId": null,
+      "status": "refunded",
+      "enrolledAt": "2026-07-01T09:00:00Z",
+      "completedAt": null
     }
   ]
 }

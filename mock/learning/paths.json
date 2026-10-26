@@ -1,0 +1,31 @@
+{
+  "paths": [
+    {
+      "id": "path-001",
+      "title": "Product designer starter",
+      "slug": "product-designer-starter",
+      "description": "Design basics then SQL for research.",
+      "courseIds": ["course-001", "course-004"],
+      "estimatedHours": 8,
+      "status": "published"
+    },
+    {
+      "id": "path-002",
+      "title": "Frontend with mock APIs",
+      "slug": "frontend-mock-apis",
+      "description": "JSON APIs for prototype backends.",
+      "courseIds": ["course-002"],
+      "estimatedHours": 4,
+      "status": "published"
+    },
+    {
+      "id": "path-003",
+      "title": "Draft — tokens track",
+      "slug": "tokens-track",
+      "description": "Waiting on course-005 publish.",
+      "courseIds": ["course-001", "course-005"],
+      "estimatedHours": 12,
+      "status": "draft"
+    }
+  ]
+}

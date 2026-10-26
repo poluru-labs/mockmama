@@ -1,0 +1,34 @@
+{
+  "cohorts": [
+    {
+      "id": "cohort-001",
+      "courseId": "course-002",
+      "name": "October API cohort",
+      "startsAt": "2026-10-01T14:00:00Z",
+      "endsAt": "2026-10-31T23:59:59Z",
+      "seats": 25,
+      "enrolledCount": 22,
+      "status": "active"
+    },
+    {
+      "id": "cohort-002",
+      "courseId": "course-001",
+      "name": "November design cohort",
+      "startsAt": "2026-11-05T15:00:00Z",
+      "endsAt": "2026-12-05T23:59:59Z",
+      "seats": 30,
+      "enrolledCount": 30,
+      "status": "full"
+    },
+    {
+      "id": "cohort-003",
+      "courseId": "course-004",
+      "name": "SQL office hours",
+      "startsAt": "2026-09-15T16:00:00Z",
+      "endsAt": "2026-09-15T17:00:00Z",
+      "seats": 50,
+      "enrolledCount": 18,
+      "status": "completed"
+    }
+  ]
+}

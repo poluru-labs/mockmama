@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": "student-001",
+      "name": "Alex Morgan",
+      "email": "alex.morgan@example.com",
+      "avatar": "https://picsum.photos/seed/student-001/200/200",
+      "plan": "pro",
+      "status": "active"
+    },
+    {
+      "id": "student-002",
+      "name": "Sam Rivera",
+      "email": "sam.rivera@example.com",
+      "avatar": "https://picsum.photos/seed/student-002/200/200",
+      "plan": "free",
+      "status": "active"
+    },
+    {
+      "id": "student-003",
+      "name": "Taylor Kim",
+      "email": "taylor.kim@example.com",
+      "avatar": "https://picsum.photos/seed/student-003/200/200",
+      "plan": "pro",
+      "status": "active"
+    },
+    {
+      "id": "student-004",
+      "name": "Jordan Reed",
+      "email": "jordan.reed@example.com",
+      "avatar": "https://picsum.photos/seed/student-004/200/200",
+      "plan": "team",
+      "status": "active"
+    },
+    {
+      "id": "student-005",
+      "name": "Morgan Ellis",
+      "email": "morgan.ellis@example.com",
+      "avatar": "https://picsum.photos/seed/student-005/200/200",
+      "plan": "free",
+      "status": "suspended"
+    }
+  ]
+}

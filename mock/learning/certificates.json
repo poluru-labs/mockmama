@@ -1,0 +1,22 @@
+{
+  "certificates": [
+    {
+      "id": "cert-001",
+      "enrollmentId": "enrollment-003",
+      "studentId": "student-003",
+      "courseId": "course-003",
+      "issuedAt": "2026-09-15T16:05:00Z",
+      "credentialUrl": "https://example.com/credentials/cert-001.pdf",
+      "status": "issued"
+    },
+    {
+      "id": "cert-002",
+      "enrollmentId": "enrollment-005",
+      "studentId": "student-004",
+      "courseId": "course-002",
+      "issuedAt": null,
+      "credentialUrl": null,
+      "status": "pending"
+    }
+  ]
+}
