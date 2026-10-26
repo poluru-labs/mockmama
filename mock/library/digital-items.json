@@ -1,0 +1,40 @@
+{
+  "digitalItems": [
+    {
+      "id": "digital-001",
+      "bookId": "book-001",
+      "title": "The Orchard Map",
+      "format": "ebook",
+      "licenseTotal": 5,
+      "licensesAvailable": 2,
+      "status": "active"
+    },
+    {
+      "id": "digital-002",
+      "bookId": "book-002",
+      "title": "Everyday Astronomy",
+      "format": "audiobook",
+      "licenseTotal": 3,
+      "licensesAvailable": 3,
+      "status": "active"
+    },
+    {
+      "id": "digital-003",
+      "bookId": null,
+      "title": "Magazine bundle — Oct 2026",
+      "format": "magazine",
+      "licenseTotal": null,
+      "licensesAvailable": null,
+      "status": "active"
+    },
+    {
+      "id": "digital-004",
+      "bookId": "book-006",
+      "title": "Withdrawn — damaged set",
+      "format": "ebook",
+      "licenseTotal": 0,
+      "licensesAvailable": 0,
+      "status": "withdrawn"
+    }
+  ]
+}

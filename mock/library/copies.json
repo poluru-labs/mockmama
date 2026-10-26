@@ -1,0 +1,84 @@
+{
+  "copies": [
+    {
+      "id": "copy-001",
+      "bookId": "book-001",
+      "branchId": "branch-001",
+      "barcode": "LIB-1001-A",
+      "condition": "good",
+      "status": "available"
+    },
+    {
+      "id": "copy-002",
+      "bookId": "book-001",
+      "branchId": "branch-001",
+      "barcode": "LIB-1001-B",
+      "condition": "good",
+      "status": "available"
+    },
+    {
+      "id": "copy-003",
+      "bookId": "book-001",
+      "branchId": "branch-002",
+      "barcode": "LIB-1001-C",
+      "condition": "good",
+      "status": "available"
+    },
+    {
+      "id": "copy-004",
+      "bookId": "book-001",
+      "branchId": "branch-001",
+      "barcode": "LIB-1001-D",
+      "condition": "fair",
+      "status": "on_loan"
+    },
+    {
+      "id": "copy-005",
+      "bookId": "book-002",
+      "branchId": "branch-001",
+      "barcode": "LIB-1002-A",
+      "condition": "good",
+      "status": "available"
+    },
+    {
+      "id": "copy-006",
+      "bookId": "book-002",
+      "branchId": "branch-002",
+      "barcode": "LIB-1002-B",
+      "condition": "good",
+      "status": "available"
+    },
+    {
+      "id": "copy-007",
+      "bookId": "book-003",
+      "branchId": "branch-001",
+      "barcode": "LIB-1003-A",
+      "condition": "good",
+      "status": "on_loan"
+    },
+    {
+      "id": "copy-008",
+      "bookId": "book-004",
+      "branchId": "branch-001",
+      "barcode": "LIB-1004-A",
+      "condition": "good",
+      "status": "on_hold"
+    },
+    {
+      "id": "copy-009",
+      "bookId": "book-004",
+      "branchId": "branch-002",
+      "barcode": "LIB-1004-B",
+      "condition": "good",
+      "status": "available"
+    },
+    {
+      "id": "copy-010",
+      "bookId": "book-004",
+      "branchId": "branch-002",
+      "barcode": "LIB-1004-C",
+      "condition": "good",
+      "status": "available"
+    }
+  ]
+}

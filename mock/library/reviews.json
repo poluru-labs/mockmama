@@ -1,0 +1,40 @@
+{
+  "reviews": [
+    {
+      "id": "review-001",
+      "bookId": "book-001",
+      "memberId": "member-001",
+      "rating": 5,
+      "body": "The map on the endpapers is worth the checkout alone.",
+      "createdAt": "2026-09-28T20:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-002",
+      "bookId": "book-002",
+      "memberId": "member-002",
+      "rating": 4,
+      "body": "Clear without talking down. Good for teens too.",
+      "createdAt": "2026-09-15T18:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-003",
+      "bookId": "book-003",
+      "memberId": "member-003",
+      "rating": 5,
+      "body": "Still overdue because I keep re-reading chapter 4.",
+      "createdAt": "2026-10-01T12:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-004",
+      "bookId": "book-004",
+      "memberId": "member-004",
+      "rating": 3,
+      "body": "Dense in the middle. Index is excellent.",
+      "createdAt": "2026-10-24T09:00:00Z",
+      "status": "published"
+    }
+  ]
+}

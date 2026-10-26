@@ -1,0 +1,39 @@
+{
+  "searchSuggestions": [
+    {
+      "id": "suggest-001",
+      "query": "orchard",
+      "type": "book",
+      "refId": "book-001",
+      "rank": 1
+    },
+    {
+      "id": "suggest-002",
+      "query": "maya",
+      "type": "author",
+      "refId": "author-001",
+      "rank": 1
+    },
+    {
+      "id": "suggest-003",
+      "query": "astronomy",
+      "type": "book",
+      "refId": "book-002",
+      "rank": 1
+    },
+    {
+      "id": "suggest-004",
+      "query": "fiction",
+      "type": "genre",
+      "refId": "genre-fiction",
+      "rank": 1
+    },
+    {
+      "id": "suggest-005",
+      "query": "central",
+      "type": "branch",
+      "refId": "branch-001",
+      "rank": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "staff": [
+    {
+      "id": "staff-001",
+      "branchId": "branch-001",
+      "name": "Elena Vos",
+      "email": "elena.vos@library.example.com",
+      "role": "librarian",
+      "status": "active"
+    },
+    {
+      "id": "staff-002",
+      "branchId": "branch-002",
+      "name": "Chris Nguyen",
+      "email": "chris.nguyen@library.example.com",
+      "role": "circulation",
+      "status": "active"
+    },
+    {
+      "id": "staff-003",
+      "branchId": "branch-001",
+      "name": "Harper Diaz",
+      "email": "harper.diaz@library.example.com",
+      "role": "children_services",
+      "status": "active"
+    }
+  ]
+}

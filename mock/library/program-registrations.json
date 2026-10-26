@@ -1,0 +1,25 @@
+{
+  "programRegistrations": [
+    {
+      "id": "reg-001",
+      "programId": "program-001",
+      "memberId": "member-004",
+      "status": "confirmed",
+      "registeredAt": "2026-10-20T12:00:00Z"
+    },
+    {
+      "id": "reg-002",
+      "programId": "program-001",
+      "memberId": "member-001",
+      "status": "confirmed",
+      "registeredAt": "2026-10-21T09:00:00Z"
+    },
+    {
+      "id": "reg-003",
+      "programId": "program-002",
+      "memberId": "member-002",
+      "status": "waitlisted",
+      "registeredAt": "2026-10-19T16:00:00Z"
+    }
+  ]
+}

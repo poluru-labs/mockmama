@@ -1,0 +1,48 @@
+{
+  "programs": [
+    {
+      "id": "program-001",
+      "branchId": "branch-001",
+      "title": "Story hour",
+      "category": "children",
+      "startsAt": "2026-10-26T15:00:00Z",
+      "endsAt": "2026-10-26T16:00:00Z",
+      "capacity": 24,
+      "registeredCount": 18,
+      "status": "scheduled"
+    },
+    {
+      "id": "program-002",
+      "branchId": "branch-002",
+      "title": "Night sky club",
+      "category": "science",
+      "startsAt": "2026-10-28T00:00:00Z",
+      "endsAt": "2026-10-28T01:30:00Z",
+      "capacity": 30,
+      "registeredCount": 30,
+      "status": "full"
+    },
+    {
+      "id": "program-003",
+      "branchId": "branch-001",
+      "title": "Author talk: Maya Rivers",
+      "category": "author_event",
+      "startsAt": "2026-09-12T18:00:00Z",
+      "endsAt": "2026-09-12T19:30:00Z",
+      "capacity": 80,
+      "registeredCount": 72,
+      "status": "completed"
+    },
+    {
+      "id": "program-004",
+      "branchId": "branch-003",
+      "title": "Mobile makers pop-up",
+      "category": "crafts",
+      "startsAt": "2026-11-05T17:00:00Z",
+      "endsAt": "2026-11-05T19:00:00Z",
+      "capacity": 12,
+      "registeredCount": 0,
+      "status": "cancelled"
+    }
+  ]
+}
