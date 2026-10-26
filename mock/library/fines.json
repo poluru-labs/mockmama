@@ -1,0 +1,44 @@
+{
+  "fines": [
+    {
+      "id": "fine-001",
+      "memberId": "member-003",
+      "loanId": "loan-003",
+      "amount": 4.5,
+      "currency": "USD",
+      "reason": "overdue",
+      "status": "outstanding",
+      "createdAt": "2026-09-16T00:00:00Z"
+    },
+    {
+      "id": "fine-002",
+      "memberId": "member-005",
+      "loanId": "loan-006",
+      "amount": 25.0,
+      "currency": "USD",
+      "reason": "lost_item",
+      "status": "outstanding",
+      "createdAt": "2026-08-01T12:00:00Z"
+    },
+    {
+      "id": "fine-003",
+      "memberId": "member-002",
+      "loanId": "loan-002",
+      "amount": 0,
+      "currency": "USD",
+      "reason": "overdue",
+      "status": "waived",
+      "createdAt": "2026-09-15T00:00:00Z"
+    },
+    {
+      "id": "fine-004",
+      "memberId": "member-001",
+      "loanId": null,
+      "amount": 2.0,
+      "currency": "USD",
+      "reason": "damaged_jacket",
+      "status": "paid",
+      "createdAt": "2026-06-01T10:00:00Z"
+    }
+  ]
+}

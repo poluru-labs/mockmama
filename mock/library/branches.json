@@ -1,0 +1,40 @@
+{
+  "branches": [
+    {
+      "id": "branch-001",
+      "name": "Central Library",
+      "slug": "central",
+      "city": "Austin",
+      "state": "TX",
+      "address": "1100 Congress Ave, Austin, TX 78701",
+      "phone": "+1-512-555-6201",
+      "timezone": "America/Chicago",
+      "openHours": "09:00-21:00",
+      "status": "open"
+    },
+    {
+      "id": "branch-002",
+      "name": "Riverside Branch",
+      "slug": "riverside",
+      "city": "Austin",
+      "state": "TX",
+      "address": "1408 Riverside Dr, Austin, TX 78704",
+      "phone": "+1-512-555-6202",
+      "timezone": "America/Chicago",
+      "openHours": "10:00-20:00",
+      "status": "open"
+    },
+    {
+      "id": "branch-003",
+      "name": "North Mobile Library",
+      "slug": "north-mobile",
+      "city": "Austin",
+      "state": "TX",
+      "address": "Rotating stops — see schedule",
+      "phone": "+1-512-555-6203",
+      "timezone": "America/Chicago",
+      "openHours": "varies",
+      "status": "seasonal"
+    }
+  ]
+}

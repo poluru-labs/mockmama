@@ -3,29 +3,74 @@
     {
       "id": "loan-001",
       "bookId": "book-001",
+      "copyId": "copy-004",
       "memberId": "member-001",
+      "branchId": "branch-001",
       "borrowedAt": "2026-09-15",
       "dueAt": "2026-09-29",
       "returnedAt": null,
+      "renewalCount": 0,
       "status": "active"
     },
     {
       "id": "loan-002",
       "bookId": "book-002",
+      "copyId": "copy-005",
       "memberId": "member-002",
+      "branchId": "branch-001",
       "borrowedAt": "2026-09-01",
       "dueAt": "2026-09-15",
       "returnedAt": "2026-09-14",
+      "renewalCount": 1,
       "status": "returned"
     },
     {
       "id": "loan-003",
       "bookId": "book-003",
+      "copyId": "copy-007",
       "memberId": "member-003",
+      "branchId": "branch-001",
       "borrowedAt": "2026-09-01",
       "dueAt": "2026-09-15",
       "returnedAt": null,
+      "renewalCount": 2,
       "status": "overdue"
+    },
+    {
+      "id": "loan-004",
+      "bookId": "book-004",
+      "copyId": "copy-009",
+      "memberId": "member-004",
+      "branchId": "branch-002",
+      "borrowedAt": "2026-10-10",
+      "dueAt": "2026-10-24",
+      "returnedAt": "2026-10-23",
+      "renewalCount": 0,
+      "status": "returned"
+    },
+    {
+      "id": "loan-005",
+      "bookId": "book-001",
+      "copyId": "copy-001",
+      "memberId": "member-002",
+      "branchId": "branch-001",
+      "borrowedAt": "2026-08-20",
+      "dueAt": "2026-09-03",
+      "returnedAt": "2026-09-02",
+      "renewalCount": 0,
+      "status": "returned"
+    },
+    {
+      "id": "loan-006",
+      "bookId": "book-005",
+      "copyId": null,
+      "memberId": "member-005",
+      "branchId": "branch-002",
+      "borrowedAt": "2026-07-01",
+      "dueAt": "2026-07-15",
+      "returnedAt": null,
+      "renewalCount": 0,
+      "status": "lost"
     }
   ]
 }

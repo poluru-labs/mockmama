@@ -4,6 +4,11 @@
       "id": "member-001",
       "name": "Morgan Ellis",
       "email": "morgan.ellis@example.com",
+      "phone": "+1-512-555-7201",
+      "cardNumber": "LIB-ME-001",
+      "homeBranchId": "branch-002",
+      "tier": "standard",
+      "maxLoans": 10,
       "joinedAt": "2026-01-10",
       "status": "active"
     },
@@ -11,6 +16,11 @@
       "id": "member-002",
       "name": "Riley Chen",
       "email": "riley.chen@example.com",
+      "phone": "+1-512-555-7202",
+      "cardNumber": "LIB-RC-002",
+      "homeBranchId": "branch-001",
+      "tier": "student",
+      "maxLoans": 15,
       "joinedAt": "2026-03-15",
       "status": "active"
     },
@@ -18,8 +28,37 @@
       "id": "member-003",
       "name": "Jamie Cruz",
       "email": "jamie.cruz@example.com",
+      "phone": "+1-512-555-7203",
+      "cardNumber": "LIB-JC-003",
+      "homeBranchId": "branch-001",
+      "tier": "standard",
+      "maxLoans": 10,
       "joinedAt": "2026-05-20",
       "status": "active"
+    },
+    {
+      "id": "member-004",
+      "name": "Alex Morgan",
+      "email": "alex.morgan@example.com",
+      "phone": "+1-512-555-7204",
+      "cardNumber": "LIB-AM-004",
+      "homeBranchId": "branch-001",
+      "tier": "premium",
+      "maxLoans": 20,
+      "joinedAt": "2024-11-02",
+      "status": "active"
+    },
+    {
+      "id": "member-005",
+      "name": "Taylor Kim",
+      "email": "taylor.kim@example.com",
+      "phone": "+1-512-555-7205",
+      "cardNumber": "LIB-TK-005",
+      "homeBranchId": "branch-002",
+      "tier": "standard",
+      "maxLoans": 10,
+      "joinedAt": "2025-08-18",
+      "status": "suspended"
     }
   ]
 }

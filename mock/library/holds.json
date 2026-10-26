@@ -1,0 +1,44 @@
+{
+  "holds": [
+    {
+      "id": "hold-001",
+      "bookId": "book-003",
+      "memberId": "member-004",
+      "pickupBranchId": "branch-001",
+      "queuePosition": 1,
+      "placedAt": "2026-09-20T10:00:00Z",
+      "expiresAt": "2026-10-05T23:59:59Z",
+      "status": "waiting"
+    },
+    {
+      "id": "hold-002",
+      "bookId": "book-004",
+      "memberId": "member-001",
+      "pickupBranchId": "branch-002",
+      "queuePosition": 1,
+      "placedAt": "2026-10-18T14:00:00Z",
+      "expiresAt": "2026-10-28T23:59:59Z",
+      "status": "ready"
+    },
+    {
+      "id": "hold-003",
+      "bookId": "book-001",
+      "memberId": "member-002",
+      "pickupBranchId": "branch-001",
+      "queuePosition": 2,
+      "placedAt": "2026-10-22T09:00:00Z",
+      "expiresAt": null,
+      "status": "waiting"
+    },
+    {
+      "id": "hold-004",
+      "bookId": "book-002",
+      "memberId": "member-003",
+      "pickupBranchId": "branch-001",
+      "queuePosition": 1,
+      "placedAt": "2026-09-10T11:00:00Z",
+      "expiresAt": "2026-09-17T23:59:59Z",
+      "status": "expired"
+    }
+  ]
+}

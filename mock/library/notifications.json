@@ -1,0 +1,53 @@
+{
+  "notifications": [
+    {
+      "id": "lib-notif-001",
+      "memberId": "member-001",
+      "type": "hold_ready",
+      "holdId": "hold-002",
+      "title": "Hold ready at Riverside",
+      "body": "City Archives is on the hold shelf until Oct 28.",
+      "read": false,
+      "createdAt": "2026-10-20T09:00:00Z"
+    },
+    {
+      "id": "lib-notif-002",
+      "memberId": "member-003",
+      "type": "overdue",
+      "loanId": "loan-003",
+      "title": "The Quiet Workshop is overdue",
+      "body": "Renew online or return to Central. Fine accruing.",
+      "read": false,
+      "createdAt": "2026-10-20T08:00:00Z"
+    },
+    {
+      "id": "lib-notif-003",
+      "memberId": "member-002",
+      "type": "due_soon",
+      "loanId": "loan-001",
+      "title": "Reminder: Orchard Map due Sep 29",
+      "body": "Not your loan — ignore if you returned already.",
+      "read": true,
+      "createdAt": "2026-09-27T08:00:00Z"
+    },
+    {
+      "id": "lib-notif-004",
+      "memberId": "member-004",
+      "type": "program",
+      "programId": "program-001",
+      "title": "Story hour tomorrow",
+      "body": "Central Library · 10 AM local.",
+      "read": true,
+      "createdAt": "2026-10-25T12:00:00Z"
+    },
+    {
+      "id": "lib-notif-005",
+      "memberId": "member-005",
+      "type": "account",
+      "title": "Card suspended",
+      "body": "Outstanding lost-item fine. Visit circulation desk.",
+      "read": false,
+      "createdAt": "2026-08-02T09:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "genres": [
+    { "id": "genre-fiction", "name": "Fiction", "slug": "fiction" },
+    { "id": "genre-science", "name": "Science", "slug": "science" },
+    { "id": "genre-crafts", "name": "Crafts", "slug": "crafts" },
+    { "id": "genre-history", "name": "History", "slug": "history" },
+    { "id": "genre-children", "name": "Children", "slug": "children" }
+  ]
+}

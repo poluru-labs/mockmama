@@ -1,0 +1,28 @@
+{
+  "authors": [
+    {
+      "id": "author-001",
+      "name": "Maya Rivers",
+      "bio": "Novelist based in Oregon. Writes about memory and place.",
+      "photo": "https://picsum.photos/seed/library-author-001/200/200"
+    },
+    {
+      "id": "author-002",
+      "name": "Noah Fields",
+      "bio": "Science communicator and night-sky tour guide.",
+      "photo": "https://picsum.photos/seed/library-author-002/200/200"
+    },
+    {
+      "id": "author-003",
+      "name": "Leah Stone",
+      "bio": "Woodworker and instructor. First book on small-shop habits.",
+      "photo": "https://picsum.photos/seed/library-author-003/200/200"
+    },
+    {
+      "id": "author-004",
+      "name": "Priya Nair",
+      "bio": "Historian. Specializes in community archives.",
+      "photo": "https://picsum.photos/seed/library-author-004/200/200"
+    }
+  ]
+}
