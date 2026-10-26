@@ -1,0 +1,31 @@
+{
+  "enrollments": [
+    {
+      "id": "enrollment-001",
+      "courseId": "course-001",
+      "studentName": "Alex Morgan",
+      "progressPercent": 45,
+      "status": "in_progress",
+      "enrolledAt": "2026-09-01T09:00:00Z",
+      "completedAt": null
+    },
+    {
+      "id": "enrollment-002",
+      "courseId": "course-002",
+      "studentName": "Sam Rivera",
+      "progressPercent": 0,
+      "status": "not_started",
+      "enrolledAt": "2026-09-21T09:00:00Z",
+      "completedAt": null
+    },
+    {
+      "id": "enrollment-003",
+      "courseId": "course-003",
+      "studentName": "Taylor Kim",
+      "progressPercent": 100,
+      "status": "completed",
+      "enrolledAt": "2026-09-01T09:00:00Z",
+      "completedAt": "2026-09-15T16:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "courses": [
+    {
+      "id": "course-001",
+      "instructorId": "instructor-001",
+      "title": "Interface Design Basics",
+      "level": "beginner",
+      "durationMinutes": 180,
+      "price": 29,
+      "currency": "USD",
+      "tags": [
+        "design",
+        "ux"
+      ]
+    },
+    {
+      "id": "course-002",
+      "instructorId": "instructor-002",
+      "title": "Working with JSON APIs",
+      "level": "intermediate",
+      "durationMinutes": 240,
+      "price": 49,
+      "currency": "USD",
+      "tags": [
+        "development",
+        "api"
+      ]
+    },
+    {
+      "id": "course-003",
+      "instructorId": "instructor-003",
+      "title": "Everyday Sketching",
+      "level": "beginner",
+      "durationMinutes": 120,
+      "price": 0,
+      "currency": "USD",
+      "tags": [
+        "art",
+        "drawing"
+      ]
+    }
+  ]
+}
