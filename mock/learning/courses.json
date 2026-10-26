@@ -3,41 +3,104 @@
     {
       "id": "course-001",
       "instructorId": "instructor-001",
+      "categoryId": "cat-design",
       "title": "Interface Design Basics",
+      "slug": "interface-design-basics",
       "level": "beginner",
       "durationMinutes": 180,
+      "lessonCount": 6,
       "price": 29,
       "currency": "USD",
-      "tags": [
-        "design",
-        "ux"
-      ]
+      "tags": ["design", "ux"],
+      "rating": 4.7,
+      "enrollmentCount": 842,
+      "thumbnail": "https://picsum.photos/seed/course-001/800/450",
+      "status": "published"
     },
     {
       "id": "course-002",
       "instructorId": "instructor-002",
+      "categoryId": "cat-development",
       "title": "Working with JSON APIs",
+      "slug": "working-with-json-apis",
       "level": "intermediate",
       "durationMinutes": 240,
+      "lessonCount": 8,
       "price": 49,
       "currency": "USD",
-      "tags": [
-        "development",
-        "api"
-      ]
+      "tags": ["development", "api"],
+      "rating": 4.5,
+      "enrollmentCount": 1204,
+      "thumbnail": "https://picsum.photos/seed/course-002/800/450",
+      "status": "published"
     },
     {
       "id": "course-003",
       "instructorId": "instructor-003",
+      "categoryId": "cat-art",
       "title": "Everyday Sketching",
+      "slug": "everyday-sketching",
       "level": "beginner",
       "durationMinutes": 120,
+      "lessonCount": 5,
       "price": 0,
       "currency": "USD",
-      "tags": [
-        "art",
-        "drawing"
-      ]
+      "tags": ["art", "drawing"],
+      "rating": 4.8,
+      "enrollmentCount": 3100,
+      "thumbnail": "https://picsum.photos/seed/course-003/800/450",
+      "status": "published"
+    },
+    {
+      "id": "course-004",
+      "instructorId": "instructor-004",
+      "categoryId": "cat-data",
+      "title": "SQL for Dashboard Readers",
+      "slug": "sql-for-dashboard-readers",
+      "level": "beginner",
+      "durationMinutes": 200,
+      "lessonCount": 7,
+      "price": 39,
+      "currency": "USD",
+      "tags": ["data", "sql"],
+      "rating": 4.4,
+      "enrollmentCount": 518,
+      "thumbnail": "https://picsum.photos/seed/course-004/800/450",
+      "status": "published"
+    },
+    {
+      "id": "course-005",
+      "instructorId": "instructor-001",
+      "categoryId": "cat-design",
+      "title": "Design Tokens Deep Dive",
+      "slug": "design-tokens-deep-dive",
+      "level": "advanced",
+      "durationMinutes": 300,
+      "lessonCount": 10,
+      "price": 79,
+      "currency": "USD",
+      "tags": ["design-systems"],
+      "rating": null,
+      "enrollmentCount": 0,
+      "thumbnail": "https://picsum.photos/seed/course-005/800/450",
+      "status": "draft"
+    },
+    {
+      "id": "course-006",
+      "instructorId": "instructor-002",
+      "categoryId": "cat-development",
+      "title": "Legacy jQuery Workshop",
+      "slug": "legacy-jquery",
+      "level": "intermediate",
+      "durationMinutes": 90,
+      "lessonCount": 4,
+      "price": 19,
+      "currency": "USD",
+      "tags": ["deprecated"],
+      "rating": 3.2,
+      "enrollmentCount": 42,
+      "thumbnail": "https://picsum.photos/seed/course-006/800/450",
+      "status": "archived"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "badges": [
+    {
+      "id": "badge-001",
+      "studentId": "student-003",
+      "name": "First course complete",
+      "icon": "https://picsum.photos/seed/badge-001/128/128",
+      "earnedAt": "2026-09-15T16:05:00Z"
+    },
+    {
+      "id": "badge-002",
+      "studentId": "student-001",
+      "name": "Quiz retry champion",
+      "icon": "https://picsum.photos/seed/badge-002/128/128",
+      "earnedAt": "2026-09-11T10:05:00Z"
+    },
+    {
+      "id": "badge-003",
+      "studentId": "student-004",
+      "name": "API module passed",
+      "icon": "https://picsum.photos/seed/badge-003/128/128",
+      "earnedAt": "2026-09-20T12:05:00Z"
+    }
+  ]
+}

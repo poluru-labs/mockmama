@@ -1,0 +1,8 @@
+{
+  "categories": [
+    { "id": "cat-design", "name": "Design", "slug": "design" },
+    { "id": "cat-development", "name": "Development", "slug": "development" },
+    { "id": "cat-art", "name": "Art", "slug": "art" },
+    { "id": "cat-data", "name": "Data", "slug": "data" }
+  ]
+}

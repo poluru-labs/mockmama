@@ -1,0 +1,37 @@
+{
+  "submissions": [
+    {
+      "id": "submission-001",
+      "assignmentId": "assignment-001",
+      "studentId": "student-003",
+      "enrollmentId": "enrollment-003",
+      "fileUrl": "https://picsum.photos/seed/submission-001/800/600",
+      "score": 95,
+      "feedback": "Strong line weight on the cafe sketch.",
+      "status": "graded",
+      "submittedAt": "2026-09-13T20:00:00Z"
+    },
+    {
+      "id": "submission-002",
+      "assignmentId": "assignment-002",
+      "studentId": "student-004",
+      "enrollmentId": "enrollment-005",
+      "fileUrl": "https://example.com/submissions/student-004.zip",
+      "score": null,
+      "feedback": null,
+      "status": "submitted",
+      "submittedAt": "2026-10-20T18:00:00Z"
+    },
+    {
+      "id": "submission-003",
+      "assignmentId": "assignment-002",
+      "studentId": "student-002",
+      "enrollmentId": "enrollment-002",
+      "fileUrl": null,
+      "score": null,
+      "feedback": null,
+      "status": "missing",
+      "submittedAt": null
+    }
+  ]
+}

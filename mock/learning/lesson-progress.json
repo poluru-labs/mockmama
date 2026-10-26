@@ -1,0 +1,44 @@
+{
+  "lessonProgress": [
+    {
+      "id": "progress-001",
+      "enrollmentId": "enrollment-001",
+      "lessonId": "lesson-001",
+      "completed": true,
+      "watchedSeconds": 1500,
+      "updatedAt": "2026-09-05T11:00:00Z"
+    },
+    {
+      "id": "progress-002",
+      "enrollmentId": "enrollment-001",
+      "lessonId": "lesson-002",
+      "completed": true,
+      "watchedSeconds": 2100,
+      "updatedAt": "2026-09-08T14:00:00Z"
+    },
+    {
+      "id": "progress-003",
+      "enrollmentId": "enrollment-001",
+      "lessonId": "lesson-003",
+      "completed": false,
+      "watchedSeconds": 900,
+      "updatedAt": "2026-09-12T09:00:00Z"
+    },
+    {
+      "id": "progress-004",
+      "enrollmentId": "enrollment-003",
+      "lessonId": "lesson-006",
+      "completed": true,
+      "watchedSeconds": 1200,
+      "updatedAt": "2026-09-10T10:00:00Z"
+    },
+    {
+      "id": "progress-005",
+      "enrollmentId": "enrollment-003",
+      "lessonId": "lesson-007",
+      "completed": true,
+      "watchedSeconds": 1500,
+      "updatedAt": "2026-09-14T16:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "quizAttempts": [
+    {
+      "id": "attempt-001",
+      "quizId": "quiz-001",
+      "studentId": "student-001",
+      "scorePercent": 60,
+      "passed": false,
+      "attemptNumber": 1,
+      "submittedAt": "2026-09-10T15:00:00Z"
+    },
+    {
+      "id": "attempt-002",
+      "quizId": "quiz-001",
+      "studentId": "student-001",
+      "scorePercent": 100,
+      "passed": true,
+      "attemptNumber": 2,
+      "submittedAt": "2026-09-11T10:00:00Z"
+    },
+    {
+      "id": "attempt-003",
+      "quizId": "quiz-003",
+      "studentId": "student-003",
+      "scorePercent": 100,
+      "passed": true,
+      "attemptNumber": 1,
+      "submittedAt": "2026-09-14T18:00:00Z"
+    },
+    {
+      "id": "attempt-004",
+      "quizId": "quiz-002",
+      "studentId": "student-004",
+      "scorePercent": 83,
+      "passed": true,
+      "attemptNumber": 1,
+      "submittedAt": "2026-09-20T12:00:00Z"
+    }
+  ]
+}

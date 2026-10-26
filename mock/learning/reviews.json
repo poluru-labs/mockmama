@@ -1,0 +1,44 @@
+{
+  "reviews": [
+    {
+      "id": "review-001",
+      "courseId": "course-001",
+      "studentId": "student-001",
+      "rating": 5,
+      "title": "Clear examples",
+      "body": "The spacing lesson alone was worth the price.",
+      "createdAt": "2026-09-12T20:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-002",
+      "courseId": "course-003",
+      "studentId": "student-003",
+      "rating": 5,
+      "title": "Free and useful",
+      "body": "Finished in two weekends.",
+      "createdAt": "2026-09-16T09:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-003",
+      "courseId": "course-002",
+      "studentId": "student-004",
+      "rating": 4,
+      "title": "Good fetch section",
+      "body": "Would like one more exercise on pagination.",
+      "createdAt": "2026-09-22T11:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "review-004",
+      "courseId": "course-006",
+      "studentId": "student-002",
+      "rating": 2,
+      "title": "Outdated",
+      "body": "Archived course note was not visible at checkout.",
+      "createdAt": "2026-05-01T08:00:00Z",
+      "status": "hidden"
+    }
+  ]
+}

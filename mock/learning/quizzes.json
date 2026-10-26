@@ -1,0 +1,31 @@
+{
+  "quizzes": [
+    {
+      "id": "quiz-001",
+      "courseId": "course-001",
+      "lessonId": "lesson-003",
+      "title": "States checkpoint",
+      "questionCount": 5,
+      "passingScorePercent": 80,
+      "status": "published"
+    },
+    {
+      "id": "quiz-002",
+      "courseId": "course-002",
+      "lessonId": "lesson-005",
+      "title": "API errors quiz",
+      "questionCount": 6,
+      "passingScorePercent": 70,
+      "status": "published"
+    },
+    {
+      "id": "quiz-003",
+      "courseId": "course-003",
+      "lessonId": "lesson-007",
+      "title": "Sketch review",
+      "questionCount": 3,
+      "passingScorePercent": 100,
+      "status": "published"
+    }
+  ]
+}

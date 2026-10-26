@@ -3,17 +3,38 @@
     {
       "id": "instructor-001",
       "name": "Maya Brooks",
-      "bio": "Product designer and educator."
+      "email": "maya.brooks@learn.example.com",
+      "bio": "Product designer and educator.",
+      "avatar": "https://picsum.photos/seed/instructor-001/200/200",
+      "expertise": ["ux", "design-systems"],
+      "status": "active"
     },
     {
       "id": "instructor-002",
       "name": "Noah Patel",
-      "bio": "Web developer and mentor."
+      "email": "noah.patel@learn.example.com",
+      "bio": "Web developer and mentor.",
+      "avatar": "https://picsum.photos/seed/instructor-002/200/200",
+      "expertise": ["javascript", "apis"],
+      "status": "active"
     },
     {
       "id": "instructor-003",
       "name": "Leah Park",
-      "bio": "Illustrator and workshop host."
+      "email": "leah.park@learn.example.com",
+      "bio": "Illustrator and workshop host.",
+      "avatar": "https://picsum.photos/seed/instructor-003/200/200",
+      "expertise": ["drawing", "workshops"],
+      "status": "active"
+    },
+    {
+      "id": "instructor-004",
+      "name": "Priya Nair",
+      "email": "priya.nair@learn.example.com",
+      "bio": "Data analyst teaching SQL for designers.",
+      "avatar": "https://picsum.photos/seed/instructor-004/200/200",
+      "expertise": ["sql", "analytics"],
+      "status": "active"
     }
   ]
 }
