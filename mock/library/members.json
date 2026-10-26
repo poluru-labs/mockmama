@@ -1,0 +1,25 @@
+{
+  "members": [
+    {
+      "id": "member-001",
+      "name": "Morgan Ellis",
+      "email": "morgan.ellis@example.com",
+      "joinedAt": "2026-01-10",
+      "status": "active"
+    },
+    {
+      "id": "member-002",
+      "name": "Riley Chen",
+      "email": "riley.chen@example.com",
+      "joinedAt": "2026-03-15",
+      "status": "active"
+    },
+    {
+      "id": "member-003",
+      "name": "Jamie Cruz",
+      "email": "jamie.cruz@example.com",
+      "joinedAt": "2026-05-20",
+      "status": "active"
+    }
+  ]
+}
