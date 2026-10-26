@@ -1,0 +1,31 @@
+{
+  "books": [
+    {
+      "id": "book-001",
+      "title": "The Orchard Map",
+      "author": "Maya Rivers",
+      "genre": "fiction",
+      "publicationYear": 2024,
+      "copiesTotal": 4,
+      "copiesAvailable": 3
+    },
+    {
+      "id": "book-002",
+      "title": "Everyday Astronomy",
+      "author": "Noah Fields",
+      "genre": "science",
+      "publicationYear": 2025,
+      "copiesTotal": 2,
+      "copiesAvailable": 2
+    },
+    {
+      "id": "book-003",
+      "title": "The Quiet Workshop",
+      "author": "Leah Stone",
+      "genre": "crafts",
+      "publicationYear": 2023,
+      "copiesTotal": 1,
+      "copiesAvailable": 0
+    }
+  ]
+}

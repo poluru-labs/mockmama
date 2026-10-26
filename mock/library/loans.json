@@ -1,0 +1,31 @@
+{
+  "loans": [
+    {
+      "id": "loan-001",
+      "bookId": "book-001",
+      "memberId": "member-001",
+      "borrowedAt": "2026-09-15",
+      "dueAt": "2026-09-29",
+      "returnedAt": null,
+      "status": "active"
+    },
+    {
+      "id": "loan-002",
+      "bookId": "book-002",
+      "memberId": "member-002",
+      "borrowedAt": "2026-09-01",
+      "dueAt": "2026-09-15",
+      "returnedAt": "2026-09-14",
+      "status": "returned"
+    },
+    {
+      "id": "loan-003",
+      "bookId": "book-003",
+      "memberId": "member-003",
+      "borrowedAt": "2026-09-01",
+      "dueAt": "2026-09-15",
+      "returnedAt": null,
+      "status": "overdue"
+    }
+  ]
+}
