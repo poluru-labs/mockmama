@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "user_analyst_001",
+      "name": "Taylor Brooks",
+      "email": "taylor.brooks@northline.example.com",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/analyst-001/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_analyst_002",
+      "name": "Morgan Kim",
+      "email": "morgan.kim@northline.example.com",
+      "role": "analyst",
+      "avatar": "https://picsum.photos/seed/analyst-002/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_analyst_003",
+      "name": "Riley Chen",
+      "email": "riley.chen@northline.example.com",
+      "role": "viewer",
+      "avatar": "https://picsum.photos/seed/analyst-003/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_analyst_004",
+      "name": "Jamie Ortiz",
+      "email": "jamie.ortiz@northline.example.com",
+      "role": "analyst",
+      "avatar": "https://picsum.photos/seed/analyst-004/200/200",
+      "status": "invited"
+    }
+  ]
+}

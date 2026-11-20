@@ -1,0 +1,13 @@
+{
+  "workspace": {
+    "id": "ws_analytics_workbench_001",
+    "name": "Northline Analytics Lab",
+    "slug": "northline-analytics",
+    "timezone": "America/Denver",
+    "defaultDatasetId": "ds_shop_analytics",
+    "plan": "team",
+    "seatsUsed": 11,
+    "seatsTotal": 20,
+    "status": "active"
+  }
+}
