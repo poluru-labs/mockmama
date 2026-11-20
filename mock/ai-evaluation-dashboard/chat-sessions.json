@@ -41,6 +41,27 @@
           "model": "gpt-4.1-mini"
         }
       ]
+    },
+    {
+      "id": "sess_scorecard_week",
+      "title": "Weekly exec KPI rollup",
+      "updatedAt": "2026-03-17T10:05:00.000Z",
+      "agentId": "agent_scorecard",
+      "messages": [
+        {
+          "id": "msg_005",
+          "role": "user",
+          "content": "Build weekly scorecard highlighting reg_017 and suite pass rate.",
+          "createdAt": "2026-03-17T10:00:00.000Z"
+        },
+        {
+          "id": "msg_006",
+          "role": "assistant",
+          "content": "Scorecard Builder (prompt 2026.01.8) — Draft score_weekly_exec with critical regression annotation.",
+          "createdAt": "2026-03-17T10:05:00.000Z",
+          "model": "gpt-4.1-mini"
+        }
+      ]
     }
   ]
 }

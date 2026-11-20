@@ -1,0 +1,25 @@
+{
+  "gates": [
+    {
+      "id": "gate_001",
+      "candidateModelId": "mdl_gpt41mini_candidate",
+      "targetEnvironmentId": "env_prod",
+      "status": "blocked",
+      "blockedByRegressionId": "reg_017",
+      "requestedById": "user_ml_002",
+      "reviewerId": null,
+      "requestedAt": "2026-03-17T08:30:00.000Z"
+    },
+    {
+      "id": "gate_002",
+      "candidateModelId": "mdl_support_prompt_v12",
+      "targetEnvironmentId": "env_staging",
+      "status": "approved",
+      "blockedByRegressionId": null,
+      "requestedById": "user_ml_002",
+      "reviewerId": "user_ml_001",
+      "requestedAt": "2026-03-16T10:00:00.000Z",
+      "approvedAt": "2026-03-16T15:00:00.000Z"
+    }
+  ]
+}

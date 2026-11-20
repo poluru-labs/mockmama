@@ -14,6 +14,16 @@
       "label": "Regressions",
       "value": "14",
       "hint": "Open"
+    },
+    {
+      "label": "Runs today",
+      "value": "8",
+      "hint": "All suites"
+    },
+    {
+      "label": "Promotion gates",
+      "value": "1",
+      "hint": "Blocked"
     }
   ]
 }
