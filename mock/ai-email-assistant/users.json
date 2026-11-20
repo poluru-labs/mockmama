@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "user_alex",
+      "name": "Alex Morgan",
+      "email": "alex@example.com",
+      "role": "owner",
+      "avatar": "https://picsum.photos/seed/email-user-alex/200/200",
+      "voiceProfileId": "voice_lead_sales",
+      "status": "active"
+    },
+    {
+      "id": "user_sam",
+      "name": "Sam Rivera",
+      "email": "sam.rivera@example.com",
+      "role": "member",
+      "avatar": "https://picsum.photos/seed/email-user-sam/200/200",
+      "voiceProfileId": "voice_ops",
+      "status": "active"
+    },
+    {
+      "id": "user_legal",
+      "name": "Legal Desk",
+      "email": "legal@example.com",
+      "role": "shared_mailbox",
+      "avatar": "https://picsum.photos/seed/email-user-legal/200/200",
+      "voiceProfileId": null,
+      "status": "active"
+    },
+    {
+      "id": "user_support",
+      "name": "Support",
+      "email": "support@example.com",
+      "role": "shared_mailbox",
+      "avatar": "https://picsum.photos/seed/email-user-support/200/200",
+      "voiceProfileId": "voice_ops",
+      "status": "active"
+    }
+  ]
+}
