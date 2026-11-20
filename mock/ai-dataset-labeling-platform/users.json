@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "user_alice",
+      "name": "Alice Nguyen",
+      "email": "alice.nguyen@annotateworks.example",
+      "role": "annotator",
+      "avatar": "https://picsum.photos/seed/label-user-alice/200/200",
+      "status": "active",
+      "throughputToday": 42
+    },
+    {
+      "id": "user_bob",
+      "name": "Bob Ellis",
+      "email": "bob.ellis@annotateworks.example",
+      "role": "annotator",
+      "avatar": "https://picsum.photos/seed/label-user-bob/200/200",
+      "status": "active",
+      "throughputToday": 38
+    },
+    {
+      "id": "user_cara",
+      "name": "Cara Okonkwo",
+      "email": "cara.okonkwo@annotateworks.example",
+      "role": "annotator",
+      "avatar": "https://picsum.photos/seed/label-user-cara/200/200",
+      "status": "active",
+      "throughputToday": 29
+    },
+    {
+      "id": "user_dana",
+      "name": "Dana Park",
+      "email": "dana.park@annotateworks.example",
+      "role": "reviewer",
+      "avatar": "https://picsum.photos/seed/label-user-dana/200/200",
+      "status": "active",
+      "throughputToday": 0
+    },
+    {
+      "id": "user_admin",
+      "name": "Morgan Lee",
+      "email": "morgan.lee@annotateworks.example",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/label-user-admin/200/200",
+      "status": "active",
+      "throughputToday": 0
+    },
+    {
+      "id": "user_eve",
+      "name": "Eve Martinez",
+      "email": "eve.martinez@annotateworks.example",
+      "role": "annotator",
+      "avatar": "https://picsum.photos/seed/label-user-eve/200/200",
+      "status": "invited",
+      "throughputToday": 0
+    }
+  ]
+}

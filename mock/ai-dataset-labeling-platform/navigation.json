@@ -1,0 +1,13 @@
+{
+  "navigation": [
+    { "id": "nav_dashboard", "label": "Dashboard", "route": "/dashboard", "icon": "layout-dashboard" },
+    { "id": "nav_projects", "label": "Projects", "route": "/projects", "icon": "folder" },
+    { "id": "nav_queue", "label": "Labeling queue", "route": "/queue", "icon": "list", "badge": 184 },
+    { "id": "nav_consensus", "label": "Consensus", "route": "/consensus", "icon": "scale", "badge": 7 },
+    { "id": "nav_qa", "label": "QA", "route": "/qa", "icon": "shield-check" },
+    { "id": "nav_exports", "label": "Exports", "route": "/exports", "icon": "download" },
+    { "id": "nav_guidelines", "label": "Guidelines", "route": "/guidelines", "icon": "book-open" },
+    { "id": "nav_agents", "label": "AI agents", "route": "/agents", "icon": "bot" },
+    { "id": "nav_settings", "label": "Settings", "route": "/settings", "icon": "settings" }
+  ]
+}

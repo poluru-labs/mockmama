@@ -1,0 +1,13 @@
+{
+  "workspace": {
+    "id": "ws_labeling_platform_001",
+    "name": "AnnotateWorks Studio",
+    "slug": "annotateworks",
+    "timezone": "America/Chicago",
+    "defaultProjectId": "proj_ticket_intent_v3",
+    "plan": "enterprise",
+    "seatsUsed": 36,
+    "seatsTotal": 50,
+    "status": "active"
+  }
+}

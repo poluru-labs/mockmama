@@ -5,6 +5,13 @@
   "brandColor": "#006699",
   "defaultModel": "gpt-4.1-mini",
   "apiBaseUrl": "http://localhost:8080/api/v1",
+  "workspaceId": "ws_labeling_platform_001",
+  "features": {
+    "labelSuggestions": true,
+    "consensusArbiter": true,
+    "qaSampling": true,
+    "batchOrchestrator": false
+  },
   "storageKeys": {
     "activeAgentId": "dataset-labeling:active-agent"
   }
