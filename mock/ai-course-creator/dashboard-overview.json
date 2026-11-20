@@ -1,0 +1,24 @@
+{
+  "overview": {
+    "pipeline": {
+      "draft": 2,
+      "inProduction": 1,
+      "inReview": 5,
+      "published": 2,
+      "blocked": 1,
+      "archived": 1
+    },
+    "recentCourses": [
+      { "courseId": "crs_onboarding_compliance", "title": "Onboarding Compliance Pack", "status": "blocked" },
+      { "courseId": "crs_agile_pm_fundamentals", "title": "Agile Product Management Fundamentals", "status": "draft" },
+      { "courseId": "crs_data_literacy_101", "title": "Data Literacy for Teams", "status": "in_production" }
+    ],
+    "agentUtilization": [
+      { "agentId": "agent_curriculum", "runsThisWeek": 14 },
+      { "agentId": "agent_syllabus", "runsThisWeek": 9 },
+      { "agentId": "agent_lesson", "runsThisWeek": 22 },
+      { "agentId": "agent_assessment", "runsThisWeek": 6 },
+      { "agentId": "agent_rubric", "runsThisWeek": 0 }
+    ]
+  }
+}

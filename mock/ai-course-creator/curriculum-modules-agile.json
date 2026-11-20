@@ -1,0 +1,40 @@
+{
+  "courseId": "crs_agile_pm_fundamentals",
+  "agentId": "agent_curriculum",
+  "pacingGuide": {
+    "minutesPerWeek": 120,
+    "suggestedSeatTimeHours": 16
+  },
+  "modules": [
+    {
+      "id": "mod_agile_01_discovery",
+      "sequence": 1,
+      "title": "Discovery and problem framing",
+      "durationMinutes": 100,
+      "outcomeIds": ["lo_agile_01"],
+      "prerequisites": [],
+      "summary": "Outcome hypotheses, interviews, and problem statements.",
+      "status": "draft"
+    },
+    {
+      "id": "mod_agile_02_backlog",
+      "sequence": 2,
+      "title": "Backlog and prioritization",
+      "durationMinutes": 110,
+      "outcomeIds": ["lo_agile_02"],
+      "prerequisites": ["mod_agile_01_discovery"],
+      "summary": "Story maps, RICE, and guardrail metrics.",
+      "status": "in_review"
+    },
+    {
+      "id": "mod_agile_03_sprint",
+      "sequence": 3,
+      "title": "Sprint planning lab",
+      "durationMinutes": 0,
+      "outcomeIds": ["lo_agile_03"],
+      "prerequisites": ["mod_agile_02_backlog"],
+      "summary": "Placeholder — pending syllabus weeks 5–8.",
+      "status": "empty"
+    }
+  ]
+}

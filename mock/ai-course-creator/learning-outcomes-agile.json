@@ -1,0 +1,26 @@
+{
+  "courseId": "crs_agile_pm_fundamentals",
+  "outcomes": [
+    {
+      "id": "lo_agile_01",
+      "code": "APM-1",
+      "statement": "Frame product problems as testable outcome hypotheses.",
+      "bloomLevel": "analyze",
+      "moduleIds": ["mod_agile_01_discovery"]
+    },
+    {
+      "id": "lo_agile_02",
+      "code": "APM-2",
+      "statement": "Prioritize backlog items using explicit trade-off criteria.",
+      "bloomLevel": "apply",
+      "moduleIds": ["mod_agile_02_backlog"]
+    },
+    {
+      "id": "lo_agile_03",
+      "code": "APM-3",
+      "statement": "Plan and demo a sprint that ties delivery to learning metrics.",
+      "bloomLevel": "create",
+      "moduleIds": ["mod_agile_03_sprint"]
+    }
+  ]
+}

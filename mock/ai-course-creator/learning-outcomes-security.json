@@ -1,0 +1,12 @@
+{
+  "courseId": "crs_security_awareness",
+  "outcomes": [
+    {
+      "id": "lo_sec_01",
+      "code": "SEC-1",
+      "statement": "Recognize common phishing and social-engineering patterns.",
+      "bloomLevel": "apply",
+      "moduleIds": []
+    }
+  ]
+}

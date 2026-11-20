@@ -1,0 +1,13 @@
+{
+  "navigation": [
+    { "id": "nav_dashboard", "label": "Dashboard", "route": "/dashboard", "icon": "layout-dashboard" },
+    { "id": "nav_courses", "label": "Courses", "route": "/courses", "icon": "graduation-cap" },
+    { "id": "nav_queue", "label": "Review queue", "route": "/queue", "icon": "inbox", "badge": 5 },
+    { "id": "nav_outcomes", "label": "Outcomes", "route": "/outcomes", "icon": "target" },
+    { "id": "nav_lessons", "label": "Lessons", "route": "/lessons", "icon": "presentation" },
+    { "id": "nav_assessments", "label": "Assessments", "route": "/assessments", "icon": "clipboard-check" },
+    { "id": "nav_rubrics", "label": "Rubrics", "route": "/rubrics", "icon": "table" },
+    { "id": "nav_agents", "label": "Agents", "route": "/agents", "icon": "bot" },
+    { "id": "nav_settings", "label": "Settings", "route": "/settings", "icon": "settings" }
+  ]
+}

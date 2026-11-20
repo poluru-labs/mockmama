@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "workspaceId": "ws_course_studio_001",
+    "defaultAgentId": "agent_curriculum",
+    "bloomTaxonomyVersion": "revised_2001",
+    "requireHumanApprovalBeforePublish": true,
+    "retainChatLogsDays": 90,
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/northline-logo/320/80",
+      "accentColor": "#693382"
+    },
+    "integrations": {
+      "lmsWebhookUrl": null,
+      "identityProvider": "okta_sandbox"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "notifications": [
+    {
+      "id": "notif_001",
+      "userId": "user_ld_003",
+      "type": "review_assigned",
+      "title": "Lesson ready for review",
+      "body": "Data Literacy — Axes, baselines, and honest scales",
+      "href": "/lessons/lsn_dl_chart_axes",
+      "read": false,
+      "createdAt": "2026-03-17T14:05:00.000Z"
+    },
+    {
+      "id": "notif_002",
+      "userId": "user_ld_002",
+      "type": "extraction_failed",
+      "title": "PDF extraction failed",
+      "body": "Onboarding Compliance Pack — re-upload with text layer",
+      "href": "/courses/crs_onboarding_compliance",
+      "read": false,
+      "createdAt": "2026-03-18T09:45:00.000Z"
+    },
+    {
+      "id": "notif_003",
+      "userId": "user_ld_001",
+      "type": "approval_pending",
+      "title": "Publish approval requested",
+      "body": "Chart literacy lesson awaits sign-off",
+      "href": "/approvals/appr_003",
+      "read": true,
+      "createdAt": "2026-03-17T12:00:00.000Z"
+    }
+  ]
+}

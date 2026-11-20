@@ -1,0 +1,13 @@
+{
+  "workspace": {
+    "id": "ws_course_studio_001",
+    "name": "Northline Learning Studio",
+    "slug": "northline-learning",
+    "timezone": "America/Denver",
+    "defaultLmsExportFormat": "scorm_12",
+    "plan": "team",
+    "seatsUsed": 8,
+    "seatsTotal": 15,
+    "status": "active"
+  }
+}

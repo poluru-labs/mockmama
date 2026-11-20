@@ -1,0 +1,34 @@
+{
+  "approvals": [
+    {
+      "id": "appr_001",
+      "courseId": "crs_workplace_writing",
+      "entityType": "lesson",
+      "entityId": "lsn_ww_peer_feedback",
+      "requestedById": "user_ld_002",
+      "approverId": "user_ld_001",
+      "status": "approved",
+      "decidedAt": "2026-02-20T16:00:00.000Z"
+    },
+    {
+      "id": "appr_002",
+      "courseId": "crs_security_awareness",
+      "entityType": "assessment",
+      "entityId": "asmt_sec_phishing",
+      "requestedById": "user_ld_002",
+      "approverId": "user_ld_001",
+      "status": "approved",
+      "decidedAt": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "appr_003",
+      "courseId": "crs_data_literacy_101",
+      "entityType": "lesson",
+      "entityId": "lsn_dl_chart_axes",
+      "requestedById": "user_ld_002",
+      "approverId": null,
+      "status": "pending",
+      "decidedAt": null
+    }
+  ]
+}

@@ -41,6 +41,28 @@
           "model": "gpt-4.1-mini"
         }
       ]
+    },
+    {
+      "id": "sess_agile_syllabus",
+      "title": "Agile PM — weeks 5–8 gap",
+      "updatedAt": "2026-03-18T08:10:00.000Z",
+      "agentId": "agent_syllabus",
+      "courseId": "crs_agile_pm_fundamentals",
+      "messages": [
+        {
+          "id": "msg_005",
+          "role": "user",
+          "content": "Extend the syllabus to eight weeks with a capstone week focused on stakeholder reviews.",
+          "createdAt": "2026-03-18T08:05:00.000Z"
+        },
+        {
+          "id": "msg_006",
+          "role": "assistant",
+          "content": "Syllabus Scaffolder (prompt 2026.02.4) — I would add weeks 5–8 with release metrics, stakeholder readouts, and a capstone demo rubric teaser.",
+          "createdAt": "2026-03-18T08:10:00.000Z",
+          "model": "gpt-4.1-mini"
+        }
+      ]
     }
   ]
 }
