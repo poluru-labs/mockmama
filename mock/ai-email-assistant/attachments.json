@@ -1,0 +1,27 @@
+{
+  "attachments": [
+    {
+      "id": "att_vendor_order",
+      "messageId": "in_9002",
+      "threadId": "th_vendor_renewal",
+      "filename": "order-form-q3-revised.pdf",
+      "contentType": "application/pdf",
+      "sizeBytes": 284000,
+      "url": "https://example.com/mock/attachments/order-form-q3-revised.pdf",
+      "scanned": true,
+      "malwareStatus": "clean"
+    },
+    {
+      "id": "att_phish_link",
+      "messageId": "in_9005",
+      "threadId": "th_phishing_alert",
+      "filename": null,
+      "contentType": null,
+      "sizeBytes": null,
+      "url": null,
+      "scanned": true,
+      "malwareStatus": "blocked",
+      "blockedReason": "URL reputation block"
+    }
+  ]
+}

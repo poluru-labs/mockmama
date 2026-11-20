@@ -35,6 +35,21 @@
         "sender.signature": "Sam Rivera\nOperations"
       },
       "confidence": 0.93
+    },
+    {
+      "id": "match_002",
+      "messageId": "in_9002",
+      "agentId": "agent_templates",
+      "templateId": "tpl_vendor_deadline",
+      "mergeFields": {
+        "recipient.first_name": "Contracts",
+        "document.name": "revised order form",
+        "condition": "MSA addendum is countersigned",
+        "ask": "hold our current seat count",
+        "date": "March 21",
+        "sender.signature": "Alex Morgan\nAccount Executive"
+      },
+      "confidence": 0.88
     }
   ]
 }

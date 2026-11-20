@@ -53,6 +53,39 @@
           "body": "Gentle ping — Jordan’s offer expires Friday. Form takes ~10 minutes."
         }
       ]
+    },
+    {
+      "id": "th_partner_intro",
+      "subject": "Intro — design system co-marketing",
+      "participants": ["alex@example.com", "partnerships@studio.example"],
+      "messageCount": 4,
+      "lastMessageAt": "2026-03-16T17:00:00.000Z",
+      "status": "snoozed",
+      "snoozedUntil": "2026-03-20T09:00:00.000Z",
+      "messages": [
+        {
+          "id": "msg_th_05",
+          "from": "partnerships@studio.example",
+          "sentAt": "2026-03-16T17:00:00.000Z",
+          "body": "Following up on the webinar idea — do you have capacity in April?"
+        }
+      ]
+    },
+    {
+      "id": "th_phishing_alert",
+      "subject": "URGENT: verify your payroll",
+      "participants": ["alex@example.com", "payroll-fake@scam.example"],
+      "messageCount": 1,
+      "lastMessageAt": "2026-03-17T07:30:00.000Z",
+      "status": "quarantined",
+      "messages": [
+        {
+          "id": "msg_th_06",
+          "from": "payroll-fake@scam.example",
+          "sentAt": "2026-03-17T07:30:00.000Z",
+          "body": "Your payroll access expires today. Click here immediately."
+        }
+      ]
     }
   ]
 }

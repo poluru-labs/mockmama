@@ -15,6 +15,14 @@
       "traits": ["bullet_actions", "dates_explicit", "neutral_tone"],
       "avoid": ["marketing_language"],
       "signature": "Sam Rivera\nOperations\nsam.rivera@example.com"
+    },
+    {
+      "id": "voice_exec",
+      "name": "Executive — brief",
+      "formality": "minimal",
+      "traits": ["one_screen", "no_fluff"],
+      "avoid": ["preambles", "nested_quotes"],
+      "signature": "— Leadership"
     }
   ]
 }

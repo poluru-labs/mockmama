@@ -29,6 +29,28 @@
       "suggestedLabels": ["newsletter"],
       "suggestedQueue": "archive",
       "rationale": "Bulk sender; no action requested."
+    },
+    {
+      "id": "tri_004",
+      "messageId": "in_9005",
+      "agentId": "agent_triage",
+      "priorityScore": 95,
+      "priority": "urgent",
+      "suggestedLabels": ["phishing", "security"],
+      "suggestedQueue": "security",
+      "rationale": "Credential phishing pattern; suspicious domain.",
+      "status": "auto_quarantined"
+    },
+    {
+      "id": "tri_005",
+      "messageId": "in_9004",
+      "agentId": "agent_triage",
+      "priorityScore": 40,
+      "priority": "normal",
+      "suggestedLabels": ["partnerships"],
+      "suggestedQueue": "procurement",
+      "rationale": "Partnership follow-up; snoozed by user.",
+      "status": "snoozed"
     }
   ]
 }

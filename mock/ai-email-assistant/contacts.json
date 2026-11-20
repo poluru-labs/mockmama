@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "id": "cnt_maya",
+      "email": "maya.lin@northwind.example",
+      "displayName": "Maya Lin",
+      "company": "Northwind",
+      "accountId": "8842",
+      "lastInteractionAt": "2026-03-17T11:05:00.000Z"
+    },
+    {
+      "id": "cnt_vendor_contracts",
+      "email": "contracts@vendor.example",
+      "displayName": "Vendor Contracts",
+      "company": "Platform Vendor Inc.",
+      "lastInteractionAt": "2026-03-17T13:40:00.000Z"
+    },
+    {
+      "id": "cnt_jordan",
+      "email": "jordan@startupco.example",
+      "displayName": "Jordan Oke",
+      "company": "StartupCo",
+      "lastInteractionAt": "2026-03-10T16:00:00.000Z"
+    }
+  ]
+}
