@@ -1,0 +1,19 @@
+{
+  "settings": {
+    "workspaceId": "ws_analytics_workbench_001",
+    "defaultAgentId": "agent_query",
+    "sqlDialectDefault": "snowflake",
+    "maxQueryTimeoutSeconds": 600,
+    "requireInsightCaveats": true,
+    "notebookKernelPinRequired": false,
+    "retainQueryHistoryDays": 180,
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/northline-analytics-logo/320/80",
+      "accentColor": "#9E4F20"
+    },
+    "integrations": {
+      "warehouseRole": "ANALYST_ROLE",
+      "exportDestination": null
+    }
+  }
+}

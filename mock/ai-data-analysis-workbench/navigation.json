@@ -1,0 +1,13 @@
+{
+  "navigation": [
+    { "id": "nav_home", "label": "Home", "route": "/dashboard", "icon": "layout-dashboard" },
+    { "id": "nav_datasets", "label": "Datasets", "route": "/datasets", "icon": "database" },
+    { "id": "nav_explorer", "label": "Schema", "route": "/schema", "icon": "table" },
+    { "id": "nav_ask", "label": "Ask", "route": "/ask", "icon": "message-circle" },
+    { "id": "nav_notebooks", "label": "Notebooks", "route": "/notebooks", "icon": "book" },
+    { "id": "nav_insights", "label": "Insights", "route": "/insights", "icon": "sparkles", "badge": 3 },
+    { "id": "nav_quality", "label": "Quality", "route": "/quality", "icon": "shield-check", "badge": 2 },
+    { "id": "nav_agents", "label": "Agents", "route": "/agents", "icon": "bot" },
+    { "id": "nav_settings", "label": "Settings", "route": "/settings", "icon": "settings" }
+  ]
+}
