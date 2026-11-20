@@ -1,0 +1,34 @@
+{
+  "notifications": [
+    {
+      "id": "notif_001",
+      "userId": "user_cara",
+      "type": "sla_nudge",
+      "title": "Wave quota reminder",
+      "body": "60 items left on week 12 backlog",
+      "href": "/batches/wave_17_wk12",
+      "read": false,
+      "createdAt": "2026-03-17T08:00:00.000Z"
+    },
+    {
+      "id": "notif_002",
+      "userId": "user_dana",
+      "type": "consensus_review",
+      "title": "Consensus case ready",
+      "body": "item_88421 — billing vs bug split",
+      "href": "/consensus/con_001",
+      "read": false,
+      "createdAt": "2026-03-17T11:32:00.000Z"
+    },
+    {
+      "id": "notif_003",
+      "userId": "user_admin",
+      "type": "export_failed",
+      "title": "Export validation failed",
+      "body": "exp_intent_failed — row count mismatch",
+      "href": "/exports/exp_intent_failed",
+      "read": true,
+      "createdAt": "2026-03-17T12:06:00.000Z"
+    }
+  ]
+}

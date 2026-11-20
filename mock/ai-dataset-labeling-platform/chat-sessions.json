@@ -41,6 +41,28 @@
           "model": "gpt-4.1-mini"
         }
       ]
+    },
+    {
+      "id": "sess_qa_drift",
+      "title": "QA drift — Cara billing confusion",
+      "updatedAt": "2026-03-17T09:30:00.000Z",
+      "agentId": "agent_qa",
+      "projectId": "proj_ticket_intent_v3",
+      "messages": [
+        {
+          "id": "msg_005",
+          "role": "user",
+          "content": "Draft reviewer note for billing vs bug drift on user_cara.",
+          "createdAt": "2026-03-17T09:25:00.000Z"
+        },
+        {
+          "id": "msg_006",
+          "role": "assistant",
+          "content": "QA Sampler (prompt 2026.01.8) — Suggest refresher on guide_intent_v3#sec_billing_vs_bug; cite qa_batch_0317_a.",
+          "createdAt": "2026-03-17T09:30:00.000Z",
+          "model": "gpt-4.1-mini"
+        }
+      ]
     }
   ]
 }

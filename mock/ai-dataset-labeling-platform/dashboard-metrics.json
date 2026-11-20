@@ -14,6 +14,16 @@
       "label": "QA sampled",
       "value": "8%",
       "hint": "Reviewed"
+    },
+    {
+      "label": "Queue",
+      "value": "184",
+      "hint": "Pending"
+    },
+    {
+      "label": "Consensus open",
+      "value": "7",
+      "hint": "Needs review"
     }
   ]
 }
