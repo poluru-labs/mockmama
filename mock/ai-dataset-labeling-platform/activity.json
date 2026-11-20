@@ -1,0 +1,36 @@
+{
+  "activity": [
+    {
+      "id": "act_001",
+      "actorId": "user_alice",
+      "verb": "submitted",
+      "objectType": "annotation",
+      "objectId": "ann_001a",
+      "occurredAt": "2026-03-17T11:10:00.000Z"
+    },
+    {
+      "id": "act_002",
+      "actorId": "agent_consensus",
+      "verb": "resolved",
+      "objectType": "consensus_case",
+      "objectId": "con_001",
+      "occurredAt": "2026-03-17T11:30:00.000Z"
+    },
+    {
+      "id": "act_003",
+      "actorId": "user_dana",
+      "verb": "completed",
+      "objectType": "qa_batch",
+      "objectId": "qa_batch_complete_0314",
+      "occurredAt": "2026-03-15T16:00:00.000Z"
+    },
+    {
+      "id": "act_004",
+      "actorId": "agent_export",
+      "verb": "failed",
+      "objectType": "export",
+      "objectId": "exp_intent_failed",
+      "occurredAt": "2026-03-17T12:05:00.000Z"
+    }
+  ]
+}

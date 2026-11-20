@@ -1,0 +1,42 @@
+{
+  "queue": [
+    {
+      "id": "lq_001",
+      "itemId": "item_88423",
+      "projectId": "proj_ticket_intent_v3",
+      "assigneeId": "user_bob",
+      "priority": "normal",
+      "dueAt": "2026-03-18T17:00:00.000Z",
+      "status": "open"
+    },
+    {
+      "id": "lq_002",
+      "itemId": "item_12007",
+      "projectId": "proj_pii_spans_v2",
+      "assigneeId": "user_alice",
+      "priority": "high",
+      "dueAt": "2026-03-18T12:00:00.000Z",
+      "status": "in_progress"
+    },
+    {
+      "id": "lq_003",
+      "itemId": "item_88421",
+      "projectId": "proj_ticket_intent_v3",
+      "assigneeId": "user_dana",
+      "priority": "high",
+      "dueAt": "2026-03-17T18:00:00.000Z",
+      "status": "open",
+      "reason": "consensus_review"
+    },
+    {
+      "id": "lq_004",
+      "itemId": "item_90001",
+      "projectId": "proj_defect_bbox_v1",
+      "assigneeId": null,
+      "priority": "low",
+      "dueAt": null,
+      "status": "blocked",
+      "reason": "item_locked_calibration"
+    }
+  ]
+}

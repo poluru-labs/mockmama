@@ -1,0 +1,25 @@
+{
+  "metricsByUser": [
+    {
+      "userId": "user_alice",
+      "projectId": "proj_ticket_intent_v3",
+      "agreementRate": 0.93,
+      "medianSecondsPerItem": 42,
+      "qaCorrections": 3
+    },
+    {
+      "userId": "user_bob",
+      "projectId": "proj_ticket_intent_v3",
+      "agreementRate": 0.95,
+      "medianSecondsPerItem": 38,
+      "qaCorrections": 1
+    },
+    {
+      "userId": "user_cara",
+      "projectId": "proj_ticket_intent_v3",
+      "agreementRate": 0.84,
+      "medianSecondsPerItem": 51,
+      "qaCorrections": 8
+    }
+  ]
+}

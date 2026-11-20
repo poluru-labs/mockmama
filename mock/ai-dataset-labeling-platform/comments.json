@@ -1,0 +1,22 @@
+{
+  "comments": [
+    {
+      "id": "cmt_001",
+      "targetType": "item",
+      "targetId": "item_88421",
+      "authorId": "user_dana",
+      "body": "Re-read sec_billing_vs_bug before adjudicating.",
+      "createdAt": "2026-03-17T11:25:00.000Z",
+      "resolved": true
+    },
+    {
+      "id": "cmt_002",
+      "targetType": "item",
+      "targetId": "item_12008",
+      "authorId": "user_alice",
+      "body": "Include country code in span per guide — confirm end index.",
+      "createdAt": "2026-03-17T15:05:00.000Z",
+      "resolved": false
+    }
+  ]
+}

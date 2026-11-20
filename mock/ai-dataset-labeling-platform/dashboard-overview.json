@@ -1,0 +1,28 @@
+{
+  "overview": {
+    "byProject": [
+      {
+        "projectId": "proj_ticket_intent_v3",
+        "labeledPercent": 0.79,
+        "consensusOpen": 7
+      },
+      {
+        "projectId": "proj_pii_spans_v2",
+        "labeledPercent": 0.375,
+        "consensusOpen": 1
+      },
+      {
+        "projectId": "proj_defect_bbox_v1",
+        "labeledPercent": 0.25,
+        "consensusOpen": 0
+      }
+    ],
+    "annotatorLeaderboard": [
+      { "userId": "user_bob", "labelsToday": 38 },
+      { "userId": "user_alice", "labelsToday": 42 },
+      { "userId": "user_cara", "labelsToday": 29 }
+    ],
+    "exportsThisWeek": { "passed": 2, "failed": 1, "running": 1 },
+    "activeWaves": 1
+  }
+}
