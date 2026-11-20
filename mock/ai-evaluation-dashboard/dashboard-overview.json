@@ -1,0 +1,15 @@
+{
+  "overview": {
+    "suitesPassing": { "pass": 20, "fail": 2, "draft": 1 },
+    "runsLast24h": { "completed": 6, "running": 1, "failed": 1 },
+    "regressionsBySeverity": [
+      { "severity": "high", "open": 1 },
+      { "severity": "medium", "open": 0 },
+      { "severity": "low", "open": 0 }
+    ],
+    "topFailingSuites": [
+      { "suiteId": "suite_support_kb", "lastPassAt": "2026-03-17T06:42:00.000Z" }
+    ],
+    "pendingPromotions": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "comments": [
+    {
+      "id": "cmt_001",
+      "targetType": "regression",
+      "targetId": "reg_017",
+      "authorId": "user_ml_002",
+      "body": "Suspect prompt pack 12.3.0 — rerunning with prompt pinned to v12.2.",
+      "createdAt": "2026-03-17T08:00:00.000Z",
+      "resolved": false
+    },
+    {
+      "id": "cmt_002",
+      "targetType": "eval_run",
+      "targetId": "run_20260317_002",
+      "authorId": "user_ml_001",
+      "body": "Do not promote until citation_f1 recovers.",
+      "createdAt": "2026-03-17T08:15:00.000Z",
+      "resolved": true
+    }
+  ]
+}

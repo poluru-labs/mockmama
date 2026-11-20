@@ -1,0 +1,36 @@
+{
+  "activity": [
+    {
+      "id": "act_001",
+      "actorId": "agent_regression",
+      "verb": "opened",
+      "objectType": "regression",
+      "objectId": "reg_017",
+      "occurredAt": "2026-03-17T07:50:00.000Z"
+    },
+    {
+      "id": "act_002",
+      "actorId": "user_ml_002",
+      "verb": "triggered",
+      "objectType": "eval_run",
+      "objectId": "run_20260317_002",
+      "occurredAt": "2026-03-17T07:00:00.000Z"
+    },
+    {
+      "id": "act_003",
+      "actorId": "user_ml_001",
+      "verb": "approved",
+      "objectType": "promotion_gate",
+      "objectId": "gate_002",
+      "occurredAt": "2026-03-16T15:00:00.000Z"
+    },
+    {
+      "id": "act_004",
+      "actorId": "user_ml_003",
+      "verb": "reviewed",
+      "objectType": "feedback_batch",
+      "objectId": "hf_batch_0317",
+      "occurredAt": "2026-03-17T13:00:00.000Z"
+    }
+  ]
+}

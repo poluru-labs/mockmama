@@ -1,0 +1,34 @@
+{
+  "notifications": [
+    {
+      "id": "notif_001",
+      "userId": "user_ml_002",
+      "type": "regression_open",
+      "title": "High severity regression",
+      "body": "Support KB — exact_match below threshold",
+      "href": "/regressions/reg_017",
+      "read": false,
+      "createdAt": "2026-03-17T07:51:00.000Z"
+    },
+    {
+      "id": "notif_002",
+      "userId": "user_ml_001",
+      "type": "promotion_blocked",
+      "title": "Promotion blocked",
+      "body": "Candidate gpt-4.1-mini rc2",
+      "href": "/gates/gate_001",
+      "read": false,
+      "createdAt": "2026-03-17T08:31:00.000Z"
+    },
+    {
+      "id": "notif_003",
+      "userId": "user_ml_003",
+      "type": "feedback_batch",
+      "title": "Rater batch ready",
+      "body": "hf_batch_0317 — 48 items",
+      "href": "/feedback/hf_batch_0317",
+      "read": true,
+      "createdAt": "2026-03-17T09:00:00.000Z"
+    }
+  ]
+}
