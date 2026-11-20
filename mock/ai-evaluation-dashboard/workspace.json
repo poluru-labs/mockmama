@@ -1,0 +1,13 @@
+{
+  "workspace": {
+    "id": "ws_eval_dashboard_001",
+    "name": "Model Quality HQ",
+    "slug": "model-quality-hq",
+    "timezone": "America/Chicago",
+    "defaultSuiteId": "suite_support_kb",
+    "plan": "enterprise",
+    "seatsUsed": 18,
+    "seatsTotal": 30,
+    "status": "active"
+  }
+}

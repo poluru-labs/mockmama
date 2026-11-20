@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "user_ml_001",
+      "name": "Priya Shah",
+      "email": "priya.shah@modelquality.example",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/eval-user-001/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_ml_002",
+      "name": "Taylor Brooks",
+      "email": "taylor.brooks@modelquality.example",
+      "role": "ml_engineer",
+      "avatar": "https://picsum.photos/seed/eval-user-002/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_ml_003",
+      "name": "Jordan Reyes",
+      "email": "jordan.reyes@modelquality.example",
+      "role": "reviewer",
+      "avatar": "https://picsum.photos/seed/eval-user-003/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_ml_004",
+      "name": "Jamie Ortiz",
+      "email": "jamie.ortiz@modelquality.example",
+      "role": "viewer",
+      "avatar": "https://picsum.photos/seed/eval-user-004/200/200",
+      "status": "invited"
+    }
+  ]
+}
