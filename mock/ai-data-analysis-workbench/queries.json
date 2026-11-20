@@ -23,6 +23,45 @@
       "sql": "WITH jan_buyers AS (\n  SELECT DISTINCT customer_id\n  FROM analytics.fct_orders\n  WHERE ordered_at >= '2026-01-01' AND ordered_at < '2026-02-01'\n),\nfeb_buyers AS (\n  SELECT DISTINCT customer_id\n  FROM analytics.fct_orders\n  WHERE ordered_at >= '2026-02-01' AND ordered_at < '2026-03-01'\n)\nSELECT\n  COUNT(*) AS jan_customers,\n  COUNT(f.customer_id) AS returned_in_feb,\n  returned_in_feb / NULLIF(jan_customers, 0) AS repeat_rate\nFROM jan_buyers j\nLEFT JOIN feb_buyers f ON j.customer_id = f.customer_id;",
       "lintWarnings": [],
       "estimatedRows": 1
+    },
+    {
+      "id": "qry_campaign_roas",
+      "datasetId": "ds_marketing_exports",
+      "agentId": "agent_query",
+      "naturalLanguage": "ROAS by campaign for Q1 2026, sorted worst to best.",
+      "dialect": "duckdb",
+      "status": "lint_passed",
+      "sql": "SELECT campaign_name, SUM(attributed_revenue) / NULLIF(SUM(spend_usd), 0) AS roas FROM campaign_spend WHERE spend_month >= '2026-01-01' AND spend_month < '2026-04-01' GROUP BY 1 ORDER BY roas ASC NULLS LAST;",
+      "lintWarnings": [],
+      "estimatedRows": 48,
+      "ownerId": "user_analyst_002"
+    },
+    {
+      "id": "qry_csat_by_tier",
+      "datasetId": "ds_support_tickets",
+      "agentId": "agent_query",
+      "naturalLanguage": "Average CSAT by customer tier for tickets closed last 30 days.",
+      "dialect": "postgres",
+      "status": "lint_failed",
+      "sql": "SELECT tier, AVG(score) FROM csat_responses r JOIN tickets t ON r.ticket_id = t.id WHERE t.closed_at >= NOW() - INTERVAL '30 days' GROUP BY tier;",
+      "lintWarnings": [
+        "Column tier not found on tickets — use dim_account import or join mirror.",
+        "Degraded dataset — results may be stale."
+      ],
+      "estimatedRows": null,
+      "ownerId": "user_analyst_003"
+    },
+    {
+      "id": "qry_channel_mix",
+      "datasetId": "ds_shop_analytics",
+      "agentId": "agent_query",
+      "naturalLanguage": "Order share by channel when channel is not null.",
+      "dialect": "snowflake",
+      "status": "executing",
+      "sql": "SELECT channel, COUNT(DISTINCT order_id) AS orders FROM analytics.fct_orders WHERE channel IS NOT NULL AND ordered_at >= DATEADD(day, -90, CURRENT_DATE()) GROUP BY 1;",
+      "lintWarnings": [],
+      "estimatedRows": 12,
+      "ownerId": "user_analyst_001"
     }
   ]
 }

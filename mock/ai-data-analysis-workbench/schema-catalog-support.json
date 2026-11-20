@@ -1,0 +1,48 @@
+{
+  "datasetId": "ds_support_tickets",
+  "agentId": "agent_schema",
+  "tables": [
+    {
+      "name": "tickets",
+      "description": "Support ticket headers.",
+      "rowCountApprox": 890000,
+      "freshnessHours": 30,
+      "primaryKey": ["id"],
+      "columns": [
+        { "name": "id", "type": "UUID", "nullable": false },
+        { "name": "tier", "type": "VARCHAR", "nullable": true },
+        { "name": "closed_at", "type": "TIMESTAMP", "nullable": true },
+        { "name": "priority", "type": "VARCHAR", "nullable": false }
+      ]
+    },
+    {
+      "name": "csat_responses",
+      "description": "Post-resolution survey scores.",
+      "rowCountApprox": 310000,
+      "freshnessHours": 30,
+      "primaryKey": ["id"],
+      "columns": [
+        { "name": "id", "type": "UUID", "nullable": false },
+        { "name": "ticket_id", "type": "UUID", "nullable": false },
+        { "name": "score", "type": "SMALLINT", "nullable": true }
+      ]
+    }
+  ],
+  "joinHints": [
+    {
+      "from": "csat_responses.ticket_id",
+      "to": "tickets.id",
+      "cardinality": "many_to_one",
+      "notes": "tier column may be stale — prefer warehouse dim_customer sync."
+    }
+  ],
+  "qualitySignals": [
+    {
+      "table": "tickets",
+      "signal": "replication_lag_hours",
+      "column": null,
+      "value": 28,
+      "severity": "high"
+    }
+  ]
+}

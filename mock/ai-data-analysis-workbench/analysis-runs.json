@@ -23,6 +23,46 @@
       "finishedAt": "2026-03-17T14:00:22.000Z",
       "bytesScanned": 89000000,
       "cacheHit": true
+    },
+    {
+      "id": "run_8823",
+      "datasetId": "ds_marketing_exports",
+      "queryId": "qry_campaign_roas",
+      "chartId": "chart_003",
+      "insightId": "ins_003",
+      "status": "completed",
+      "startedAt": "2026-03-17T15:08:00.000Z",
+      "finishedAt": "2026-03-17T15:08:04.000Z",
+      "bytesScanned": 0,
+      "cacheHit": true,
+      "triggeredById": "user_analyst_002"
+    },
+    {
+      "id": "run_8824",
+      "datasetId": "ds_shop_analytics",
+      "queryId": "qry_channel_mix",
+      "chartId": "chart_004",
+      "insightId": null,
+      "status": "running",
+      "startedAt": "2026-03-17T15:12:00.000Z",
+      "finishedAt": null,
+      "bytesScanned": 420000000,
+      "cacheHit": false,
+      "triggeredById": "user_analyst_001"
+    },
+    {
+      "id": "run_8810",
+      "datasetId": "ds_support_tickets",
+      "queryId": "qry_csat_by_tier",
+      "chartId": null,
+      "insightId": "ins_004",
+      "status": "failed",
+      "startedAt": "2026-03-17T11:00:00.000Z",
+      "finishedAt": "2026-03-17T11:00:03.000Z",
+      "bytesScanned": 0,
+      "cacheHit": false,
+      "errorCode": "LINT_FAILED",
+      "triggeredById": "user_analyst_003"
     }
   ]
 }

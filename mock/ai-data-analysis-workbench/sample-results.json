@@ -1,0 +1,40 @@
+{
+  "samples": [
+    {
+      "id": "sample_qry_monthly_revenue",
+      "queryId": "qry_monthly_revenue",
+      "runId": "run_8821",
+      "rowCount": 144,
+      "truncated": false,
+      "columns": ["month", "category", "net_revenue_usd"],
+      "rows": [
+        { "month": "2025-04-01", "category": "Apparel", "net_revenue_usd": 1240000.5 },
+        { "month": "2025-04-01", "category": "Home", "net_revenue_usd": 890200.0 },
+        { "month": "2026-02-01", "category": "Apparel", "net_revenue_usd": 1680400.25 }
+      ]
+    },
+    {
+      "id": "sample_qry_repeat_purchase",
+      "queryId": "qry_repeat_purchase",
+      "runId": "run_8822",
+      "rowCount": 1,
+      "truncated": false,
+      "columns": ["jan_customers", "returned_in_feb", "repeat_rate"],
+      "rows": [
+        { "jan_customers": 18400, "returned_in_feb": 7728, "repeat_rate": 0.42 }
+      ]
+    },
+    {
+      "id": "sample_qry_campaign_roas",
+      "queryId": "qry_campaign_roas",
+      "runId": "run_8823",
+      "rowCount": 48,
+      "truncated": true,
+      "columns": ["campaign_name", "roas"],
+      "rows": [
+        { "campaign_name": "WINTER-Prospect-03", "roas": 0.62 },
+        { "campaign_name": "Q1-Brand-Search", "roas": 2.84 }
+      ]
+    }
+  ]
+}

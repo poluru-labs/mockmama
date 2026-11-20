@@ -40,6 +40,58 @@
         "gitSha": "a1b2c3d"
       },
       "status": "draft"
+    },
+    {
+      "id": "nb_marketing_roas",
+      "title": "Q1 campaign ROAS scan",
+      "datasetId": "ds_marketing_exports",
+      "agentId": "agent_notebook",
+      "kernel": {
+        "name": "python3",
+        "version": "3.11.8",
+        "pinned": false
+      },
+      "parameters": {
+        "quarter": "2026-Q1"
+      },
+      "cells": [
+        {
+          "id": "cell_m01",
+          "type": "markdown",
+          "source": "# ROAS by campaign\nSource: marketing CSV bundle."
+        },
+        {
+          "id": "cell_m02",
+          "type": "code",
+          "source": "import duckdb\ncon = duckdb.connect('marketing.duckdb')\ncon.sql(open('queries/campaign_roas.sql').read()).df()",
+          "dependencies": ["duckdb>=1.0"]
+        }
+      ],
+      "runManifest": {
+        "lastRunAt": "2026-03-17T15:05:00.000Z",
+        "durationSeconds": 2.1,
+        "rowCount": 48,
+        "gitSha": null
+      },
+      "status": "ready",
+      "ownerId": "user_analyst_002"
+    },
+    {
+      "id": "nb_csat_explore",
+      "title": "CSAT exploration (blocked)",
+      "datasetId": "ds_support_tickets",
+      "agentId": "agent_notebook",
+      "kernel": {
+        "name": "python3",
+        "version": "3.11.8",
+        "pinned": true
+      },
+      "parameters": {},
+      "cells": [],
+      "runManifest": null,
+      "status": "blocked",
+      "ownerId": "user_analyst_003",
+      "blockReason": "Dataset degraded — refresh mirror before running cells"
     }
   ]
 }

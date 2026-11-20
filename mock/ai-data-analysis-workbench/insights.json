@@ -31,6 +31,37 @@
       ],
       "pinned": false,
       "createdAt": "2026-03-17T14:05:00.000Z"
+    },
+    {
+      "id": "ins_003",
+      "queryId": "qry_campaign_roas",
+      "agentId": "agent_insight",
+      "title": "Brand search underperforming paid social",
+      "summary": "Three Q1 campaigns show ROAS below 1.0; paid social on prospecting audiences drives most waste.",
+      "anomalies": [
+        {
+          "label": "Campaign WINTER-Prospect-03",
+          "detail": "ROAS 0.62 with stable spend — creative fatigue suspected."
+        }
+      ],
+      "caveats": [
+        "Attribution window is 7-day click; view-through excluded.",
+        "Uploaded CSV bundle; not yet joined to warehouse IDs."
+      ],
+      "pinned": true,
+      "createdAt": "2026-03-17T15:10:00.000Z"
+    },
+    {
+      "id": "ins_004",
+      "queryId": "qry_csat_by_tier",
+      "agentId": "agent_insight",
+      "title": null,
+      "summary": null,
+      "anomalies": [],
+      "caveats": ["Insight generation blocked — query failed lint."],
+      "pinned": false,
+      "createdAt": null,
+      "status": "blocked"
     }
   ]
 }

@@ -42,6 +42,36 @@
       ],
       "faceting": null,
       "vegaLiteSpecRef": null
+    },
+    {
+      "id": "chart_003",
+      "queryId": "qry_campaign_roas",
+      "agentId": "agent_chart",
+      "recommendedType": "bar",
+      "rationale": "Ordinal campaign names vs continuous ROAS; horizontal bar highlights underperformers.",
+      "encoding": {
+        "y": { "field": "campaign_name", "type": "nominal", "sort": "-x" },
+        "x": { "field": "roas", "type": "quantitative" }
+      },
+      "alternatives": [
+        { "type": "scatter", "when": "Add spend_usd as bubble size" }
+      ],
+      "faceting": null,
+      "vegaLiteSpecRef": "specs/campaign_roas_q1.vl.json"
+    },
+    {
+      "id": "chart_004",
+      "queryId": "qry_channel_mix",
+      "agentId": "agent_chart",
+      "recommendedType": "donut",
+      "rationale": "Part-to-whole for channel share over 90 days.",
+      "encoding": {
+        "theta": { "field": "orders", "type": "quantitative", "aggregate": "sum" },
+        "color": { "field": "channel", "type": "nominal" }
+      },
+      "alternatives": [{ "type": "treemap", "when": "Many channels" }],
+      "faceting": null,
+      "vegaLiteSpecRef": null
     }
   ]
 }

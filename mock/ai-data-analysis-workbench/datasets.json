@@ -28,7 +28,29 @@
       "status": "degraded",
       "rowCountApprox": 2100000,
       "lastSyncedAt": "2026-03-15T14:00:00.000Z",
-      "primaryTables": ["tickets", "ticket_events", "csat_responses"]
+      "primaryTables": ["tickets", "ticket_events", "csat_responses"],
+      "degradedReason": "Replication lag > 24h on ticket_events"
+    },
+    {
+      "id": "ds_finance_ledger",
+      "name": "Finance GL Staging",
+      "connectionType": "bigquery",
+      "schema": "finance_staging",
+      "status": "connected",
+      "rowCountApprox": 3400000,
+      "lastSyncedAt": "2026-03-17T06:30:00.000Z",
+      "primaryTables": ["gl_entries", "cost_centers"]
+    },
+    {
+      "id": "ds_experiments",
+      "name": "Product Experiments Export",
+      "connectionType": "upload",
+      "schema": null,
+      "status": "disconnected",
+      "rowCountApprox": 0,
+      "lastSyncedAt": null,
+      "primaryTables": [],
+      "degradedReason": "OAuth token expired — reconnect required"
     }
   ]
 }
