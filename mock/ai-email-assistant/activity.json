@@ -1,0 +1,36 @@
+{
+  "activity": [
+    {
+      "id": "act_001",
+      "actorId": "agent_tone",
+      "verb": "proposed",
+      "objectType": "draft",
+      "objectId": "draft_billing_reply",
+      "occurredAt": "2026-03-17T11:20:00.000Z"
+    },
+    {
+      "id": "act_002",
+      "actorId": "user_alex",
+      "verb": "scheduled",
+      "objectType": "send",
+      "objectId": "sch_001",
+      "occurredAt": "2026-03-17T14:10:00.000Z"
+    },
+    {
+      "id": "act_003",
+      "actorId": "agent_triage",
+      "verb": "quarantined",
+      "objectType": "message",
+      "objectId": "in_9005",
+      "occurredAt": "2026-03-17T07:31:00.000Z"
+    },
+    {
+      "id": "act_004",
+      "actorId": "user_sam",
+      "verb": "sent",
+      "objectType": "draft",
+      "objectId": "draft_internship_sent",
+      "occurredAt": "2026-03-15T11:05:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "overview": {
+    "inbox": { "unread": 12, "highPriority": 3, "quarantined": 1 },
+    "drafts": { "proposed": 2, "scheduled": 1, "sentToday": 4 },
+    "triageToday": { "routed": 28, "archived": 11, "quarantined": 1 },
+    "threadsByStatus": [
+      { "status": "awaiting_reply", "count": 2 },
+      { "status": "needs_draft", "count": 1 },
+      { "status": "waiting_on_us", "count": 1 },
+      { "status": "snoozed", "count": 1 },
+      { "status": "quarantined", "count": 1 }
+    ]
+  }
+}

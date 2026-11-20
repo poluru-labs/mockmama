@@ -41,6 +41,27 @@
           "model": "gpt-4.1-mini"
         }
       ]
+    },
+    {
+      "id": "sess_triage_phish",
+      "title": "Triage payroll phishing",
+      "updatedAt": "2026-03-17T07:32:00.000Z",
+      "agentId": "agent_triage",
+      "messages": [
+        {
+          "id": "msg_005",
+          "role": "user",
+          "content": "Classify urgent payroll message from unknown domain.",
+          "createdAt": "2026-03-17T07:31:00.000Z"
+        },
+        {
+          "id": "msg_006",
+          "role": "assistant",
+          "content": "Inbox Triage (prompt 2026.01.8) — Quarantine to security queue; tri_004.",
+          "createdAt": "2026-03-17T07:32:00.000Z",
+          "model": "gpt-4.1-mini"
+        }
+      ]
     }
   ]
 }

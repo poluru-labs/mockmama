@@ -33,6 +33,7 @@ Everything lives under `mock/`.
 | [`mock/ai-customer-support-console/`](mock/ai-customer-support-console/) | Support tickets, KB grounding, macros, sentiment, SLA, escalations, incidents |
 | [`mock/ai-data-analysis-workbench/`](mock/ai-data-analysis-workbench/) | Datasets, NL2SQL, charts, insights, notebooks, quality alerts, exports |
 | [`mock/ai-dataset-labeling-platform/`](mock/ai-dataset-labeling-platform/) | Projects, annotations, suggestions, consensus, QA batches, exports |
+| [`mock/ai-email-assistant/`](mock/ai-email-assistant/) | Inbox, threads, triage, voice drafts, templates, follow-ups, scheduling |
 | [`mock/enterprise-bi-dashboard/`](mock/enterprise-bi-dashboard/) | Analytics workspace screens (KPIs, reports, lineage) |
 | [`mock/enterprise-billing-dashboard/`](mock/enterprise-billing-dashboard/) | Invoices, subscriptions, payments, collections |
 | [`mock/enterprise-banking-operations/`](mock/enterprise-banking-operations/) | Clearing, payments, screening, liquidity |
@@ -100,6 +101,7 @@ Demo passwords in auth and ecommerce users are `demo123` (customers) and `admin1
 - **AI customer support** — tickets, customers, KB articles, macros, sentiment coaching, SLA, escalations, incidents, and inbox views.
 - **AI data analysis** — datasets, schema catalogs, queries, chart recommendations, insights, notebooks, runs, quality alerts, and exports.
 - **AI dataset labeling** — projects, guidelines, items, annotations, AI suggestions, consensus, QA, waves, and export manifests.
+- **AI email assistant** — threads, inbox triage, tone drafts, summaries, templates, follow-ups, quarantine, and scheduled sends.
 - **Enterprise BI** — overview, reports, explorer, lineage, quality, forecasts, and ask/query screens.
 - **Enterprise billing** — invoices, subscriptions, payments, collections, and ledger KPIs.
 - **Enterprise banking** — accounts, clearing, payments, screening, exceptions, and liquidity.

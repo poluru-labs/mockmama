@@ -1,0 +1,34 @@
+{
+  "notifications": [
+    {
+      "id": "notif_001",
+      "userId": "user_alex",
+      "type": "draft_ready",
+      "title": "Draft ready for vendor renewal",
+      "body": "Legal hold language proposed",
+      "href": "/drafts/draft_vendor_hold",
+      "read": false,
+      "createdAt": "2026-03-17T14:00:00.000Z"
+    },
+    {
+      "id": "notif_002",
+      "userId": "user_alex",
+      "type": "security_quarantine",
+      "title": "Message quarantined",
+      "body": "Phishing pattern on payroll-fake@scam.example",
+      "href": "/inbox/in_9005",
+      "read": false,
+      "createdAt": "2026-03-17T07:31:00.000Z"
+    },
+    {
+      "id": "notif_003",
+      "userId": "user_sam",
+      "type": "follow_up",
+      "title": "Follow-up suggested",
+      "body": "Jordan reference — offer deadline Friday",
+      "href": "/follow-ups/fup_internship",
+      "read": true,
+      "createdAt": "2026-03-15T09:00:00.000Z"
+    }
+  ]
+}
