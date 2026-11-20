@@ -1,0 +1,13 @@
+{
+  "navigation": [
+    { "id": "nav_inbox", "label": "Inbox", "route": "/inbox", "icon": "inbox", "badge": 127 },
+    { "id": "nav_tickets", "label": "Tickets", "route": "/tickets", "icon": "ticket" },
+    { "id": "nav_customers", "label": "Customers", "route": "/customers", "icon": "users" },
+    { "id": "nav_kb", "label": "Knowledge base", "route": "/kb", "icon": "book-open" },
+    { "id": "nav_macros", "label": "Macros", "route": "/macros", "icon": "message-square" },
+    { "id": "nav_incidents", "label": "Incidents", "route": "/incidents", "icon": "alert-triangle", "badge": 1 },
+    { "id": "nav_sla", "label": "SLA", "route": "/sla", "icon": "clock" },
+    { "id": "nav_agents", "label": "AI agents", "route": "/agents", "icon": "bot" },
+    { "id": "nav_settings", "label": "Settings", "route": "/settings", "icon": "settings" }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "activity": [
+    {
+      "id": "act_001",
+      "actorId": "user_support_002",
+      "verb": "escalated",
+      "objectType": "ticket",
+      "objectId": "tkt_48102",
+      "occurredAt": "2026-03-17T09:50:00.000Z",
+      "meta": { "playbookId": "esc_api_sev1", "incidentId": "inc_2026_0317_api" }
+    },
+    {
+      "id": "act_002",
+      "actorId": "agent_kb",
+      "verb": "suggested",
+      "objectType": "grounded_reply",
+      "objectId": "reply_001",
+      "occurredAt": "2026-03-17T13:40:00.000Z",
+      "meta": { "ticketId": "tkt_48291" }
+    },
+    {
+      "id": "act_003",
+      "actorId": "user_support_001",
+      "verb": "snoozed",
+      "objectType": "ticket",
+      "objectId": "tkt_48305",
+      "occurredAt": "2026-03-17T09:00:00.000Z",
+      "meta": { "until": "2026-03-24T09:00:00.000Z" }
+    },
+    {
+      "id": "act_004",
+      "actorId": "user_support_003",
+      "verb": "closed",
+      "objectType": "ticket",
+      "objectId": "tkt_48088",
+      "occurredAt": "2026-03-17T08:00:00.000Z",
+      "meta": { "reason": "spam" }
+    }
+  ]
+}

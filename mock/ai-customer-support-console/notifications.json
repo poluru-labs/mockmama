@@ -1,0 +1,34 @@
+{
+  "notifications": [
+    {
+      "id": "notif_001",
+      "userId": "user_support_002",
+      "type": "sla_breach",
+      "title": "First response SLA breached",
+      "body": "tkt_48102 — ACME Ops API outage",
+      "href": "/tickets/tkt_48102",
+      "read": false,
+      "createdAt": "2026-03-17T09:56:00.000Z"
+    },
+    {
+      "id": "notif_002",
+      "userId": "user_support_001",
+      "type": "sentiment_alert",
+      "title": "High churn risk",
+      "body": "tkt_48322 — frustrated trial user",
+      "href": "/tickets/tkt_48322",
+      "read": false,
+      "createdAt": "2026-03-17T14:55:00.000Z"
+    },
+    {
+      "id": "notif_003",
+      "userId": "user_support_003",
+      "type": "csat_received",
+      "title": "CSAT 5/5",
+      "body": "Elena Voss — refund ticket",
+      "href": "/tickets/tkt_48310",
+      "read": true,
+      "createdAt": "2026-03-16T15:05:00.000Z"
+    }
+  ]
+}

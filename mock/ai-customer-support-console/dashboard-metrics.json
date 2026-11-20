@@ -14,6 +14,16 @@
       "label": "Escalations",
       "value": "6%",
       "hint": "Handed to humans"
+    },
+    {
+      "label": "Open queue",
+      "value": "127",
+      "hint": "Unassigned"
+    },
+    {
+      "label": "SLA at risk",
+      "value": "9",
+      "hint": "Next 60 min"
     }
   ]
 }

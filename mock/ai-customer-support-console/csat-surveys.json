@@ -1,0 +1,21 @@
+{
+  "surveys": [
+    {
+      "id": "csat_001",
+      "ticketId": "tkt_48310",
+      "customerId": "cust_elena_voss",
+      "score": 5,
+      "comment": "Fast refund confirmation.",
+      "submittedAt": "2026-03-16T15:00:00.000Z"
+    },
+    {
+      "id": "csat_002",
+      "ticketId": "tkt_48275",
+      "customerId": "cust_jordan_oke",
+      "score": null,
+      "comment": null,
+      "submittedAt": null,
+      "status": "pending"
+    }
+  ]
+}

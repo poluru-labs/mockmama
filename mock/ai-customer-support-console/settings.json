@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "workspaceId": "ws_support_console_001",
+    "defaultAiAgentId": "agent_kb",
+    "requireKbCitationOnSend": true,
+    "sentimentCoachingEnabled": true,
+    "autoTriageEnabled": false,
+    "retainTranscriptsDays": 365,
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/helix-support-logo/320/80",
+      "accentColor": "#A82323"
+    },
+    "integrations": {
+      "crmSync": "hubspot_sandbox",
+      "statusPageUrl": "https://status.example.com"
+    }
+  }
+}

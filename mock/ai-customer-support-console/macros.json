@@ -48,6 +48,20 @@
         "agent.name": "Alex"
       },
       "confidence": 0.86
+    },
+    {
+      "id": "sugg_003",
+      "ticketId": "tkt_48102",
+      "agentId": "agent_macro",
+      "macroId": "macro_incident_enterprise",
+      "mergeFields": {
+        "customer.first_name": "ACME Ops",
+        "incident.started_at": "08:40",
+        "status.page_url": "https://status.example.com/incidents/2026-0317-api",
+        "account.tam_name": "Riley Chen",
+        "agent.name": "Jordan"
+      },
+      "confidence": 0.95
     }
   ]
 }

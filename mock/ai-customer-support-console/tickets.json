@@ -12,6 +12,7 @@
       "createdAt": "2026-03-17T13:02:00.000Z",
       "updatedAt": "2026-03-17T13:45:00.000Z",
       "assignedAgentId": "agent_kb",
+      "assigneeId": "user_support_001",
       "lastCustomerMessage": "I downgraded last night but I was charged twice this morning. This is the third billing issue this quarter — please fix today."
     },
     {
@@ -40,7 +41,72 @@
       "createdAt": "2026-03-17T09:05:00.000Z",
       "updatedAt": "2026-03-17T09:55:00.000Z",
       "assignedAgentId": "agent_escalation",
-      "lastCustomerMessage": "Batch exports failing with 503 since 08:40 UTC. We need ETA and a status page update."
+      "lastCustomerMessage": "Batch exports failing with 503 since 08:40 UTC. We need ETA and a status page update.",
+      "incidentId": "inc_2026_0317_api",
+      "assigneeId": "user_support_002"
+    },
+    {
+      "id": "tkt_48310",
+      "subject": "Refund status for order #ORD-88012",
+      "status": "solved",
+      "priority": "low",
+      "channel": "email",
+      "customerId": "cust_elena_voss",
+      "productTags": ["orders", "refunds"],
+      "slaPolicyId": "sla_enterprise",
+      "createdAt": "2026-03-16T08:00:00.000Z",
+      "updatedAt": "2026-03-16T14:30:00.000Z",
+      "assignedAgentId": "agent_kb",
+      "assigneeId": "user_support_003",
+      "lastCustomerMessage": "Thanks — refund showed up today.",
+      "satisfactionScore": 5
+    },
+    {
+      "id": "tkt_48305",
+      "subject": "Feature request: bulk export filters",
+      "status": "snoozed",
+      "priority": "low",
+      "channel": "portal",
+      "customerId": "cust_jordan_oke",
+      "productTags": ["api", "feature-request"],
+      "slaPolicyId": "sla_starter",
+      "createdAt": "2026-03-15T16:00:00.000Z",
+      "updatedAt": "2026-03-17T09:00:00.000Z",
+      "assignedAgentId": "agent_triage",
+      "assigneeId": "user_support_001",
+      "snoozedUntil": "2026-03-24T09:00:00.000Z",
+      "lastCustomerMessage": "Any timeline on saved filter presets for exports?"
+    },
+    {
+      "id": "tkt_48088",
+      "subject": "You won a prize click here",
+      "status": "closed",
+      "priority": "low",
+      "channel": "email",
+      "customerId": null,
+      "productTags": ["spam"],
+      "slaPolicyId": "sla_starter",
+      "createdAt": "2026-03-17T07:55:00.000Z",
+      "updatedAt": "2026-03-17T08:00:00.000Z",
+      "assignedAgentId": null,
+      "assigneeId": null,
+      "closedReason": "spam",
+      "lastCustomerMessage": "Claim your reward now!!!"
+    },
+    {
+      "id": "tkt_48322",
+      "subject": "Cannot reset password — no email received",
+      "status": "open",
+      "priority": "high",
+      "channel": "chat",
+      "customerId": "cust_trial_expired",
+      "productTags": ["auth", "email"],
+      "slaPolicyId": "sla_starter",
+      "createdAt": "2026-03-17T14:50:00.000Z",
+      "updatedAt": "2026-03-17T14:52:00.000Z",
+      "assignedAgentId": "agent_sentiment",
+      "assigneeId": null,
+      "lastCustomerMessage": "I've tried twice, checked spam, still nothing. About to give up on the trial."
     }
   ]
 }

@@ -29,6 +29,28 @@
       "locale": "en-US",
       "healthScore": 91,
       "lifetimeValueUsd": 420000
+    },
+    {
+      "id": "cust_elena_voss",
+      "displayName": "Elena Voss",
+      "email": "elena.voss@contoso.example",
+      "tier": "enterprise",
+      "accountId": "acct_5510",
+      "locale": "en-US",
+      "healthScore": 94,
+      "lifetimeValueUsd": 210000,
+      "tamName": "Riley Chen"
+    },
+    {
+      "id": "cust_trial_expired",
+      "displayName": "Sam Park",
+      "email": "sam.park@freelance.example",
+      "tier": "starter",
+      "accountId": "acct_9981",
+      "locale": "en-US",
+      "healthScore": 41,
+      "lifetimeValueUsd": 0,
+      "trialEndedAt": "2026-03-10T00:00:00.000Z"
     }
   ]
 }

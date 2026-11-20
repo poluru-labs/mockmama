@@ -1,0 +1,48 @@
+{
+  "messages": [
+    {
+      "id": "msg_tkt_48291_1",
+      "ticketId": "tkt_48291",
+      "authorType": "customer",
+      "authorId": "cust_maya_lin",
+      "body": "I downgraded last night but I was charged twice this morning. This is the third billing issue this quarter — please fix today.",
+      "createdAt": "2026-03-17T13:02:00.000Z"
+    },
+    {
+      "id": "msg_tkt_48291_2",
+      "ticketId": "tkt_48291",
+      "authorType": "agent",
+      "authorId": "user_support_001",
+      "body": "Hi Maya — I'm reviewing your account now and will follow up within the hour with charge details.",
+      "createdAt": "2026-03-17T13:45:00.000Z",
+      "aiAssisted": true,
+      "groundedReplyId": "reply_001"
+    },
+    {
+      "id": "msg_tkt_48102_1",
+      "ticketId": "tkt_48102",
+      "authorType": "customer",
+      "authorId": "cust_acme_ops",
+      "body": "Batch exports failing with 503 since 08:40 UTC. We need ETA and a status page update.",
+      "createdAt": "2026-03-17T09:05:00.000Z"
+    },
+    {
+      "id": "msg_tkt_48102_2",
+      "ticketId": "tkt_48102",
+      "authorType": "agent",
+      "authorId": "user_support_002",
+      "body": "We're tracking this under incident 2026-0317-api. Next update at 10:15 UTC.",
+      "createdAt": "2026-03-17T09:55:00.000Z",
+      "aiAssisted": true,
+      "macroId": "macro_incident_enterprise"
+    },
+    {
+      "id": "msg_tkt_48322_1",
+      "ticketId": "tkt_48322",
+      "authorType": "customer",
+      "authorId": "cust_trial_expired",
+      "body": "I've tried twice, checked spam, still nothing. About to give up on the trial.",
+      "createdAt": "2026-03-17T14:50:00.000Z"
+    }
+  ]
+}

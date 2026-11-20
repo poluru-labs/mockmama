@@ -1,0 +1,28 @@
+{
+  "incidents": [
+    {
+      "id": "inc_2026_0317_api",
+      "title": "Elevated API 503 errors — batch export",
+      "severity": 1,
+      "status": "investigating",
+      "startedAt": "2026-03-17T08:40:00.000Z",
+      "updatedAt": "2026-03-17T09:55:00.000Z",
+      "statusPageUrl": "https://status.example.com/incidents/2026-0317-api",
+      "affectedServices": ["export-api", "batch-jobs"],
+      "linkedTicketIds": ["tkt_48102"],
+      "nextUpdateAt": "2026-03-17T10:15:00.000Z"
+    },
+    {
+      "id": "inc_2026_0310_mail",
+      "title": "Delayed transactional email",
+      "severity": 2,
+      "status": "resolved",
+      "startedAt": "2026-03-10T14:00:00.000Z",
+      "resolvedAt": "2026-03-10T18:30:00.000Z",
+      "statusPageUrl": "https://status.example.com/incidents/2026-0310-mail",
+      "affectedServices": ["email-delivery"],
+      "linkedTicketIds": [],
+      "nextUpdateAt": null
+    }
+  ]
+}
