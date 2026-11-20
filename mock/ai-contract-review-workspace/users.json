@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "user_legal_001",
+      "name": "Avery Cole",
+      "email": "avery.cole@pineworks.example.com",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/contract-user-001/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_legal_002",
+      "name": "Sam Okonkwo",
+      "email": "sam.okonkwo@pineworks.example.com",
+      "role": "reviewer",
+      "avatar": "https://picsum.photos/seed/contract-user-002/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_legal_003",
+      "name": "Priya Shah",
+      "email": "priya.shah@pineworks.example.com",
+      "role": "reviewer",
+      "avatar": "https://picsum.photos/seed/contract-user-003/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_legal_004",
+      "name": "Jordan Reed",
+      "email": "jordan.reed@pineworks.example.com",
+      "role": "viewer",
+      "avatar": "https://picsum.photos/seed/contract-user-004/200/200",
+      "status": "invited"
+    }
+  ]
+}

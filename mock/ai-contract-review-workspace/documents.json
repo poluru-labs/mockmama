@@ -1,0 +1,48 @@
+{
+  "documents": [
+    {
+      "id": "doc_ctr_vendor_saas_2026_014",
+      "contractId": "ctr_vendor_saas_2026_014",
+      "fileName": "Nimbus_MSA_2026.pdf",
+      "mimeType": "application/pdf",
+      "sizeBytes": 2840000,
+      "pageCount": 38,
+      "ocrStatus": "complete",
+      "uploadedById": "user_legal_001",
+      "uploadedAt": "2026-03-15T09:22:00.000Z"
+    },
+    {
+      "id": "doc_ctr_dpa_addon_2026_008",
+      "contractId": "ctr_dpa_addon_2026_008",
+      "fileName": "Nimbus_DPA_Addendum.pdf",
+      "mimeType": "application/pdf",
+      "sizeBytes": 890000,
+      "pageCount": 12,
+      "ocrStatus": "complete",
+      "uploadedById": "user_legal_002",
+      "uploadedAt": "2026-03-16T11:05:00.000Z"
+    },
+    {
+      "id": "doc_ctr_order_form_2026_031",
+      "contractId": "ctr_order_form_2026_031",
+      "fileName": "Nimbus_OrderForm_Q2.pdf",
+      "mimeType": "application/pdf",
+      "sizeBytes": 420000,
+      "pageCount": 4,
+      "ocrStatus": "complete",
+      "uploadedById": "user_legal_001",
+      "uploadedAt": "2026-03-17T08:00:00.000Z"
+    },
+    {
+      "id": "doc_ctr_amendment_2026_001",
+      "contractId": "ctr_amendment_2026_001",
+      "fileName": "Nimbus_Amendment_1_scanned.pdf",
+      "mimeType": "application/pdf",
+      "sizeBytes": 310000,
+      "pageCount": 2,
+      "ocrStatus": "failed",
+      "uploadedById": "user_legal_003",
+      "uploadedAt": "2026-03-18T15:00:00.000Z"
+    }
+  ]
+}

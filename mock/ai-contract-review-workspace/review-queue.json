@@ -1,0 +1,49 @@
+{
+  "queue": [
+    {
+      "id": "queue_001",
+      "contractId": "ctr_vendor_saas_2026_014",
+      "assigneeId": "user_legal_002",
+      "priority": "high",
+      "reason": "3 high-severity risk findings",
+      "dueAt": "2026-03-19T17:00:00.000Z",
+      "status": "in_progress"
+    },
+    {
+      "id": "queue_002",
+      "contractId": "ctr_order_form_2026_031",
+      "assigneeId": "user_legal_002",
+      "priority": "high",
+      "reason": "MSA conflict — liability cap",
+      "dueAt": "2026-03-19T12:00:00.000Z",
+      "status": "open"
+    },
+    {
+      "id": "queue_003",
+      "contractId": "ctr_dpa_addon_2026_008",
+      "assigneeId": "user_legal_003",
+      "priority": "medium",
+      "reason": "Obligation extraction incomplete",
+      "dueAt": "2026-03-20T17:00:00.000Z",
+      "status": "open"
+    },
+    {
+      "id": "queue_004",
+      "contractId": "ctr_sow_2026_005",
+      "assigneeId": "user_legal_001",
+      "priority": "medium",
+      "reason": "Awaiting signature — pre-sign review",
+      "dueAt": "2026-03-21T17:00:00.000Z",
+      "status": "open"
+    },
+    {
+      "id": "queue_005",
+      "contractId": "ctr_amendment_2026_001",
+      "assigneeId": null,
+      "priority": "low",
+      "reason": "OCR failed — re-upload needed",
+      "dueAt": null,
+      "status": "blocked"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "findings": [
+    {
+      "id": "risk_001",
+      "clauseId": "cl_8_2_indemnity",
+      "contractId": "ctr_vendor_saas_2026_014",
+      "agentId": "agent_clause_risk",
+      "severity": "medium",
+      "score": 62,
+      "rubricId": "indemnity_mutuality_v3",
+      "summary": "Indemnity is one-sided; Customer does not receive reciprocal indemnity for Customer data or configuration errors.",
+      "recommendation": "Add mutual indemnity for IP infringement and data breach caused by the indemnifying party's breach of security obligations.",
+      "citations": ["Playbook IND-02", "Playbook IND-04"]
+    },
+    {
+      "id": "risk_002",
+      "clauseId": "cl_9_1_liability_cap",
+      "contractId": "ctr_vendor_saas_2026_014",
+      "agentId": "agent_clause_risk",
+      "severity": "high",
+      "score": 78,
+      "rubricId": "liability_cap_carveouts_v2",
+      "summary": "Cap carve-outs omit gross negligence and uncapped data breach liability; super-cap for confidentiality not stated.",
+      "recommendation": "Carve out gross negligence, fraud, and data breach from the cap; add 2× annual fees super-cap for confidentiality breaches.",
+      "citations": ["Playbook LOL-01", "Playbook LOL-07"]
+    },
+    {
+      "id": "risk_003",
+      "clauseId": "cl_of_liability_override",
+      "contractId": "ctr_order_form_2026_031",
+      "agentId": "agent_clause_risk",
+      "severity": "high",
+      "score": 85,
+      "rubricId": "order_form_msa_conflict_v1",
+      "summary": "Order Form narrows liability cap below MSA twelve-month lookback without 'greater of' language.",
+      "recommendation": "Remove override or state liability is the greater of MSA Section 9.1 and Order Form cap.",
+      "citations": ["Playbook MSA-OF-03"]
+    },
+    {
+      "id": "risk_004",
+      "clauseId": "cl_nda_term",
+      "contractId": "ctr_nda_2026_002",
+      "agentId": "agent_clause_risk",
+      "severity": "low",
+      "score": 35,
+      "rubricId": "nda_term_v2",
+      "summary": "Residuals clause may permit use of general ideas learned during evaluation.",
+      "recommendation": "Narrow residuals to information retained in unaided memory without breach of confidentiality.",
+      "citations": ["Playbook NDA-05"]
+    },
+    {
+      "id": "risk_005",
+      "clauseId": "cl_11_3_termination",
+      "contractId": "ctr_vendor_saas_2026_014",
+      "agentId": "agent_clause_risk",
+      "severity": "medium",
+      "score": 55,
+      "rubricId": "termination_notice_v1",
+      "summary": "90-day termination for convenience exceeds playbook preferred 30-day customer exit window.",
+      "recommendation": "Negotiate 30-day Customer termination for convenience; accept 60-day vendor termination.",
+      "citations": ["Playbook TERM-02"]
+    }
+  ]
+}

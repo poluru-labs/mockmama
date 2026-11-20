@@ -1,0 +1,44 @@
+{
+  "rubrics": [
+    {
+      "id": "indemnity_mutuality_v3",
+      "name": "Indemnity mutuality",
+      "version": "3.0",
+      "category": "indemnity",
+      "weight": 1.0,
+      "status": "active"
+    },
+    {
+      "id": "liability_cap_carveouts_v2",
+      "name": "Liability cap carve-outs",
+      "version": "2.1",
+      "category": "limitation_of_liability",
+      "weight": 1.2,
+      "status": "active"
+    },
+    {
+      "id": "order_form_msa_conflict_v1",
+      "name": "Order form vs MSA conflict",
+      "version": "1.0",
+      "category": "order_form",
+      "weight": 1.5,
+      "status": "active"
+    },
+    {
+      "id": "termination_notice_v1",
+      "name": "Termination notice period",
+      "version": "1.0",
+      "category": "termination",
+      "weight": 0.8,
+      "status": "active"
+    },
+    {
+      "id": "nda_term_v2",
+      "name": "NDA term and residuals",
+      "version": "2.0",
+      "category": "confidentiality",
+      "weight": 1.0,
+      "status": "draft"
+    }
+  ]
+}

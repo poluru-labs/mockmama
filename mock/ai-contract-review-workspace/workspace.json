@@ -1,0 +1,13 @@
+{
+  "workspace": {
+    "id": "ws_contract_review_001",
+    "name": "Pinewood Legal Ops",
+    "slug": "pinewood-legal-ops",
+    "timezone": "America/Chicago",
+    "defaultPlaybookId": "corp_saas_fallback_2026",
+    "plan": "enterprise",
+    "seatsUsed": 12,
+    "seatsTotal": 25,
+    "status": "active"
+  }
+}

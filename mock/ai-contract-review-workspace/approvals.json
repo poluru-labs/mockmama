@@ -1,0 +1,34 @@
+{
+  "approvals": [
+    {
+      "id": "approval_001",
+      "contractId": "ctr_vendor_saas_2026_014",
+      "redlineId": "redline_001",
+      "requestedById": "user_legal_002",
+      "approverId": "user_legal_001",
+      "status": "pending",
+      "requestedAt": "2026-03-17T15:35:00.000Z",
+      "decidedAt": null
+    },
+    {
+      "id": "approval_002",
+      "contractId": "ctr_nda_2026_002",
+      "redlineId": null,
+      "requestedById": "user_legal_003",
+      "approverId": "user_legal_001",
+      "status": "approved",
+      "requestedAt": "2026-02-01T11:00:00.000Z",
+      "decidedAt": "2026-02-02T09:00:00.000Z"
+    },
+    {
+      "id": "approval_003",
+      "contractId": "ctr_order_form_2026_031",
+      "redlineId": "redline_003",
+      "requestedById": "user_legal_001",
+      "approverId": "user_legal_002",
+      "status": "rejected",
+      "requestedAt": "2026-03-17T16:05:00.000Z",
+      "decidedAt": "2026-03-17T16:30:00.000Z"
+    }
+  ]
+}

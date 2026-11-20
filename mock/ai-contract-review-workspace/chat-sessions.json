@@ -1,0 +1,67 @@
+{
+  "sessions": [
+    {
+      "id": "sess_nimbus_liability",
+      "title": "Nimbus MSA — liability review",
+      "updatedAt": "2026-03-17T14:02:00.000Z",
+      "agentId": "agent_clause_risk",
+      "messages": [
+        {
+          "id": "msg_001",
+          "role": "user",
+          "content": "Please score Section 9.1 limitation of liability and call out carve-out gaps.",
+          "createdAt": "2026-03-17T14:00:00.000Z"
+        },
+        {
+          "id": "msg_002",
+          "role": "assistant",
+          "content": "Clause Risk Scorer (prompt 2026.03.1) — Risk scan (demo): I would score indemnity and liability caps in your excerpt. Highlight: “Except for breaches of Section 7, confidentiality obligations, or indemnification…”. Connect your gateway for calibrated scores.",
+          "createdAt": "2026-03-17T14:02:00.000Z",
+          "model": "gpt-4.1-mini"
+        }
+      ]
+    },
+    {
+      "id": "sess_dpa_obligations",
+      "title": "DPA subprocessor notices",
+      "updatedAt": "2026-03-17T10:45:00.000Z",
+      "agentId": "agent_obligations",
+      "messages": [
+        {
+          "id": "msg_003",
+          "role": "user",
+          "content": "Extract all notice and renewal obligations from the DPA addendum.",
+          "createdAt": "2026-03-17T10:40:00.000Z"
+        },
+        {
+          "id": "msg_004",
+          "role": "assistant",
+          "content": "Obligation Extractor (prompt 2026.02.4) — Obligation pass (demo): I would extract notice, payment, and renewal duties from “Extract all notice and renewal obligations from the DPA addendum.” into your obligations board.",
+          "createdAt": "2026-03-17T10:45:00.000Z",
+          "model": "gpt-4.1-mini"
+        }
+      ]
+    },
+    {
+      "id": "sess_playbook_order_form",
+      "title": "Order form vs MSA hierarchy",
+      "updatedAt": "2026-03-17T12:58:00.000Z",
+      "agentId": "agent_playbook",
+      "messages": [
+        {
+          "id": "msg_005",
+          "role": "user",
+          "content": "Does the Q2 order form liability cap fail MSA-OF-03?",
+          "createdAt": "2026-03-17T12:55:00.000Z"
+        },
+        {
+          "id": "msg_006",
+          "role": "assistant",
+          "content": "Playbook Comparator (prompt 2026.01.8) — Alignment fail on MSA-OF-03. The six-month Order Form cap is below MSA Section 9.1 without a greater-of clause.",
+          "createdAt": "2026-03-17T12:58:00.000Z",
+          "model": "gpt-4.1-mini"
+        }
+      ]
+    }
+  ]
+}
