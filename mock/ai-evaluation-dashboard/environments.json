@@ -1,0 +1,23 @@
+{
+  "environments": [
+    {
+      "id": "env_prod",
+      "name": "Production",
+      "baselineModelId": "mdl_gpt41mini_prod",
+      "status": "active"
+    },
+    {
+      "id": "env_staging",
+      "name": "Staging",
+      "baselineModelId": "mdl_gpt41mini_candidate",
+      "status": "active"
+    },
+    {
+      "id": "env_sandbox",
+      "name": "Sandbox",
+      "baselineModelId": null,
+      "status": "degraded",
+      "degradedReason": "GPU quota exhausted"
+    }
+  ]
+}

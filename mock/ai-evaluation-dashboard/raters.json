@@ -1,0 +1,25 @@
+{
+  "raters": [
+    {
+      "id": "rater_a",
+      "displayName": "Rater A",
+      "userId": "user_ml_003",
+      "agreementRate": 0.91,
+      "status": "active"
+    },
+    {
+      "id": "rater_b",
+      "displayName": "Rater B",
+      "userId": null,
+      "agreementRate": 0.84,
+      "status": "active"
+    },
+    {
+      "id": "rater_c",
+      "displayName": "Rater C",
+      "userId": null,
+      "agreementRate": 0.88,
+      "status": "paused"
+    }
+  ]
+}

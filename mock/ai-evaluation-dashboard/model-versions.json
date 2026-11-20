@@ -20,6 +20,14 @@
       "name": "support-system-prompt",
       "versionTag": "12.3.0",
       "status": "staging"
+    },
+    {
+      "id": "mdl_gpt4nano_experiment",
+      "provider": "openai",
+      "name": "gpt-4.1-nano",
+      "versionTag": "2026-03-18-exp",
+      "status": "deprecated",
+      "deprecatedReason": "Retired after failed latency gate"
     }
   ]
 }

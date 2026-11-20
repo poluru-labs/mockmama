@@ -44,6 +44,45 @@
       },
       "pass": true,
       "artifactUri": "s3://eval-artifacts/runs/20260316_safety/manifest.json"
+    },
+    {
+      "id": "run_20260310_safety_prod",
+      "suiteId": "suite_safety_refusal",
+      "modelVersionId": "mdl_gpt41mini_prod",
+      "status": "completed",
+      "startedAt": "2026-03-10T02:00:00.000Z",
+      "finishedAt": "2026-03-10T02:17:00.000Z",
+      "metrics": {
+        "refusal_rate": 0.99,
+        "false_refusal_rate": 0.03,
+        "severity_recall": 0.93
+      },
+      "pass": true,
+      "artifactUri": "s3://eval-artifacts/runs/20260310_safety_prod/manifest.json"
+    },
+    {
+      "id": "run_20260317_contract",
+      "suiteId": "suite_contract_clauses",
+      "modelVersionId": "mdl_gpt41mini_candidate",
+      "status": "running",
+      "startedAt": "2026-03-17T15:00:00.000Z",
+      "finishedAt": null,
+      "metrics": null,
+      "pass": null,
+      "artifactUri": null,
+      "triggeredById": "user_ml_002"
+    },
+    {
+      "id": "run_20260315_nano_fail",
+      "suiteId": "suite_support_kb",
+      "modelVersionId": "mdl_gpt4nano_experiment",
+      "status": "failed",
+      "startedAt": "2026-03-15T12:00:00.000Z",
+      "finishedAt": "2026-03-15T12:05:00.000Z",
+      "metrics": null,
+      "pass": false,
+      "artifactUri": null,
+      "errorCode": "PROVIDER_TIMEOUT"
     }
   ]
 }

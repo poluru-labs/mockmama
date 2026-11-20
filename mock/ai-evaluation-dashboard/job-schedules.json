@@ -28,6 +28,20 @@
         "lastRunIds": ["run_20260317_002"],
         "upstreamArtifact": "mdl_gpt41mini_candidate"
       }
+    },
+    {
+      "id": "job_weekly_scorecard",
+      "agentId": "agent_runs",
+      "name": "Weekly scorecard refresh",
+      "scheduleCron": "0 6 * * 1",
+      "status": "active",
+      "suiteIds": [],
+      "shardPolicy": null,
+      "lineage": {
+        "lastTriggeredAt": "2026-03-17T11:00:00.000Z",
+        "lastRunIds": [],
+        "upstreamArtifact": "scorecard_builder"
+      }
     }
   ]
 }
