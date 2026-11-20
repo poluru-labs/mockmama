@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "workspaceId": "ws_eval_dashboard_001",
+    "defaultAgentId": "agent_regression",
+    "blockPromotionOnRegression": true,
+    "requireHumanSignoffForProduction": true,
+    "artifactRetentionDays": 90,
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/model-quality-logo/320/80",
+      "accentColor": "#FF9900"
+    },
+    "integrations": {
+      "artifactStore": "s3://eval-artifacts",
+      "ciProvider": "github_actions"
+    }
+  }
+}

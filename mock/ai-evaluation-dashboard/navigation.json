@@ -1,0 +1,14 @@
+{
+  "navigation": [
+    { "id": "nav_overview", "label": "Overview", "route": "/dashboard", "icon": "layout-dashboard" },
+    { "id": "nav_suites", "label": "Suites", "route": "/suites", "icon": "layers" },
+    { "id": "nav_runs", "label": "Runs", "route": "/runs", "icon": "play" },
+    { "id": "nav_regressions", "label": "Regressions", "route": "/regressions", "icon": "trending-down", "badge": 14 },
+    { "id": "nav_scorecards", "label": "Scorecards", "route": "/scorecards", "icon": "bar-chart" },
+    { "id": "nav_feedback", "label": "Human feedback", "route": "/feedback", "icon": "users" },
+    { "id": "nav_jobs", "label": "Jobs", "route": "/jobs", "icon": "clock" },
+    { "id": "nav_models", "label": "Models", "route": "/models", "icon": "cpu" },
+    { "id": "nav_agents", "label": "Agents", "route": "/agents", "icon": "bot" },
+    { "id": "nav_settings", "label": "Settings", "route": "/settings", "icon": "settings" }
+  ]
+}

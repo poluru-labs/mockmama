@@ -5,6 +5,13 @@
   "brandColor": "#FF9900",
   "defaultModel": "gpt-4.1-mini",
   "apiBaseUrl": "http://localhost:8080/api/v1",
+  "workspaceId": "ws_eval_dashboard_001",
+  "features": {
+    "regressionAlerts": true,
+    "humanFeedbackIngest": true,
+    "nightlyJobs": false,
+    "scorecardExport": true
+  },
   "storageKeys": {
     "activeAgentId": "evaluation-dashboard:active-agent"
   }
