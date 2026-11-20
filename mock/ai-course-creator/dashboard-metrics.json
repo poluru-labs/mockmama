@@ -14,6 +14,16 @@
       "label": "Completion",
       "value": "68%",
       "hint": "Learner avg."
+    },
+    {
+      "label": "In review",
+      "value": "5",
+      "hint": "Editorial queue"
+    },
+    {
+      "label": "Agents active",
+      "value": "3",
+      "hint": "Of 5"
     }
   ]
 }

@@ -1,0 +1,50 @@
+{
+  "assets": [
+    {
+      "id": "media_dl_cover",
+      "courseId": "crs_data_literacy_101",
+      "type": "cover_image",
+      "url": "https://picsum.photos/seed/course-dl-cover/1200/630",
+      "alt": "Abstract data visualization collage",
+      "uploadedById": "user_ld_002",
+      "createdAt": "2026-01-10T09:05:00.000Z"
+    },
+    {
+      "id": "media_sec_cover",
+      "courseId": "crs_security_awareness",
+      "type": "cover_image",
+      "url": "https://picsum.photos/seed/course-sec-cover/1200/630",
+      "alt": "Lock icon over network pattern",
+      "uploadedById": "user_ld_001",
+      "createdAt": "2025-09-01T08:10:00.000Z"
+    },
+    {
+      "id": "media_onboard_cover",
+      "courseId": "crs_onboarding_compliance",
+      "type": "cover_image",
+      "url": "https://picsum.photos/seed/course-onboard/1200/630",
+      "alt": "Onboarding checklist illustration",
+      "uploadedById": "user_ld_002",
+      "createdAt": "2026-03-18T09:35:00.000Z"
+    },
+    {
+      "id": "media_agile_brief",
+      "courseId": "crs_agile_pm_fundamentals",
+      "type": "source_pdf",
+      "url": "https://example.com/mock/agile-pm-brief.pdf",
+      "alt": "Product brief template PDF",
+      "uploadedById": "user_ld_002",
+      "createdAt": "2026-03-05T14:35:00.000Z"
+    },
+    {
+      "id": "media_onboard_source",
+      "courseId": "crs_onboarding_compliance",
+      "type": "source_pdf",
+      "url": "https://example.com/mock/onboarding-policy-scan-failed.pdf",
+      "alt": "Policy pack — extraction failed",
+      "uploadedById": "user_ld_002",
+      "createdAt": "2026-03-18T09:40:00.000Z",
+      "status": "extraction_failed"
+    }
+  ]
+}

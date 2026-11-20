@@ -1,0 +1,35 @@
+{
+  "materials": [
+    {
+      "id": "src_agile_brief",
+      "courseId": "crs_agile_pm_fundamentals",
+      "assetId": "media_agile_brief",
+      "agentId": "agent_syllabus",
+      "title": "Agile PM topic brief",
+      "excerptStatus": "indexed",
+      "pageCount": 12,
+      "uploadedAt": "2026-03-05T14:35:00.000Z"
+    },
+    {
+      "id": "src_dl_readings",
+      "courseId": "crs_data_literacy_101",
+      "assetId": null,
+      "agentId": "agent_curriculum",
+      "title": "Curated article pack — charts and ethics",
+      "excerptStatus": "indexed",
+      "pageCount": null,
+      "uploadedAt": "2026-01-12T11:00:00.000Z"
+    },
+    {
+      "id": "src_onboard_policy",
+      "courseId": "crs_onboarding_compliance",
+      "assetId": "media_onboard_source",
+      "agentId": "agent_syllabus",
+      "title": "HR policy PDF",
+      "excerptStatus": "failed",
+      "pageCount": null,
+      "uploadedAt": "2026-03-18T09:40:00.000Z",
+      "failureReason": "Scanned PDF without OCR layer"
+    }
+  ]
+}

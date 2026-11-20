@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "id": "cmt_001",
+      "courseId": "crs_data_literacy_101",
+      "targetType": "lesson",
+      "targetId": "lsn_dl_chart_axes",
+      "authorId": "user_ld_003",
+      "body": "Consider adding an accessibility note on color-only encodings in the formative check.",
+      "createdAt": "2026-03-17T11:20:00.000Z",
+      "resolved": false
+    },
+    {
+      "id": "cmt_002",
+      "courseId": "crs_agile_pm_fundamentals",
+      "targetType": "syllabus",
+      "targetId": "week_2",
+      "authorId": "user_ld_002",
+      "body": "Week 2 should reference the fixed feedback CSV — linked in source materials.",
+      "createdAt": "2026-03-16T09:00:00.000Z",
+      "resolved": true
+    },
+    {
+      "id": "cmt_003",
+      "courseId": "crs_workplace_writing",
+      "targetType": "rubric",
+      "targetId": "rubric_ww_executive_summary",
+      "authorId": "user_ld_001",
+      "body": "Weights look good; approve for pilot cohort.",
+      "createdAt": "2026-03-15T14:30:00.000Z",
+      "resolved": true
+    }
+  ]
+}

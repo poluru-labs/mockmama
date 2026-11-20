@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "user_ld_001",
+      "name": "Morgan Ellis",
+      "email": "morgan.ellis@northline.example.com",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/course-user-001/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_ld_002",
+      "name": "Casey Nguyen",
+      "email": "casey.nguyen@northline.example.com",
+      "role": "instructional_designer",
+      "avatar": "https://picsum.photos/seed/course-user-002/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_ld_003",
+      "name": "Riley Park",
+      "email": "riley.park@northline.example.com",
+      "role": "reviewer",
+      "avatar": "https://picsum.photos/seed/course-user-003/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_ld_004",
+      "name": "Jamie Ortiz",
+      "email": "jamie.ortiz@northline.example.com",
+      "role": "viewer",
+      "avatar": "https://picsum.photos/seed/course-user-004/200/200",
+      "status": "invited"
+    }
+  ]
+}

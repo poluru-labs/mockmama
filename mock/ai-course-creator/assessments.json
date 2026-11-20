@@ -50,6 +50,44 @@
       "status": "draft",
       "items": [],
       "projectPrompt": "Using the provided retail returns dataset, produce a one-page brief for operations leadership: one headline insight, two supporting visuals, and a recommended action with caveats about data limitations."
+    },
+    {
+      "id": "asmt_agile_capstone",
+      "courseId": "crs_agile_pm_fundamentals",
+      "moduleId": null,
+      "agentId": "agent_assessment",
+      "title": "Product discovery capstone",
+      "type": "project",
+      "alignedOutcomeIds": ["lo_agile_03"],
+      "status": "empty",
+      "items": [],
+      "projectPrompt": null
+    },
+    {
+      "id": "asmt_sec_phishing",
+      "courseId": "crs_security_awareness",
+      "moduleId": null,
+      "agentId": "agent_assessment",
+      "title": "Phishing recognition drill",
+      "type": "quiz",
+      "alignedOutcomeIds": ["lo_sec_01"],
+      "status": "published",
+      "items": [
+        {
+          "id": "item_sec_001",
+          "stem": "Which signal is strongest that an email is spoofed?",
+          "bloomLevel": "apply",
+          "type": "multiple_choice",
+          "options": [
+            "The logo looks slightly blurry",
+            "The reply-to domain mismatches the From domain",
+            "The message is urgent",
+            "The email arrived on a Monday"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "projectPrompt": null
     }
   ]
 }

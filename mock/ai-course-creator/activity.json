@@ -1,0 +1,44 @@
+{
+  "activity": [
+    {
+      "id": "act_001",
+      "actorId": "user_ld_002",
+      "verb": "generated",
+      "objectType": "lesson",
+      "objectId": "lsn_dl_ethics_checklist",
+      "courseId": "crs_data_literacy_101",
+      "agentId": "agent_lesson",
+      "occurredAt": "2026-03-17T16:10:00.000Z"
+    },
+    {
+      "id": "act_002",
+      "actorId": "agent_syllabus",
+      "verb": "drafted",
+      "objectType": "syllabus",
+      "objectId": "crs_agile_pm_fundamentals",
+      "courseId": "crs_agile_pm_fundamentals",
+      "agentId": "agent_syllabus",
+      "occurredAt": "2026-03-05T15:00:00.000Z"
+    },
+    {
+      "id": "act_003",
+      "actorId": "user_ld_001",
+      "verb": "approved",
+      "objectType": "assessment",
+      "objectId": "asmt_sec_phishing",
+      "courseId": "crs_security_awareness",
+      "agentId": null,
+      "occurredAt": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "act_004",
+      "actorId": "user_ld_002",
+      "verb": "uploaded",
+      "objectType": "source_material",
+      "objectId": "src_onboard_policy",
+      "courseId": "crs_onboarding_compliance",
+      "agentId": null,
+      "occurredAt": "2026-03-18T09:40:00.000Z"
+    }
+  ]
+}

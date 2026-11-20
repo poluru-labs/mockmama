@@ -5,6 +5,13 @@
   "brandColor": "#693382",
   "defaultModel": "gpt-4.1-mini",
   "apiBaseUrl": "http://localhost:8080/api/v1",
+  "workspaceId": "ws_course_studio_001",
+  "features": {
+    "humanReviewQueue": true,
+    "rubricGeneration": true,
+    "syllabusImport": true,
+    "lmsExportPreview": false
+  },
   "storageKeys": {
     "activeAgentId": "course-creator:active-agent"
   }

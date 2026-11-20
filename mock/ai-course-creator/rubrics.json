@@ -50,6 +50,47 @@
         }
       ],
       "exemplarNotes": "Link instructor-facing exemplar: strong capstone uses BLUF headline and a single guardrail metric."
+    },
+    {
+      "id": "rubric_ww_executive_summary",
+      "courseId": "crs_workplace_writing",
+      "assessmentId": null,
+      "agentId": "agent_rubric",
+      "title": "Executive summary — BLUF rubric",
+      "status": "active",
+      "criteria": [
+        {
+          "id": "crit_bluf",
+          "name": "BLUF clarity",
+          "weight": 0.4,
+          "levels": [
+            { "label": "Emerging", "points": 1, "descriptor": "Bottom line buried or missing." },
+            { "label": "Proficient", "points": 2, "descriptor": "Bottom line stated in opening." },
+            { "label": "Exemplary", "points": 3, "descriptor": "Opening states decision-ready bottom line with scope." }
+          ]
+        },
+        {
+          "id": "crit_evidence",
+          "name": "Evidence",
+          "weight": 0.35,
+          "levels": [
+            { "label": "Emerging", "points": 1, "descriptor": "Claims without support." },
+            { "label": "Proficient", "points": 2, "descriptor": "At least two proof points." },
+            { "label": "Exemplary", "points": 3, "descriptor": "Proof points tie to cited sources or data." }
+          ]
+        },
+        {
+          "id": "crit_tone",
+          "name": "Executive tone",
+          "weight": 0.25,
+          "levels": [
+            { "label": "Emerging", "points": 1, "descriptor": "Overly casual or jargon-heavy." },
+            { "label": "Proficient", "points": 2, "descriptor": "Concise professional tone." },
+            { "label": "Exemplary", "points": 3, "descriptor": "Concise, confident, audience-aware." }
+          ]
+        }
+      ],
+      "exemplarNotes": "Pair with lsn_ww_peer_feedback exit ticket."
     }
   ]
 }

@@ -53,6 +53,55 @@
         }
       ],
       "status": "published"
+    },
+    {
+      "id": "lsn_dl_ethics_checklist",
+      "courseId": "crs_data_literacy_101",
+      "moduleId": "mod_05_ethics",
+      "agentId": "agent_lesson",
+      "title": "Data quality and bias checklist",
+      "durationMinutes": 30,
+      "hook": "A dashboard went viral — and the sampling mistake was in row 2.",
+      "sections": [
+        {
+          "type": "explain",
+          "title": "Five-point quality scan",
+          "slideNotes": "Source, sample, missingness, definitions, and intent."
+        },
+        {
+          "type": "activity",
+          "title": "Red-team a chart",
+          "slideNotes": "Pairs apply checklist to a provided infographic."
+        },
+        {
+          "type": "formative_check",
+          "title": "Scenario branches",
+          "slideNotes": "Choose next step when consent language is ambiguous."
+        }
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "lsn_agile_story_map",
+      "courseId": "crs_agile_pm_fundamentals",
+      "moduleId": "mod_agile_02_backlog",
+      "agentId": "agent_lesson",
+      "title": "Story mapping in 45 minutes",
+      "durationMinutes": 45,
+      "hook": "Your backlog is sorted — but is it sequenced for learning?",
+      "sections": [
+        {
+          "type": "explain",
+          "title": "Horizontal slices",
+          "slideNotes": "Map backbone activities top to bottom; releases left to right."
+        },
+        {
+          "type": "activity",
+          "title": "Fixed feedback set",
+          "slideNotes": "Use supplied user quotes; no net-new scope in lab."
+        }
+      ],
+      "status": "generating"
     }
   ]
 }

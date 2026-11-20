@@ -1,0 +1,59 @@
+{
+  "queue": [
+    {
+      "id": "queue_cr_001",
+      "courseId": "crs_data_literacy_101",
+      "entityType": "lesson",
+      "entityId": "lsn_dl_chart_axes",
+      "assigneeId": "user_ld_003",
+      "priority": "high",
+      "reason": "Lesson ready for SME review",
+      "dueAt": "2026-03-19T17:00:00.000Z",
+      "status": "open"
+    },
+    {
+      "id": "queue_cr_002",
+      "courseId": "crs_agile_pm_fundamentals",
+      "entityType": "module",
+      "entityId": "mod_agile_02_backlog",
+      "assigneeId": "user_ld_002",
+      "priority": "medium",
+      "reason": "Module sequence after story-mapping lab",
+      "dueAt": "2026-03-20T17:00:00.000Z",
+      "status": "in_progress"
+    },
+    {
+      "id": "queue_cr_003",
+      "courseId": "crs_data_literacy_101",
+      "entityType": "assessment",
+      "entityId": "asmt_dl_capstone",
+      "assigneeId": "user_ld_003",
+      "priority": "medium",
+      "reason": "Capstone prompt needs legal review",
+      "dueAt": "2026-03-22T17:00:00.000Z",
+      "status": "open"
+    },
+    {
+      "id": "queue_cr_004",
+      "courseId": "crs_data_literacy_101",
+      "entityType": "rubric",
+      "entityId": "rubric_capstone_data_story",
+      "assigneeId": null,
+      "priority": "low",
+      "reason": "Rubric agent paused — manual finish",
+      "dueAt": null,
+      "status": "open"
+    },
+    {
+      "id": "queue_cr_005",
+      "courseId": "crs_onboarding_compliance",
+      "entityType": "source_material",
+      "entityId": "src_onboard_policy",
+      "assigneeId": "user_ld_002",
+      "priority": "high",
+      "reason": "PDF extraction failed",
+      "dueAt": null,
+      "status": "blocked"
+    }
+  ]
+}
