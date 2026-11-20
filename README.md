@@ -30,6 +30,7 @@ Everything lives under `mock/`.
 | [`mock/learning/`](mock/learning/) | Courses, lessons, enrollments, quizzes, paths, cohorts, certificates |
 | [`mock/ai-contract-review-workspace/`](mock/ai-contract-review-workspace/) | Contract review agents, risks, playbook, redlines, MSA alerts, queue |
 | [`mock/ai-course-creator/`](mock/ai-course-creator/) | Course design agents, outcomes, modules, lessons, assessments, rubrics, queue |
+| [`mock/ai-customer-support-console/`](mock/ai-customer-support-console/) | Support tickets, KB grounding, macros, sentiment, SLA, escalations, incidents |
 | [`mock/enterprise-bi-dashboard/`](mock/enterprise-bi-dashboard/) | Analytics workspace screens (KPIs, reports, lineage) |
 | [`mock/enterprise-billing-dashboard/`](mock/enterprise-billing-dashboard/) | Invoices, subscriptions, payments, collections |
 | [`mock/enterprise-banking-operations/`](mock/enterprise-banking-operations/) | Clearing, payments, screening, liquidity |
@@ -94,6 +95,7 @@ Demo passwords in auth and ecommerce users are `demo123` (customers) and `admin1
 - **Learning** — courses, lessons, students, enrollments, quizzes, assignments, paths, cohorts, and badges.
 - **AI contract review** — contracts, clauses, agents, rubrics, obligations, playbook diffs, redlines, queue, and MSA alerts.
 - **AI course creator** — courses, outcomes, modules, syllabi, lessons, assessments, rubrics, source materials, and review queue.
+- **AI customer support** — tickets, customers, KB articles, macros, sentiment coaching, SLA, escalations, incidents, and inbox views.
 - **Enterprise BI** — overview, reports, explorer, lineage, quality, forecasts, and ask/query screens.
 - **Enterprise billing** — invoices, subscriptions, payments, collections, and ledger KPIs.
 - **Enterprise banking** — accounts, clearing, payments, screening, exceptions, and liquidity.

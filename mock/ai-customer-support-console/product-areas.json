@@ -1,0 +1,8 @@
+{
+  "productAreas": [
+    { "id": "revenue", "name": "Revenue & billing", "color": "#2563eb" },
+    { "id": "identity", "name": "Identity & access", "color": "#7c3aed" },
+    { "id": "platform", "name": "Platform & API", "color": "#dc2626" },
+    { "id": "growth", "name": "Growth & trials", "color": "#0d9488" }
+  ]
+}

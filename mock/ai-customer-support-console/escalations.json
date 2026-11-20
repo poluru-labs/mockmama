@@ -47,6 +47,17 @@
       "minutesToFirstResponseBreach": 95,
       "handoffSummary": "Business customer reports duplicate charge post-downgrade; third billing issue this quarter. Sentiment frustrated. Suggest billing-specialists review with credit authority.",
       "status": "optional"
+    },
+    {
+      "id": "esc_rec_003",
+      "ticketId": "tkt_48322",
+      "agentId": "agent_escalation",
+      "playbookId": null,
+      "severity": 3,
+      "slaBreachRisk": "low",
+      "minutesToFirstResponseBreach": 420,
+      "handoffSummary": "Starter trial user cannot receive password reset; high churn risk sentiment. No playbook — handle in tier-1 with deliverability checklist.",
+      "status": "dismissed"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "views": [
+    {
+      "id": "view_mine",
+      "label": "Assigned to me",
+      "count": 3,
+      "ticketIds": ["tkt_48291", "tkt_48305", "tkt_48102"]
+    },
+    {
+      "id": "view_unassigned",
+      "label": "Unassigned",
+      "count": 2,
+      "ticketIds": ["tkt_48322", "tkt_48275"]
+    },
+    {
+      "id": "view_sla_risk",
+      "label": "SLA at risk",
+      "count": 2,
+      "ticketIds": ["tkt_48102", "tkt_48291"]
+    }
+  ]
+}

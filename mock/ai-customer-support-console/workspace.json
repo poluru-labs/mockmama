@@ -1,0 +1,13 @@
+{
+  "workspace": {
+    "id": "ws_support_console_001",
+    "name": "Helix Support HQ",
+    "slug": "helix-support",
+    "timezone": "America/Chicago",
+    "defaultQueueId": "queue_tier1",
+    "plan": "enterprise",
+    "seatsUsed": 42,
+    "seatsTotal": 60,
+    "status": "active"
+  }
+}

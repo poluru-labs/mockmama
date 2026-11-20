@@ -1,0 +1,22 @@
+{
+  "overview": {
+    "volumeToday": {
+      "created": 312,
+      "solved": 278,
+      "escalated": 19
+    },
+    "byChannel": [
+      { "channel": "email", "count": 142 },
+      { "channel": "chat", "count": 98 },
+      { "channel": "phone", "count": 41 },
+      { "channel": "portal", "count": 31 }
+    ],
+    "aiAssistanceRate": 0.67,
+    "activeIncidents": 1,
+    "topTags": [
+      { "tag": "billing", "count": 54 },
+      { "tag": "auth", "count": 47 },
+      { "tag": "api", "count": 22 }
+    ]
+  }
+}

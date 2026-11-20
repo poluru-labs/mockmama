@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "user_support_001",
+      "name": "Alex Morgan",
+      "email": "alex.morgan@helix.example.com",
+      "role": "agent",
+      "avatar": "https://picsum.photos/seed/support-user-001/200/200",
+      "status": "active",
+      "queueIds": ["queue_tier1", "queue_billing"]
+    },
+    {
+      "id": "user_support_002",
+      "name": "Jordan Reyes",
+      "email": "jordan.reyes@helix.example.com",
+      "role": "agent",
+      "avatar": "https://picsum.photos/seed/support-user-002/200/200",
+      "status": "active",
+      "queueIds": ["queue_enterprise", "queue_incident"]
+    },
+    {
+      "id": "user_support_003",
+      "name": "Casey Wu",
+      "email": "casey.wu@helix.example.com",
+      "role": "lead",
+      "avatar": "https://picsum.photos/seed/support-user-003/200/200",
+      "status": "active",
+      "queueIds": ["queue_tier1", "queue_enterprise"]
+    },
+    {
+      "id": "user_support_004",
+      "name": "Jamie Ortiz",
+      "email": "jamie.ortiz@helix.example.com",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/support-user-004/200/200",
+      "status": "invited",
+      "queueIds": []
+    }
+  ]
+}

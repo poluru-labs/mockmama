@@ -41,6 +41,28 @@
           "model": "gpt-4.1-mini"
         }
       ]
+    },
+    {
+      "id": "sess_incident_escalation",
+      "title": "API outage — escalation summary",
+      "updatedAt": "2026-03-17T10:00:00.000Z",
+      "agentId": "agent_escalation",
+      "ticketId": "tkt_48102",
+      "messages": [
+        {
+          "id": "msg_005",
+          "role": "user",
+          "content": "Draft handoff for enterprise API 503s with SLA breach in 8 minutes.",
+          "createdAt": "2026-03-17T09:58:00.000Z"
+        },
+        {
+          "id": "msg_006",
+          "role": "assistant",
+          "content": "Escalation Playbook (prompt 2026.03.0-rc1) — Recommend esc_api_sev1: link incident inc_2026_0317_api, open bridge, status page within 15 minutes.",
+          "createdAt": "2026-03-17T10:00:00.000Z",
+          "model": "gpt-4.1-mini"
+        }
+      ]
     }
   ]
 }

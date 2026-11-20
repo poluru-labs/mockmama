@@ -29,6 +29,26 @@
       "summary": "How to subscribe to incidents and when enterprise hotline applies.",
       "snippet": "Enterprise customers receive bridge invites for SEV-1 incidents; reference status.example.com and your account TAM for concurrent issues.",
       "citationUrl": "https://help.example.com/platform/status-page"
+    },
+    {
+      "id": "kb_0915",
+      "title": "Password reset email not arriving",
+      "slug": "auth/password-reset-delays",
+      "status": "published",
+      "lastReviewedAt": "2026-03-01T00:00:00.000Z",
+      "summary": "Deliverability checks and admin allowlist steps.",
+      "snippet": "Confirm the login email matches the account; ask IT to allow mail.noreply.example.com; resets expire in 60 minutes.",
+      "citationUrl": "https://help.example.com/auth/password-reset-delays"
+    },
+    {
+      "id": "kb_1305",
+      "title": "Bulk export filters (preview)",
+      "slug": "api/bulk-export-filters",
+      "status": "draft",
+      "lastReviewedAt": null,
+      "summary": "Planned Q2 release — not customer-ready.",
+      "snippet": "Saved filter presets are in beta for enterprise only.",
+      "citationUrl": null
     }
   ],
   "groundedReplies": [
@@ -38,6 +58,13 @@
       "agentId": "agent_kb",
       "articleIds": ["kb_1042"],
       "draft": "Thanks for reaching out, Maya. Plan downgrades usually apply at the next cycle; a second line on your statement is often a pending authorization that drops in 3–5 business days. I’m checking your account for a true duplicate now and will confirm the credit timeline.\n\nReference: Pro-rated charges when changing plans — https://help.example.com/billing/plan-change-proration"
+    },
+    {
+      "id": "reply_002",
+      "ticketId": "tkt_48322",
+      "agentId": "agent_kb",
+      "articleIds": ["kb_0915"],
+      "draft": "Hi Sam — sorry for the trouble. Let’s confirm the email on the account matches sam.park@freelance.example and that your mail team allows noreply@mail.example.com. I can resend the reset link once we verify deliverability.\n\nReference: Password reset email not arriving — https://help.example.com/auth/password-reset-delays"
     }
   ]
 }

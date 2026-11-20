@@ -29,6 +29,17 @@
       "productArea": "platform",
       "confidence": 0.97,
       "rationale": "Production failure language and enterprise account."
+    },
+    {
+      "id": "tri_004",
+      "ticketId": "tkt_48322",
+      "agentId": "agent_triage",
+      "suggestedPriority": "high",
+      "suggestedTags": ["auth", "email", "churn-risk"],
+      "productArea": "identity",
+      "confidence": 0.81,
+      "rationale": "Password reset failure on expiring trial; frustration cues.",
+      "status": "pending_review"
     }
   ]
 }

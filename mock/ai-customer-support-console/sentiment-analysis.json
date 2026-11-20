@@ -43,6 +43,20 @@
         "Lead with incident acknowledgment and current severity.",
         "Provide next update time even if root cause unknown."
       ]
+    },
+    {
+      "id": "sent_004",
+      "ticketId": "tkt_48322",
+      "agentId": "agent_sentiment",
+      "score": -0.48,
+      "label": "frustrated",
+      "churnRisk": "high",
+      "signals": ["trial frustration", "abandonment language"],
+      "coachingHints": [
+        "Offer live assist within one message.",
+        "Confirm email typo before deep troubleshooting.",
+        "Extend trial only if policy allows — note in ticket."
+      ]
     }
   ]
 }

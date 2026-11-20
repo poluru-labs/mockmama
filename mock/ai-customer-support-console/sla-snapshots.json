@@ -1,0 +1,31 @@
+{
+  "snapshots": [
+    {
+      "id": "sla_snap_001",
+      "ticketId": "tkt_48102",
+      "slaPolicyId": "sla_enterprise",
+      "firstResponseDueAt": "2026-03-17T09:35:00.000Z",
+      "firstResponseAt": "2026-03-17T09:55:00.000Z",
+      "breached": true,
+      "breachType": "first_response"
+    },
+    {
+      "id": "sla_snap_002",
+      "ticketId": "tkt_48291",
+      "slaPolicyId": "sla_business",
+      "firstResponseDueAt": "2026-03-17T17:02:00.000Z",
+      "firstResponseAt": "2026-03-17T13:45:00.000Z",
+      "breached": false,
+      "resolutionDueAt": "2026-03-19T13:02:00.000Z"
+    },
+    {
+      "id": "sla_snap_003",
+      "ticketId": "tkt_48322",
+      "slaPolicyId": "sla_starter",
+      "firstResponseDueAt": "2026-03-17T22:50:00.000Z",
+      "firstResponseAt": null,
+      "breached": false,
+      "minutesRemaining": 478
+    }
+  ]
+}

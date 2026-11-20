@@ -1,0 +1,28 @@
+{
+  "queues": [
+    {
+      "id": "queue_tier1",
+      "name": "Tier 1 — General",
+      "openCount": 84,
+      "slaPolicyId": "sla_starter"
+    },
+    {
+      "id": "queue_billing",
+      "name": "Billing specialists",
+      "openCount": 18,
+      "slaPolicyId": "sla_business"
+    },
+    {
+      "id": "queue_enterprise",
+      "name": "Enterprise",
+      "openCount": 12,
+      "slaPolicyId": "sla_enterprise"
+    },
+    {
+      "id": "queue_incident",
+      "name": "Incident response",
+      "openCount": 3,
+      "slaPolicyId": "sla_enterprise"
+    }
+  ]
+}
