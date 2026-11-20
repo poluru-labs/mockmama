@@ -1,0 +1,11 @@
+{
+  "settings": {
+    "defaultModel": "gpt-4.1-mini",
+    "requireHumanApprovalForRedlines": true,
+    "autoRunRiskOnUpload": true,
+    "msaGraphEnabled": true,
+    "retentionDays": 2555,
+    "emailDigest": "daily",
+    "fallbackLocale": "en-US"
+  }
+}

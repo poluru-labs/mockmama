@@ -1,0 +1,12 @@
+{
+  "navigation": [
+    { "id": "nav_dashboard", "label": "Dashboard", "route": "/dashboard", "icon": "layout-dashboard" },
+    { "id": "nav_queue", "label": "Review queue", "route": "/queue", "icon": "inbox", "badge": 4 },
+    { "id": "nav_contracts", "label": "Contracts", "route": "/contracts", "icon": "file-text" },
+    { "id": "nav_obligations", "label": "Obligations", "route": "/obligations", "icon": "calendar" },
+    { "id": "nav_playbook", "label": "Playbook", "route": "/playbook", "icon": "book-open" },
+    { "id": "nav_alerts", "label": "MSA alerts", "route": "/alerts", "icon": "bell", "badge": 2 },
+    { "id": "nav_agents", "label": "Agents", "route": "/agents", "icon": "bot" },
+    { "id": "nav_settings", "label": "Settings", "route": "/settings", "icon": "settings" }
+  ]
+}

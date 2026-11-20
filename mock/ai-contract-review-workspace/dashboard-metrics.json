@@ -1,0 +1,29 @@
+{
+  "metrics": [
+    {
+      "label": "Contracts",
+      "value": "188",
+      "hint": "Reviewed"
+    },
+    {
+      "label": "Risks flagged",
+      "value": "642",
+      "hint": "High/med"
+    },
+    {
+      "label": "Avg. turnaround",
+      "value": "18m",
+      "hint": "First pass"
+    },
+    {
+      "label": "Open queue",
+      "value": "4",
+      "hint": "Needs attorney"
+    },
+    {
+      "label": "MSA alerts",
+      "value": "2",
+      "hint": "Open"
+    }
+  ]
+}

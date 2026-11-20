@@ -1,0 +1,31 @@
+{
+  "comments": [
+    {
+      "id": "comment_001",
+      "contractId": "ctr_vendor_saas_2026_014",
+      "clauseId": "cl_9_1_liability_cap",
+      "authorId": "user_legal_002",
+      "body": "Push for LOL-07 fallback at minimum; data breach cannot sit inside general cap.",
+      "createdAt": "2026-03-17T13:20:00.000Z",
+      "resolved": false
+    },
+    {
+      "id": "comment_002",
+      "contractId": "ctr_vendor_saas_2026_014",
+      "clauseId": "cl_8_2_indemnity",
+      "authorId": "user_legal_001",
+      "body": "Procurement agrees to mutual IP if we keep Customer Content carve-out narrow.",
+      "createdAt": "2026-03-17T14:00:00.000Z",
+      "resolved": true
+    },
+    {
+      "id": "comment_003",
+      "contractId": "ctr_order_form_2026_031",
+      "clauseId": "cl_of_liability_override",
+      "authorId": "user_legal_003",
+      "body": "Vendor counsel said six-month cap is 'standard' — cite MSA-OF-03 in response.",
+      "createdAt": "2026-03-17T16:00:00.000Z",
+      "resolved": false
+    }
+  ]
+}

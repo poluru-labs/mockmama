@@ -1,0 +1,29 @@
+{
+  "overview": {
+    "periodLabel": "Last 30 days",
+    "pipeline": {
+      "inReview": 3,
+      "awaitingSignature": 1,
+      "blocked": 1,
+      "executed": 1
+    },
+    "riskSummary": {
+      "high": 2,
+      "medium": 2,
+      "low": 1,
+      "unscored": 0
+    },
+    "agentRuns": {
+      "completed": 47,
+      "failed": 1,
+      "queued": 2
+    },
+    "openAlerts": 2,
+    "pendingApprovals": 1
+  },
+  "recentContracts": [
+    "ctr_amendment_2026_001",
+    "ctr_sow_2026_005",
+    "ctr_order_form_2026_031"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "activity": [
+    {
+      "id": "act_001",
+      "actorId": "user_legal_002",
+      "contractId": "ctr_vendor_saas_2026_014",
+      "type": "risk_scan_complete",
+      "summary": "Clause Risk Scorer finished pass on MSA",
+      "createdAt": "2026-03-17T13:10:00.000Z"
+    },
+    {
+      "id": "act_002",
+      "actorId": "agent_playbook",
+      "contractId": "ctr_order_form_2026_031",
+      "type": "playbook_diff",
+      "summary": "Playbook comparison failed alignment on MSA-OF-03",
+      "createdAt": "2026-03-17T12:55:00.000Z"
+    },
+    {
+      "id": "act_003",
+      "actorId": "user_legal_001",
+      "contractId": "ctr_order_form_2026_031",
+      "type": "redline_proposed",
+      "summary": "Proposed greater-of liability language",
+      "createdAt": "2026-03-17T15:30:00.000Z"
+    },
+    {
+      "id": "act_004",
+      "actorId": "user_legal_003",
+      "contractId": "ctr_amendment_2026_001",
+      "type": "upload_failed",
+      "summary": "OCR could not parse scanned amendment",
+      "createdAt": "2026-03-18T15:22:00.000Z"
+    },
+    {
+      "id": "act_005",
+      "actorId": "user_legal_002",
+      "contractId": "ctr_nda_2026_002",
+      "type": "contract_executed",
+      "summary": "Lattice mutual NDA marked executed",
+      "createdAt": "2026-02-03T14:00:00.000Z"
+    }
+  ]
+}
