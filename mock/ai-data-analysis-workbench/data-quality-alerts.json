@@ -1,0 +1,35 @@
+{
+  "alerts": [
+    {
+      "id": "dqa_001",
+      "datasetId": "ds_support_tickets",
+      "signalId": null,
+      "severity": "high",
+      "title": "Replication lag on ticket_events",
+      "detail": "Mirror is 28 hours behind primary; CSAT queries may be incomplete.",
+      "status": "open",
+      "detectedAt": "2026-03-17T08:00:00.000Z"
+    },
+    {
+      "id": "dqa_002",
+      "datasetId": "ds_shop_analytics",
+      "table": "fct_orders",
+      "column": "ordered_at",
+      "severity": "medium",
+      "title": "Future-dated orders",
+      "detail": "12 rows with ordered_at > current_timestamp.",
+      "status": "acknowledged",
+      "detectedAt": "2026-03-16T12:00:00.000Z",
+      "acknowledgedById": "user_analyst_001"
+    },
+    {
+      "id": "dqa_003",
+      "datasetId": "ds_experiments",
+      "severity": "low",
+      "title": "Disconnected source",
+      "detail": "OAuth reconnect required before experiments export is queryable.",
+      "status": "open",
+      "detectedAt": "2026-03-15T09:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "activity": [
+    {
+      "id": "act_001",
+      "actorId": "user_analyst_002",
+      "verb": "ran",
+      "objectType": "analysis_run",
+      "objectId": "run_8823",
+      "occurredAt": "2026-03-17T15:08:00.000Z"
+    },
+    {
+      "id": "act_002",
+      "actorId": "agent_query",
+      "verb": "drafted",
+      "objectType": "query",
+      "objectId": "qry_campaign_roas",
+      "occurredAt": "2026-03-17T15:00:00.000Z"
+    },
+    {
+      "id": "act_003",
+      "actorId": "user_analyst_003",
+      "verb": "failed",
+      "objectType": "analysis_run",
+      "objectId": "run_8810",
+      "occurredAt": "2026-03-17T11:00:00.000Z"
+    },
+    {
+      "id": "act_004",
+      "actorId": "user_analyst_001",
+      "verb": "pinned",
+      "objectType": "insight",
+      "objectId": "ins_001",
+      "occurredAt": "2026-03-17T13:22:00.000Z"
+    }
+  ]
+}

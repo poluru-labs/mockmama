@@ -1,0 +1,22 @@
+{
+  "comments": [
+    {
+      "id": "cmt_001",
+      "targetType": "insight",
+      "targetId": "ins_001",
+      "authorId": "user_analyst_002",
+      "body": "Can we facet by region once channel null rate is fixed?",
+      "createdAt": "2026-03-17T13:30:00.000Z",
+      "resolved": false
+    },
+    {
+      "id": "cmt_002",
+      "targetType": "query",
+      "targetId": "qry_csat_by_tier",
+      "authorId": "user_analyst_001",
+      "body": "Join warehouse dim_account instead of tier on tickets.",
+      "createdAt": "2026-03-17T11:10:00.000Z",
+      "resolved": true
+    }
+  ]
+}

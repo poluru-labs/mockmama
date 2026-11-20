@@ -1,0 +1,34 @@
+{
+  "notifications": [
+    {
+      "id": "notif_001",
+      "userId": "user_analyst_001",
+      "type": "run_complete",
+      "title": "Analysis run finished",
+      "body": "Monthly revenue pipeline — 144 rows",
+      "href": "/runs/run_8821",
+      "read": true,
+      "createdAt": "2026-03-17T13:16:00.000Z"
+    },
+    {
+      "id": "notif_002",
+      "userId": "user_analyst_003",
+      "type": "quality_alert",
+      "title": "Dataset degraded",
+      "body": "Support Tickets Mirror — replication lag",
+      "href": "/quality/dqa_001",
+      "read": false,
+      "createdAt": "2026-03-17T08:05:00.000Z"
+    },
+    {
+      "id": "notif_003",
+      "userId": "user_analyst_002",
+      "type": "export_ready",
+      "title": "Export processing",
+      "body": "Insight ins_003 PDF export started",
+      "href": "/exports/exp_002",
+      "read": false,
+      "createdAt": "2026-03-17T15:15:00.000Z"
+    }
+  ]
+}

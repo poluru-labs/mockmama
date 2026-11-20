@@ -1,0 +1,24 @@
+{
+  "schedules": [
+    {
+      "id": "sched_001",
+      "queryId": "qry_monthly_revenue",
+      "ownerId": "user_analyst_001",
+      "cadence": "0 8 1 * *",
+      "timezone": "America/Denver",
+      "status": "active",
+      "lastRunAt": "2026-03-01T15:00:00.000Z",
+      "nextRunAt": "2026-04-01T14:00:00.000Z"
+    },
+    {
+      "id": "sched_002",
+      "queryId": "qry_channel_mix",
+      "ownerId": "user_analyst_001",
+      "cadence": "0 7 * * 1",
+      "timezone": "America/Denver",
+      "status": "paused",
+      "lastRunAt": null,
+      "nextRunAt": null
+    }
+  ]
+}

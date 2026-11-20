@@ -41,6 +41,28 @@
           "model": "gpt-4.1-mini"
         }
       ]
+    },
+    {
+      "id": "sess_roas_insight",
+      "title": "Campaign ROAS narrative",
+      "updatedAt": "2026-03-17T15:12:00.000Z",
+      "agentId": "agent_insight",
+      "datasetId": "ds_marketing_exports",
+      "messages": [
+        {
+          "id": "msg_005",
+          "role": "user",
+          "content": "Summarize Q1 ROAS results and call out campaigns below 1.0.",
+          "createdAt": "2026-03-17T15:10:00.000Z"
+        },
+        {
+          "id": "msg_006",
+          "role": "assistant",
+          "content": "Insight Narrator (prompt 2026.01.8) — Draft insight ins_003 with caveats on 7-day attribution and CSV source.",
+          "createdAt": "2026-03-17T15:12:00.000Z",
+          "model": "gpt-4.1-mini"
+        }
+      ]
     }
   ]
 }
