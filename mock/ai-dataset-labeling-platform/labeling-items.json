@@ -20,6 +20,37 @@
       "text": "Reach me at maya.lin@northwind.example before 5pm CT.",
       "status": "pending",
       "metadata": { "source": "synthetic_mix" }
+    },
+    {
+      "id": "item_88423",
+      "projectId": "proj_ticket_intent_v3",
+      "text": "How do I export my data to CSV?",
+      "status": "pending",
+      "metadata": { "locale": "en-GB", "channel": "portal" }
+    },
+    {
+      "id": "item_88424",
+      "projectId": "proj_ticket_intent_v3",
+      "text": "null",
+      "status": "skipped",
+      "metadata": { "locale": "en-US", "channel": "email", "skipReason": "empty_body" }
+    },
+    {
+      "id": "item_90001",
+      "projectId": "proj_defect_bbox_v1",
+      "text": null,
+      "status": "locked",
+      "metadata": {
+        "imageUrl": "https://picsum.photos/seed/defect-line-90001/640/480",
+        "lineId": "assembly-7"
+      }
+    },
+    {
+      "id": "item_12008",
+      "projectId": "proj_pii_spans_v2",
+      "text": "Call Jordan on +1 555 010 8823 after standup.",
+      "status": "in_review",
+      "metadata": { "source": "synthetic_mix" }
     }
   ]
 }

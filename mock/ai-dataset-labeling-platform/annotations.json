@@ -31,6 +31,45 @@
       "labelIds": ["intent_auth"],
       "spans": [],
       "submittedAt": "2026-03-17T10:00:00.000Z"
+    },
+    {
+      "id": "ann_003a",
+      "itemId": "item_12007",
+      "annotatorId": "user_bob",
+      "labelIds": [],
+      "spans": [
+        {
+          "labelId": "span_email",
+          "start": 14,
+          "end": 42,
+          "text": "maya.lin@northwind.example"
+        }
+      ],
+      "submittedAt": "2026-03-17T14:20:00.000Z"
+    },
+    {
+      "id": "ann_003b",
+      "itemId": "item_12008",
+      "annotatorId": "user_alice",
+      "labelIds": [],
+      "spans": [
+        {
+          "labelId": "span_phone",
+          "start": 15,
+          "end": 31,
+          "text": "+1 555 010 8823"
+        }
+      ],
+      "submittedAt": "2026-03-17T15:00:00.000Z"
+    },
+    {
+      "id": "ann_004",
+      "itemId": "item_88423",
+      "annotatorId": "user_bob",
+      "labelIds": ["intent_howto"],
+      "spans": [],
+      "submittedAt": null,
+      "status": "draft"
     }
   ]
 }

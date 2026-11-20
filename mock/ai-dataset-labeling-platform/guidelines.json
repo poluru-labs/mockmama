@@ -28,6 +28,18 @@
           "body": "Tag full address including subdomain; exclude example.com training placeholders per allowlist."
         }
       ]
+    },
+    {
+      "id": "guide_defect_v1",
+      "title": "Defect Bounding Box Guidelines",
+      "version": "1.0.0",
+      "sections": [
+        {
+          "id": "sec_scratches",
+          "title": "Scratches vs dust",
+          "body": "Tag scratches that exceed 2mm; ignore dust specks below threshold."
+        }
+      ]
     }
   ]
 }

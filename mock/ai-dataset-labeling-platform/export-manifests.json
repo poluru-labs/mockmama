@@ -35,6 +35,35 @@
           "message": "Category id 4 referenced in 12 images but missing from categories list."
         }
       ]
+    },
+    {
+      "id": "exp_pii_spans_jsonl",
+      "projectId": "proj_pii_spans_v2",
+      "agentId": "agent_export",
+      "format": "jsonl",
+      "schemaVersion": "2.1.0",
+      "status": "running",
+      "recordCount": 2100,
+      "manifestHash": null,
+      "sampleRecord": null,
+      "validationErrors": []
+    },
+    {
+      "id": "exp_intent_failed",
+      "projectId": "proj_ticket_intent_v3",
+      "agentId": "agent_export",
+      "format": "parquet_labels",
+      "schemaVersion": "3.2.0",
+      "status": "failed",
+      "recordCount": 0,
+      "manifestHash": null,
+      "sampleRecord": null,
+      "validationErrors": [
+        {
+          "code": "ROW_COUNT_MISMATCH",
+          "message": "9820 labeled items but export query returned 9814."
+        }
+      ]
     }
   ]
 }

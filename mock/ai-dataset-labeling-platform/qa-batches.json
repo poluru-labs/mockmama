@@ -37,6 +37,22 @@
       "reviewerNotes": [],
       "status": "queued",
       "createdAt": "2026-03-17T08:00:00.000Z"
+    },
+    {
+      "id": "qa_batch_complete_0314",
+      "projectId": "proj_ticket_intent_v3",
+      "agentId": "agent_qa",
+      "sampleSize": 40,
+      "sampleRate": 0.08,
+      "selectionStrategy": "random",
+      "itemIds": [],
+      "driftFlags": [],
+      "reviewerNotes": [],
+      "status": "completed",
+      "createdAt": "2026-03-14T09:00:00.000Z",
+      "completedAt": "2026-03-15T16:00:00.000Z",
+      "reviewerId": "user_dana",
+      "accuracyScore": 0.94
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "projectId": "proj_pii_spans_v2",
+  "schemaVersion": "2.1.0",
+  "exportFormats": ["jsonl", "conll"],
+  "labels": null,
+  "spanLabels": [
+    {
+      "id": "span_email",
+      "name": "email",
+      "description": "Email address excluding allowlisted example domains."
+    },
+    {
+      "id": "span_phone",
+      "name": "phone",
+      "description": "Phone numbers including country code."
+    },
+    {
+      "id": "span_name",
+      "name": "person_name",
+      "description": "Given or family name when linked to contact request."
+    },
+    {
+      "id": "span_ssn",
+      "name": "ssn",
+      "description": "Government identifiers — escalate to reviewer if uncertain."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "examples": [
+    {
+      "id": "ex_042",
+      "projectId": "proj_ticket_intent_v3",
+      "text": "Why was I charged twice this month?",
+      "labelIds": ["intent_billing"],
+      "active": true
+    },
+    {
+      "id": "ex_108",
+      "projectId": "proj_ticket_intent_v3",
+      "text": "Refund hasn't posted after 10 days.",
+      "labelIds": ["intent_billing"],
+      "active": true
+    },
+    {
+      "id": "ex_017",
+      "projectId": "proj_ticket_intent_v3",
+      "text": "Can't log in with Google SSO.",
+      "labelIds": ["intent_auth"],
+      "active": true
+    },
+    {
+      "id": "ex_055",
+      "projectId": "proj_ticket_intent_v3",
+      "text": "Where do I download invoices?",
+      "labelIds": ["intent_howto"],
+      "active": true
+    },
+    {
+      "id": "ex_pii_003",
+      "projectId": "proj_pii_spans_v2",
+      "text": "Email team@acme.example for access.",
+      "spans": [{ "labelId": "span_email", "start": 6, "end": 22 }],
+      "active": true
+    },
+    {
+      "id": "ex_pii_007",
+      "projectId": "proj_pii_spans_v2",
+      "text": "Text me at 555-0199.",
+      "spans": [{ "labelId": "span_phone", "start": 11, "end": 19 }],
+      "active": true
+    }
+  ]
+}
