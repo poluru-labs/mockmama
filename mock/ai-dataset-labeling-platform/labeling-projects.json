@@ -38,6 +38,20 @@
       "guidelineDocId": "guide_defect_v1",
       "createdAt": "2025-12-15T14:00:00.000Z",
       "updatedAt": "2026-03-05T16:00:00.000Z"
+    },
+    {
+      "id": "proj_chat_safety_v1",
+      "name": "Chat Safety Moderation",
+      "modality": "text_classification",
+      "status": "draft",
+      "itemCount": 0,
+      "labeledCount": 0,
+      "consensusMode": "majority_plus_arbiter",
+      "qaSampleRate": 0.1,
+      "guidelineDocId": null,
+      "createdAt": "2026-03-18T10:00:00.000Z",
+      "updatedAt": "2026-03-18T10:00:00.000Z",
+      "blockReason": "Guideline document pending legal review"
     }
   ]
 }

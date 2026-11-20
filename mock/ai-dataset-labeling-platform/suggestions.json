@@ -36,6 +36,33 @@
       ],
       "rationale": "Single email span; not on example.com allowlist.",
       "fewShotRefs": ["ex_pii_003"]
+    },
+    {
+      "id": "sugg_004",
+      "itemId": "item_88423",
+      "agentId": "agent_suggest",
+      "proposedLabelIds": ["intent_howto"],
+      "confidence": 0.96,
+      "spans": [],
+      "rationale": "Export how-to with no failure implied.",
+      "fewShotRefs": ["ex_055"]
+    },
+    {
+      "id": "sugg_005",
+      "itemId": "item_12008",
+      "agentId": "agent_suggest",
+      "proposedLabelIds": [],
+      "confidence": 0.79,
+      "spans": [
+        {
+          "label": "phone",
+          "start": 15,
+          "end": 31,
+          "text": "+1 555 010 8823"
+        }
+      ],
+      "rationale": "US phone pattern; verify country code policy in guide_pii_v2.",
+      "fewShotRefs": ["ex_pii_007"]
     }
   ]
 }

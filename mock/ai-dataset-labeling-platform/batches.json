@@ -32,6 +32,40 @@
           "reason": "60 items remaining; SLA in 4 days"
         }
       ]
+    },
+    {
+      "id": "wave_pii_wk2",
+      "projectId": "proj_pii_spans_v2",
+      "agentId": "agent_batch",
+      "name": "PII wave 2 — synthetic mix",
+      "status": "scheduled",
+      "itemCount": 500,
+      "slaDueAt": "2026-03-25T17:00:00.000Z",
+      "assignments": [
+        {
+          "assigneeId": "user_alice",
+          "quota": 250,
+          "completed": 0
+        },
+        {
+          "assigneeId": "user_eve",
+          "quota": 250,
+          "completed": 0
+        }
+      ],
+      "nudgesSent": []
+    },
+    {
+      "id": "wave_defect_paused",
+      "projectId": "proj_defect_bbox_v1",
+      "agentId": "agent_batch",
+      "name": "Defect bbox — pilot line",
+      "status": "paused",
+      "itemCount": 1200,
+      "slaDueAt": null,
+      "assignments": [],
+      "nudgesSent": [],
+      "pauseReason": "Camera calibration upgrade on line 7"
     }
   ]
 }
