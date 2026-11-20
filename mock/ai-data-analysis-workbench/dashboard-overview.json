@@ -1,0 +1,18 @@
+{
+  "overview": {
+    "runsToday": { "completed": 18, "running": 1, "failed": 1 },
+    "queriesByStatus": [
+      { "status": "lint_passed", "count": 12 },
+      { "status": "draft", "count": 4 },
+      { "status": "lint_failed", "count": 1 },
+      { "status": "executing", "count": 1 }
+    ],
+    "datasetHealth": [
+      { "datasetId": "ds_shop_analytics", "status": "connected" },
+      { "datasetId": "ds_marketing_exports", "status": "connected" },
+      { "datasetId": "ds_support_tickets", "status": "degraded" },
+      { "datasetId": "ds_experiments", "status": "disconnected" }
+    ],
+    "openQualityAlerts": 2
+  }
+}

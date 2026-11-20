@@ -14,6 +14,16 @@
       "label": "Insights saved",
       "value": "210",
       "hint": "Pinned"
+    },
+    {
+      "label": "Runs today",
+      "value": "20",
+      "hint": "3 datasets"
+    },
+    {
+      "label": "Quality alerts",
+      "value": "2",
+      "hint": "Open"
     }
   ]
 }

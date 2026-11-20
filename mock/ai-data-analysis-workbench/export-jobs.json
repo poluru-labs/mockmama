@@ -1,0 +1,35 @@
+{
+  "jobs": [
+    {
+      "id": "exp_001",
+      "notebookId": "nb_q1_category_review",
+      "requestedById": "user_analyst_001",
+      "format": "html",
+      "status": "completed",
+      "downloadUrl": "https://example.com/exports/nb_q1_category_review.html",
+      "createdAt": "2026-03-17T12:35:00.000Z",
+      "finishedAt": "2026-03-17T12:36:00.000Z"
+    },
+    {
+      "id": "exp_002",
+      "insightId": "ins_003",
+      "requestedById": "user_analyst_002",
+      "format": "pdf",
+      "status": "processing",
+      "downloadUrl": null,
+      "createdAt": "2026-03-17T15:15:00.000Z",
+      "finishedAt": null
+    },
+    {
+      "id": "exp_003",
+      "queryId": "qry_csat_by_tier",
+      "requestedById": "user_analyst_003",
+      "format": "csv",
+      "status": "failed",
+      "downloadUrl": null,
+      "createdAt": "2026-03-17T11:05:00.000Z",
+      "finishedAt": "2026-03-17T11:05:01.000Z",
+      "errorMessage": "Query lint failed"
+    }
+  ]
+}

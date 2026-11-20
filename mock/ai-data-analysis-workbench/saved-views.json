@@ -1,0 +1,28 @@
+{
+  "views": [
+    {
+      "id": "view_pinned_insights",
+      "name": "Pinned insights",
+      "ownerId": "user_analyst_001",
+      "filters": { "pinned": true },
+      "insightIds": ["ins_001", "ins_003"],
+      "shared": true
+    },
+    {
+      "id": "view_my_queries",
+      "name": "My recent queries",
+      "ownerId": "user_analyst_002",
+      "filters": { "ownerId": "user_analyst_002" },
+      "queryIds": ["qry_campaign_roas"],
+      "shared": false
+    },
+    {
+      "id": "view_failed_runs",
+      "name": "Failed runs",
+      "ownerId": null,
+      "filters": { "status": "failed" },
+      "runIds": ["run_8810"],
+      "shared": true
+    }
+  ]
+}
