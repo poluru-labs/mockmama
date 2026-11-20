@@ -1,0 +1,12 @@
+{
+  "navigation": [
+    { "id": "nav_inbox", "label": "Inbox", "route": "/inbox", "icon": "inbox", "badge": 12 },
+    { "id": "nav_threads", "label": "Threads", "route": "/threads", "icon": "mail" },
+    { "id": "nav_drafts", "label": "Drafts", "route": "/drafts", "icon": "file-edit", "badge": 2 },
+    { "id": "nav_followups", "label": "Follow-ups", "route": "/follow-ups", "icon": "clock" },
+    { "id": "nav_templates", "label": "Templates", "route": "/templates", "icon": "layout-template" },
+    { "id": "nav_voice", "label": "Voice", "route": "/voice", "icon": "mic" },
+    { "id": "nav_agents", "label": "Agents", "route": "/agents", "icon": "bot" },
+    { "id": "nav_settings", "label": "Settings", "route": "/settings", "icon": "settings" }
+  ]
+}

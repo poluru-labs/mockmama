@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "workspaceId": "ws_email_assistant_001",
+    "defaultAgentId": "agent_tone",
+    "requireHumanSendApproval": true,
+    "triageAutoArchiveNewsletters": true,
+    "followUpSuggestionsEnabled": true,
+    "retainThreadSummariesDays": 365,
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/inbox-pilot-logo/320/80",
+      "accentColor": "#AA2B1D"
+    },
+    "integrations": {
+      "provider": "mock_graph",
+      "calendarId": "alex@example.com"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "workspace": {
+    "id": "ws_email_assistant_001",
+    "name": "Inbox Pilot",
+    "slug": "inbox-pilot",
+    "timezone": "America/Chicago",
+    "primaryMailbox": "alex@example.com",
+    "plan": "team",
+    "seatsUsed": 6,
+    "seatsTotal": 10,
+    "status": "active"
+  }
+}
