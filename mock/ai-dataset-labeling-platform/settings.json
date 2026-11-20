@@ -1,0 +1,19 @@
+{
+  "settings": {
+    "workspaceId": "ws_labeling_platform_001",
+    "defaultAgentId": "agent_suggest",
+    "minAnnotatorsPerItem": 3,
+    "requireReviewerOnTiebreak": true,
+    "storeSuggestionMetadata": true,
+    "exportSigningEnabled": true,
+    "retainRawAnnotationsDays": 730,
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/annotateworks-logo/320/80",
+      "accentColor": "#006699"
+    },
+    "integrations": {
+      "objectStorage": "s3://annotateworks-mock",
+      "webhookUrl": null
+    }
+  }
+}
