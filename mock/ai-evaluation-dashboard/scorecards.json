@@ -33,6 +33,29 @@
       ],
       "generatedAt": "2026-03-17T09:00:00.000Z",
       "exportFormats": ["pdf", "csv"]
+    },
+    {
+      "id": "score_weekly_exec",
+      "title": "Weekly Executive Snapshot",
+      "agentId": "agent_scorecard",
+      "period": { "start": "2026-03-10", "end": "2026-03-17" },
+      "kpis": [
+        {
+          "name": "Critical regressions",
+          "value": 1,
+          "trend": "up_1",
+          "annotation": "Support KB candidate run reg_017."
+        },
+        {
+          "name": "Suites green",
+          "value": "20 / 22",
+          "trend": "down_1",
+          "annotation": null
+        }
+      ],
+      "generatedAt": "2026-03-17T10:00:00.000Z",
+      "exportFormats": ["pdf"],
+      "status": "generating"
     }
   ]
 }

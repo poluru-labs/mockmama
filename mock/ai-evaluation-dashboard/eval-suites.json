@@ -31,6 +31,21 @@
       "promptPackId": null,
       "caseCount": 80,
       "updatedAt": "2026-03-10T10:00:00.000Z"
+    },
+    {
+      "id": "suite_contract_clauses",
+      "name": "Contract Clause Routing",
+      "status": "draft",
+      "agentId": "agent_suite",
+      "goldenSetId": "golden_contract_120",
+      "metrics": ["macro_f1", "severity_mae"],
+      "thresholds": {
+        "macro_f1": 0.85,
+        "severity_mae": 0.15
+      },
+      "promptPackId": null,
+      "caseCount": 120,
+      "updatedAt": "2026-03-18T09:00:00.000Z"
     }
   ]
 }

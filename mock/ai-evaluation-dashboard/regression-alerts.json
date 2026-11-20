@@ -55,6 +55,20 @@
       "changelogRef": null,
       "summary": "Slight false refusal uptick; within tolerance.",
       "detectedAt": "2026-03-16T22:20:00.000Z"
+    },
+    {
+      "id": "reg_018",
+      "agentId": "agent_regression",
+      "suiteId": "suite_support_kb",
+      "baselineRunId": "run_20260317_001",
+      "candidateRunId": "run_20260315_nano_fail",
+      "severity": "medium",
+      "status": "resolved",
+      "metricDeltas": [],
+      "changelogRef": "mdl_gpt4nano_experiment",
+      "summary": "Run failed before metrics — not counted as regression.",
+      "detectedAt": "2026-03-15T12:06:00.000Z",
+      "resolvedAt": "2026-03-15T14:00:00.000Z"
     }
   ]
 }
