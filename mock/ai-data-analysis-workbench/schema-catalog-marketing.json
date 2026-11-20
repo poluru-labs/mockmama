@@ -1,0 +1,50 @@
+{
+  "datasetId": "ds_marketing_exports",
+  "agentId": "agent_schema",
+  "tables": [
+    {
+      "name": "campaign_spend",
+      "description": "Daily spend and attributed revenue per campaign.",
+      "rowCountApprox": 420000,
+      "freshnessHours": 26,
+      "primaryKey": ["campaign_name", "spend_date"],
+      "columns": [
+        { "name": "campaign_name", "type": "VARCHAR", "nullable": false },
+        { "name": "spend_date", "type": "DATE", "nullable": false },
+        { "name": "spend_month", "type": "DATE", "nullable": false },
+        { "name": "spend_usd", "type": "DOUBLE", "nullable": false },
+        { "name": "attributed_revenue", "type": "DOUBLE", "nullable": true },
+        { "name": "channel", "type": "VARCHAR", "nullable": true }
+      ]
+    },
+    {
+      "name": "attributed_conversions",
+      "description": "Conversion counts joined to campaigns.",
+      "rowCountApprox": 89000,
+      "freshnessHours": 26,
+      "primaryKey": ["conversion_id"],
+      "columns": [
+        { "name": "conversion_id", "type": "VARCHAR", "nullable": false },
+        { "name": "campaign_name", "type": "VARCHAR", "nullable": false },
+        { "name": "converted_at", "type": "TIMESTAMP", "nullable": false }
+      ]
+    }
+  ],
+  "joinHints": [
+    {
+      "from": "attributed_conversions.campaign_name",
+      "to": "campaign_spend.campaign_name",
+      "cardinality": "many_to_one",
+      "notes": "Aggregate spend at campaign grain before joining."
+    }
+  ],
+  "qualitySignals": [
+    {
+      "table": "campaign_spend",
+      "signal": "null_rate",
+      "column": "attributed_revenue",
+      "value": 0.14,
+      "severity": "medium"
+    }
+  ]
+}
