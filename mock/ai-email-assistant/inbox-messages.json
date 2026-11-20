@@ -27,6 +27,36 @@
       "receivedAt": "2026-03-17T08:00:00.000Z",
       "preview": "Weekly roundup: 12 product updates…",
       "unread": false
+    },
+    {
+      "id": "in_9004",
+      "threadId": "th_partner_intro",
+      "from": "partnerships@studio.example",
+      "to": ["alex@example.com"],
+      "receivedAt": "2026-03-16T17:00:00.000Z",
+      "preview": "Following up on the webinar idea…",
+      "unread": false,
+      "snoozed": true
+    },
+    {
+      "id": "in_9005",
+      "threadId": "th_phishing_alert",
+      "from": "payroll-fake@scam.example",
+      "to": ["alex@example.com"],
+      "receivedAt": "2026-03-17T07:30:00.000Z",
+      "preview": "Your payroll access expires today…",
+      "unread": true,
+      "quarantined": true
+    },
+    {
+      "id": "in_9006",
+      "threadId": "th_internship_reference",
+      "from": "hr@example.com",
+      "to": ["sam.rivera@example.com"],
+      "receivedAt": "2026-03-14T09:00:00.000Z",
+      "preview": "Gentle ping — Jordan's offer expires Friday…",
+      "unread": false,
+      "assignedUserId": "user_sam"
     }
   ]
 }

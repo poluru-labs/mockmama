@@ -31,5 +31,15 @@
       "title": "Bump HR on Jordan reference",
       "calendarHoldSuggested": true
     }
+  ],
+  "completed": [
+    {
+      "id": "fup_billing_done",
+      "threadId": "th_customer_billing",
+      "agentId": "agent_followup",
+      "status": "completed",
+      "completedAt": "2026-03-17T14:30:00.000Z",
+      "note": "Cancelled — draft sent manually"
+    }
   ]
 }

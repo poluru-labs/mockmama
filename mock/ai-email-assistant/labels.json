@@ -1,0 +1,9 @@
+{
+  "labels": [
+    { "id": "lbl_billing", "name": "billing", "color": "#2563eb" },
+    { "id": "lbl_vendor", "name": "vendor", "color": "#7c3aed" },
+    { "id": "lbl_hr", "name": "hr", "color": "#0d9488" },
+    { "id": "lbl_newsletter", "name": "newsletter", "color": "#6b7280" },
+    { "id": "lbl_phishing", "name": "phishing", "color": "#dc2626" }
+  ]
+}

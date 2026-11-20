@@ -1,0 +1,9 @@
+{
+  "queues": [
+    { "id": "billing-specialists", "name": "Billing specialists", "openCount": 4 },
+    { "id": "procurement", "name": "Procurement", "openCount": 2 },
+    { "id": "hr", "name": "HR", "openCount": 1 },
+    { "id": "archive", "name": "Auto archive", "openCount": 0 },
+    { "id": "security", "name": "Security review", "openCount": 1 }
+  ]
+}

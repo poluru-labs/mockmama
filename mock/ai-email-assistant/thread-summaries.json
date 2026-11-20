@@ -17,6 +17,20 @@
         { "owner": "alex@example.com", "action": "Reply to vendor with legal status + ask on seat hold" }
       ],
       "generatedAt": "2026-03-17T13:55:00.000Z"
+    },
+    {
+      "id": "sum_customer_billing",
+      "threadId": "th_customer_billing",
+      "agentId": "agent_summary",
+      "decisions": [],
+      "openQuestions": [
+        "Which March charge reflects the downgrade?",
+        "Will duplicate be refunded to card on file?"
+      ],
+      "nextOwners": [
+        { "owner": "support@example.com", "action": "Audit account 8842 and reply with timeline" }
+      ],
+      "generatedAt": "2026-03-17T11:15:00.000Z"
     }
   ]
 }
