@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "workspaceId": "ws_meeting_notes_001",
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/meetmind-logo/320/80",
+      "accentColor": "#3D5A80"
+    }
+  }
+}

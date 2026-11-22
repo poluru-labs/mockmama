@@ -1,0 +1,12 @@
+{
+  "workspace": {
+    "id": "ws_meeting_notes_001",
+    "name": "MeetMind",
+    "slug": "meetmind",
+    "timezone": "America/Chicago",
+    "plan": "team",
+    "seatsUsed": 5,
+    "seatsTotal": 12,
+    "status": "active"
+  }
+}
