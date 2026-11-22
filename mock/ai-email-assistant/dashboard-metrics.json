@@ -24,6 +24,11 @@
       "label": "Quarantined",
       "value": "1",
       "hint": "Security"
+    },
+    {
+      "label": "Scheduled",
+      "value": "1",
+      "hint": "Pending"
     }
   ]
 }

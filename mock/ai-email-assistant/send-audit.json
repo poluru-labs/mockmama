@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "id": "audit_001",
+      "draftId": "draft_internship_sent",
+      "sentById": "user_sam",
+      "approvedById": null,
+      "sentAt": "2026-03-15T11:05:00.000Z",
+      "policy": "human_send_approval",
+      "violation": false
+    },
+    {
+      "id": "audit_002",
+      "draftId": "draft_vendor_hold",
+      "sentById": null,
+      "scheduledSendId": "sch_001",
+      "sentAt": null,
+      "policy": "human_send_approval",
+      "violation": false
+    }
+  ]
+}

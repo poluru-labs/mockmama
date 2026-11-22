@@ -1,0 +1,21 @@
+{
+  "mailboxes": [
+    {
+      "id": "mb_support",
+      "address": "support@example.com",
+      "memberIds": [
+        "user_sam",
+        "user_support"
+      ],
+      "openThreadCount": 8
+    },
+    {
+      "id": "mb_legal",
+      "address": "legal@example.com",
+      "memberIds": [
+        "user_legal"
+      ],
+      "openThreadCount": 2
+    }
+  ]
+}

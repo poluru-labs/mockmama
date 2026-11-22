@@ -1,0 +1,11 @@
+{
+  "reports": [
+    {
+      "id": "spam_001",
+      "messageId": "in_9005",
+      "reportedById": "user_alex",
+      "category": "phishing",
+      "reportedAt": "2026-03-17T07:35:00.000Z"
+    }
+  ]
+}
