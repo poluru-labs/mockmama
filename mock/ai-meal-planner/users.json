@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "user_platewise_001",
+      "name": "Alex Morgan",
+      "email": "alex@platewise.example.com",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/platewise-u1/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_platewise_002",
+      "name": "Sam Rivera",
+      "email": "sam@platewise.example.com",
+      "role": "member",
+      "avatar": "https://picsum.photos/seed/platewise-u2/200/200",
+      "status": "active"
+    }
+  ]
+}

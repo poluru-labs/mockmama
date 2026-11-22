@@ -1,0 +1,12 @@
+{
+  "workspace": {
+    "id": "ws_meal_planner_001",
+    "name": "Platewise",
+    "slug": "platewise",
+    "timezone": "America/Chicago",
+    "plan": "team",
+    "seatsUsed": 5,
+    "seatsTotal": 12,
+    "status": "active"
+  }
+}

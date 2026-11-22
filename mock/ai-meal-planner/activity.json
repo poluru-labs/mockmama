@@ -1,0 +1,12 @@
+{
+  "activity": [
+    {
+      "id": "act_001",
+      "actorId": "user_platewise_001",
+      "verb": "updated",
+      "objectType": "workspace",
+      "objectId": "ws_meal_planner_001",
+      "occurredAt": "2026-03-17T12:00:00.000Z"
+    }
+  ]
+}

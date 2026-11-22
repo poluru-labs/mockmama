@@ -1,0 +1,78 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI Meal Planner.",
+  "files": [
+    {
+      "path": "app.json",
+      "entity": "application metadata"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace / tenant"
+    },
+    {
+      "path": "agents.json",
+      "entity": "AiAgent[]"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard metrics"
+    },
+    {
+      "path": "preferences.json",
+      "entity": "diet profiles"
+    },
+    {
+      "path": "macro-plans.json",
+      "entity": "macro splits"
+    },
+    {
+      "path": "weekly-menus.json",
+      "entity": "week grids"
+    },
+    {
+      "path": "grocery-lists.json",
+      "entity": "aisle lists"
+    },
+    {
+      "path": "leftovers.json",
+      "entity": "remix suggestions"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "ChatSession samples"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "mock completions by category"
+    },
+    {
+      "path": "pantry-snapshot.json",
+      "entity": "pantry inventory"
+    },
+    {
+      "path": "users.json",
+      "entity": "team users"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "primary nav"
+    },
+    {
+      "path": "settings.json",
+      "entity": "workspace settings"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard summary"
+    },
+    {
+      "path": "activity.json",
+      "entity": "audit activity"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "in-app notifications"
+    }
+  ]
+}

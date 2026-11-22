@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "workspaceId": "ws_meal_planner_001",
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/platewise-logo/320/80",
+      "accentColor": "#C45C26"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "id": "pantry_rice",
+      "name": "Jasmine rice",
+      "quantity": "2 kg",
+      "expiresOn": "2026-06-01"
+    },
+    {
+      "id": "pantry_miso",
+      "name": "White miso",
+      "quantity": "400 g",
+      "expiresOn": "2026-04-15"
+    }
+  ]
+}
