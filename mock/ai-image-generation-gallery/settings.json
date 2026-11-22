@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "workspaceId": "ws_image_gallery_001",
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/pixelfoundry-logo/320/80",
+      "accentColor": "#167D8D"
+    }
+  }
+}

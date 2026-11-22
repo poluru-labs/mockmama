@@ -1,0 +1,17 @@
+{
+  "slug": "ai-image-generation-gallery",
+  "name": "AI Image Generation Gallery",
+  "tagline": "Generate, curate, and organize image sets for production.",
+  "brandColor": "#167D8D",
+  "defaultModel": "gpt-4.1-mini",
+  "apiBaseUrl": "http://localhost:8080/api/v1",
+  "storageKeys": {
+    "activeAgentId": "image-gallery:active-agent"
+  },
+  "workspaceId": "ws_image_gallery_001",
+  "features": {
+    "collections": true,
+    "approvals": true,
+    "seedSweeps": true
+  }
+}

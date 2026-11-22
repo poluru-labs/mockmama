@@ -1,0 +1,28 @@
+{
+  "navigation": [
+    {
+      "id": "nav_home",
+      "label": "Home",
+      "route": "/dashboard",
+      "icon": "layout-dashboard"
+    },
+    {
+      "id": "nav_work",
+      "label": "Workspace",
+      "route": "/work",
+      "icon": "folder"
+    },
+    {
+      "id": "nav_agents",
+      "label": "Agents",
+      "route": "/agents",
+      "icon": "bot"
+    },
+    {
+      "id": "nav_settings",
+      "label": "Settings",
+      "route": "/settings",
+      "icon": "settings"
+    }
+  ]
+}
