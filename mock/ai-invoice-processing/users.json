@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "user_payflow_001",
+      "name": "Alex Morgan",
+      "email": "alex@payflow.example.com",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/payflow-u1/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_payflow_002",
+      "name": "Sam Rivera",
+      "email": "sam@payflow.example.com",
+      "role": "member",
+      "avatar": "https://picsum.photos/seed/payflow-u2/200/200",
+      "status": "active"
+    }
+  ]
+}
