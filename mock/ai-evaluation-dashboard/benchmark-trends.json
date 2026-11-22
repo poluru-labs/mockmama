@@ -1,0 +1,18 @@
+{
+  "trends": [
+    {
+      "suiteId": "suite_support_kb",
+      "metric": "exact_match",
+      "points": [
+        {
+          "date": "2026-03-10",
+          "value": 0.895
+        },
+        {
+          "date": "2026-03-17",
+          "value": 0.872
+        }
+      ]
+    }
+  ]
+}

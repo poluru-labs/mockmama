@@ -1,31 +1,122 @@
 {
-  "version": "1.1.0",
-  "description": "Fixture JSON for AI Evaluation Dashboard — mirrors agents, dashboard metrics, mock chat behavior, and eval entities (suites, runs, regressions, scorecards, feedback, jobs, promotions).",
+  "version": "1.2.0",
+  "description": "Fixture JSON for AI Evaluation Dashboard \u2014 mirrors agents, dashboard metrics, mock chat behavior, and eval entities (suites, runs, regressions, scorecards, feedback, jobs, promotions).",
   "files": [
-    { "path": "app.json", "entity": "application metadata" },
-    { "path": "workspace.json", "entity": "workspace / tenant" },
-    { "path": "users.json", "entity": "ML team users" },
-    { "path": "navigation.json", "entity": "primary nav" },
-    { "path": "settings.json", "entity": "workspace settings" },
-    { "path": "environments.json", "entity": "prod / staging baselines" },
-    { "path": "agents.json", "entity": "AiAgent[] (MOCK_AGENTS)" },
-    { "path": "dashboard-metrics.json", "entity": "dashboard hero metrics" },
-    { "path": "dashboard-overview.json", "entity": "suite and regression summary" },
-    { "path": "model-versions.json", "entity": "baseline and candidate models" },
-    { "path": "eval-suites.json", "entity": "suites and thresholds (Suite Composer)" },
-    { "path": "golden-sets.json", "entity": "golden eval cases" },
-    { "path": "eval-runs.json", "entity": "completed run metrics" },
-    { "path": "case-results.json", "entity": "per-case pass/fail samples" },
-    { "path": "regression-alerts.json", "entity": "metric deltas (Regression Sentinel)" },
-    { "path": "scorecards.json", "entity": "executive KPI rollups" },
-    { "path": "human-feedback.json", "entity": "rater merge and drift (Human Feedback Loop)" },
-    { "path": "raters.json", "entity": "human rater roster" },
-    { "path": "promotion-gates.json", "entity": "model promotion approvals" },
-    { "path": "job-schedules.json", "entity": "scheduled eval jobs (Run Orchestrator)" },
-    { "path": "comments.json", "entity": "thread comments on runs and regressions" },
-    { "path": "activity.json", "entity": "audit activity feed" },
-    { "path": "notifications.json", "entity": "in-app notifications" },
-    { "path": "chat-sessions.json", "entity": "ChatSession samples" },
-    { "path": "chat-completions.json", "entity": "ChatCompletionRequest/Response per agent category" }
+    {
+      "path": "app.json",
+      "entity": "application metadata"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace / tenant"
+    },
+    {
+      "path": "users.json",
+      "entity": "ML team users"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "primary nav"
+    },
+    {
+      "path": "settings.json",
+      "entity": "workspace settings"
+    },
+    {
+      "path": "environments.json",
+      "entity": "prod / staging baselines"
+    },
+    {
+      "path": "agents.json",
+      "entity": "AiAgent[] (MOCK_AGENTS)"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard hero metrics"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "suite and regression summary"
+    },
+    {
+      "path": "model-versions.json",
+      "entity": "baseline and candidate models"
+    },
+    {
+      "path": "eval-suites.json",
+      "entity": "suites and thresholds (Suite Composer)"
+    },
+    {
+      "path": "golden-sets.json",
+      "entity": "golden eval cases"
+    },
+    {
+      "path": "eval-runs.json",
+      "entity": "completed run metrics"
+    },
+    {
+      "path": "case-results.json",
+      "entity": "per-case pass/fail samples"
+    },
+    {
+      "path": "regression-alerts.json",
+      "entity": "metric deltas (Regression Sentinel)"
+    },
+    {
+      "path": "scorecards.json",
+      "entity": "executive KPI rollups"
+    },
+    {
+      "path": "human-feedback.json",
+      "entity": "rater merge and drift (Human Feedback Loop)"
+    },
+    {
+      "path": "raters.json",
+      "entity": "human rater roster"
+    },
+    {
+      "path": "promotion-gates.json",
+      "entity": "model promotion approvals"
+    },
+    {
+      "path": "job-schedules.json",
+      "entity": "scheduled eval jobs (Run Orchestrator)"
+    },
+    {
+      "path": "comments.json",
+      "entity": "thread comments on runs and regressions"
+    },
+    {
+      "path": "activity.json",
+      "entity": "audit activity feed"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "in-app notifications"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "ChatSession samples"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "ChatCompletionRequest/Response per agent category"
+    },
+    {
+      "path": "benchmark-trends.json",
+      "entity": "metric trend series"
+    },
+    {
+      "path": "eval-budgets.json",
+      "entity": "token budgets"
+    },
+    {
+      "path": "incident-postmortems.json",
+      "entity": "regression postmortems"
+    },
+    {
+      "path": "dataset-snapshots.json",
+      "entity": "golden set snapshots"
+    }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "snapshots": [
+    {
+      "id": "snap_golden_support",
+      "goldenSetId": "golden_support_240",
+      "version": "2026.02.1",
+      "hash": "sha256:abc123",
+      "recordCount": 240
+    }
+  ]
+}

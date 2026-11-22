@@ -1,0 +1,11 @@
+{
+  "budgets": [
+    {
+      "id": "budget_q1",
+      "period": "2026-Q1",
+      "tokenCapM": 120,
+      "tokensUsedM": 98.4,
+      "status": "on_track"
+    }
+  ]
+}

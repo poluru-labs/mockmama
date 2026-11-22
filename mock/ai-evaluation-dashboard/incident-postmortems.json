@@ -1,0 +1,12 @@
+{
+  "postmortems": [
+    {
+      "id": "pm_reg_017",
+      "regressionId": "reg_017",
+      "ownerId": "user_ml_002",
+      "status": "draft",
+      "summary": "Citation F1 drop tied to rc2 prompt routing.",
+      "createdAt": "2026-03-17T10:00:00.000Z"
+    }
+  ]
+}
