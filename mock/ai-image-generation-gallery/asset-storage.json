@@ -1,0 +1,10 @@
+{
+  "buckets": [
+    {
+      "id": "bucket_previews",
+      "prefix": "previews/",
+      "retentionDays": 90,
+      "objectCount": 1240
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI Image Generation Gallery \u2014 mirrors agents, dashboard metrics, mock chat behavior, and studio entities (generations, prompts, collections, styles, approval, seeds).",
+  "files": [
+    {
+      "path": "app.json",
+      "entity": "application metadata"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace / tenant"
+    },
+    {
+      "path": "agents.json",
+      "entity": "AiAgent[] (MOCK_AGENTS)"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard hero metrics"
+    },
+    {
+      "path": "generations.json",
+      "entity": "renders with prompt, seed, settings"
+    },
+    {
+      "path": "prompt-history.json",
+      "entity": "versioned prompts (Prompt Archivist)"
+    },
+    {
+      "path": "collections.json",
+      "entity": "boards and exports (Board Curator)"
+    },
+    {
+      "path": "style-presets.json",
+      "entity": "style packs (Style Preset Maker)"
+    },
+    {
+      "path": "approval-queue.json",
+      "entity": "review lanes (Approval Gate)"
+    },
+    {
+      "path": "seed-sweeps.json",
+      "entity": "grids and rankings (Seed Explorer)"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "ChatSession samples"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "ChatCompletionRequest/Response per agent category"
+    },
+    {
+      "path": "asset-storage.json",
+      "entity": "storage buckets"
+    },
+    {
+      "path": "users.json",
+      "entity": "team users"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "primary nav"
+    },
+    {
+      "path": "settings.json",
+      "entity": "workspace settings"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard summary"
+    },
+    {
+      "path": "activity.json",
+      "entity": "audit activity"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "in-app notifications"
+    }
+  ]
+}
