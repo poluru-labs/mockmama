@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "user_modelarena_001",
+      "name": "Alex Morgan",
+      "email": "alex@modelarena.example.com",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/modelarena-u1/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_modelarena_002",
+      "name": "Sam Rivera",
+      "email": "sam@modelarena.example.com",
+      "role": "member",
+      "avatar": "https://picsum.photos/seed/modelarena-u2/200/200",
+      "status": "active"
+    }
+  ]
+}
