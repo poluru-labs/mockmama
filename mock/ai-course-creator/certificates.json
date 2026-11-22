@@ -1,0 +1,11 @@
+{
+  "certificates": [
+    {
+      "id": "cert_dl_001",
+      "courseId": "crs_workplace_writing",
+      "learnerEmail": "jordan@startupco.example",
+      "issuedAt": "2026-02-28T10:00:00.000Z",
+      "credentialUrl": "https://example.com/credentials/cert_dl_001"
+    }
+  ]
+}

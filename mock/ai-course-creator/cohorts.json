@@ -1,0 +1,13 @@
+{
+  "cohorts": [
+    {
+      "id": "cohort_q2_2026",
+      "courseId": "crs_data_literacy_101",
+      "name": "Q2 Data Literacy cohort",
+      "seatCount": 40,
+      "enrolledCount": 28,
+      "startDate": "2026-04-07",
+      "status": "enrolling"
+    }
+  ]
+}

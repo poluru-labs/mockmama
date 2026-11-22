@@ -24,6 +24,11 @@
       "label": "Agents active",
       "value": "3",
       "hint": "Of 5"
+    },
+    {
+      "label": "Cohorts",
+      "value": "2",
+      "hint": "Active"
     }
   ]
 }

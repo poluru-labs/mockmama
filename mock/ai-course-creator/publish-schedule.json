@@ -1,0 +1,12 @@
+{
+  "schedule": [
+    {
+      "id": "pub_001",
+      "courseId": "crs_data_literacy_101",
+      "targetLms": "scorm_12",
+      "scheduledAt": "2026-03-22T14:00:00.000Z",
+      "status": "pending_approval",
+      "approvalId": "appr_003"
+    }
+  ]
+}
