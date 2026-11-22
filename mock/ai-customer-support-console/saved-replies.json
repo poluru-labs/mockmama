@@ -1,0 +1,11 @@
+{
+  "replies": [
+    {
+      "id": "sr_001",
+      "authorId": "user_support_001",
+      "title": "Billing \u2014 verify account",
+      "body": "I'm pulling up account {{accountId}} now and will confirm line items.",
+      "usageCount": 42
+    }
+  ]
+}

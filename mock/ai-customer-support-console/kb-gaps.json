@@ -1,0 +1,13 @@
+{
+  "gaps": [
+    {
+      "id": "gap_001",
+      "topic": "password_reset_ios",
+      "ticketIds": [
+        "tkt_48322"
+      ],
+      "suggestedArticleTitle": "Password reset on mobile app",
+      "status": "open"
+    }
+  ]
+}

@@ -24,6 +24,11 @@
       "label": "SLA at risk",
       "value": "9",
       "hint": "Next 60 min"
+    },
+    {
+      "label": "KB gaps",
+      "value": "3",
+      "hint": "Open"
     }
   ]
 }

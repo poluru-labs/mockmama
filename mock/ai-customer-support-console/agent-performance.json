@@ -1,0 +1,16 @@
+{
+  "snapshots": [
+    {
+      "agentId": "agent_kb",
+      "period": "2026-03-10/2026-03-17",
+      "draftsAcceptedRate": 0.71,
+      "avgCitationCount": 1.2
+    },
+    {
+      "agentId": "agent_triage",
+      "period": "2026-03-10/2026-03-17",
+      "autoRouteAccuracy": 0.88,
+      "quarantinePrecision": 0.95
+    }
+  ]
+}
