@@ -1,0 +1,82 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI Interior Design Studio \u2014 mirrors agents, dashboard metrics, mock chat behavior, and design flow (brief \u2192 moodboard \u2192 layout \u2192 shopping \u2192 styling).",
+  "files": [
+    {
+      "path": "app.json",
+      "entity": "application metadata"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace / tenant"
+    },
+    {
+      "path": "agents.json",
+      "entity": "AiAgent[] (MOCK_AGENTS)"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard hero metrics"
+    },
+    {
+      "path": "projects.json",
+      "entity": "client design projects"
+    },
+    {
+      "path": "design-briefs.json",
+      "entity": "structured briefs (Brief Intake)"
+    },
+    {
+      "path": "moodboards.json",
+      "entity": "palettes and refs (Moodboard Composer)"
+    },
+    {
+      "path": "layouts.json",
+      "entity": "furniture flow and floorplan hints"
+    },
+    {
+      "path": "shopping-lists.json",
+      "entity": "SKUs and budgets (Shopping List Builder)"
+    },
+    {
+      "path": "styling-notes.json",
+      "entity": "lighting and accents (Room Stylist)"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "ChatSession samples"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "ChatCompletionRequest/Response per agent category"
+    },
+    {
+      "path": "material-samples.json",
+      "entity": "material swatches"
+    },
+    {
+      "path": "users.json",
+      "entity": "team users"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "primary nav"
+    },
+    {
+      "path": "settings.json",
+      "entity": "workspace settings"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard summary"
+    },
+    {
+      "path": "activity.json",
+      "entity": "audit activity"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "in-app notifications"
+    }
+  ]
+}

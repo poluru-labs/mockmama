@@ -1,0 +1,11 @@
+{
+  "samples": [
+    {
+      "id": "mat_teak_tile",
+      "projectId": "proj_coastal_living",
+      "name": "Teak-look porcelain",
+      "swatchUrl": "https://picsum.photos/seed/teak-tile/400/400",
+      "status": "shortlisted"
+    }
+  ]
+}
