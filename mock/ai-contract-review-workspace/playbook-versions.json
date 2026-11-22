@@ -1,0 +1,11 @@
+{
+  "versions": [
+    {
+      "id": "pv_corp_saas_2026_1",
+      "playbookId": "corp_saas_fallback_2026",
+      "version": "2026.1.2",
+      "publishedAt": "2026-03-01T00:00:00.000Z",
+      "changeSummary": "TERM-02 preferred customer exit window."
+    }
+  ]
+}

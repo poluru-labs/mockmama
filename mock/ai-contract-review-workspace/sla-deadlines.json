@@ -1,0 +1,12 @@
+{
+  "deadlines": [
+    {
+      "id": "sla_dl_001",
+      "contractId": "ctr_vendor_saas_2026_014",
+      "queueId": "queue_001",
+      "type": "legal_review",
+      "dueAt": "2026-03-19T17:00:00.000Z",
+      "breached": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "webhooks": [
+    {
+      "id": "wh_clm_sync",
+      "event": "contract.approved",
+      "targetUrl": "https://example.com/hooks/clm",
+      "status": "active",
+      "lastDeliveryAt": "2026-03-15T10:00:00.000Z"
+    }
+  ]
+}

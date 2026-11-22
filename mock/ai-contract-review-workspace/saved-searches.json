@@ -1,0 +1,14 @@
+{
+  "searches": [
+    {
+      "id": "srch_high_risk_open",
+      "name": "High risk \u2014 open contracts",
+      "ownerId": "user_legal_002",
+      "filters": {
+        "minRiskScore": 70,
+        "status": "open"
+      },
+      "pinned": true
+    }
+  ]
+}
