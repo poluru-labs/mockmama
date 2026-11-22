@@ -1,0 +1,11 @@
+{
+  "queue": [
+    {
+      "id": "cq_001",
+      "learnerId": "learner_maya_001",
+      "type": "star_rewrite",
+      "dueAt": "2026-03-19T17:00:00.000Z",
+      "status": "open"
+    }
+  ]
+}

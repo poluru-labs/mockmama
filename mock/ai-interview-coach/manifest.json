@@ -1,0 +1,94 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI Interview Coach \u2014 mirrors agents, dashboard metrics, mock chat behavior, and coaching entities (drills, STAR, recordings, company packs).",
+  "files": [
+    {
+      "path": "app.json",
+      "entity": "application metadata"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace / tenant"
+    },
+    {
+      "path": "agents.json",
+      "entity": "AiAgent[] (MOCK_AGENTS)"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard hero metrics"
+    },
+    {
+      "path": "learner-profile.json",
+      "entity": "practice learner context"
+    },
+    {
+      "path": "company-packs.json",
+      "entity": "employer rubrics and values"
+    },
+    {
+      "path": "question-bank.json",
+      "entity": "role question banks"
+    },
+    {
+      "path": "practice-sessions.json",
+      "entity": "completed practice sessions"
+    },
+    {
+      "path": "behavioral-drills.json",
+      "entity": "scenarios and follow-ups"
+    },
+    {
+      "path": "technical-drills.json",
+      "entity": "hints and design prompts"
+    },
+    {
+      "path": "star-feedback.json",
+      "entity": "STAR scores and rewrites"
+    },
+    {
+      "path": "recordings.json",
+      "entity": "recording summaries"
+    },
+    {
+      "path": "session-recaps.json",
+      "entity": "gaps and drill plans"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "ChatSession samples"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "ChatCompletionRequest/Response per agent category"
+    },
+    {
+      "path": "coaching-queue.json",
+      "entity": "coach follow-ups"
+    },
+    {
+      "path": "users.json",
+      "entity": "team users"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "primary nav"
+    },
+    {
+      "path": "settings.json",
+      "entity": "workspace settings"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard summary"
+    },
+    {
+      "path": "activity.json",
+      "entity": "audit activity"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "in-app notifications"
+    }
+  ]
+}
