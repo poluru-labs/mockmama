@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "user_lingualoop_001",
+      "name": "Alex Morgan",
+      "email": "alex@lingualoop.example.com",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/lingualoop-u1/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_lingualoop_002",
+      "name": "Sam Rivera",
+      "email": "sam@lingualoop.example.com",
+      "role": "member",
+      "avatar": "https://picsum.photos/seed/lingualoop-u2/200/200",
+      "status": "active"
+    }
+  ]
+}

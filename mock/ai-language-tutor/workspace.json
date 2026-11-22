@@ -1,0 +1,12 @@
+{
+  "workspace": {
+    "id": "ws_language_tutor_001",
+    "name": "Lingua Loop",
+    "slug": "lingualoop",
+    "timezone": "America/Chicago",
+    "plan": "team",
+    "seatsUsed": 5,
+    "seatsTotal": 12,
+    "status": "active"
+  }
+}

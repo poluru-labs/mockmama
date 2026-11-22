@@ -1,0 +1,16 @@
+{
+  "slug": "ai-language-tutor",
+  "name": "AI Language Tutor",
+  "tagline": "Conversational practice with corrections and spaced review.",
+  "brandColor": "#D92C54",
+  "defaultModel": "gpt-4.1-mini",
+  "apiBaseUrl": "http://localhost:8080/api/v1",
+  "storageKeys": {
+    "activeAgentId": "language-tutor:active-agent"
+  },
+  "workspaceId": "ws_language_tutor_001",
+  "features": {
+    "pronunciation": true,
+    "spacedReview": true
+  }
+}
