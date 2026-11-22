@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "user_interviewlab_001",
+      "name": "Alex Morgan",
+      "email": "alex@interviewlab.example.com",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/interviewlab-u1/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_interviewlab_002",
+      "name": "Sam Rivera",
+      "email": "sam@interviewlab.example.com",
+      "role": "member",
+      "avatar": "https://picsum.photos/seed/interviewlab-u2/200/200",
+      "status": "active"
+    }
+  ]
+}

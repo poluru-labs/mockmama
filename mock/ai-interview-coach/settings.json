@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "workspaceId": "ws_interview_001",
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/interviewlab-logo/320/80",
+      "accentColor": "#2E5EAA"
+    }
+  }
+}

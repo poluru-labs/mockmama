@@ -1,0 +1,12 @@
+{
+  "workspace": {
+    "id": "ws_interview_001",
+    "name": "Interview Lab",
+    "slug": "interviewlab",
+    "timezone": "America/Chicago",
+    "plan": "team",
+    "seatsUsed": 5,
+    "seatsTotal": 12,
+    "status": "active"
+  }
+}
