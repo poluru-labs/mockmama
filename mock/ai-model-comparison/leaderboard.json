@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "modelId": "mdl_gpt41mini",
+      "suiteId": "suite_general",
+      "compositeScore": 0.91,
+      "rank": 1
+    },
+    {
+      "modelId": "mdl_claude_sonnet",
+      "suiteId": "suite_general",
+      "compositeScore": 0.89,
+      "rank": 2
+    }
+  ]
+}

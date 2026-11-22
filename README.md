@@ -35,6 +35,14 @@ Everything lives under `mock/`.
 | [`mock/ai-dataset-labeling-platform/`](mock/ai-dataset-labeling-platform/) | Projects, annotations, suggestions, consensus, QA batches, exports |
 | [`mock/ai-email-assistant/`](mock/ai-email-assistant/) | Inbox, threads, triage, voice drafts, templates, follow-ups, scheduling |
 | [`mock/ai-evaluation-dashboard/`](mock/ai-evaluation-dashboard/) | Eval suites, runs, regressions, scorecards, human feedback, promotion gates |
+| [`mock/ai-image-generation-gallery/`](mock/ai-image-generation-gallery/) | Image generations, presets, collections, approvals, seed sweeps |
+| [`mock/ai-interior-design-studio/`](mock/ai-interior-design-studio/) | Design projects, briefs, moodboards, layouts, shopping lists |
+| [`mock/ai-interview-coach/`](mock/ai-interview-coach/) | Practice sessions, drills, STAR feedback, recordings, coaching queue |
+| [`mock/ai-invoice-processing/`](mock/ai-invoice-processing/) | Invoice extraction, validation, vendors, exceptions, payment batches |
+| [`mock/ai-language-tutor/`](mock/ai-language-tutor/) | Lessons, dialogues, vocabulary, pronunciation, review schedule |
+| [`mock/ai-meal-planner/`](mock/ai-meal-planner/) | Weekly menus, macros, grocery lists, pantry, preferences |
+| [`mock/ai-meeting-notes/`](mock/ai-meeting-notes/) | Meetings, live summaries, decisions, action items, calendar sync |
+| [`mock/ai-model-comparison/`](mock/ai-model-comparison/) | Model benchmarks, latency, quality scores, comparison runs, leaderboard |
 | [`mock/enterprise-bi-dashboard/`](mock/enterprise-bi-dashboard/) | Analytics workspace screens (KPIs, reports, lineage) |
 | [`mock/enterprise-billing-dashboard/`](mock/enterprise-billing-dashboard/) | Invoices, subscriptions, payments, collections |
 | [`mock/enterprise-banking-operations/`](mock/enterprise-banking-operations/) | Clearing, payments, screening, liquidity |
@@ -104,6 +112,14 @@ Demo passwords in auth and ecommerce users are `demo123` (customers) and `admin1
 - **AI dataset labeling** — projects, guidelines, items, annotations, AI suggestions, consensus, QA, waves, and export manifests.
 - **AI email assistant** — threads, inbox triage, tone drafts, summaries, templates, follow-ups, quarantine, and scheduled sends.
 - **AI evaluation** — golden sets, eval runs, regression alerts, scorecards, raters, promotion gates, and scheduled jobs.
+- **AI image gallery** — generations, style presets, collections, approvals, and seed sweeps.
+- **AI interior design** — client projects, briefs, moodboards, layouts, and shopping lists.
+- **AI interview coach** — behavioral and technical drills, STAR feedback, and session recaps.
+- **AI invoice processing** — OCR extraction, vendor match, validation, and AP routing.
+- **AI language tutor** — CEFR lessons, dialogues, corrections, and spaced review.
+- **AI meal planner** — macro plans, weekly menus, grocery lists, and leftovers.
+- **AI meeting notes** — transcripts, decisions, action items, and calendar sync.
+- **AI model comparison** — side-by-side benchmarks, latency, and promotion gates.
 - **Enterprise BI** — overview, reports, explorer, lineage, quality, forecasts, and ask/query screens.
 - **Enterprise billing** — invoices, subscriptions, payments, collections, and ledger KPIs.
 - **Enterprise banking** — accounts, clearing, payments, screening, exceptions, and liquidity.
