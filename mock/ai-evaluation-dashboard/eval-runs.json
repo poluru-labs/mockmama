@@ -83,6 +83,18 @@
       "pass": false,
       "artifactUri": null,
       "errorCode": "PROVIDER_TIMEOUT"
+    },
+    {
+      "id": "run_20260318_smoke",
+      "suiteId": "suite_support_kb",
+      "modelVersionId": "mdl_gpt41mini_prod",
+      "status": "queued",
+      "startedAt": null,
+      "finishedAt": null,
+      "metrics": null,
+      "pass": null,
+      "artifactUri": null,
+      "triggeredById": "user_ml_001"
     }
   ]
 }

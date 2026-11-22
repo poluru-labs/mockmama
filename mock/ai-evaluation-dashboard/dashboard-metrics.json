@@ -24,6 +24,11 @@
       "label": "Promotion gates",
       "value": "1",
       "hint": "Blocked"
+    },
+    {
+      "label": "Budget",
+      "value": "82%",
+      "hint": "Q1 tokens"
     }
   ]
 }
