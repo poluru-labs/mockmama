@@ -1,30 +1,118 @@
 {
-  "version": "1.1.0",
-  "description": "Fixture JSON for AI Contract Review Workspace — mirrors agents, dashboard metrics, mock chat behavior, and domain entities (contracts, clauses, risks, obligations, playbook, redlines, MSA alerts).",
+  "version": "1.2.0",
+  "description": "Fixture JSON for AI Contract Review Workspace \u2014 mirrors agents, dashboard metrics, mock chat behavior, and domain entities (contracts, clauses, risks, obligations, playbook, redlines, MSA alerts).",
   "files": [
-    { "path": "app.json", "entity": "application metadata" },
-    { "path": "workspace.json", "entity": "workspace / tenant" },
-    { "path": "users.json", "entity": "legal team users" },
-    { "path": "navigation.json", "entity": "primary nav" },
-    { "path": "settings.json", "entity": "workspace settings" },
-    { "path": "agents.json", "entity": "AiAgent[] (MOCK_AGENTS)" },
-    { "path": "dashboard-metrics.json", "entity": "dashboard hero metrics" },
-    { "path": "dashboard-overview.json", "entity": "dashboard pipeline summary" },
-    { "path": "contracts.json", "entity": "documents under review" },
-    { "path": "documents.json", "entity": "uploaded file metadata" },
-    { "path": "clauses.json", "entity": "extracted clause text" },
-    { "path": "rubrics.json", "entity": "risk scoring rubrics" },
-    { "path": "risk-findings.json", "entity": "clause risk scores (Clause Risk Scorer)" },
-    { "path": "obligations.json", "entity": "extracted obligations board" },
-    { "path": "playbook-positions.json", "entity": "fallback positions and diffs" },
-    { "path": "redlines.json", "entity": "redline suggestions (Redline Composer)" },
-    { "path": "msa-alerts.json", "entity": "MSA Sentinel alerts" },
-    { "path": "review-queue.json", "entity": "attorney review queue" },
-    { "path": "comments.json", "entity": "clause thread comments" },
-    { "path": "approvals.json", "entity": "human approval workflow" },
-    { "path": "activity.json", "entity": "audit activity feed" },
-    { "path": "notifications.json", "entity": "in-app notifications" },
-    { "path": "chat-sessions.json", "entity": "ChatSession samples" },
-    { "path": "chat-completions.json", "entity": "ChatCompletionRequest/Response per agent category" }
+    {
+      "path": "app.json",
+      "entity": "application metadata"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace / tenant"
+    },
+    {
+      "path": "users.json",
+      "entity": "legal team users"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "primary nav"
+    },
+    {
+      "path": "settings.json",
+      "entity": "workspace settings"
+    },
+    {
+      "path": "agents.json",
+      "entity": "AiAgent[] (MOCK_AGENTS)"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard hero metrics"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard pipeline summary"
+    },
+    {
+      "path": "contracts.json",
+      "entity": "documents under review"
+    },
+    {
+      "path": "documents.json",
+      "entity": "uploaded file metadata"
+    },
+    {
+      "path": "clauses.json",
+      "entity": "extracted clause text"
+    },
+    {
+      "path": "rubrics.json",
+      "entity": "risk scoring rubrics"
+    },
+    {
+      "path": "risk-findings.json",
+      "entity": "clause risk scores (Clause Risk Scorer)"
+    },
+    {
+      "path": "obligations.json",
+      "entity": "extracted obligations board"
+    },
+    {
+      "path": "playbook-positions.json",
+      "entity": "fallback positions and diffs"
+    },
+    {
+      "path": "redlines.json",
+      "entity": "redline suggestions (Redline Composer)"
+    },
+    {
+      "path": "msa-alerts.json",
+      "entity": "MSA Sentinel alerts"
+    },
+    {
+      "path": "review-queue.json",
+      "entity": "attorney review queue"
+    },
+    {
+      "path": "comments.json",
+      "entity": "clause thread comments"
+    },
+    {
+      "path": "approvals.json",
+      "entity": "human approval workflow"
+    },
+    {
+      "path": "activity.json",
+      "entity": "audit activity feed"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "in-app notifications"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "ChatSession samples"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "ChatCompletionRequest/Response per agent category"
+    },
+    {
+      "path": "playbook-versions.json",
+      "entity": "playbook version history"
+    },
+    {
+      "path": "saved-searches.json",
+      "entity": "pinned legal searches"
+    },
+    {
+      "path": "sla-deadlines.json",
+      "entity": "review SLA deadlines"
+    },
+    {
+      "path": "integration-webhooks.json",
+      "entity": "CLM webhook stubs"
+    }
   ]
 }

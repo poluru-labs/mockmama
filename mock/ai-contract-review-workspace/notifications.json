@@ -26,7 +26,7 @@
       "type": "obligation_due",
       "contractId": "ctr_dpa_addon_2026_008",
       "title": "Subprocessor notice window",
-      "body": "obl_dpa_subprocessor_notice is open — assign privacy owner.",
+      "body": "obl_dpa_subprocessor_notice is open \u2014 assign privacy owner.",
       "read": true,
       "createdAt": "2026-03-17T10:45:00.000Z"
     },
@@ -39,6 +39,26 @@
       "body": "Re-upload searchable PDF or DOCX.",
       "read": false,
       "createdAt": "2026-03-18T15:22:00.000Z"
+    },
+    {
+      "id": "notif_004",
+      "userId": "user_legal_001",
+      "type": "playbook_updated",
+      "title": "Playbook version published",
+      "body": "corp_saas_fallback_2026 \u2014 2026.1.2",
+      "href": "/playbook/versions/pv_corp_saas_2026_1",
+      "read": false,
+      "createdAt": "2026-03-18T09:00:00.000Z"
+    },
+    {
+      "id": "notif_004",
+      "userId": "user_legal_001",
+      "type": "playbook_updated",
+      "title": "Playbook version published",
+      "body": "corp_saas_fallback_2026 \u2014 2026.1.2",
+      "href": "/playbook/versions/pv_corp_saas_2026_1",
+      "read": false,
+      "createdAt": "2026-03-18T09:00:00.000Z"
     }
   ]
 }

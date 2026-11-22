@@ -24,6 +24,11 @@
       "label": "MSA alerts",
       "value": "2",
       "hint": "Open"
+    },
+    {
+      "label": "Playbook ver.",
+      "value": "2026.1.2",
+      "hint": "Active"
     }
   ]
 }
