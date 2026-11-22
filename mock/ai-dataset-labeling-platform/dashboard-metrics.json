@@ -24,6 +24,11 @@
       "label": "Consensus open",
       "value": "7",
       "hint": "Needs review"
+    },
+    {
+      "label": "IRR \u03ba",
+      "value": "0.82",
+      "hint": "This week"
     }
   ]
 }

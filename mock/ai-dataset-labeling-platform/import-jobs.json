@@ -1,0 +1,12 @@
+{
+  "jobs": [
+    {
+      "id": "imp_001",
+      "projectId": "proj_pii_spans_v2",
+      "source": "s3://labeling-imports/pii_batch_12.jsonl",
+      "status": "completed",
+      "rowsImported": 800,
+      "finishedAt": "2026-03-10T09:00:00.000Z"
+    }
+  ]
+}

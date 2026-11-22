@@ -1,0 +1,16 @@
+{
+  "reports": [
+    {
+      "id": "irr_0317",
+      "projectId": "proj_ticket_intent_v3",
+      "kappa": 0.82,
+      "windowStart": "2026-03-10",
+      "windowEnd": "2026-03-17",
+      "annotatorIds": [
+        "user_alice",
+        "user_bob",
+        "user_cara"
+      ]
+    }
+  ]
+}
