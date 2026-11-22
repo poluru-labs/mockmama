@@ -1,0 +1,13 @@
+{
+  "workspace": {
+    "id": "ws_interior_001",
+    "name": "Roomcraft Studio",
+    "slug": "roomcraft",
+    "timezone": "America/Chicago",
+    "plan": "team",
+    "seatsUsed": 5,
+    "seatsTotal": 12,
+    "status": "active",
+    "defaultProjectId": "proj_coastal_living"
+  }
+}

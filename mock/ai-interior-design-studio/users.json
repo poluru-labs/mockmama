@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "user_roomcraft_001",
+      "name": "Alex Morgan",
+      "email": "alex@roomcraft.example.com",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/roomcraft-u1/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_roomcraft_002",
+      "name": "Sam Rivera",
+      "email": "sam@roomcraft.example.com",
+      "role": "member",
+      "avatar": "https://picsum.photos/seed/roomcraft-u2/200/200",
+      "status": "active"
+    }
+  ]
+}

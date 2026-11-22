@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "workspaceId": "ws_interior_001",
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/roomcraft-logo/320/80",
+      "accentColor": "#5C4033"
+    }
+  }
+}

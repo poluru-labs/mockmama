@@ -1,0 +1,16 @@
+{
+  "slug": "ai-interior-design-studio",
+  "name": "AI Interior Design Studio",
+  "tagline": "Moodboards, layouts, and shopping lists from a brief.",
+  "brandColor": "#0099CC",
+  "defaultModel": "gpt-4.1-mini",
+  "apiBaseUrl": "http://localhost:8080/api/v1",
+  "storageKeys": {
+    "activeAgentId": "interior-design:active-agent"
+  },
+  "workspaceId": "ws_interior_001",
+  "features": {
+    "moodboards": true,
+    "shoppingLists": true
+  }
+}
