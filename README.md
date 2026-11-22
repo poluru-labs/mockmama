@@ -28,13 +28,13 @@ Everything lives under `mock/`.
 | [`mock/logistics/`](mock/logistics/) | Warehouses, shipments, carriers, tracking, inventory, fulfillment |
 | [`mock/library/`](mock/library/) | Books, members, loans, holds, branches, programs, digital items |
 | [`mock/learning/`](mock/learning/) | Courses, lessons, enrollments, quizzes, paths, cohorts, certificates |
-| [`mock/ai-contract-review-workspace/`](mock/ai-contract-review-workspace/) | Contract review agents, risks, playbook, redlines, MSA alerts, queue |
-| [`mock/ai-course-creator/`](mock/ai-course-creator/) | Course design agents, outcomes, modules, lessons, assessments, rubrics, queue |
-| [`mock/ai-customer-support-console/`](mock/ai-customer-support-console/) | Support tickets, KB grounding, macros, sentiment, SLA, escalations, incidents |
-| [`mock/ai-data-analysis-workbench/`](mock/ai-data-analysis-workbench/) | Datasets, NL2SQL, charts, insights, notebooks, quality alerts, exports |
-| [`mock/ai-dataset-labeling-platform/`](mock/ai-dataset-labeling-platform/) | Projects, annotations, suggestions, consensus, QA batches, exports |
-| [`mock/ai-email-assistant/`](mock/ai-email-assistant/) | Inbox, threads, triage, voice drafts, templates, follow-ups, scheduling |
-| [`mock/ai-evaluation-dashboard/`](mock/ai-evaluation-dashboard/) | Eval suites, runs, regressions, scorecards, human feedback, promotion gates |
+| [`mock/ai-contract-review-workspace/`](mock/ai-contract-review-workspace/) | Contract review agents, risks, playbook versions, SLAs, webhooks, redlines, queue (manifest 1.2.0) |
+| [`mock/ai-course-creator/`](mock/ai-course-creator/) | Course design agents, cohorts, certificates, LMS exports, publish schedule, rubrics, queue |
+| [`mock/ai-customer-support-console/`](mock/ai-customer-support-console/) | Tickets, KB gaps, saved replies, agent performance, customer timelines, incidents |
+| [`mock/ai-data-analysis-workbench/`](mock/ai-data-analysis-workbench/) | Datasets, lineage, query favorites, warehouse costs, notebooks, alert subscriptions |
+| [`mock/ai-dataset-labeling-platform/`](mock/ai-dataset-labeling-platform/) | Projects, import jobs, inter-rater reports, certifications, consensus, QA exports |
+| [`mock/ai-email-assistant/`](mock/ai-email-assistant/) | Inbox, shared mailboxes, send audit, spam reports, templates, scheduling |
+| [`mock/ai-evaluation-dashboard/`](mock/ai-evaluation-dashboard/) | Eval suites, benchmark trends, budgets, dataset snapshots, postmortems, promotion gates |
 | [`mock/ai-image-generation-gallery/`](mock/ai-image-generation-gallery/) | Image generations, presets, collections, approvals, seed sweeps |
 | [`mock/ai-interior-design-studio/`](mock/ai-interior-design-studio/) | Design projects, briefs, moodboards, layouts, shopping lists |
 | [`mock/ai-interview-coach/`](mock/ai-interview-coach/) | Practice sessions, drills, STAR feedback, recordings, coaching queue |
