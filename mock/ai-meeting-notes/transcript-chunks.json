@@ -1,0 +1,11 @@
+{
+  "chunks": [
+    {
+      "id": "chunk_q2_001",
+      "meetingId": "mtg_q2_roadmap",
+      "speaker": "alex@example.com",
+      "text": "Ship analytics export in April.",
+      "startMs": 120000
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "meetings": [
+    {
+      "id": "mtg_q2_roadmap",
+      "title": "Q2 roadmap review",
+      "startedAt": "2026-03-17T09:00:00.000Z",
+      "durationMinutes": 55,
+      "attendees": [
+        "alex@example.com",
+        "priya@example.com",
+        "sam@example.com"
+      ],
+      "transcriptExcerpt": "\u2026defer mobile refresh to Q3; ship analytics export in April\u2026"
+    },
+    {
+      "id": "mtg_vendor_sync",
+      "title": "Vendor renewal sync",
+      "startedAt": "2026-03-16T15:00:00.000Z",
+      "durationMinutes": 25,
+      "attendees": [
+        "alex@example.com",
+        "legal@example.com"
+      ],
+      "transcriptExcerpt": "\u2026hold signature until indemnity addendum\u2026",
+      "status": "processed"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "notifications": [
+    {
+      "id": "notif_001",
+      "userId": "user_meetmind_001",
+      "type": "workspace",
+      "title": "Fixture expanded",
+      "body": "New mock data for ai-meeting-notes",
+      "href": "/dashboard",
+      "read": false,
+      "createdAt": "2026-03-17T12:05:00.000Z"
+    }
+  ]
+}
