@@ -1,0 +1,86 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI Invoice Processing \u2014 mirrors agents, dashboard metrics, mock chat behavior, and AP entities (extract, validate, vendor, approval, exceptions).",
+  "files": [
+    {
+      "path": "app.json",
+      "entity": "application metadata"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace / tenant"
+    },
+    {
+      "path": "agents.json",
+      "entity": "AiAgent[] (MOCK_AGENTS)"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard hero metrics"
+    },
+    {
+      "path": "vendors.json",
+      "entity": "vendor master records"
+    },
+    {
+      "path": "invoices.json",
+      "entity": "inbound invoices"
+    },
+    {
+      "path": "extractions.json",
+      "entity": "OCR field maps (Field Extractor)"
+    },
+    {
+      "path": "validations.json",
+      "entity": "math and PO checks (Total Validator)"
+    },
+    {
+      "path": "vendor-matches.json",
+      "entity": "fuzzy match and duplicates"
+    },
+    {
+      "path": "approval-routing.json",
+      "entity": "policies and approver chains"
+    },
+    {
+      "path": "exceptions.json",
+      "entity": "rejects and vendor drafts"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "ChatSession samples"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "ChatCompletionRequest/Response per agent category"
+    },
+    {
+      "path": "payment-batches.json",
+      "entity": "AP payment batches"
+    },
+    {
+      "path": "users.json",
+      "entity": "team users"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "primary nav"
+    },
+    {
+      "path": "settings.json",
+      "entity": "workspace settings"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard summary"
+    },
+    {
+      "path": "activity.json",
+      "entity": "audit activity"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "in-app notifications"
+    }
+  ]
+}

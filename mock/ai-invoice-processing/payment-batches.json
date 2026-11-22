@@ -1,0 +1,13 @@
+{
+  "batches": [
+    {
+      "id": "pay_batch_0317",
+      "status": "pending_approval",
+      "invoiceIds": [
+        "inv_2026_0310_2290"
+      ],
+      "totalUsd": 961.2,
+      "scheduledPayDate": "2026-03-20"
+    }
+  ]
+}
