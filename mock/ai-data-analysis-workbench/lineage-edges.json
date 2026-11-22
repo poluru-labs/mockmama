@@ -1,0 +1,18 @@
+{
+  "edges": [
+    {
+      "id": "lin_001",
+      "fromType": "query",
+      "fromId": "qry_monthly_revenue",
+      "toType": "insight",
+      "toId": "ins_001"
+    },
+    {
+      "id": "lin_002",
+      "fromType": "insight",
+      "fromId": "ins_001",
+      "toType": "notebook",
+      "toId": "nb_q1_category_review"
+    }
+  ]
+}

@@ -24,6 +24,11 @@
       "label": "Quality alerts",
       "value": "2",
       "hint": "Open"
+    },
+    {
+      "label": "Lineage",
+      "value": "48",
+      "hint": "Linked"
     }
   ]
 }

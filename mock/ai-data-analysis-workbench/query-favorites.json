@@ -1,0 +1,10 @@
+{
+  "favorites": [
+    {
+      "id": "fav_001",
+      "queryId": "qry_monthly_revenue",
+      "ownerId": "user_analyst_001",
+      "pinnedAt": "2026-03-10T08:00:00.000Z"
+    }
+  ]
+}

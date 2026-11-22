@@ -1,0 +1,12 @@
+{
+  "subscriptions": [
+    {
+      "id": "sub_dqa",
+      "userId": "user_analyst_003",
+      "alertType": "data_quality",
+      "datasetId": "ds_support_tickets",
+      "channel": "email",
+      "enabled": true
+    }
+  ]
+}
