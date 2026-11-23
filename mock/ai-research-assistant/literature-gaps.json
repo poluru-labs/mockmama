@@ -1,0 +1,10 @@
+{
+  "gaps": [
+    {
+      "id": "gap_efficient_attn",
+      "briefId": "brief_q2_rag",
+      "topic": "efficient attention",
+      "confidence": 0.78
+    }
+  ]
+}

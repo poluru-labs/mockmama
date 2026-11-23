@@ -1,0 +1,90 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI Research Assistant.",
+  "files": [
+    {
+      "path": "activity.json",
+      "entity": "activity"
+    },
+    {
+      "path": "agents.json",
+      "entity": "agents"
+    },
+    {
+      "path": "app.json",
+      "entity": "app"
+    },
+    {
+      "path": "briefs.json",
+      "entity": "briefs"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "chat completions"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "chat sessions"
+    },
+    {
+      "path": "citation-graph.json",
+      "entity": "citation graph"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard metrics"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard overview"
+    },
+    {
+      "path": "literature-gaps.json",
+      "entity": "literature gaps"
+    },
+    {
+      "path": "literature-outlines.json",
+      "entity": "literature outlines"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "navigation"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "notifications"
+    },
+    {
+      "path": "reading-queue.json",
+      "entity": "reading queue"
+    },
+    {
+      "path": "research-threads.json",
+      "entity": "research threads"
+    },
+    {
+      "path": "settings.json",
+      "entity": "settings"
+    },
+    {
+      "path": "source-freshness.json",
+      "entity": "source freshness"
+    },
+    {
+      "path": "sources.json",
+      "entity": "sources"
+    },
+    {
+      "path": "synthesis-summaries.json",
+      "entity": "synthesis summaries"
+    },
+    {
+      "path": "users.json",
+      "entity": "users"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace"
+    }
+  ]
+}

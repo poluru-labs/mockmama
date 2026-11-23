@@ -1,0 +1,10 @@
+{
+  "edges": [
+    {
+      "id": "cite_edge_01",
+      "fromSourceId": "src_attn_2017",
+      "toSourceId": "src_transformer_2017",
+      "relation": "cites"
+    }
+  ]
+}

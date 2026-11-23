@@ -1,0 +1,22 @@
+{
+  "sources": [
+    {
+      "id": "src_acl_2024",
+      "title": "Retrieval-Augmented Generation Survey",
+      "type": "paper",
+      "year": 2024
+    },
+    {
+      "id": "src_attn_2017",
+      "title": "Attention Is All You Need",
+      "year": 2017,
+      "type": "paper"
+    },
+    {
+      "id": "src_transformer_2017",
+      "title": "The Annotated Transformer",
+      "year": 2017,
+      "type": "article"
+    }
+  ]
+}

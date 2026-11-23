@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "user_research_001",
+      "name": "Jordan Lee",
+      "email": "jordan@litlens.example.com",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/research-u1/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_research_002",
+      "name": "Priya Nair",
+      "email": "priya@litlens.example.com",
+      "role": "member",
+      "avatar": "https://picsum.photos/seed/research-u2/200/200",
+      "status": "active"
+    }
+  ]
+}

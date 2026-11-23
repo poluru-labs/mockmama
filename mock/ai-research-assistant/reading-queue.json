@@ -1,0 +1,11 @@
+{
+  "queue": [
+    {
+      "id": "rq_001",
+      "sourceId": "src_attn_2017",
+      "threadId": "thread_hybrid_search",
+      "priority": "high",
+      "estimatedMinutes": 45
+    }
+  ]
+}
