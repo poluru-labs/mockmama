@@ -1,0 +1,11 @@
+{
+  "summaries": [
+    {
+      "id": "tax_2025",
+      "year": 2025,
+      "totalUsd": 18420.5,
+      "deductibleUsd": 14200.0,
+      "receiptCount": 412
+    }
+  ]
+}

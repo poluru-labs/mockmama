@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "workspaceId": "ws_receipt_001",
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/receipt-logo/320/80",
+      "accentColor": "#D97706"
+    }
+  }
+}

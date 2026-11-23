@@ -1,0 +1,90 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI Receipt Organizer.",
+  "files": [
+    {
+      "path": "activity.json",
+      "entity": "activity"
+    },
+    {
+      "path": "agents.json",
+      "entity": "agents"
+    },
+    {
+      "path": "app.json",
+      "entity": "app"
+    },
+    {
+      "path": "category-rules.json",
+      "entity": "category rules"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "chat completions"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "chat sessions"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard metrics"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard overview"
+    },
+    {
+      "path": "duplicate-flags.json",
+      "entity": "duplicate flags"
+    },
+    {
+      "path": "export-bundles.json",
+      "entity": "export bundles"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "navigation"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "notifications"
+    },
+    {
+      "path": "ocr-extractions.json",
+      "entity": "ocr extractions"
+    },
+    {
+      "path": "receipts.json",
+      "entity": "receipts"
+    },
+    {
+      "path": "reimbursement-routes.json",
+      "entity": "reimbursement routes"
+    },
+    {
+      "path": "settings.json",
+      "entity": "settings"
+    },
+    {
+      "path": "sync-connectors.json",
+      "entity": "sync connectors"
+    },
+    {
+      "path": "tax-year-summaries.json",
+      "entity": "tax year summaries"
+    },
+    {
+      "path": "users.json",
+      "entity": "users"
+    },
+    {
+      "path": "vendor-aliases.json",
+      "entity": "vendor aliases"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace"
+    }
+  ]
+}

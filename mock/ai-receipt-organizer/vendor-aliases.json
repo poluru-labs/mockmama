@@ -1,0 +1,12 @@
+{
+  "aliases": [
+    {
+      "id": "alias_starbucks",
+      "canonicalVendor": "Starbucks",
+      "patterns": [
+        "SBUX",
+        "STARBUCKS STORE"
+      ]
+    }
+  ]
+}

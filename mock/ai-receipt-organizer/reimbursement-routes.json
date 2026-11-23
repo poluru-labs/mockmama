@@ -1,0 +1,10 @@
+{
+  "routes": [
+    {
+      "id": "route_eng_travel",
+      "categoryRuleId": "rule_meals_client",
+      "approverEmail": "finance@example.com",
+      "slaHours": 48
+    }
+  ]
+}

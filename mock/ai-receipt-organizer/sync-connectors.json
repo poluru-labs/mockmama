@@ -1,0 +1,10 @@
+{
+  "connectors": [
+    {
+      "id": "conn_expensify",
+      "provider": "expensify",
+      "status": "connected",
+      "lastSyncAt": "2026-03-18T10:00:00.000Z"
+    }
+  ]
+}

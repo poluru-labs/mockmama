@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "user_receipt_001",
+      "name": "Jordan Lee",
+      "email": "jordan@receiptflow.example.com",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/receipt-u1/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_receipt_002",
+      "name": "Priya Nair",
+      "email": "priya@receiptflow.example.com",
+      "role": "member",
+      "avatar": "https://picsum.photos/seed/receipt-u2/200/200",
+      "status": "active"
+    }
+  ]
+}
