@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "workspaceId": "ws_study_001",
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/study-logo/320/80",
+      "accentColor": "#9333EA"
+    }
+  }
+}

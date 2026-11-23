@@ -1,0 +1,90 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI Study Companion.",
+  "files": [
+    {
+      "path": "activity.json",
+      "entity": "activity"
+    },
+    {
+      "path": "agents.json",
+      "entity": "agents"
+    },
+    {
+      "path": "app.json",
+      "entity": "app"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "chat completions"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "chat sessions"
+    },
+    {
+      "path": "concept-guides.json",
+      "entity": "concept guides"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard metrics"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard overview"
+    },
+    {
+      "path": "exam-countdowns.json",
+      "entity": "exam countdowns"
+    },
+    {
+      "path": "flashcard-decks.json",
+      "entity": "flashcard decks"
+    },
+    {
+      "path": "mastery-roadmaps.json",
+      "entity": "mastery roadmaps"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "navigation"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "notifications"
+    },
+    {
+      "path": "settings.json",
+      "entity": "settings"
+    },
+    {
+      "path": "spaced-repetition-cards.json",
+      "entity": "spaced repetition cards"
+    },
+    {
+      "path": "study-blocks.json",
+      "entity": "study blocks"
+    },
+    {
+      "path": "study-streaks.json",
+      "entity": "study streaks"
+    },
+    {
+      "path": "tutor-sessions.json",
+      "entity": "tutor sessions"
+    },
+    {
+      "path": "users.json",
+      "entity": "users"
+    },
+    {
+      "path": "weak-spot-reports.json",
+      "entity": "weak spot reports"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace"
+    }
+  ]
+}

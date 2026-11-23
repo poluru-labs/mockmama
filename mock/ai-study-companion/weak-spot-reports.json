@@ -1,0 +1,15 @@
+{
+  "reports": [
+    {
+      "id": "gap_calc_integrals",
+      "topic": "integration",
+      "severity": "medium",
+      "agentId": "agent_weakarea"
+    },
+    {
+      "id": "weak_reactions",
+      "topic": "Nucleophilic substitution",
+      "severity": "medium"
+    }
+  ]
+}

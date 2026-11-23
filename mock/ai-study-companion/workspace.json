@@ -1,0 +1,12 @@
+{
+  "workspace": {
+    "id": "ws_study_001",
+    "name": "StudyOrbit",
+    "slug": "studyorbit",
+    "timezone": "America/Chicago",
+    "plan": "team",
+    "seatsUsed": 4,
+    "seatsTotal": 10,
+    "status": "active"
+  }
+}

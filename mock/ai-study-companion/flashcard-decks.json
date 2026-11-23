@@ -1,0 +1,10 @@
+{
+  "decks": [
+    {
+      "id": "deck_org_chem",
+      "conceptGuideId": "guide_org_chem",
+      "cardCount": 48,
+      "dueToday": 12
+    }
+  ]
+}

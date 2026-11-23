@@ -1,0 +1,10 @@
+{
+  "sessions": [
+    {
+      "id": "tutor_weak_spots",
+      "weakSpotReportId": "weak_reactions",
+      "durationMinutes": 25,
+      "status": "completed"
+    }
+  ]
+}

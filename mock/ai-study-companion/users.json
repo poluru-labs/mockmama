@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "user_study_001",
+      "name": "Jordan Lee",
+      "email": "jordan@studyorbit.example.com",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/study-u1/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_study_002",
+      "name": "Priya Nair",
+      "email": "priya@studyorbit.example.com",
+      "role": "member",
+      "avatar": "https://picsum.photos/seed/study-u2/200/200",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guides": [
+    {
+      "id": "guide_ohms_law",
+      "topic": "Ohm's law",
+      "analogy": "water pipe",
+      "agentId": "agent_explain"
+    },
+    {
+      "id": "guide_org_chem",
+      "title": "Organic chemistry",
+      "masteryPct": 62
+    }
+  ]
+}
