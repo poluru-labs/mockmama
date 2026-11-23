@@ -1,0 +1,15 @@
+{
+  "jobs": [
+    {
+      "id": "jd_fintech_pm",
+      "company": "Northline",
+      "title": "Product Manager",
+      "agentId": "agent_rewrite"
+    },
+    {
+      "id": "job_staff_eng",
+      "title": "Staff engineer",
+      "company": "Example Corp"
+    }
+  ]
+}

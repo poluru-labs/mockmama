@@ -1,0 +1,11 @@
+{
+  "links": [
+    {
+      "id": "port_github",
+      "profileId": "profile_senior_eng",
+      "label": "GitHub",
+      "url": "https://github.example.com/jordan",
+      "verified": true
+    }
+  ]
+}

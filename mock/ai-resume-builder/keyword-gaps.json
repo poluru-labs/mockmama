@@ -1,0 +1,10 @@
+{
+  "gaps": [
+    {
+      "id": "kw_gap_k8s",
+      "profileId": "profile_senior_eng",
+      "keyword": "kubernetes",
+      "suggestedBulletId": "bul_api_scale"
+    }
+  ]
+}

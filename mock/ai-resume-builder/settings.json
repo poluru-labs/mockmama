@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "workspaceId": "ws_resume_001",
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/resume-logo/320/80",
+      "accentColor": "#BE185D"
+    }
+  }
+}

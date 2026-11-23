@@ -1,0 +1,13 @@
+{
+  "scores": [
+    {
+      "id": "ats_profile_eng",
+      "profileId": "profile_senior_eng",
+      "jobDescriptionId": "job_staff_eng",
+      "score": 92,
+      "gaps": [
+        "kubernetes"
+      ]
+    }
+  ]
+}

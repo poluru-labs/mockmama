@@ -1,0 +1,11 @@
+{
+  "applications": [
+    {
+      "id": "app_staff_eng",
+      "profileId": "profile_senior_eng",
+      "jobDescriptionId": "job_staff_eng",
+      "stage": "applied",
+      "updatedAt": "2026-03-18T10:00:00.000Z"
+    }
+  ]
+}

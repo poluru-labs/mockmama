@@ -1,0 +1,24 @@
+{
+  "notifications": [
+    {
+      "id": "notif_resume_001",
+      "userId": "user_resume_001",
+      "type": "workspace",
+      "title": "Mock dataset expanded",
+      "body": "Fixture set now at manifest 1.1.0",
+      "href": "/dashboard",
+      "read": false,
+      "createdAt": "2026-03-18T10:00:00.000Z"
+    },
+    {
+      "id": "notif_resume_002",
+      "userId": "user_resume_002",
+      "type": "assignment",
+      "title": "Review queue item",
+      "body": "One item needs your approval in the workspace.",
+      "href": "/profiles",
+      "read": false,
+      "createdAt": "2026-03-18T08:30:00.000Z"
+    }
+  ]
+}

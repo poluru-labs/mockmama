@@ -1,0 +1,12 @@
+{
+  "workspace": {
+    "id": "ws_resume_001",
+    "name": "CareerDraft",
+    "slug": "careerdraft",
+    "timezone": "America/Chicago",
+    "plan": "team",
+    "seatsUsed": 4,
+    "seatsTotal": 10,
+    "status": "active"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "user_resume_001",
+      "name": "Jordan Lee",
+      "email": "jordan@careerdraft.example.com",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/resume-u1/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_resume_002",
+      "name": "Priya Nair",
+      "email": "priya@careerdraft.example.com",
+      "role": "member",
+      "avatar": "https://picsum.photos/seed/resume-u2/200/200",
+      "status": "active"
+    }
+  ]
+}

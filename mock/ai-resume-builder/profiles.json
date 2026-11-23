@@ -1,0 +1,15 @@
+{
+  "profiles": [
+    {
+      "id": "prof_eng_pm",
+      "headline": "Senior Product Manager",
+      "status": "active",
+      "updatedAt": "2026-03-17T08:00:00.000Z"
+    },
+    {
+      "id": "profile_senior_eng",
+      "headline": "Senior software engineer",
+      "targetRole": "Staff engineer"
+    }
+  ]
+}
