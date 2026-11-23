@@ -1,0 +1,21 @@
+{
+  "reviews": [
+    {
+      "id": "review_warmth",
+      "editId": "edit_warmth_01",
+      "agentId": "agent_compare",
+      "decision": "pending",
+      "diffHighlights": [
+        "skin tone shift +3%",
+        "background blur radius 12px"
+      ]
+    },
+    {
+      "id": "cmp_headshot_ab",
+      "assetId": "asset_headshot_01",
+      "editId": "edit_warmth_01",
+      "verdict": null,
+      "reviewerId": "user_photo_001"
+    }
+  ]
+}

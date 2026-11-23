@@ -1,0 +1,34 @@
+{
+  "assets": [
+    {
+      "id": "asset_headshot_01",
+      "filename": "headshot-amelia-raw.cr3",
+      "originalLocked": true,
+      "previewUrl": "/mock-data/previews/asset_headshot_01.webp",
+      "dimensions": {
+        "width": 4000,
+        "height": 6000
+      }
+    },
+    {
+      "id": "asset_product_02",
+      "filename": "sku-lamp-hero.dng",
+      "originalLocked": true,
+      "previewUrl": "/mock-data/previews/asset_product_02.webp",
+      "dimensions": {
+        "width": 5472,
+        "height": 3648
+      }
+    },
+    {
+      "id": "asset_product_02",
+      "filename": "sku-lamp-hero.dng",
+      "originalLocked": true,
+      "previewUrl": "/mock-data/previews/asset_product_02.webp",
+      "dimensions": {
+        "width": 5472,
+        "height": 3648
+      }
+    }
+  ]
+}

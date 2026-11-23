@@ -1,0 +1,11 @@
+{
+  "regions": [
+    {
+      "id": "mask_skin_01",
+      "assetId": "asset_headshot_01",
+      "editId": "edit_warmth_01",
+      "label": "skin",
+      "confidence": 0.94
+    }
+  ]
+}

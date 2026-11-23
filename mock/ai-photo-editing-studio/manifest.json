@@ -1,0 +1,90 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI Photo Editing Studio.",
+  "files": [
+    {
+      "path": "activity.json",
+      "entity": "activity"
+    },
+    {
+      "path": "agents.json",
+      "entity": "agents"
+    },
+    {
+      "path": "app.json",
+      "entity": "app"
+    },
+    {
+      "path": "approval-queue.json",
+      "entity": "approval queue"
+    },
+    {
+      "path": "assets.json",
+      "entity": "assets"
+    },
+    {
+      "path": "batch-jobs.json",
+      "entity": "batch jobs"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "chat completions"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "chat sessions"
+    },
+    {
+      "path": "color-presets.json",
+      "entity": "color presets"
+    },
+    {
+      "path": "compare-reviews.json",
+      "entity": "compare reviews"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard metrics"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard overview"
+    },
+    {
+      "path": "edit-layers.json",
+      "entity": "edit layers"
+    },
+    {
+      "path": "export-profiles.json",
+      "entity": "export profiles"
+    },
+    {
+      "path": "history-snapshots.json",
+      "entity": "history snapshots"
+    },
+    {
+      "path": "mask-regions.json",
+      "entity": "mask regions"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "navigation"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "notifications"
+    },
+    {
+      "path": "settings.json",
+      "entity": "settings"
+    },
+    {
+      "path": "users.json",
+      "entity": "users"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "metrics": [
+    {
+      "label": "Edits",
+      "value": "1.7k",
+      "hint": "This week"
+    },
+    {
+      "label": "Batches",
+      "value": "88",
+      "hint": "Processed"
+    },
+    {
+      "label": "Revert rate",
+      "value": "4%",
+      "hint": "Undone"
+    },
+    {
+      "label": "Approvals",
+      "value": "12",
+      "hint": "Pending"
+    },
+    {
+      "label": "Presets",
+      "value": "34",
+      "hint": "Saved"
+    }
+  ]
+}

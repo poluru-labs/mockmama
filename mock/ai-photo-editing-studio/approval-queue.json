@@ -1,0 +1,11 @@
+{
+  "queue": [
+    {
+      "id": "appr_edit_warmth_01",
+      "editId": "edit_warmth_01",
+      "reviewerId": "user_photo_001",
+      "status": "pending",
+      "compareReviewId": "cmp_headshot_ab"
+    }
+  ]
+}

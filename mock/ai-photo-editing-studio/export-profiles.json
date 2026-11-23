@@ -1,0 +1,18 @@
+{
+  "profiles": [
+    {
+      "id": "prof_web_max1200",
+      "format": "webp",
+      "maxEdgePx": 1200,
+      "stripMetadata": true,
+      "originalPreserved": true
+    },
+    {
+      "id": "prof_print_tiff",
+      "format": "tiff",
+      "colorSpace": "AdobeRGB",
+      "bitDepth": 16,
+      "originalPreserved": true
+    }
+  ]
+}

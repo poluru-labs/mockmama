@@ -1,0 +1,18 @@
+{
+  "presets": [
+    {
+      "id": "preset_warm_portrait",
+      "name": "Warm portrait",
+      "assetId": "asset_headshot_01",
+      "agentId": "agent_edit",
+      "lutRef": "lut_warm_02"
+    },
+    {
+      "id": "preset_catalog_hero",
+      "name": "Catalog hero",
+      "assetId": "asset_product_02",
+      "agentId": "agent_batch",
+      "lutRef": "lut_neutral_flat"
+    }
+  ]
+}
