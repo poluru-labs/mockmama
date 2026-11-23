@@ -1,0 +1,12 @@
+{
+  "workspace": {
+    "id": "ws_photo_studio_001",
+    "name": "PixelCraft Studio",
+    "slug": "pixelcraft",
+    "timezone": "America/Chicago",
+    "plan": "team",
+    "seatsUsed": 4,
+    "seatsTotal": 10,
+    "status": "active"
+  }
+}
