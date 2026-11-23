@@ -43,6 +43,19 @@ Everything lives under `mock/`.
 | [`mock/ai-meal-planner/`](mock/ai-meal-planner/) | Weekly menus, macros, grocery lists, pantry, preferences |
 | [`mock/ai-meeting-notes/`](mock/ai-meeting-notes/) | Meetings, live summaries, decisions, action items, calendar sync |
 | [`mock/ai-model-comparison/`](mock/ai-model-comparison/) | Model benchmarks, latency, quality scores, comparison runs, leaderboard |
+| [`mock/ai-photo-editing-studio/`](mock/ai-photo-editing-studio/) | NL edits, batch retouch, presets, masks, export profiles, approval queue |
+| [`mock/ai-presentation-builder/`](mock/ai-presentation-builder/) | Decks, slide templates, brand kits, speaker notes, export jobs, pacing |
+| [`mock/ai-prompt-playground/`](mock/ai-prompt-playground/) | Experiments, parameter grids, leaderboard, guardrails, share links, costs |
+| [`mock/ai-quiz-generator/`](mock/ai-quiz-generator/) | Question banks, difficulty bands, integrity checks, LMS exports, proctor alerts |
+| [`mock/ai-receipt-organizer/`](mock/ai-receipt-organizer/) | OCR receipts, categories, duplicates, tax summaries, reimbursements, sync |
+| [`mock/ai-research-assistant/`](mock/ai-research-assistant/) | Research threads, sources, synthesis, citation graph, reading queue, gaps |
+| [`mock/ai-resume-builder/`](mock/ai-resume-builder/) | Profiles, bullet scores, ATS fit, cover letters, portfolios, applications |
+| [`mock/ai-seo-content-optimizer/`](mock/ai-seo-content-optimizer/) | On-page audits, SERP snapshots, intent clusters, redirects, competitor gaps |
+| [`mock/ai-social-content-planner/`](mock/ai-social-content-planner/) | Calendars, campaigns, captions, hashtags, approvals, trend signals |
+| [`mock/ai-spreadsheet-assistant/`](mock/ai-spreadsheet-assistant/) | Workbook plans, formulas, pivots, macros, validation rules, cell comments |
+| [`mock/ai-study-companion/`](mock/ai-study-companion/) | Study blocks, flashcards, spaced repetition, streaks, weak spots, exam prep |
+| [`mock/ai-transcription-workspace/`](mock/ai-transcription-workspace/) | Recordings, diarization, chapters, captions, glossary, translation exports |
+| [`mock/ai-travel-planner/`](mock/ai-travel-planner/) | Trip briefs, itineraries, agendas, packing, visa checklists, weather, alerts |
 | [`mock/enterprise-bi-dashboard/`](mock/enterprise-bi-dashboard/) | Analytics workspace screens (KPIs, reports, lineage) |
 | [`mock/enterprise-billing-dashboard/`](mock/enterprise-billing-dashboard/) | Invoices, subscriptions, payments, collections |
 | [`mock/enterprise-banking-operations/`](mock/enterprise-banking-operations/) | Clearing, payments, screening, liquidity |
@@ -120,6 +133,19 @@ Demo passwords in auth and ecommerce users are `demo123` (customers) and `admin1
 - **AI meal planner** — macro plans, weekly menus, grocery lists, and leftovers.
 - **AI meeting notes** — transcripts, decisions, action items, and calendar sync.
 - **AI model comparison** — side-by-side benchmarks, latency, and promotion gates.
+- **AI photo editing** — natural-language layers, batch retouch, before/after review, and export profiles.
+- **AI presentation builder** — narrative outlines, brand kits, speaker notes, and deck exports.
+- **AI prompt playground** — A/B experiments, parameter sweeps, versioned prompts, and shareable links.
+- **AI quiz generator** — banks, difficulty tuning, answer keys, integrity checks, and LMS export.
+- **AI receipt organizer** — OCR intake, categorization, duplicate detection, and reimbursement routing.
+- **AI research assistant** — literature briefs, source synthesis, citation graphs, and reading queues.
+- **AI resume builder** — ATS scoring, keyword gaps, cover letters, and application tracking.
+- **AI SEO content optimizer** — on-page audits, SERP tracking, intent clusters, and redirect maps.
+- **AI social content planner** — calendars, caption variants, hashtag sets, and approval workflows.
+- **AI spreadsheet assistant** — cleanup plans, formula drafts, pivot hints, and workbook versions.
+- **AI study companion** — mastery roadmaps, flashcards, spaced repetition, and tutor sessions.
+- **AI transcription workspace** — diarization, chapters, cleanup passes, captions, and quality flags.
+- **AI travel planner** — multi-city itineraries, budgets, packing lists, visa checks, and travel alerts.
 - **Enterprise BI** — overview, reports, explorer, lineage, quality, forecasts, and ask/query screens.
 - **Enterprise billing** — invoices, subscriptions, payments, collections, and ledger KPIs.
 - **Enterprise banking** — accounts, clearing, payments, screening, exceptions, and liquidity.
