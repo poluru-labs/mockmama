@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "id": "redir_blog_merge",
+      "fromPath": "/blog/old-slug",
+      "toPath": "/blog/new-slug",
+      "statusCode": 301
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "snapshots": [
+    {
+      "id": "serp_mock_query",
+      "query": "mock api json fixtures",
+      "position": 4,
+      "capturedAt": "2026-03-18T10:00:00.000Z"
+    }
+  ]
+}

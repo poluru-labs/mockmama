@@ -1,0 +1,12 @@
+{
+  "workspace": {
+    "id": "ws_seo_001",
+    "name": "RankSmith",
+    "slug": "ranksmith",
+    "timezone": "America/Chicago",
+    "plan": "team",
+    "seatsUsed": 4,
+    "seatsTotal": 10,
+    "status": "active"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "briefs": [
+    {
+      "id": "cb_landing_refresh",
+      "pageUrl": "/products/mock-api",
+      "intentClusterId": "cluster_dev_tools",
+      "status": "in_progress"
+    }
+  ]
+}

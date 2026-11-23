@@ -1,0 +1,10 @@
+{
+  "gaps": [
+    {
+      "id": "gap_schema_faq",
+      "competitorDomain": "competitor.example.com",
+      "missingElement": "faq_schema",
+      "priority": "medium"
+    }
+  ]
+}

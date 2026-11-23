@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "workspaceId": "ws_seo_001",
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/seo-logo/320/80",
+      "accentColor": "#4F46E5"
+    }
+  }
+}

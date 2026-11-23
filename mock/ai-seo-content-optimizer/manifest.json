@@ -1,0 +1,90 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI SEO Content Optimizer.",
+  "files": [
+    {
+      "path": "activity.json",
+      "entity": "activity"
+    },
+    {
+      "path": "agents.json",
+      "entity": "agents"
+    },
+    {
+      "path": "app.json",
+      "entity": "app"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "chat completions"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "chat sessions"
+    },
+    {
+      "path": "competitor-gaps.json",
+      "entity": "competitor gaps"
+    },
+    {
+      "path": "content-briefs.json",
+      "entity": "content briefs"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard metrics"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard overview"
+    },
+    {
+      "path": "intent-clusters.json",
+      "entity": "intent clusters"
+    },
+    {
+      "path": "link-suggestions.json",
+      "entity": "link suggestions"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "navigation"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "notifications"
+    },
+    {
+      "path": "onpage-audits.json",
+      "entity": "onpage audits"
+    },
+    {
+      "path": "optimization-briefs.json",
+      "entity": "optimization briefs"
+    },
+    {
+      "path": "outline-restructures.json",
+      "entity": "outline restructures"
+    },
+    {
+      "path": "redirect-maps.json",
+      "entity": "redirect maps"
+    },
+    {
+      "path": "serp-snapshots.json",
+      "entity": "serp snapshots"
+    },
+    {
+      "path": "settings.json",
+      "entity": "settings"
+    },
+    {
+      "path": "users.json",
+      "entity": "users"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace"
+    }
+  ]
+}
