@@ -1,0 +1,15 @@
+{
+  "labels": [
+    {
+      "id": "dia_rec_012",
+      "speakerCount": 3,
+      "overlapSegments": 2,
+      "agentId": "agent_diarize"
+    },
+    {
+      "id": "dia_host",
+      "recordingId": "rec_podcast_ep12",
+      "speakerIndex": 0
+    }
+  ]
+}

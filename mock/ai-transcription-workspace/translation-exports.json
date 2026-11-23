@@ -1,0 +1,11 @@
+{
+  "exports": [
+    {
+      "id": "tr_es_ep12",
+      "recordingId": "rec_podcast_ep12",
+      "locale": "es-MX",
+      "captionExportId": "cap_vtt_ep12",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": [
+    {
+      "id": "spk_host",
+      "recordingId": "rec_podcast_ep12",
+      "label": "Host",
+      "diarizationLabelId": "dia_host"
+    }
+  ]
+}

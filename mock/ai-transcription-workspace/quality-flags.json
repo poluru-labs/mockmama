@@ -1,0 +1,11 @@
+{
+  "flags": [
+    {
+      "id": "qf_low_snr",
+      "recordingId": "rec_town_hall",
+      "code": "low_snr",
+      "severity": "medium",
+      "resolved": false
+    }
+  ]
+}

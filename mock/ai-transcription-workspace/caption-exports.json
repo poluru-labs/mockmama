@@ -1,0 +1,15 @@
+{
+  "exports": [
+    {
+      "id": "exp_srt_012",
+      "format": "srt",
+      "lineBreakSafe": true,
+      "agentId": "agent_export"
+    },
+    {
+      "id": "cap_vtt_ep12",
+      "recordingId": "rec_podcast_ep12",
+      "format": "vtt"
+    }
+  ]
+}

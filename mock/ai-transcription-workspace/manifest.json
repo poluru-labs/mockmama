@@ -1,0 +1,90 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI Transcription Workspace.",
+  "files": [
+    {
+      "path": "activity.json",
+      "entity": "activity"
+    },
+    {
+      "path": "agents.json",
+      "entity": "agents"
+    },
+    {
+      "path": "app.json",
+      "entity": "app"
+    },
+    {
+      "path": "caption-exports.json",
+      "entity": "caption exports"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "chat completions"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "chat sessions"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard metrics"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard overview"
+    },
+    {
+      "path": "diarization-labels.json",
+      "entity": "diarization labels"
+    },
+    {
+      "path": "glossary-terms.json",
+      "entity": "glossary terms"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "navigation"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "notifications"
+    },
+    {
+      "path": "quality-flags.json",
+      "entity": "quality flags"
+    },
+    {
+      "path": "recordings.json",
+      "entity": "recordings"
+    },
+    {
+      "path": "settings.json",
+      "entity": "settings"
+    },
+    {
+      "path": "speaker-profiles.json",
+      "entity": "speaker profiles"
+    },
+    {
+      "path": "timestamp-chapters.json",
+      "entity": "timestamp chapters"
+    },
+    {
+      "path": "transcript-cleanups.json",
+      "entity": "transcript cleanups"
+    },
+    {
+      "path": "translation-exports.json",
+      "entity": "translation exports"
+    },
+    {
+      "path": "users.json",
+      "entity": "users"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace"
+    }
+  ]
+}

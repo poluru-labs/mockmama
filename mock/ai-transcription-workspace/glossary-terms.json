@@ -1,0 +1,10 @@
+{
+  "terms": [
+    {
+      "id": "term_mockmama",
+      "phrase": "MockMama",
+      "pronunciationHint": "mock-MAH-muh",
+      "alwaysCapitalize": true
+    }
+  ]
+}

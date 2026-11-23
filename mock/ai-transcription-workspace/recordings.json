@@ -1,0 +1,22 @@
+{
+  "recordings": [
+    {
+      "id": "rec_podcast_012",
+      "durationMinutes": 48,
+      "format": "wav",
+      "uploadedAt": "2026-03-16T14:00:00.000Z"
+    },
+    {
+      "id": "rec_podcast_ep12",
+      "title": "Podcast ep 12",
+      "durationSec": 2840,
+      "status": "transcribed"
+    },
+    {
+      "id": "rec_town_hall",
+      "title": "Town hall",
+      "durationSec": 4200,
+      "status": "processing"
+    }
+  ]
+}
