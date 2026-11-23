@@ -1,0 +1,11 @@
+{
+  "watches": [
+    {
+      "id": "wx_sakura",
+      "tripBriefId": "brief_kyoto_spring",
+      "location": "Kyoto",
+      "alertType": "bloom_forecast",
+      "summary": "Peak bloom expected Mar 28"
+    }
+  ]
+}

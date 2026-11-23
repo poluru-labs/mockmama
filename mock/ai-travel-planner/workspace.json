@@ -1,0 +1,12 @@
+{
+  "workspace": {
+    "id": "ws_travel_001",
+    "name": "RouteMuse",
+    "slug": "routemuse",
+    "timezone": "America/Chicago",
+    "plan": "team",
+    "seatsUsed": 4,
+    "seatsTotal": 10,
+    "status": "active"
+  }
+}

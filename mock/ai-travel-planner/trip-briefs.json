@@ -1,0 +1,14 @@
+{
+  "briefs": [
+    {
+      "id": "brief_share_09",
+      "checklistItems": 12,
+      "agentId": "agent_trip"
+    },
+    {
+      "id": "brief_kyoto_spring",
+      "title": "Kyoto spring",
+      "travelerCount": 2
+    }
+  ]
+}

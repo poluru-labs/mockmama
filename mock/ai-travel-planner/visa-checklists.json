@@ -1,0 +1,12 @@
+{
+  "checklists": [
+    {
+      "id": "visa_jp_tourist",
+      "tripBriefId": "brief_kyoto_spring",
+      "countryCode": "JP",
+      "evisaRequired": false,
+      "completedSteps": 4,
+      "totalSteps": 5
+    }
+  ]
+}

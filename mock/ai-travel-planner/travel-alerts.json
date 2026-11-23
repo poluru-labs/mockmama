@@ -1,0 +1,11 @@
+{
+  "alerts": [
+    {
+      "id": "alert_rail_strike",
+      "itineraryId": "itin_kyoto_osaka",
+      "severity": "info",
+      "title": "Weekend maintenance",
+      "body": "Shinkansen delays possible Sunday AM."
+    }
+  ]
+}

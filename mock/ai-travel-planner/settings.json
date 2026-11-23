@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "workspaceId": "ws_travel_001",
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/travel-logo/320/80",
+      "accentColor": "#0284C7"
+    }
+  }
+}

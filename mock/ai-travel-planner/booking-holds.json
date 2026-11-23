@@ -1,0 +1,11 @@
+{
+  "holds": [
+    {
+      "id": "hold_ryokan",
+      "itineraryId": "itin_kyoto_osaka",
+      "vendor": "Kyoto Inn",
+      "expiresAt": "2026-03-20T18:00:00.000Z",
+      "status": "active"
+    }
+  ]
+}
