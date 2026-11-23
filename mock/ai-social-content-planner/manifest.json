@@ -1,0 +1,90 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI Social Content Planner.",
+  "files": [
+    {
+      "path": "activity.json",
+      "entity": "activity"
+    },
+    {
+      "path": "agents.json",
+      "entity": "agents"
+    },
+    {
+      "path": "app.json",
+      "entity": "app"
+    },
+    {
+      "path": "approval-flows.json",
+      "entity": "approval flows"
+    },
+    {
+      "path": "campaign-briefs.json",
+      "entity": "campaign briefs"
+    },
+    {
+      "path": "caption-variants.json",
+      "entity": "caption variants"
+    },
+    {
+      "path": "channel-posts.json",
+      "entity": "channel posts"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "chat completions"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "chat sessions"
+    },
+    {
+      "path": "content-calendars.json",
+      "entity": "content calendars"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard metrics"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard overview"
+    },
+    {
+      "path": "hashtag-analytics.json",
+      "entity": "hashtag analytics"
+    },
+    {
+      "path": "hashtag-sets.json",
+      "entity": "hashtag sets"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "navigation"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "notifications"
+    },
+    {
+      "path": "settings.json",
+      "entity": "settings"
+    },
+    {
+      "path": "tone-adaptations.json",
+      "entity": "tone adaptations"
+    },
+    {
+      "path": "trend-signals.json",
+      "entity": "trend signals"
+    },
+    {
+      "path": "users.json",
+      "entity": "users"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace"
+    }
+  ]
+}

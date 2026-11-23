@@ -1,0 +1,10 @@
+{
+  "signals": [
+    {
+      "id": "trend_agent_sdk",
+      "topic": "agent sdk",
+      "velocity": "rising",
+      "suggestedToneId": "tone_li_to_x"
+    }
+  ]
+}

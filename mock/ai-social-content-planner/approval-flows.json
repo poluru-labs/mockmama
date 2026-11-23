@@ -1,0 +1,14 @@
+{
+  "flows": [
+    {
+      "id": "flow_brand_legal",
+      "name": "Brand + legal",
+      "steps": [
+        "editor",
+        "brand",
+        "legal"
+      ],
+      "slaHours": 24
+    }
+  ]
+}

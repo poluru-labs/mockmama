@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": "post_linkedin_launch",
+      "campaignBriefId": "camp_product_launch",
+      "channel": "linkedin",
+      "status": "scheduled",
+      "scheduledAt": "2026-03-18T10:00:00.000Z"
+    }
+  ]
+}

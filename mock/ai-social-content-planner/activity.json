@@ -1,0 +1,20 @@
+{
+  "activity": [
+    {
+      "id": "act_social_001",
+      "actorId": "user_social_001",
+      "verb": "updated",
+      "objectType": "workspace",
+      "objectId": "ws_social_001",
+      "occurredAt": "2026-03-18T10:00:00.000Z"
+    },
+    {
+      "id": "act_social_002",
+      "actorId": "user_social_002",
+      "verb": "reviewed",
+      "objectType": "agent",
+      "objectId": "agent_studio",
+      "occurredAt": "2026-03-18T09:15:00.000Z"
+    }
+  ]
+}

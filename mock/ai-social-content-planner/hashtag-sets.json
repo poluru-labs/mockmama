@@ -1,0 +1,17 @@
+{
+  "sets": [
+    {
+      "id": "tags_saas_launch",
+      "tagCount": 12,
+      "reachTier": "mixed",
+      "agentId": "agent_hashtags"
+    },
+    {
+      "id": "htag_set_launch",
+      "tags": [
+        "#MockAPI",
+        "#DevTools"
+      ]
+    }
+  ]
+}
