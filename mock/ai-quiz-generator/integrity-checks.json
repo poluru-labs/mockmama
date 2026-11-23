@@ -1,0 +1,10 @@
+{
+  "checks": [
+    {
+      "id": "int_quiz_photosynthesis",
+      "quizId": "quiz_photosynthesis",
+      "leakScore": 0.02,
+      "status": "passed"
+    }
+  ]
+}

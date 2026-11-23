@@ -1,0 +1,13 @@
+{
+  "pools": [
+    {
+      "id": "pool_bio_mcq",
+      "bankId": "bank_bio_unit2",
+      "count": 24,
+      "formats": [
+        "mcq",
+        "multi-select"
+      ]
+    }
+  ]
+}

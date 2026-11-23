@@ -1,0 +1,11 @@
+{
+  "alerts": [
+    {
+      "id": "proctor_tab_switch",
+      "attemptId": "att_demo_01",
+      "severity": "low",
+      "event": "tab_blur",
+      "count": 1
+    }
+  ]
+}

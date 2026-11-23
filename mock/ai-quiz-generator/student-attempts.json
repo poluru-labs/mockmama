@@ -1,0 +1,11 @@
+{
+  "attempts": [
+    {
+      "id": "att_demo_01",
+      "quizId": "quiz_photosynthesis",
+      "studentLabel": "Student A",
+      "scorePct": 88,
+      "submittedAt": "2026-03-18T10:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "user_quiz_001",
+      "name": "Jordan Lee",
+      "email": "jordan@quizcraft.example.com",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/quiz-u1/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_quiz_002",
+      "name": "Priya Nair",
+      "email": "priya@quizcraft.example.com",
+      "role": "member",
+      "avatar": "https://picsum.photos/seed/quiz-u2/200/200",
+      "status": "active"
+    }
+  ]
+}

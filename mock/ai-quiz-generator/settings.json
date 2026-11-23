@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "workspaceId": "ws_quiz_gen_001",
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/quiz-logo/320/80",
+      "accentColor": "#059669"
+    }
+  }
+}
