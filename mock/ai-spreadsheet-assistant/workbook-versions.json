@@ -1,0 +1,11 @@
+{
+  "versions": [
+    {
+      "id": "ver_plan_v3",
+      "workbookPlanId": "plan_q1_forecast",
+      "version": 3,
+      "createdById": "user_sheet_001",
+      "createdAt": "2026-03-18T10:00:00.000Z"
+    }
+  ]
+}

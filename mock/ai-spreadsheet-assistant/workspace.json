@@ -1,0 +1,12 @@
+{
+  "workspace": {
+    "id": "ws_spreadsheet_001",
+    "name": "SheetMind",
+    "slug": "sheetmind",
+    "timezone": "America/Chicago",
+    "plan": "team",
+    "seatsUsed": 4,
+    "seatsTotal": 10,
+    "status": "active"
+  }
+}

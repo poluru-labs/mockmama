@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "workspaceId": "ws_spreadsheet_001",
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/sheet-logo/320/80",
+      "accentColor": "#16A34A"
+    }
+  }
+}

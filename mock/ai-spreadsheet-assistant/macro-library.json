@@ -1,0 +1,10 @@
+{
+  "macros": [
+    {
+      "id": "macro_trim_cols",
+      "name": "Trim empty columns",
+      "language": "apps-script",
+      "riskLevel": "low"
+    }
+  ]
+}

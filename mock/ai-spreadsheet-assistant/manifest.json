@@ -1,0 +1,90 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI Spreadsheet Assistant.",
+  "files": [
+    {
+      "path": "activity.json",
+      "entity": "activity"
+    },
+    {
+      "path": "agents.json",
+      "entity": "agents"
+    },
+    {
+      "path": "app.json",
+      "entity": "app"
+    },
+    {
+      "path": "cell-comments.json",
+      "entity": "cell comments"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "chat completions"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "chat sessions"
+    },
+    {
+      "path": "cleanup-plans.json",
+      "entity": "cleanup plans"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard metrics"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard overview"
+    },
+    {
+      "path": "data-validation-rules.json",
+      "entity": "data validation rules"
+    },
+    {
+      "path": "formula-drafts.json",
+      "entity": "formula drafts"
+    },
+    {
+      "path": "logic-explanations.json",
+      "entity": "logic explanations"
+    },
+    {
+      "path": "macro-library.json",
+      "entity": "macro library"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "navigation"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "notifications"
+    },
+    {
+      "path": "pivot-suggestions.json",
+      "entity": "pivot suggestions"
+    },
+    {
+      "path": "settings.json",
+      "entity": "settings"
+    },
+    {
+      "path": "users.json",
+      "entity": "users"
+    },
+    {
+      "path": "workbook-plans.json",
+      "entity": "workbook plans"
+    },
+    {
+      "path": "workbook-versions.json",
+      "entity": "workbook versions"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace"
+    }
+  ]
+}

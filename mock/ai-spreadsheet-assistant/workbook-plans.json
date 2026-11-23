@@ -1,0 +1,14 @@
+{
+  "plans": [
+    {
+      "id": "plan_q1_close",
+      "sheetCount": 4,
+      "agentId": "agent_sheet"
+    },
+    {
+      "id": "plan_q1_forecast",
+      "title": "Q1 revenue forecast",
+      "status": "active"
+    }
+  ]
+}

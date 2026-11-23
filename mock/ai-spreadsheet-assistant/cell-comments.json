@@ -1,0 +1,11 @@
+{
+  "comments": [
+    {
+      "id": "cmt_revenue_fx",
+      "workbookPlanId": "plan_q1_forecast",
+      "cellRef": "D12",
+      "authorId": "user_sheet_002",
+      "body": "Check FX assumption"
+    }
+  ]
+}
