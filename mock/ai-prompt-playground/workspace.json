@@ -1,0 +1,12 @@
+{
+  "workspace": {
+    "id": "ws_prompt_play_001",
+    "name": "PromptLab",
+    "slug": "promptlab",
+    "timezone": "America/Chicago",
+    "plan": "team",
+    "seatsUsed": 4,
+    "seatsTotal": 10,
+    "status": "active"
+  }
+}

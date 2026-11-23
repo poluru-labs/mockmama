@@ -1,0 +1,90 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI Prompt Playground.",
+  "files": [
+    {
+      "path": "activity.json",
+      "entity": "activity"
+    },
+    {
+      "path": "agents.json",
+      "entity": "agents"
+    },
+    {
+      "path": "app.json",
+      "entity": "app"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "chat completions"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "chat sessions"
+    },
+    {
+      "path": "cost-estimates.json",
+      "entity": "cost estimates"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard metrics"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard overview"
+    },
+    {
+      "path": "experiment-runs.json",
+      "entity": "experiment runs"
+    },
+    {
+      "path": "experiments.json",
+      "entity": "experiments"
+    },
+    {
+      "path": "guardrail-hits.json",
+      "entity": "guardrail hits"
+    },
+    {
+      "path": "leaderboard-entries.json",
+      "entity": "leaderboard entries"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "navigation"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "notifications"
+    },
+    {
+      "path": "parameter-grids.json",
+      "entity": "parameter grids"
+    },
+    {
+      "path": "prompt-versions.json",
+      "entity": "prompt versions"
+    },
+    {
+      "path": "session-winners.json",
+      "entity": "session winners"
+    },
+    {
+      "path": "settings.json",
+      "entity": "settings"
+    },
+    {
+      "path": "share-links.json",
+      "entity": "share links"
+    },
+    {
+      "path": "users.json",
+      "entity": "users"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace"
+    }
+  ]
+}

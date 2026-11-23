@@ -1,0 +1,20 @@
+{
+  "activity": [
+    {
+      "id": "act_prompt_001",
+      "actorId": "user_prompt_001",
+      "verb": "updated",
+      "objectType": "workspace",
+      "objectId": "ws_prompt_play_001",
+      "occurredAt": "2026-03-18T10:00:00.000Z"
+    },
+    {
+      "id": "act_prompt_002",
+      "actorId": "user_prompt_002",
+      "verb": "reviewed",
+      "objectType": "agent",
+      "objectId": "agent_studio",
+      "occurredAt": "2026-03-18T09:15:00.000Z"
+    }
+  ]
+}

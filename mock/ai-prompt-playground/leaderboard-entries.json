@@ -1,0 +1,11 @@
+{
+  "entries": [
+    {
+      "id": "lb_001",
+      "experimentId": "exp_summarize_v3",
+      "model": "gpt-4.1-mini",
+      "score": 0.91,
+      "rank": 1
+    }
+  ]
+}

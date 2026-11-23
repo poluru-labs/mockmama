@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "workspaceId": "ws_prompt_play_001",
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/prompt-logo/320/80",
+      "accentColor": "#7C3AED"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "estimates": [
+    {
+      "id": "cost_grid_temp",
+      "gridId": "grid_temp_08",
+      "estimatedTokens": 48000,
+      "usd": 2.4
+    }
+  ]
+}

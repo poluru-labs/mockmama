@@ -1,0 +1,11 @@
+{
+  "hits": [
+    {
+      "id": "gr_001",
+      "sessionId": "sess_compare",
+      "rule": "pii_block",
+      "action": "redact",
+      "occurredAt": "2026-03-18T10:00:00.000Z"
+    }
+  ]
+}
