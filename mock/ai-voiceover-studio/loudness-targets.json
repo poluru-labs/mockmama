@@ -1,0 +1,11 @@
+{
+  "targets": [
+    {
+      "id": "lufs_podcast",
+      "briefId": "brief_elearning",
+      "standard": "podcast",
+      "integratedLufs": -16,
+      "truePeakDbtp": -1.0
+    }
+  ]
+}

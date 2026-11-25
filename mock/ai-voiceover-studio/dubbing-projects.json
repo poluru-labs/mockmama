@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "id": "dub_elearning_es",
+      "briefId": "brief_elearning",
+      "targetLocale": "es-MX",
+      "status": "in_progress",
+      "agentId": "agent_voice"
+    }
+  ]
+}
