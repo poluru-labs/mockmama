@@ -1,0 +1,10 @@
+{
+  "variants": [
+    {
+      "id": "thumb_a",
+      "briefId": "brief_march_ad",
+      "headline": "March drop",
+      "previewUrl": "/mock-data/thumbs/thumb_a.webp"
+    }
+  ]
+}

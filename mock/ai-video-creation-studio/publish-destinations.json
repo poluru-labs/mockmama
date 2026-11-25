@@ -1,0 +1,11 @@
+{
+  "destinations": [
+    {
+      "id": "dest_youtube_short",
+      "briefId": "brief_march_ad",
+      "platform": "youtube_shorts",
+      "scheduledAt": "2026-03-19T12:00:00.000Z",
+      "status": "draft"
+    }
+  ]
+}
