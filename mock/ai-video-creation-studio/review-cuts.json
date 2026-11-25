@@ -1,0 +1,11 @@
+{
+  "cuts": [
+    {
+      "id": "cut_v3_review",
+      "briefId": "brief_march_ad",
+      "version": 3,
+      "reviewerId": "user_video_001",
+      "status": "pending"
+    }
+  ]
+}

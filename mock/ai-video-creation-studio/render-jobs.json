@@ -1,0 +1,18 @@
+{
+  "jobs": [
+    {
+      "id": "render_march_ad",
+      "briefId": "brief_march_ad",
+      "status": "processing",
+      "progressPct": 62,
+      "agentId": "agent_export"
+    },
+    {
+      "id": "render_social_teaser",
+      "briefId": "brief_march_ad",
+      "status": "queued",
+      "progressPct": 0,
+      "agentId": "agent_export"
+    }
+  ]
+}

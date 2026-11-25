@@ -1,0 +1,10 @@
+{
+  "clips": [
+    {
+      "id": "clip_hook_a",
+      "briefId": "brief_march_ad",
+      "durationSec": 3.2,
+      "previewUrl": "/mock-data/clips/clip_hook_a.mp4"
+    }
+  ]
+}
