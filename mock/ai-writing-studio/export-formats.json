@@ -1,0 +1,11 @@
+{
+  "exports": [
+    {
+      "id": "exp_epub_draft",
+      "projectId": "ms_novel_winter",
+      "format": "epub",
+      "status": "ready",
+      "downloadUrl": "/mock-data/exports/winter.epub"
+    }
+  ]
+}

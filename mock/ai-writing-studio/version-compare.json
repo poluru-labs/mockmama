@@ -1,0 +1,11 @@
+{
+  "compares": [
+    {
+      "id": "cmp_ch3_v2_v3",
+      "projectId": "ms_novel_winter",
+      "fromVersion": 2,
+      "toVersion": 3,
+      "diffWordCount": 180
+    }
+  ]
+}

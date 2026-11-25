@@ -1,0 +1,11 @@
+{
+  "targets": [
+    {
+      "id": "pub_kdp",
+      "projectId": "ms_novel_winter",
+      "platform": "kdp",
+      "trimSize": "6x9",
+      "status": "configured"
+    }
+  ]
+}
