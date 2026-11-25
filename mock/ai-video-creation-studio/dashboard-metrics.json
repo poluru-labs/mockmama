@@ -14,6 +14,11 @@
       "label": "Exports",
       "value": "76",
       "hint": "This month"
+    },
+    {
+      "label": "Renders",
+      "value": "14",
+      "hint": "Queued"
     }
   ]
 }

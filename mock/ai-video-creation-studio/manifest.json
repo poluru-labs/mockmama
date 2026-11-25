@@ -1,0 +1,106 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI Video Creation Studio.",
+  "files": [
+    {
+      "path": "activity.json",
+      "entity": "activity"
+    },
+    {
+      "path": "agents.json",
+      "entity": "agents"
+    },
+    {
+      "path": "app.json",
+      "entity": "app"
+    },
+    {
+      "path": "asset-clips.json",
+      "entity": "asset clips"
+    },
+    {
+      "path": "b-roll-suggestions.json",
+      "entity": "b roll suggestions"
+    },
+    {
+      "path": "caption-tracks.json",
+      "entity": "caption tracks"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "chat completions"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "chat sessions"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard metrics"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard overview"
+    },
+    {
+      "path": "export-notes.json",
+      "entity": "export notes"
+    },
+    {
+      "path": "music-stems.json",
+      "entity": "music stems"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "navigation"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "notifications"
+    },
+    {
+      "path": "production-briefs.json",
+      "entity": "production briefs"
+    },
+    {
+      "path": "publish-destinations.json",
+      "entity": "publish destinations"
+    },
+    {
+      "path": "render-jobs.json",
+      "entity": "render jobs"
+    },
+    {
+      "path": "review-cuts.json",
+      "entity": "review cuts"
+    },
+    {
+      "path": "script-beats.json",
+      "entity": "script beats"
+    },
+    {
+      "path": "settings.json",
+      "entity": "settings"
+    },
+    {
+      "path": "shot-lists.json",
+      "entity": "shot lists"
+    },
+    {
+      "path": "storyboard-frames.json",
+      "entity": "storyboard frames"
+    },
+    {
+      "path": "thumbnail-variants.json",
+      "entity": "thumbnail variants"
+    },
+    {
+      "path": "users.json",
+      "entity": "users"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace"
+    }
+  ]
+}
