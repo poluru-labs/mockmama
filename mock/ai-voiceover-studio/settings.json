@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "workspaceId": "ws_voiceover_001",
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/voice-logo/320/80",
+      "accentColor": "#7C2D12"
+    }
+  }
+}

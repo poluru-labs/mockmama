@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "user_voice_001",
+      "name": "Jordan Lee",
+      "email": "jordan@voxbench.example.com",
+      "role": "admin",
+      "avatar": "https://picsum.photos/seed/voice-u1/200/200",
+      "status": "active"
+    },
+    {
+      "id": "user_voice_002",
+      "name": "Priya Nair",
+      "email": "priya@voxbench.example.com",
+      "role": "member",
+      "avatar": "https://picsum.photos/seed/voice-u2/200/200",
+      "status": "active"
+    }
+  ]
+}

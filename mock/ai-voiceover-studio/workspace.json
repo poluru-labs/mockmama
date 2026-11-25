@@ -1,0 +1,12 @@
+{
+  "workspace": {
+    "id": "ws_voiceover_001",
+    "name": "VoxBench",
+    "slug": "voxbench",
+    "timezone": "America/Chicago",
+    "plan": "team",
+    "seatsUsed": 3,
+    "seatsTotal": 10,
+    "status": "active"
+  }
+}
