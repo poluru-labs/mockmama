@@ -19,6 +19,16 @@
       "href": "/trips",
       "read": false,
       "createdAt": "2026-03-18T08:30:00.000Z"
+    },
+    {
+      "id": "notif_travel_003",
+      "userId": "user_travel_001",
+      "type": "alert",
+      "title": "JR Pass activation window",
+      "body": "Activate pass within 30 days of arrival.",
+      "href": "/trips",
+      "read": false,
+      "createdAt": "2026-03-19T12:00:00.000Z"
     }
   ]
 }

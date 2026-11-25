@@ -5,6 +5,13 @@
       "cityCount": 2,
       "transitMode": "rail",
       "agentId": "agent_itinerary"
+    },
+    {
+      "id": "itin_lisbon_weekend",
+      "cityCount": 1,
+      "transitMode": "walk",
+      "agentId": "agent_itinerary",
+      "title": "Lisbon long weekend"
     }
   ]
 }

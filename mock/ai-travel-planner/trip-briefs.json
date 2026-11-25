@@ -9,6 +9,11 @@
       "id": "brief_kyoto_spring",
       "title": "Kyoto spring",
       "travelerCount": 2
+    },
+    {
+      "id": "brief_lisbon",
+      "title": "Lisbon weekend",
+      "travelerCount": 2
     }
   ]
 }
