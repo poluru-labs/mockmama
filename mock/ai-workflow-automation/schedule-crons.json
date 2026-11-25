@@ -1,0 +1,11 @@
+{
+  "crons": [
+    {
+      "id": "cron_daily_digest",
+      "briefId": "brief_prod_promote",
+      "expression": "0 9 * * 1-5",
+      "timezone": "America/Chicago",
+      "enabled": true
+    }
+  ]
+}

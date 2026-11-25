@@ -1,0 +1,14 @@
+{
+  "playbooks": [
+    {
+      "id": "pb_retry_429",
+      "code": "rate_limit",
+      "steps": [
+        "backoff",
+        "notify",
+        "replay"
+      ],
+      "agentId": "agent_workflow"
+    }
+  ]
+}

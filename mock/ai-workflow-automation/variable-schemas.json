@@ -1,0 +1,18 @@
+{
+  "schemas": [
+    {
+      "id": "schema_incident",
+      "briefId": "brief_prod_promote",
+      "fields": [
+        {
+          "name": "severity",
+          "type": "enum",
+          "values": [
+            "low",
+            "high"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "connectors": [
+    {
+      "id": "conn_slack",
+      "name": "Slack",
+      "status": "connected",
+      "scopes": [
+        "chat:write",
+        "channels:read"
+      ]
+    },
+    {
+      "id": "conn_notion",
+      "name": "Notion",
+      "status": "connected",
+      "scopes": [
+        "pages:write"
+      ]
+    }
+  ]
+}
