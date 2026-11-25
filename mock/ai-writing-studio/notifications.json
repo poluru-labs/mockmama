@@ -1,0 +1,14 @@
+{
+  "notifications": [
+    {
+      "id": "notif_write_001",
+      "userId": "user_write_001",
+      "type": "workspace",
+      "title": "Fixture batch ready",
+      "body": "Mock data expanded for demos.",
+      "href": "/dashboard",
+      "read": false,
+      "createdAt": "2026-03-19T12:00:00.000Z"
+    }
+  ]
+}

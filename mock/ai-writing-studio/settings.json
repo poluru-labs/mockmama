@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "workspaceId": "ws_writing_001",
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/write-logo/320/80",
+      "accentColor": "#4338CA"
+    }
+  }
+}
