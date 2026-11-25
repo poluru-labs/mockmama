@@ -1,0 +1,106 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI Workflow Automation.",
+  "files": [
+    {
+      "path": "activity.json",
+      "entity": "activity"
+    },
+    {
+      "path": "agents.json",
+      "entity": "agents"
+    },
+    {
+      "path": "app.json",
+      "entity": "app"
+    },
+    {
+      "path": "approval-gates.json",
+      "entity": "approval gates"
+    },
+    {
+      "path": "audit-trails.json",
+      "entity": "audit trails"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "chat completions"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "chat sessions"
+    },
+    {
+      "path": "connector-registry.json",
+      "entity": "connector registry"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard metrics"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard overview"
+    },
+    {
+      "path": "deploy-briefs.json",
+      "entity": "deploy briefs"
+    },
+    {
+      "path": "environment-promotions.json",
+      "entity": "environment promotions"
+    },
+    {
+      "path": "error-playbooks.json",
+      "entity": "error playbooks"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "navigation"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "notifications"
+    },
+    {
+      "path": "run-approvals.json",
+      "entity": "run approvals"
+    },
+    {
+      "path": "run-history.json",
+      "entity": "run history"
+    },
+    {
+      "path": "schedule-crons.json",
+      "entity": "schedule crons"
+    },
+    {
+      "path": "secrets-refs.json",
+      "entity": "secrets refs"
+    },
+    {
+      "path": "settings.json",
+      "entity": "settings"
+    },
+    {
+      "path": "step-graphs.json",
+      "entity": "step graphs"
+    },
+    {
+      "path": "users.json",
+      "entity": "users"
+    },
+    {
+      "path": "variable-schemas.json",
+      "entity": "variable schemas"
+    },
+    {
+      "path": "webhook-triggers.json",
+      "entity": "webhook triggers"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace"
+    }
+  ]
+}

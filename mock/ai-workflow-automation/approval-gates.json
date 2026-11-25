@@ -4,6 +4,12 @@
       "id": "gate_finance",
       "slaHours": 24,
       "agentId": "agent_human"
+    },
+    {
+      "id": "gate_prod",
+      "briefId": "brief_prod_promote",
+      "name": "Production deploy",
+      "requiredApprovals": 1
     }
   ]
 }
