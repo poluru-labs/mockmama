@@ -14,6 +14,11 @@
       "label": "Tone profiles",
       "value": "8",
       "hint": "Brand voices"
+    },
+    {
+      "label": "Words",
+      "value": "42k",
+      "hint": "Draft"
     }
   ]
 }

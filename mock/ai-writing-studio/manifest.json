@@ -1,0 +1,106 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI Writing Studio.",
+  "files": [
+    {
+      "path": "activity.json",
+      "entity": "activity"
+    },
+    {
+      "path": "agents.json",
+      "entity": "agents"
+    },
+    {
+      "path": "app.json",
+      "entity": "app"
+    },
+    {
+      "path": "beta-readers.json",
+      "entity": "beta readers"
+    },
+    {
+      "path": "chapter-outlines.json",
+      "entity": "chapter outlines"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "chat completions"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "chat sessions"
+    },
+    {
+      "path": "collaboration-comments.json",
+      "entity": "collaboration comments"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard metrics"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard overview"
+    },
+    {
+      "path": "draft-expansions.json",
+      "entity": "draft expansions"
+    },
+    {
+      "path": "export-formats.json",
+      "entity": "export formats"
+    },
+    {
+      "path": "line-rewrites.json",
+      "entity": "line rewrites"
+    },
+    {
+      "path": "manuscript-projects.json",
+      "entity": "manuscript projects"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "navigation"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "notifications"
+    },
+    {
+      "path": "plagiarism-scans.json",
+      "entity": "plagiarism scans"
+    },
+    {
+      "path": "publishing-targets.json",
+      "entity": "publishing targets"
+    },
+    {
+      "path": "revision-checklists.json",
+      "entity": "revision checklists"
+    },
+    {
+      "path": "settings.json",
+      "entity": "settings"
+    },
+    {
+      "path": "style-guides.json",
+      "entity": "style guides"
+    },
+    {
+      "path": "tone-presets.json",
+      "entity": "tone presets"
+    },
+    {
+      "path": "users.json",
+      "entity": "users"
+    },
+    {
+      "path": "version-compare.json",
+      "entity": "version compare"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace"
+    }
+  ]
+}
