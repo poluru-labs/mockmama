@@ -1,0 +1,12 @@
+{
+  "activity": [
+    {
+      "id": "act_flow_001",
+      "actorId": "user_flow_001",
+      "verb": "created",
+      "objectType": "workspace",
+      "objectId": "ws_workflow_001",
+      "occurredAt": "2026-03-19T12:00:00.000Z"
+    }
+  ]
+}
