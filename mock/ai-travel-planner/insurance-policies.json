@@ -1,0 +1,11 @@
+{
+  "policies": [
+    {
+      "id": "pol_trip_shield",
+      "tripBriefId": "brief_kyoto_spring",
+      "carrier": "SafeTrail",
+      "coverageUsd": 50000,
+      "status": "active"
+    }
+  ]
+}

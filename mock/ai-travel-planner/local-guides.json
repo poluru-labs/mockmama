@@ -1,0 +1,11 @@
+{
+  "guides": [
+    {
+      "id": "guide_kyoto_food",
+      "itineraryId": "itin_kyoto_osaka",
+      "locale": "en",
+      "theme": "street food",
+      "slots": 3
+    }
+  ]
+}

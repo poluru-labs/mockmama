@@ -1,0 +1,18 @@
+{
+  "programs": [
+    {
+      "id": "loyalty_mileage_plus",
+      "itineraryId": "itin_kyoto_osaka",
+      "program": "MileagePlus",
+      "memberId": "MP-44201",
+      "status": "linked"
+    },
+    {
+      "id": "loyalty_jr_west",
+      "itineraryId": "itin_kyoto_osaka",
+      "program": "JR West Points",
+      "memberId": "JR-9912",
+      "status": "pending"
+    }
+  ]
+}

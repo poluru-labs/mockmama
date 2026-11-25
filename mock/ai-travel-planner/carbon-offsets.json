@@ -1,0 +1,11 @@
+{
+  "offsets": [
+    {
+      "id": "offset_flight_01",
+      "tripBriefId": "brief_kyoto_spring",
+      "kgCo2e": 420,
+      "provider": "EcoLedger",
+      "purchased": false
+    }
+  ]
+}
