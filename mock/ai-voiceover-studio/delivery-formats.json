@@ -1,0 +1,11 @@
+{
+  "formats": [
+    {
+      "id": "del_wav_48k",
+      "briefId": "brief_elearning",
+      "container": "wav",
+      "sampleRateHz": 48000,
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "notes": [
+    {
+      "id": "coach_rhotic",
+      "briefId": "brief_elearning",
+      "topic": "rhotic /r/",
+      "suggestion": "softer tap on word-final /r/",
+      "agentId": "agent_emphasis"
+    }
+  ]
+}

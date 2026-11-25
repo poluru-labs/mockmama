@@ -1,0 +1,11 @@
+{
+  "sessions": [
+    {
+      "id": "sess_live_direct",
+      "briefId": "brief_elearning",
+      "mode": "live_direct",
+      "durationMin": 45,
+      "engineerId": "user_voice_002"
+    }
+  ]
+}
