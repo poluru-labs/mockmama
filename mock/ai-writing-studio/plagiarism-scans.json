@@ -1,0 +1,11 @@
+{
+  "scans": [
+    {
+      "id": "scan_ch3",
+      "projectId": "ms_novel_winter",
+      "similarityPct": 1.2,
+      "status": "clean",
+      "scannedAt": "2026-03-19T12:00:00.000Z"
+    }
+  ]
+}

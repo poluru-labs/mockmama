@@ -1,0 +1,11 @@
+{
+  "guides": [
+    {
+      "id": "style_ap_novel",
+      "projectId": "ms_novel_winter",
+      "citationStyle": "Chicago",
+      "oxfordComma": true,
+      "agentId": "agent_tone"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "readers": [
+    {
+      "id": "beta_alex",
+      "projectId": "ms_novel_winter",
+      "name": "Alex R.",
+      "email": "alex@example.com",
+      "chaptersDelivered": 3
+    }
+  ]
+}
