@@ -1,0 +1,106 @@
+{
+  "version": "1.1.0",
+  "description": "Fixture JSON for AI Voiceover Studio.",
+  "files": [
+    {
+      "path": "accent-coaching.json",
+      "entity": "accent coaching"
+    },
+    {
+      "path": "activity.json",
+      "entity": "activity"
+    },
+    {
+      "path": "agents.json",
+      "entity": "agents"
+    },
+    {
+      "path": "app.json",
+      "entity": "app"
+    },
+    {
+      "path": "chat-completions.json",
+      "entity": "chat completions"
+    },
+    {
+      "path": "chat-sessions.json",
+      "entity": "chat sessions"
+    },
+    {
+      "path": "client-review-links.json",
+      "entity": "client review links"
+    },
+    {
+      "path": "dashboard-metrics.json",
+      "entity": "dashboard metrics"
+    },
+    {
+      "path": "dashboard-overview.json",
+      "entity": "dashboard overview"
+    },
+    {
+      "path": "delivery-formats.json",
+      "entity": "delivery formats"
+    },
+    {
+      "path": "dubbing-projects.json",
+      "entity": "dubbing projects"
+    },
+    {
+      "path": "emphasis-highlights.json",
+      "entity": "emphasis highlights"
+    },
+    {
+      "path": "loudness-targets.json",
+      "entity": "loudness targets"
+    },
+    {
+      "path": "navigation.json",
+      "entity": "navigation"
+    },
+    {
+      "path": "notifications.json",
+      "entity": "notifications"
+    },
+    {
+      "path": "pronunciation-glossaries.json",
+      "entity": "pronunciation glossaries"
+    },
+    {
+      "path": "qc-waveforms.json",
+      "entity": "qc waveforms"
+    },
+    {
+      "path": "session-briefs.json",
+      "entity": "session briefs"
+    },
+    {
+      "path": "settings.json",
+      "entity": "settings"
+    },
+    {
+      "path": "studio-sessions.json",
+      "entity": "studio sessions"
+    },
+    {
+      "path": "take-logs.json",
+      "entity": "take logs"
+    },
+    {
+      "path": "timing-marks.json",
+      "entity": "timing marks"
+    },
+    {
+      "path": "users.json",
+      "entity": "users"
+    },
+    {
+      "path": "voice-catalog.json",
+      "entity": "voice catalog"
+    },
+    {
+      "path": "workspace.json",
+      "entity": "workspace"
+    }
+  ]
+}

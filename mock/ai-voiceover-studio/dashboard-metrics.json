@@ -14,6 +14,11 @@
       "label": "Languages",
       "value": "12",
       "hint": "Supported"
+    },
+    {
+      "label": "Takes",
+      "value": "28",
+      "hint": "Logged"
     }
   ]
 }
