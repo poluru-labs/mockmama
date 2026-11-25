@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Fixture JSON for AI Travel Planner.",
   "files": [
     {
@@ -23,6 +23,10 @@
       "entity": "budget breakdowns"
     },
     {
+      "path": "carbon-offsets.json",
+      "entity": "carbon offsets"
+    },
+    {
       "path": "chat-completions.json",
       "entity": "chat completions"
     },
@@ -43,8 +47,24 @@
       "entity": "day agendas"
     },
     {
+      "path": "expense-receipts.json",
+      "entity": "expense receipts"
+    },
+    {
+      "path": "insurance-policies.json",
+      "entity": "insurance policies"
+    },
+    {
       "path": "itineraries.json",
       "entity": "itineraries"
+    },
+    {
+      "path": "local-guides.json",
+      "entity": "local guides"
+    },
+    {
+      "path": "loyalty-programs.json",
+      "entity": "loyalty programs"
     },
     {
       "path": "navigation.json",
@@ -63,12 +83,24 @@
       "entity": "settings"
     },
     {
+      "path": "shared-itineraries.json",
+      "entity": "shared itineraries"
+    },
+    {
+      "path": "transport-passes.json",
+      "entity": "transport passes"
+    },
+    {
       "path": "travel-alerts.json",
       "entity": "travel alerts"
     },
     {
       "path": "trip-briefs.json",
       "entity": "trip briefs"
+    },
+    {
+      "path": "trip-documents.json",
+      "entity": "trip documents"
     },
     {
       "path": "users.json",
