@@ -1,0 +1,12 @@
+{
+  "workspace": {
+    "id": "ws_video_studio_001",
+    "name": "FrameForge",
+    "slug": "frameforge",
+    "timezone": "America/Chicago",
+    "plan": "team",
+    "seatsUsed": 3,
+    "seatsTotal": 10,
+    "status": "active"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "workspaceId": "ws_video_studio_001",
+    "branding": {
+      "logoUrl": "https://picsum.photos/seed/video-logo/320/80",
+      "accentColor": "#DC2626"
+    }
+  }
+}
