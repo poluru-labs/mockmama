@@ -4,6 +4,12 @@
       "id": "pack_spring",
       "carryOnOnly": true,
       "agentId": "agent_packing"
+    },
+    {
+      "id": "pack_kyoto_spring",
+      "tripBriefId": "brief_kyoto_spring",
+      "itemCount": 24,
+      "checkedCount": 18
     }
   ]
 }
