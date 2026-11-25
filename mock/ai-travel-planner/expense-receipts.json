@@ -1,0 +1,12 @@
+{
+  "receipts": [
+    {
+      "id": "exp_ryokan_deposit",
+      "tripBriefId": "brief_kyoto_spring",
+      "category": "lodging",
+      "amountUsd": 180,
+      "currency": "JPY",
+      "convertedUsd": 180
+    }
+  ]
+}

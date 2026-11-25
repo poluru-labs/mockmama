@@ -1,0 +1,11 @@
+{
+  "passes": [
+    {
+      "id": "pass_jr_7day",
+      "itineraryId": "itin_kyoto_osaka",
+      "name": "JR Pass 7-day",
+      "activationDate": "2026-03-25",
+      "status": "reserved"
+    }
+  ]
+}
