@@ -1,0 +1,11 @@
+{
+  "promotions": [
+    {
+      "id": "prom_staging_prod",
+      "briefId": "brief_prod_promote",
+      "fromEnv": "staging",
+      "toEnv": "production",
+      "status": "scheduled"
+    }
+  ]
+}

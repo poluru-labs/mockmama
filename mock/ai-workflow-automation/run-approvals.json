@@ -1,0 +1,11 @@
+{
+  "approvals": [
+    {
+      "id": "appr_prod_deploy",
+      "runId": "run_20260318_001",
+      "gateId": "gate_prod",
+      "status": "pending",
+      "approverId": "user_flow_001"
+    }
+  ]
+}

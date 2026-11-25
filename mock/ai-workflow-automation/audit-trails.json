@@ -1,0 +1,11 @@
+{
+  "trails": [
+    {
+      "id": "audit_run_001",
+      "runId": "run_20260318_001",
+      "actorId": "user_flow_001",
+      "action": "trigger_webhook",
+      "occurredAt": "2026-03-19T12:00:00.000Z"
+    }
+  ]
+}
