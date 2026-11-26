@@ -55,7 +55,11 @@ Everything lives under `mock/`.
 | [`mock/ai-spreadsheet-assistant/`](mock/ai-spreadsheet-assistant/) | Workbook plans, formulas, pivots, macros, validation rules, cell comments |
 | [`mock/ai-study-companion/`](mock/ai-study-companion/) | Study blocks, flashcards, spaced repetition, streaks, weak spots, exam prep |
 | [`mock/ai-transcription-workspace/`](mock/ai-transcription-workspace/) | Recordings, diarization, chapters, captions, glossary, translation exports |
-| [`mock/ai-travel-planner/`](mock/ai-travel-planner/) | Trip briefs, itineraries, agendas, packing, visa checklists, weather, alerts |
+| [`mock/ai-travel-planner/`](mock/ai-travel-planner/) | Trips, loyalty, transport passes, insurance, documents, visa, weather (manifest 1.2.0) |
+| [`mock/ai-video-creation-studio/`](mock/ai-video-creation-studio/) | Scripts, storyboards, renders, B-roll, captions, thumbnails, publish destinations |
+| [`mock/ai-voiceover-studio/`](mock/ai-voiceover-studio/) | Session briefs, takes, voices, dubbing, loudness QC, client review, delivery formats |
+| [`mock/ai-workflow-automation/`](mock/ai-workflow-automation/) | Step graphs, webhooks, connectors, crons, approvals, secrets, audit trails |
+| [`mock/ai-writing-studio/`](mock/ai-writing-studio/) | Outlines, rewrites, manuscripts, plagiarism scans, beta readers, publishing exports |
 | [`mock/enterprise-bi-dashboard/`](mock/enterprise-bi-dashboard/) | Analytics workspace screens (KPIs, reports, lineage) |
 | [`mock/enterprise-billing-dashboard/`](mock/enterprise-billing-dashboard/) | Invoices, subscriptions, payments, collections |
 | [`mock/enterprise-banking-operations/`](mock/enterprise-banking-operations/) | Clearing, payments, screening, liquidity |
@@ -145,7 +149,11 @@ Demo passwords in auth and ecommerce users are `demo123` (customers) and `admin1
 - **AI spreadsheet assistant** — cleanup plans, formula drafts, pivot hints, and workbook versions.
 - **AI study companion** — mastery roadmaps, flashcards, spaced repetition, and tutor sessions.
 - **AI transcription workspace** — diarization, chapters, cleanup passes, captions, and quality flags.
-- **AI travel planner** — multi-city itineraries, budgets, packing lists, visa checks, and travel alerts.
+- **AI travel planner** — multi-city itineraries, loyalty, insurance, documents, budgets, and travel alerts.
+- **AI video creation** — script beats, storyboards, render jobs, captions, and multi-platform publish.
+- **AI voiceover studio** — timing marks, takes, voice catalog, dubbing, and loudness-compliant delivery.
+- **AI workflow automation** — visual graphs, human gates, webhooks, schedules, and promotion paths.
+- **AI writing studio** — long-form outlines, tone presets, manuscript workflow, and export targets.
 - **Enterprise BI** — overview, reports, explorer, lineage, quality, forecasts, and ask/query screens.
 - **Enterprise billing** — invoices, subscriptions, payments, collections, and ledger KPIs.
 - **Enterprise banking** — accounts, clearing, payments, screening, exceptions, and liquidity.
