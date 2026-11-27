@@ -1,0 +1,21 @@
+{
+  "name": "mockmama",
+  "private": true,
+  "description": "Static mock JSON datasets and optional NestJS mock API",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "validate": "node scripts/validate-mocks.mjs && npm run lint --prefix server && npm run build --prefix server && npm run test:e2e --prefix server",
+    "validate:json": "node scripts/validate-mocks.mjs",
+    "api:install": "npm install --prefix server",
+    "api:dev": "npm run start:dev --prefix server",
+    "api:build": "npm run build --prefix server",
+    "api:start": "npm run start:prod --prefix server",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}

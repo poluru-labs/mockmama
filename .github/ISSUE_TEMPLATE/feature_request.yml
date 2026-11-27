@@ -1,0 +1,52 @@
+name: Feature request
+description: Suggest a new dataset, field, or improvement to mockmama.
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: Describe the UI you are mocking so we can keep IDs consistent with the rest of the repo.
+  - type: dropdown
+    id: type
+    attributes:
+      label: Request type
+      options:
+        - More records in an existing file
+        - New JSON file in an existing domain
+        - New domain under mock/
+        - New fields on existing records
+        - Docs or tooling (README, templates, scripts)
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What is missing or awkward today?
+      placeholder: The finance mock has bills but no invoice PDF metadata for a billing UI.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      placeholder: Add mock/finance/invoices.json with id, billId, status, and a sample download URL.
+    validations:
+      required: true
+  - type: input
+    id: path
+    attributes:
+      label: Path
+      description: Existing file or proposed folder (optional).
+      placeholder: mock/finance/invoices.json
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      placeholder: Reusing bills.json with extra fields instead of a new file.
+  - type: textarea
+    id: extra
+    attributes:
+      label: Extra context
+      placeholder: Sample JSON shape, screenshots, or a list of statuses the UI needs.

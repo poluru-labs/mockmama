@@ -1,0 +1,37 @@
+name: Custom
+description: Anything that is not a bug or a feature request.
+title: "[Custom]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: Use this when the report is a question, chore, or something that does not fit the other templates.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind
+      options:
+        - Question
+        - Docs
+        - Chore / cleanup
+        - Discussion
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      placeholder: What do you need, and which mock/ folder does it touch?
+    validations:
+      required: true
+  - type: input
+    id: path
+    attributes:
+      label: Related path (optional)
+      placeholder: mock/auth/ or CONTRIBUTING.md
+  - type: textarea
+    id: extra
+    attributes:
+      label: Extra context
+      placeholder: Links, screenshots, or a draft JSON snippet.

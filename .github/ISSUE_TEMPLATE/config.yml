@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security
+    url: https://github.com/poluru-labs/mockmama/security/advisories/new
+    about: Report real secrets or personal data privately. Do not open a public issue.
+  - name: Code of Conduct
+    url: https://github.com/poluru-labs/mockmama/blob/main/CODE_OF_CONDUCT.md
+    about: How we expect people to behave in issues and pull requests.

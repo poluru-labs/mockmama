@@ -1,0 +1,66 @@
+name: Bug report
+description: Invalid JSON, broken IDs, or mock data that does not match the UI.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for a report. Point at the file and record `id` if you can.
+        Real secrets or personal data belong in [SECURITY.md](https://github.com/poluru-labs/mockmama/blob/main/SECURITY.md), not here.
+  - type: textarea
+    id: describe
+    attributes:
+      label: Describe the bug
+      placeholder: A cart line item points at a product that does not exist.
+    validations:
+      required: true
+  - type: input
+    id: path
+    attributes:
+      label: File path
+      placeholder: mock/ecommerce/cart.json
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Type
+      options:
+        - Invalid JSON
+        - Missing or duplicate id
+        - Broken cross-reference
+        - Missing field
+        - Inconsistent fake data
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How to reproduce
+      placeholder: |
+        1. Fetch mock/ecommerce/cart.json
+        2. Load item ci-003
+        3. Look up productId in products.json
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected
+      placeholder: The productId exists in products.json.
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual
+      placeholder: prod-999 is missing.
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Extra context
+      description: Screenshots, json-server setup, or the UI screen that broke.

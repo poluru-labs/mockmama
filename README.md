@@ -82,6 +82,30 @@ Or point json-server at one file:
 npx json-server mock/ecommerce/products.json --port 3001
 ```
 
+### HTTP API (NestJS)
+
+Run the built-in mock API to address **every dataset folder** under `mock/` with standard HTTP verbs:
+
+```sh
+npm run api:install   # once
+npm run api:dev       # http://localhost:3000
+```
+
+```http
+GET  /api/v1                                              # all datasets
+GET  /api/v1/ai-course-creator                            # resources in dataset
+GET  /api/v1/ai-course-creator/activity                   # collection or document
+GET  /api/v1/ai-course-creator/activity/act_001         # single record
+POST /api/v1/ai-course-creator/activity                   # in-memory create
+PUT  /api/v1/ai-course-creator/activity/act_001           # in-memory replace
+PATCH /api/v1/ai-course-creator/activity/act_001          # in-memory merge
+DELETE /api/v1/ai-course-creator/activity/act_001         # in-memory delete
+```
+
+Nested paths work (for example `/api/v1/admin/ecommerce/products`). See [`server/README.md`](server/README.md) and [CONTRIBUTING.md](CONTRIBUTING.md) for behavior, validation, and pre-push checks.
+
+Before you push, run `npm run validate` from the repo root.
+
 Demo passwords in auth and ecommerce users are `demo123` (customers) and `admin123` (admin). Emails use `@example.com`. Product and avatar images are [picsum.photos](https://picsum.photos) seeds, not real merchandise photos.
 
 ## E-commerce
