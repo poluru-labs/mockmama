@@ -6,7 +6,7 @@ Use this repo when a storefront, dashboard, or sandbox needs realistic records w
 
 ## Datasets
 
-Everything lives under `mock/`.
+Everything lives under `mock/`. This catalog lists domain packs, AI workspace packs, enterprise dashboard screens, and extra UI mocks committed in the repo.
 
 | Folder | What it is |
 | --- | --- |
@@ -64,6 +64,47 @@ Everything lives under `mock/`.
 | [`mock/enterprise-billing-dashboard/`](mock/enterprise-billing-dashboard/) | Invoices, subscriptions, payments, collections |
 | [`mock/enterprise-banking-operations/`](mock/enterprise-banking-operations/) | Clearing, payments, screening, liquidity |
 | [`mock/enterprise-claims-copilot/`](mock/enterprise-claims-copilot/) | Performance copilot (scorecards, alerts) plus hospitality ops vista |
+| [`mock/enterprise-clinic-admin/`](mock/enterprise-clinic-admin/) | Appointments, providers, visits, orders |
+| [`mock/enterprise-compliance-dashboard/`](mock/enterprise-compliance-dashboard/) | Policies, controls, evidence, readiness |
+| [`mock/enterprise-construction-dashboard/`](mock/enterprise-construction-dashboard/) | Sites, RFIs, spend, schedules |
+| `mock/enterprise-content-operations /` | Editorial calendar, locales, ship trend (folder name has a trailing space) |
+| [`mock/enterprise-crm-dashboard/`](mock/enterprise-crm-dashboard/) | Leads, deals, pipeline reports |
+| [`mock/enterprise-customer-success/`](mock/enterprise-customer-success/) | Health, onboarding, renewals |
+| [`mock/enterprise-dashboard/`](mock/enterprise-dashboard/) | Facilities, power, alerts, servers |
+| [`mock/enterprise-data-governance/`](mock/enterprise-data-governance/) | Catalog, quality rules, policies |
+| [`mock/enterprise-developer-platform/`](mock/enterprise-developer-platform/) | Services, environments, deployments |
+| [`mock/enterprise-ecommerce/`](mock/enterprise-ecommerce/) | Admin catalog, orders, channel mix |
+| [`mock/enterprise-education-admin/`](mock/enterprise-education-admin/) | Campus events, outcomes, settings |
+| [`mock/enterprise-energy-operations/`](mock/enterprise-energy-operations/) | Production, maintenance, activity |
+| [`mock/enterprise-event-management/`](mock/enterprise-event-management/) | Speakers, sponsors, registrations |
+| [`mock/enterprise-fleet-management/`](mock/enterprise-fleet-management/) | Vehicles, fuel, maintenance |
+| [`mock/enterprise-helpdesk-portal/`](mock/enterprise-helpdesk-portal/) | Tickets, queue ribbon, filters |
+| [`mock/enterprise-hospitality-management/`](mock/enterprise-hospitality-management/) | Occupancy, reservations, service |
+| [`mock/enterprise-hrms-portal/`](mock/enterprise-hrms-portal/) | People, leave, learning roster |
+| [`mock/enterprise-insurance-claims/`](mock/enterprise-insurance-claims/) | Claims, adjusters, fraud flags, settlements |
+| [`mock/enterprise-inventory-dashboard/`](mock/enterprise-inventory-dashboard/) | Stock, alerts, purchase orders |
+| [`mock/enterprise-it-operations/`](mock/enterprise-it-operations/) | Assets, incidents, on-call |
+| [`mock/enterprise-jobboard/`](mock/enterprise-jobboard/) | Public job listings |
+| [`mock/enterprise-jobportal-dashboard/`](mock/enterprise-jobportal-dashboard/) | Candidates, employers, apply series |
+| [`mock/enterprise-kpi-dashboard/`](mock/enterprise-kpi-dashboard/) | Executive KPIs, ticker, benchmarks |
+| [`mock/enterprise-logistics-control-tower/`](mock/enterprise-logistics-control-tower/) | Shipments, alerts, benchmarks |
+| [`mock/enterprise-manufacturing-dashboard/`](mock/enterprise-manufacturing-dashboard/) | Incidents, ticker, production KPIs |
+| [`mock/enterprise-marketing-operations/`](mock/enterprise-marketing-operations/) | Audiences, campaigns, performance |
+| [`mock/enterprise-procurement-portal/`](mock/enterprise-procurement-portal/) | Requests, spend by category |
+| [`mock/enterprise-project-dashboard/`](mock/enterprise-project-dashboard/) | Projects, tasks, capacity |
+| [`mock/enterprise-public-sector-portal/`](mock/enterprise-public-sector-portal/) | Civic requests, alerts |
+| [`mock/enterprise-real-estate-portal/`](mock/enterprise-real-estate-portal/) | Properties, leases, occupancy |
+| [`mock/enterprise-revenue-cycle-dashboard/`](mock/enterprise-revenue-cycle-dashboard/) | Accounts, payments, billing ops |
+| [`mock/enterprise-saas-admin/`](mock/enterprise-saas-admin/) | Orgs, seats, settings |
+| [`mock/enterprise-security-operations/`](mock/enterprise-security-operations/) | Alerts, investigations, response |
+| [`mock/enterprise-subscription-management/`](mock/enterprise-subscription-management/) | Plans, entitlements, revenue |
+| [`mock/enterprise-travel-operations/`](mock/enterprise-travel-operations/) | Trips, expenses, policies |
+| [`mock/enterprise-vendor-management/`](mock/enterprise-vendor-management/) | Vendors, contracts, risk |
+| [`mock/github-contribution-tracker/`](mock/github-contribution-tracker/) | Repositories, issues, evidence |
+| [`mock/online-jewellery-dashboard/`](mock/online-jewellery-dashboard/) | Catalog, orders, customers |
+| [`mock/real-estate/`](mock/real-estate/) | Properties, agents, offers, offices |
+| [`mock/social-media/`](mock/social-media/) | Users, posts, comments, stories |
+| [`mock/wealthtrack-dashboard/`](mock/wealthtrack-dashboard/) | Holdings, goals, watchlist, net worth |
 
 Most domain files are a single keyed array, for example `{ "products": [ ... ] }`, so they work with `fetch()`, [json-server](https://github.com/typicode/json-server), or a local mock layer. Enterprise dashboard folders are screen-shaped objects (tables, KPIs, navigation) rather than one array per file.
 
@@ -182,6 +223,8 @@ Demo passwords in auth and ecommerce users are `demo123` (customers) and `admin1
 - **Enterprise billing** — invoices, subscriptions, payments, collections, and ledger KPIs.
 - **Enterprise banking** — accounts, clearing, payments, screening, exceptions, and liquidity.
 - **Enterprise claims copilot** — workspace scorecards, KPIs, alerts, inbox, and a Vista property-ops layer (booking, occupancy, housekeeping, reservations).
+- **Enterprise dashboards** — clinic, compliance, construction, content ops, CRM, customer success, facilities, data governance, developer platform, ecommerce admin, education, energy, events, fleet, helpdesk, hospitality, HRMS, insurance, inventory, IT ops, job board, KPI, logistics, manufacturing, marketing, procurement, projects, public sector, real estate, revenue cycle, SaaS admin, security, subscriptions, travel, and vendor management.
+- **Other UI mocks** — GitHub contribution tracker, jewellery dashboard, real-estate listings, social media, and wealth tracking.
 
 Keep existing `id` values when you edit. If a cart line has `productId: 12`, that product must still exist.
 
